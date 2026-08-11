@@ -69,6 +69,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
   const currentQuestionIdRef = useRef<string>("");
+  const lastCrossHoverRef = useRef<string>("");
 
   const openCalculator = useCallback(() => {
     setDesmosMounted(true);
@@ -105,6 +106,13 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         setLoading(false);
       });
   }, [moduleId, attemptId]);
+
+  // Keep an up-to-date ref for keyboard handlers (Alt+K) without writing to refs during render.
+  useEffect(() => {
+    if (!moduleData) return;
+    const q = moduleData.questions[current];
+    if (q) currentQuestionIdRef.current = q.id;
+  }, [moduleData, current]);
 
   useEffect(() => {
     if (attemptId) localStorage.setItem(STORAGE_KEY(attemptId), JSON.stringify(answers));
@@ -237,15 +245,14 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     });
   }, []);
 
-  /** Select an answer (always selects; clears strike on that letter). */
+  /** Select an answer (does NOT restore cross-out; badge exclusively handles elimination). */
   const handleChoiceClick = useCallback((qId: string, letter: ChoiceLetter) => {
-    setCrossedOut((prev) => {
-      const list = prev[qId] ?? [];
-      if (!list.includes(letter)) return prev;
-      return { ...prev, [qId]: list.filter((l) => l !== letter) };
-    });
+    // Bluebook behavior: selection and cross-out are separate controls.
+    // If the choice is already eliminated, clicking the main choice box should NOT restore or select it.
+    const isEliminated = (crossedOut[qId] ?? []).includes(letter);
+    if (isEliminated) return;
     setAnswers((prev) => ({ ...prev, [qId]: letter }));
-  }, []);
+  }, [crossedOut]);
 
   /** Eliminate / restore a choice via the right-side control (Bluebook). */
   const handleEliminateClick = useCallback(
@@ -270,7 +277,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
   const questions = moduleData.questions;
   const q = questions[current];
-  currentQuestionIdRef.current = q.id;
   const isFlagged = markedForReview.has(q.id);
   const choices: Record<string, string | boolean> = JSON.parse(q.choices);
   const isMath = moduleData.test.section === "MATH";
@@ -532,8 +538,16 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                       : "False"
                     : String(choices[letter] ?? "");
                 return (
-                  <div key={letter} className="flex items-center gap-2.5" role="none">
-                    {/* Main answer choice */}
+                  <div
+                    key={letter}
+                    role="none"
+                    className="w-full flex items-stretch"
+                    onContextMenu={(e) => {
+                      e.preventDefault();
+                      handleEliminateClick(q.id, letter);
+                    }}
+                  >
+                    {/* Main answer choice (selection only) */}
                     <button
                       type="button"
                       role="option"
@@ -544,7 +558,11 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                           : `Choice ${letter}`
                       }
                       data-eliminated={eliminated ? "true" : "false"}
-                      onClick={() => handleChoiceClick(q.id, letter)}
+                      onClick={() => {
+                        // If eliminated, the badge exclusively handles cross-out.
+                        if (eliminated) return;
+                        handleChoiceClick(q.id, letter);
+                      }}
                       className={`flex-1 min-w-0 text-left px-4 py-3 rounded-xl border-2 transition-all flex items-start gap-3 ${
                         eliminated
                           ? "opacity-50 border-gray-200 bg-gray-50"
@@ -585,29 +603,47 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                       </span>
                     </button>
 
-                    {/* Cross-out control — right of option (Bluebook); visible when tool is on */}
-                    {crossOutMode && (
-                      <button
-                        type="button"
-                        onClick={() => handleEliminateClick(q.id, letter)}
-                        title={eliminated ? `Restore choice ${letter}` : `Cross out choice ${letter}`}
-                        aria-label={
-                          eliminated ? `Restore choice ${letter}` : `Cross out choice ${letter}`
-                        }
-                        aria-pressed={eliminated}
-                        className={`flex-shrink-0 w-9 h-9 rounded-full border-2 flex items-center justify-center relative transition-colors ${
+                    {/* Right-edge Cross-Out badge (always visible; hover toggle only in tool mode). */}
+                    <button
+                      type="button"
+                      onClick={() => handleEliminateClick(q.id, letter)}
+                      onMouseEnter={() => {
+                        if (!crossOutMode) return;
+                        const key = `${q.id}:${letter}`;
+                        // Toggle only once per hover entry to prevent rapid double toggles.
+                        if (lastCrossHoverRef.current === key) return;
+                        lastCrossHoverRef.current = key;
+                        handleEliminateClick(q.id, letter);
+                      }}
+                      onMouseLeave={() => {
+                        // allow re-toggle next time user hovers
+                        lastCrossHoverRef.current = "";
+                      }}
+                      title={crossOutMode ? (eliminated ? `Restore ${letter}` : `Cross out ${letter}`) : `Cross out ${letter}`}
+                      aria-label={
+                        eliminated
+                          ? `Cross-out badge ${letter}, active`
+                          : `Cross-out badge ${letter}`
+                      }
+                      aria-pressed={eliminated}
+                      className="flex-shrink-0 ml-2 w-10 flex items-center justify-end"
+                    >
+                      <span
+                        className={`relative w-7 h-7 rounded-full border-2 flex items-center justify-center text-xs font-bold leading-none transition-colors ${
                           eliminated
                             ? "border-gray-700 bg-gray-100 text-gray-800"
-                            : "border-gray-400 text-gray-700 hover:border-gray-600 hover:bg-gray-50"
+                            : "border-gray-400 text-gray-700"
                         }`}
+                        aria-hidden
                       >
-                        <span className="text-sm font-bold leading-none">{letter}</span>
-                        <span
-                          className="pointer-events-none absolute left-1 right-1 top-1/2 -translate-y-1/2 h-[1.5px] bg-current rounded-full"
-                          aria-hidden
-                        />
-                      </button>
-                    )}
+                        {letter}
+                        {eliminated && (
+                          <span className="pointer-events-none absolute inset-0 flex items-center justify-center">
+                            <span className="w-[70%] h-[2px] bg-current rounded-full" />
+                          </span>
+                        )}
+                      </span>
+                    </button>
                   </div>
                 );
               })}

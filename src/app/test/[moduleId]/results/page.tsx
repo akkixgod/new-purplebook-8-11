@@ -21,11 +21,12 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
   const searchParams = useSearchParams();
   const attemptId = searchParams.get("attemptId") ?? "";
   const [data, setData] = useState<AttemptData | null>(null);
-  const [loadError, setLoadError] = useState<string | null>(null);
+  const [loadError, setLoadError] = useState<string | null>(() =>
+    attemptId ? null : "Missing attempt id. Return home and retake the module."
+  );
 
   useEffect(() => {
     if (!attemptId) {
-      setLoadError("Missing attempt id. Return home and retake the module.");
       return;
     }
 
