@@ -6,6 +6,10 @@ import { DesmosCalculatorModal } from "@/components/DesmosCalculatorModal";
 import { MathReferenceSheet } from "@/components/MathReferenceSheet";
 import { ModuleReviewModal } from "@/components/ModuleReviewModal";
 import { QuestionNavGrid } from "@/components/QuestionNavGrid";
+import {
+  TelegramCommunityCheckModal,
+  isTelegramJoinedThisSession,
+} from "@/components/TelegramCommunityCheckModal";
 
 interface Question {
   id: string;
@@ -65,6 +69,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [showDirections, setShowDirections] = useState(false);
   const [showQuestionGrid, setShowQuestionGrid] = useState(false);
   const [showReviewModal, setShowReviewModal] = useState(false);
+  const [showTelegramModal, setShowTelegramModal] = useState(false);
+  const [pendingResultsUrl, setPendingResultsUrl] = useState<string | null>(null);
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
   const currentQuestionIdRef = useRef<string>("");
@@ -144,7 +150,16 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
     localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
     localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
-    router.push(`/test/${moduleId}/results?attemptId=${attemptId}`);
+    const resultsUrl = `/test/${moduleId}/results?attemptId=${attemptId}`;
+
+    // Post-test modal: show Telegram prompt before navigating to results.
+    if (isTelegramJoinedThisSession()) {
+      router.push(resultsUrl);
+      return;
+    }
+
+    setPendingResultsUrl(resultsUrl);
+    setShowTelegramModal(true);
   }, [submitting, moduleData, attemptId, answers, moduleId, router]);
 
   useEffect(() => { handleSubmitRef.current = handleSubmit; }, [handleSubmit]);
@@ -712,6 +727,18 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         answers={answers}
         markedForReview={markedForReview}
         onNavigate={setCurrent}
+      />
+
+      <TelegramCommunityCheckModal
+        open={showTelegramModal}
+        mode="post-test"
+        onClose={() => setShowTelegramModal(false)}
+        onJoin={() => {
+          setShowTelegramModal(false);
+          const url = pendingResultsUrl;
+          setPendingResultsUrl(null);
+          if (url) router.push(url);
+        }}
       />
 
       {/* ── Pause overlay ── */}

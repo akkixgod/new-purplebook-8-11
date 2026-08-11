@@ -1,8 +1,13 @@
 "use client";
 
 import { useEffect, useState, use } from "react";
-import { useSearchParams } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
+import { useSession } from "next-auth/react";
+import {
+  TelegramCommunityCheckModal,
+  isTelegramJoinedThisSession,
+} from "@/components/TelegramCommunityCheckModal";
 
 interface AttemptData {
   id: string;
@@ -18,9 +23,13 @@ interface AttemptData {
 
 export default function ResultsPage({ params }: { params: Promise<{ moduleId: string }> }) {
   const { moduleId } = use(params);
+  const router = useRouter();
+  const { data: session } = useSession();
   const searchParams = useSearchParams();
   const attemptId = searchParams.get("attemptId") ?? "";
   const [data, setData] = useState<AttemptData | null>(null);
+  const [nextModuleId, setNextModuleId] = useState<string | null>(null);
+  const [showTelegramModal, setShowTelegramModal] = useState(false);
   const [loadError, setLoadError] = useState<string | null>(() =>
     attemptId ? null : "Missing attempt id. Return home and retake the module."
   );
@@ -64,6 +73,42 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
       cancelled = true;
     };
   }, [attemptId]);
+
+  useEffect(() => {
+    let cancelled = false;
+    const loadNext = async () => {
+      try {
+        const r = await fetch(`/api/modules/${moduleId}/next-module`, { credentials: "include" });
+        const json = (await r.json()) as { nextModuleId: string | null };
+        if (!cancelled) setNextModuleId(json.nextModuleId ?? null);
+      } catch {
+        if (!cancelled) setNextModuleId(null);
+      }
+    };
+    void loadNext();
+    return () => {
+      cancelled = true;
+    };
+  }, [moduleId]);
+
+  const startNextModule = async () => {
+    if (!nextModuleId) return;
+    if (!session) {
+      router.push("/auth/signin");
+      return;
+    }
+
+    const res = await fetch("/api/attempts", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      credentials: "include",
+      body: JSON.stringify({ moduleId: nextModuleId }),
+    });
+
+    if (!res.ok) return;
+    const attempt = (await res.json()) as { id: string };
+    router.push(`/test/${nextModuleId}?attemptId=${attempt.id}`);
+  };
 
   if (loadError) {
     return (
@@ -166,7 +211,37 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
             Back to Home
           </Link>
         </div>
+
+        {nextModuleId && (
+          <button
+            type="button"
+            onClick={() => {
+              if (isTelegramJoinedThisSession()) {
+                void startNextModule();
+                return;
+              }
+              setShowTelegramModal(true);
+            }}
+            className="mt-4 w-full py-3 text-sm font-semibold rounded-xl bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors"
+          >
+            Next Module
+          </button>
+        )}
       </div>
+
+      <TelegramCommunityCheckModal
+        open={showTelegramModal}
+        mode="inter-module"
+        onClose={() => setShowTelegramModal(false)}
+        onJoin={() => {
+          setShowTelegramModal(false);
+          void startNextModule();
+        }}
+        onAlreadyJoined={() => {
+          setShowTelegramModal(false);
+          void startNextModule();
+        }}
+      />
     </div>
   );
 }
