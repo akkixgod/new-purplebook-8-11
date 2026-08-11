@@ -38,6 +38,8 @@ yarn-error.log*
 
 # large PDF page scans (figures SVGs are kept)
 /public/mocks/*/pages/
+/public/mocks/*/ocr/
+/public/mocks/*/answerkey-crops/
 
 # local cursor / agent
 /.cursor/
