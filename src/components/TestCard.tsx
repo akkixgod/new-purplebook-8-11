@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import { useState } from "react";
 
 interface ModuleInfo {
   id: string;
@@ -37,17 +38,24 @@ const MONTH_NAMES = [
 export function TestCard({ title, year, month, section, version, isFree, modules, attemptMap }: Props) {
   const router = useRouter();
   const { data: session } = useSession();
+  const [startingModuleId, setStartingModuleId] = useState<string | null>(null);
 
   async function startPractice(moduleId: string) {
     if (!session) {
       router.push("/auth/signin");
       return;
     }
+    if (startingModuleId === moduleId) return;
+    setStartingModuleId(moduleId);
     const res = await fetch("/api/attempts", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ moduleId }),
     });
+    if (!res.ok) {
+      setStartingModuleId(null);
+      return;
+    }
     const attempt = await res.json();
     router.push(`/test/${moduleId}?attemptId=${attempt.id}`);
   }
@@ -126,21 +134,43 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                   </Link>
                   <button
                     onClick={() => startPractice(mod.id)}
+                      disabled={startingModuleId === mod.id}
                     className="w-8 h-8 flex items-center justify-center rounded-lg border border-gray-200 hover:bg-gray-100 transition-colors"
                     title="Retake"
                   >
-                    <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                    </svg>
+                      {startingModuleId === mod.id ? (
+                        <svg className="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none">
+                          <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" opacity="0.25" />
+                          <path d="M22 12a10 10 0 00-10-10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
+                        </svg>
+                      ) : (
+                        <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                        </svg>
+                      )}
                   </button>
                 </div>
               ) : (
                 <button
                   onClick={() => startPractice(mod.id)}
                   disabled={mod._count.questions === 0}
+                    aria-busy={startingModuleId === mod.id}
+                    style={startingModuleId === mod.id ? { opacity: 0.85 } : undefined}
                   className="px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
                 >
-                  {mod._count.questions === 0 ? "COMING SOON" : "START PRACTICE"}
+                    {mod._count.questions === 0 ? (
+                      "COMING SOON"
+                    ) : startingModuleId === mod.id ? (
+                      <span className="inline-flex items-center gap-2">
+                        <svg className="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none">
+                          <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" opacity="0.25" />
+                          <path d="M22 12a10 10 0 00-10-10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
+                        </svg>
+                        Starting Test...
+                      </span>
+                    ) : (
+                      "START PRACTICE"
+                    )}
                 </button>
               )}
             </div>

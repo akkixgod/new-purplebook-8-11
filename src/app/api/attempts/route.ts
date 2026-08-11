@@ -16,6 +16,7 @@ export async function POST(req: NextRequest) {
       userId: session.user.id,
       moduleId,
     },
+    select: { id: true },
   });
 
   return NextResponse.json(attempt, { status: 201 });
