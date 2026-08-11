@@ -1,4 +1,4 @@
-const TELEGRAM_URL = "https://t.me/purplebook_cc";
+const TELEGRAM_URL = "https://t.me/purplebooksat";
 
 function PromoGraphics() {
   return (
