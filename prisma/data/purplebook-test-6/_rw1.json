@@ -22,7 +22,7 @@
     "imageUrl": null
   },
   "3": {
-    "stimulus": "The following text is from Billie Jean King's 2021 autobiography All In.\n\n[P]eople on both sides of my family had repeatedly demonstrated an independent streak; in the end, that was the temperament I gravitated toward, too. Both the Moffitts and the members of my mother's clan, the Jermans, came from mining and oil-geyser towns on the western frontier. They kept their heads down and worked, worked, worked. But they also bucked convention.",
+    "stimulus": "The following text is from Billie Jean King's 2021 autobiography All In.\n\n[P]eople on both sides of my family had repeatedly _demonstrated_ an independent streak; in the end, that was the temperament I gravitated toward, too. Both the Moffitts and the members of my mother's clan, the Jermans, came from mining and oil-geyser towns on the western frontier. They kept their heads down and worked, worked, worked. But they also bucked convention.",
     "text": "As used in the text, what does the word \"demonstrated\" most nearly mean?",
     "choices": {
       "A": "Protested",
@@ -132,7 +132,7 @@
     "imageUrl": "/mocks/purplebook-test-6/figures/eng1-q12-tide-pool.svg"
   },
   "13": {
-    "stimulus": "Researchers have identified over eighty gestures made by nonhuman great apes, such as raising an arm and rocking from side to side, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. Though participants achieved some success, it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings.",
+    "stimulus": "Researchers have identified over eighty gestures made by nonhuman great apes, such as raising an arm and rocking from side to side, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. _Though participants achieved some success, it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings._",
     "text": "Which statement, if true, would most strongly support the underlined claim?",
     "choices": {
       "A": "When apes made mouth-touching gestures, which participants tended to correctly interpret as requests for food, the food was visible in the videos.",

@@ -35,7 +35,7 @@
         "imageUrl": null
       },
       "4": {
-        "stimulus": "The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the narrator arriving at his father's apartment.\n\n\"Pops, I'm here!\" I drop my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.",
+        "stimulus": "The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the narrator arriving at his father's apartment.\n\n\"Pops, I'm here!\" I _drop_ my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.",
         "text": "As used in the text, what does the word \"drop\" most nearly mean?",
         "choices": {
           "A": "Unbolt",

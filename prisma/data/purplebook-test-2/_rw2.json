@@ -55,7 +55,7 @@
     "imageUrl": null
   },
   "6": {
-    "stimulus": "The following text is adapted from Henrik Ibsen's 1899 play When We Dead Awaken (translated by William Archer in 1907). Ulfheim is introducing himself to Professor Rubek, a sculptor.\n\nULFHEIM: I believe I have the honour of addressing no less a person than the great Sculptor Rubek.\nPROFESSOR RUBEK: (Nods.) I remember meeting you once or twice—the autumn when I was last at home.\nULFHEIM: That's many years ago, now. And then you weren't so illustrious as I hear you've since become.",
+    "stimulus": "The following text is adapted from Henrik Ibsen's 1899 play When We Dead Awaken (translated by William Archer in 1907). Ulfheim is introducing himself to Professor Rubek, a sculptor.\n\nULFHEIM: I believe _I have the honour of addressing no less a person than the great Sculptor Rubek._\nPROFESSOR RUBEK: (Nods.) I remember meeting you once or twice—the autumn when I was last at home.\nULFHEIM: That's many years ago, now. And then you weren't so illustrious as I hear you've since become.",
     "text": "Which choice best describes the function of the underlined portion in the text?",
     "choices": {
       "A": "It reveals that Professor Rubek first met Ulfheim many years ago.",

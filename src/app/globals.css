@@ -22,3 +22,12 @@ body {
   background: #7c3aed55;
   border-radius: 3px;
 }
+
+/* Bluebook-style underline for vocabulary / function targets in passages */
+.sat-underline {
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  text-decoration-skip-ink: none;
+  font-style: inherit;
+}

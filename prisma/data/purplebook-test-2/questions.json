@@ -57,7 +57,7 @@
         "imageUrl": null
       },
       "6": {
-        "stimulus": "Editor Jared Shurin's 2023 anthology The Big Book of Cyberpunk contains 108 stories, an enormous number when compared to the 1986 cyberpunk anthology Mirrorshades, which has only twelve. Encompassing both early (e.g., Fritz Leiber's 1950 story \"Coming Attraction\") and more recent (e.g., Erica Satifka's 2021 story \"Act of Providence\") contributions, _the broad chronological scope of Shurin's volume may make it seem more comprehensive than Mirrorshades, but Mirrorshades's focus is more carefully considered, rendering it the more authoritative anthology of this science fiction subgenre._",
+        "stimulus": "Editor Jared Shurin's 2023 anthology The Big Book of Cyberpunk contains 108 stories, an enormous number when compared to the 1986 cyberpunk anthology Mirrorshades, which has only twelve. Encompassing both early (e.g., Fritz Leiber's 1950 story \"Coming Attraction\") and more recent (e.g., Erica Satifka's 2021 story \"Act of Providence\") contributions, _the broad chronological scope of Shurin's volume may make it seem more comprehensive than Mirrorshades_, but Mirrorshades's focus is more carefully considered, rendering it the more authoritative anthology of this science fiction subgenre.",
         "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
         "choices": {
           "A": "It supports the assertion that Leiber and Satifka should be considered essential figures in the cyberpunk movement.",
@@ -356,7 +356,7 @@
         "imageUrl": null
       },
       "6": {
-        "stimulus": "The following text is adapted from Henrik Ibsen's 1899 play When We Dead Awaken (translated by William Archer in 1907). Ulfheim is introducing himself to Professor Rubek, a sculptor.\n\nULFHEIM: I believe I have the honour of addressing no less a person than the great Sculptor Rubek.\nPROFESSOR RUBEK: (Nods.) I remember meeting you once or twice—the autumn when I was last at home.\nULFHEIM: That's many years ago, now. And then you weren't so illustrious as I hear you've since become.",
+        "stimulus": "The following text is adapted from Henrik Ibsen's 1899 play When We Dead Awaken (translated by William Archer in 1907). Ulfheim is introducing himself to Professor Rubek, a sculptor.\n\nULFHEIM: I believe _I have the honour of addressing no less a person than the great Sculptor Rubek._\nPROFESSOR RUBEK: (Nods.) I remember meeting you once or twice—the autumn when I was last at home.\nULFHEIM: That's many years ago, now. And then you weren't so illustrious as I hear you've since become.",
         "text": "Which choice best describes the function of the underlined portion in the text?",
         "choices": {
           "A": "It reveals that Professor Rubek first met Ulfheim many years ago.",

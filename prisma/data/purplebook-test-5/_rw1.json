@@ -1,6 +1,6 @@
 {
   "1": {
-    "stimulus": "The following text is from Northrop Frye's 1957 book Anatomy of Criticism.\n\nEven in lyrics and essays the writer is to some extent a fictional hero with a fictional audience, for if the element of fictional projection disappeared completely, the writing would become direct address, or straight discursive writing, and cease to be literature.",
+    "stimulus": "The following text is from Northrop Frye's 1957 book Anatomy of Criticism.\n\nEven in lyrics and essays the writer is to some extent a fictional hero with a fictional audience, for if the element of fictional _projection_ disappeared completely, the writing would become direct address, or straight discursive writing, and cease to be literature.",
     "text": "As used in the text, what does the word \"projection\" most nearly mean?",
     "choices": {
       "A": "Prediction",
@@ -55,7 +55,7 @@
     "imageUrl": null
   },
   "6": {
-    "stimulus": "Imani Jacqueline Brown is an artist who blends scientific research, political activism, and various media in her work. In her exhibition Strike Gulf, she interrogated the impact of the oil and gas industry on southern Louisiana (where she grew up), incorporating core samples from deep seabeds off the Louisiana coast, oil well data, archival information about oil boycotts, and video she took in New Orleans. Strike Gulf thus stands as an example of Brown's multidisciplinary approach and use of diverse sources.",
+    "stimulus": "Imani Jacqueline Brown is an artist who blends scientific research, political activism, and various media in her work. In her exhibition Strike Gulf, she interrogated the impact of the oil and gas industry on southern Louisiana (where she grew up), _incorporating core samples from deep seabeds off the Louisiana coast, oil well data, archival information about oil boycotts, and video she took in New Orleans_. Strike Gulf thus stands as an example of Brown's multidisciplinary approach and use of diverse sources.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It describes a project of Brown's that deviates from the typical approach that is described earlier in the text.",

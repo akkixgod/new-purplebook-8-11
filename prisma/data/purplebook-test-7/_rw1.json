@@ -55,7 +55,7 @@
     "imageUrl": null
   },
   "6": {
-    "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify florists, beauty salons, and other businesses and map their locations. This approach has some limits—data from Places API tends to be restricted to places that are customer-facing—but the data set nevertheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.",
+    "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify florists, beauty salons, and other businesses and map their locations. This approach has some limits—_data from Places API tends to be restricted to places that are customer-facing_—but the data set nevertheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It describes the imprecise and subjective nature of neighborhood boundaries.",

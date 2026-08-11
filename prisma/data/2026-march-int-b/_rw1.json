@@ -33,7 +33,7 @@
     "imageUrl": null
   },
   "4": {
-    "stimulus": "The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the narrator arriving at his father's apartment.\n\n\"Pops, I'm here!\" I drop my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.",
+    "stimulus": "The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the narrator arriving at his father's apartment.\n\n\"Pops, I'm here!\" I _drop_ my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.",
     "text": "As used in the text, what does the word \"drop\" most nearly mean?",
     "choices": {
       "A": "Unbolt",
@@ -99,7 +99,7 @@
     "imageUrl": null
   },
   "10": {
-    "stimulus": "Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters\n\n| Species | Minimum depth (meters) | Maximum depth (meters) |\n| --- | --- | --- |\n| Acropora echinata | 8 | 25 |\n| Danafungia scruposa | 1 | 27 |\n| Astreopora expansa | 5 | 15 |\n| Scolymia lacera | 10 | 80 |\n\nA marine biologist is researching four scleractinian coral species, which are also called stony corals because of the hard skeletons they develop. Consulting the table, she notes that the two species for which the maximum depths are most similar are ______.",
+    "stimulus": "Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters\n\nA marine biologist is researching four scleractinian coral species, which are also called stony corals because of the hard skeletons they develop. Consulting the table, she notes that the two species for which the maximum depths are most similar are ______.",
     "text": "Which choice most effectively uses data from the table to complete the statement?",
     "choices": {
       "A": "Astreopora expansa and Scolymia lacera.",
@@ -107,7 +107,7 @@
       "C": "Acropora echinata and Danafungia scruposa.",
       "D": "Danafungia scruposa and Scolymia lacera."
     },
-    "imageUrl": "/mocks/2026-march-int-b/pages/page-04.png"
+    "imageUrl": "/mocks/2026-march-int-b/figures/eng1-q10-table.svg"
   },
   "11": {
     "stimulus": "Peter Pan is a 1911 novel by J.M. Barrie. In the fantasy novel, a dog named Nana is a nurse (nanny) for the children in the Darling family—Wendy, John, and Michael. The narrator describes Nana as planning for events like a human would: ______",

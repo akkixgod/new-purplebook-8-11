@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "The pineapple was domesticated in South America. Its physical structure is no longer identical to the structure of the wild plant it is descended from. Summer squash also ______ its wild ancestor. That ancestor plant had a hard rind and bitter flesh. Indigenous people in eastern North America carefully bred the crop until it had a soft rind and mild-tasting flesh.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "varies from",
+      "B": "helpful with",
+      "C": "argues with",
+      "D": "reacts to"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "The influence of William Shakespeare's writings is clear in a vast range of subsequent literary works and is similarly ______ in many works in other media, from fine art (such as Edward Alcock's painting Portia and Shylock) to popular music (such as the musician Elvis Costello's song \"Miss Macbeth\").",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "subtle",
+      "B": "apparent",
+      "C": "unusual",
+      "D": "excessive"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Steiger Butte Drum, a family ensemble from the Klamath Tribes of the Pacific Northwest, collaborated with composer Michael Gordon to create Natural History, a work featuring traditional drumming and vocals alongside an orchestra and chorus. Steiger Butte Drum's participation is ______ to the piece: members not only contributed to its composition but also must be included in all performances.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "analogous",
+      "B": "tangential",
+      "C": "integral",
+      "D": "subsequent"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Maryam Hosseini and her team used aerial images of well-mapped areas of Manhattan to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it ______ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or cobblestone. Hosseini believes the program will improve on this already-strong performance as it gets used more.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "reliably",
+      "B": "clumsily",
+      "C": "rarely",
+      "D": "slowly"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "The following text is from Anthony Trollope's 1855 novel The Warden. Charles James is the son of a high-ranking clergy member.\n\nCharles James was an exact and careful boy; he never committed himself; he well knew how much was expected from the eldest son of the Archdeacon of Barchester, and was therefore mindful not to mix too freely with other boys. He had not the great talents of his younger brothers, but he exceeded them in judgment and propriety of demeanour; his fault, _if he had one_, was an over-attention to words instead of things; there was a thought too much finesse about him, and, as even his father sometimes told him, he was too fond of a compromise.",
+    "text": "Which choice best states the function of the phrase \"if he had one\" in the text as a whole?",
+    "choices": {
+      "A": "It acknowledges that the qualities in Charles James the narrator goes on to describe may not actually be undesirable characteristics.",
+      "B": "It concedes that Charles James's attempts to be held in respect are sometimes fruitless.",
+      "C": "It signals a shift in focus from describing Charles James's good qualities to criticizing his tendency to place too much value on artfulness.",
+      "D": "It anticipates readers' objections to the narrator's criticism of Charles James's faults."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The Nazca lines in Peru are designs marked in the earth by ancient peoples. Monuments like these were an inspiration for the land art movement that began in the 1960s. Land art artists create works set in the outdoors. For example, in his 1968 work Annual Rings, Dennis Oppenheim fashioned concentric lines that look like tree rings into the ice that covered a waterway.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "The text describes the benefits of being an artist.",
+      "B": "The text argues against placing works of art outside.",
+      "C": "The text describes the popularity of art galleries in the 1960s.",
+      "D": "The text provides information about the land art movement."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Steve Carter's award-winning play Eden was produced in 1976 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Douglas Turner Ward, who worked as an actor, director, and playwright, had met actor and producer Robert Hooks while they were performing in a 1960 touring production of Lorraine Hansberry's play A Raisin in the Sun. Together, they envisioned a theater company that would nurture and showcase the work of Black theater professionals. _Since NEC's founding in 1967, its workshops and performances have given Black playwrights, including Carter, a forum for their compelling stories._",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It illustrates the widespread influence of a play discussed earlier in the text.",
+      "B": "It provides additional information about a person mentioned in the text.",
+      "C": "It emphasizes the ongoing significance of the theater company discussed in the text.",
+      "D": "It explains the circumstances that led to the formation of the theater company discussed in the text."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Tracks is a 1988 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North Dakota. Tracks is typical of Erdrich's work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her novels have fantastical plots and take place outside Ojibwe communities. For example, her 1991 novel The Crown of Columbus is essentially adventure fiction, and the thrilling events in its plot are set largely on a Caribbean island.",
+    "text": "According to the text, what is one way that The Crown of Columbus differs from most of Erdrich's work?",
+    "choices": {
+      "A": "It has been adapted into a movie.",
+      "B": "It isn't set in a rural Ojibwe community.",
+      "C": "It contains very little dialogue.",
+      "D": "Its main characters are Ojibwe."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "The Pueblo of Laguna is the largest of the nineteen Pueblo tribal nations in New Mexico, covering nearly 800 square miles. Most Pueblo tribal nations are much smaller. For example, the total area of Pueblo of Sandia is 38.9 square miles, and the total area of Pueblo de Cochiti is ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "156.2 square miles.",
+      "B": "595.7 square miles.",
+      "C": "82.1 square miles.",
+      "D": "21.4 square miles."
+    },
+    "imageUrl": "/mocks/purplebook-test-1/figures/eng1-q09-pueblos.svg"
+  },
+  "10": {
+    "stimulus": "Ratified in 2017 by two-thirds of World Trade Organization member nations, the Trade Facilitation Agreement (TFA) is a trade-reform measure that aims to reduce redundant customs procedures and other costly aspects of international trade. In a 2021 report, economist Jayson Beckman modeled global market prices of several agricultural commodities under both the TFA and an alternative trade-reform scenario: removal of agricultural tariffs (taxes on imports that generally increase prices on imported goods). After reviewing data from the report, a student concludes that overall, consumers of the commodities listed in the table would likely benefit more from the TFA than they would from tariff removal.",
+    "text": "Which choice most effectively uses data from the table to support the student's claim?",
+    "choices": {
+      "A": "Under the tariff-removal scenario, the average prices of processed foods, wheat, and fruits and vegetables would decrease by more than 1%, while the average price of rice would decrease by less than 1%.",
+      "B": "Under the tariff-removal scenario, the average price of processed foods would increase, but the average prices of wheat and rice would decrease.",
+      "C": "Under the TFA scenario, the average prices of all four commodities would decrease, whereas under the tariff-removal scenario, only the average price of processed foods would decrease.",
+      "D": "Under the TFA scenario, the average price of rice would decrease by a smaller amount than any of the other three commodities' prices would, whereas its average price would increase under the tariff-removal scenario."
+    },
+    "imageUrl": "/mocks/purplebook-test-1/figures/eng1-q10-tfa.svg"
+  },
+  "11": {
+    "stimulus": "Great Expectations is an 1861 novel by Charles Dickens. The narrator describes his uncle, Joe Gargery, as being both powerful and tender: ______",
+    "text": "Which quotation from Great Expectations most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"In his working-clothes, Joe was a well-knit characteristic-looking blacksmith; in his holiday clothes, he was more like a scarecrow in good circumstances, than anything else.\"",
+      "B": "\"When I looked back at Joe in the long passage, he was still weighing his hat with the greatest care, and was coming after us in long strides on the tips of his toes.\"",
+      "C": "\"There I stood, for minutes, looking at Joe, already at work with a glow of health and strength upon his face that made it show as if the bright sun of the life in store for him were shining on it.\"",
+      "D": "\"I have often thought [Joe] since, like the steam-hammer that can crush a man or pat an egg-shell, in his combination of strength with gentleness.\""
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "Drosophila (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. persimilis and D. mediopunctata. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Şebnem Önder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yeşilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that ______",
+    "text": "Which choice most effectively uses data from the table to complete the assertion?",
+    "choices": {
+      "A": "the average female wing centroid size was smaller in May than in June.",
+      "B": "the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.",
+      "C": "the average monthly low temperature was lower in May than in June.",
+      "D": "the average male wing centroid size was 1.98 mm in May but was 2.31 mm in July."
+    },
+    "imageUrl": "/mocks/purplebook-test-1/figures/eng1-q12-fruitflies.svg"
+  },
+  "13": {
+    "stimulus": "Declining fishing technology costs and overexploitation of near-shore fishing grounds have made isolated oceanic reefs, which often lack regulatory protections, increasingly attractive to commercial and sport fishers. A team led by Octavio Aburto-Oropeza surveyed the biomass density and species composition of two isolated reefs: Alacranes, a protected (fishing prohibited) reef 135 kilometers from the Yucatan Peninsula, and Bajos del Norte, an unprotected reef 25 kilometers further out to sea. Species at the highest level of the trophic pyramid constituted 34% of the biomass at Alacranes and 10% of the biomass at Bajos del Norte. Aburto-Oropeza and colleagues attribute this difference to the two reefs' difference in regulatory status.",
+    "text": "Which finding, if true, would most directly support Aburto-Oropeza and colleagues' explanation?",
+    "choices": {
+      "A": "Total biomass at Alacranes is much greater than total biomass at Bajos del Norte, though the reefs' biomass densities are similar.",
+      "B": "It is somewhat more expensive for commercial and sport fishers to reach Bajos del Norte than it is to reach Alacranes.",
+      "C": "Some of the species that compose the highest trophic level at Bajos del Norte are not found at Alacranes.",
+      "D": "Commercial and sport fishers tend to disproportionately remove species at the highest trophic level."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Before the 1858 publication of On the Origin of Species, Charles Darwin developed his theory of natural selection in five notebooks. In them he first expressed one of natural selection's principles: that species produce more offspring than available resources can sustain. He also listed books he read, such as Charles Lyell's Elements of Geology. A fall 1838 entry in one of Darwin's notebooks mentions species' struggle for survival in a world of insufficient resources \"as inference from Malthus,\" referring to a 1798 essay by economist Thomas Malthus asserting that population growth will outpace agricultural production. A later notebook, begun in October 1838, mentions \"the grand crush of population.\" This suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "though some of Darwin's notebook entries relating to his theory of natural selection date from 1838, others must have been written as late as 1858.",
+      "B": "in early fall 1838, Darwin realized that Malthus's ideas regarding human populations derived from observations of animal behavior in nature.",
+      "C": "sometime in or before October 1838, Darwin determined that a postulate rooted in economics might also be applicable to biology.",
+      "D": "a key concept in Darwin's theory of natural selection had been previously articulated in the same terms by economists sometime between 1798 and 1838."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "The towns Entebbe and Jamame are both located almost directly on the ______ they are in different countries. Entebbe is in Uganda, while Jamame is in Somalia.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "equator",
+      "B": "equator, but",
+      "C": "equator,",
+      "D": "equator that"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Though they are in different countries, the towns of Entebbe, Uganda, and Booué, Gabon, ______ They are among the rare places that sit almost directly on the equator.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "do have something in common?",
+      "B": "do they have something in common.",
+      "C": "do they have something in common?",
+      "D": "do have something in common."
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Sarah Cortez, author of the memoir Walking Home, what ______ Cortez's response was Bury Me Deep by Megan Abbott.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "her favorite book was.",
+      "B": "was her favorite book?",
+      "C": "her favorite book was?",
+      "D": "was her favorite book!"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Though it was designated as mission ______ mission was actually the ninety-fourth flight under NASA's Space Shuttle Program.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "STS-96, and the",
+      "B": "STS-96. The",
+      "C": "STS-96 the",
+      "D": "STS-96, the"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Among the world's largest deserts are the Syrian Desert, ranked ______ and the Atacama Desert, ranked twenty-sixth.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "ninth in size; the Karakum Desert; ranked twelfth;",
+      "B": "ninth in size the Karakum Desert, ranked twelfth",
+      "C": "ninth in size, the Karakum Desert; ranked twelfth,",
+      "D": "ninth in size; the Karakum Desert, ranked twelfth;"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "Thraxas by Martin Scott, Richard Matheson: Collected Stories by Richard Matheson, and Strange Tales by Rosalie Parker are all pieces of literature that have won the prestigious World Fantasy ______ the works received the honor in the categories of novel, collection, and anthology, respectively.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Award",
+      "B": "Award;",
+      "C": "Award and",
+      "D": "Award,"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Qatar, in 2022. The event, which is held every four years, used to be much smaller and more limited geographically. ______ the 1950 World Cup in Brazil included only 13 teams, all from Europe and the Americas.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "At last,",
+      "D": "For example,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "The United Nations' Trade and Development organization divides exports into five key categories: food items, agricultural materials, fuels, ores and raw metals, and manufactured goods (i.e., most nonfood goods made by machinery or by hand). In 2022, the majority (62 percent) of Belgium's exports were manufactured goods. ______ vaccines, medicines, and cars were its top exports.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In a broader sense,",
+      "B": "Within this category,",
+      "C": "In the future,",
+      "D": "Despite this majority,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "• A wind farm uses turbines to convert wind into electrical power.\n• Offshore wind farms tend to produce more electricity than farms on land (onshore).\n• Offshore wind farms tend to be more expensive to build and maintain than onshore ones.\n• Muppandal Wind Farm is an onshore wind farm in Tamil Nadu, India.",
+    "text": "Which choice most effectively uses information from the given sentences to explain the advantages of onshore wind farms over offshore ones?",
+    "choices": {
+      "A": "Though they don't produce as much electricity as offshore wind farms, onshore farms are usually cheaper to build and maintain.",
+      "B": "Tamil Nadu, India, is home to Muppandal Wind Farm.",
+      "C": "Like other wind farms, Muppandal Wind Farm in Tamil Nadu, India, uses turbines to turn wind power into electricity.",
+      "D": "Whether onshore or offshore, wind farms harness the power of wind to generate electricity."
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Carnegie Prize is an international art competition administered by the Carnegie Museum of Art in Pittsburgh, Pennsylvania.\n• Painter Augustus John of Wales won a Carnegie Prize gold medal in 1924.\n• John's winning artwork was a painting entitled Madame Suggia.\n• Sculptor Richard Serra of the US won a Carnegie Prize gold medal in 1985.\n• Serra's winning artwork was a sculpture entitled Carnegie.",
+    "text": "The student wants to contrast the two artworks. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Both Madame Suggia and Carnegie are Carnegie Prize gold medal-winning artworks.",
+      "B": "Carnegie Prize gold medals have been awarded to both painters and sculptors.",
+      "C": "John won a Carnegie Prize gold medal in 1924 for the painting Madame Suggia.",
+      "D": "John's Madame Suggia is a painting, while Serra's Carnegie is a sculpture."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Future of Nostalgia is a scholarly book by literary theorist Svetlana Boym.\n• The book provides a multifaceted exploration of the concept of nostalgia.\n• Chapter 14 discusses themes of nostalgia in Joseph Brodsky's writing.\n• Chapter 17 discusses various skeptics' takes on the concept of nostalgia.\n• In Chapter 17, Boym expresses, \"The poethics of nostalgia combines estrangement and human solidarity, affect and reflection.\"",
+    "text": "The student wants to provide a quotation from chapter 17. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "After discussing themes of nostalgia in Joseph Brodsky's writing, Svetlana Boym goes on to discuss various skeptics' takes on the concept of nostalgia.",
+      "B": "Svetlana Boym's The Future of Nostalgia is a multifaceted exploration of nostalgia.",
+      "C": "In an exploration of various skeptics' takes on the concept of nostalgia, Svetlana Boym writes, \"The poethics of nostalgia combines estrangement and human solidarity, affect and reflection.\"",
+      "D": "Svetlana Boym discusses themes of nostalgia in Joseph Brodsky's writing in chapter 14 of her book."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Urban natural areas are city spaces that feature elements of nature.\n• Facade-bound green walls are urban natural areas defined as exterior walls that have plants growing on them.\n• They can benefit cities by enhancing air quality.\n• Urban grasslands are urban natural areas defined as areas of pastures or meadows in cities.\n• They can benefit cities by increasing diversity among bird species.",
+    "text": "The student wants to emphasize a similarity between facade-bound green walls and urban grasslands. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Urban grasslands, which are areas of pastures or meadows in cities, benefit cities by increasing diversity among bird species.",
+      "B": "Facade-bound green walls enhance air quality, whereas urban grasslands increase diversity among bird species.",
+      "C": "Facade-bound green walls and urban grasslands can both be considered urban natural areas.",
+      "D": "By enhancing air quality, facade-bound green walls benefit cities."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• When the electrons of a chemical element change energy states, certain wavelengths of light are released.\n• This unique collection of wavelengths is known as the emission spectrum of the element.\n• Magnesium's emission spectrum includes the 517.2 nanometer (nm) wavelength.\n• Helium's emission spectrum includes the 587.5 nm wavelength.\n• The green portion of the visible spectrum is made up of light with wavelengths of 500-570 nm.",
+    "text": "The student wants to identify an emission spectrum that includes a wavelength in the green portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Containing the 517.2 nm and 587.5 nm wavelengths, respectively, both magnesium's and helium's emission spectra include wavelengths in the green portion of the visible spectrum.",
+      "B": "Magnesium's emission spectrum includes the 517.2 nm wavelength, which is in the green portion of the visible spectrum.",
+      "C": "The 587.5 nm wavelength, which is in the green portion of the visible spectrum, is one wavelength in the emission spectrum of helium.",
+      "D": "Since the 517.2 nm wavelength of light is within the 500-570 nm range, it is part of the green portion of the visible spectrum."
+    },
+    "imageUrl": null
+  }
+}

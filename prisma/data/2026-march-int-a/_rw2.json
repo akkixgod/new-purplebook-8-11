@@ -1,4 +1,4 @@
-﻿{
+{
   "1": {
     "stimulus": "Recitals by Catherine Kautsky, known for her virtuosity on the piano, are rightly described as _______ given that they can feature not just the performance of a musical piece but also a lecture on the piece's composer and a slideshow contextualizing the time in which it was composed.",
     "text": "Which choice completes the text with the most logical and precise word or phrase?",
@@ -22,7 +22,7 @@
     "imageUrl": null
   },
   "3": {
-    "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her reserve; I merely felt in her an insurmountable reluctance to speak of him.",
+    "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her _reserve_; I merely felt in her an insurmountable reluctance to speak of him.",
     "text": "As used in the text, what does the word \"reserve\" most nearly mean?",
     "choices": {
       "A": "Constraint",
@@ -129,7 +129,7 @@
       "C": "Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and CI 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption.",
       "D": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be in the range of 0.3 to 0.5, placing them farther from the measured values than were those predicted under the other assumption."
     },
-    "imageUrl": "NEEDS_SVG:Grouped bar chart titled \"Proportion of the Three Most Commonly Exhibited Mobility Patterns, in the US and Cote d'Ivoire\". Y-axis: Proportion (0–1). X-axis: Mobility pattern by country — US 2, US 3, US 4, CI 2, CI 3, CI 4. Three series per category: measured (dark gray), model: emphasis density (light gray), model: emphasis preferences (black). Approx values — US2: ~0.76 / ~0.68 / ~0.47; US3: ~0.12 / ~0.19 / ~0.18; US4: ~0.05 / ~0.07 / ~0.09; CI2: ~0.79 / ~0.85 / ~0.35; CI3: ~0.12 / ~0.14 / ~0.21; CI4: ~0.04 / ~0.03 / ~0.11."
+    "imageUrl": "/mocks/2026-march-int-a/figures/eng2-q12-mobility.svg"
   },
   "13": {
     "stimulus": "Across brown bears—omnivores with high dietary plasticity—there is wide variety in dietary mix, which may reflect genetics, local resource availability, or social learning (cubs stay with their mothers for two years or more). Evaluating these possibilities, Anne Hertel et al. analyzed 30 years of data on trophic position (indicative of dietary mix) for female brown bears. After separation, daughters, who tended to settle near their mothers, occupied the same trophic positions as their mothers for two years, but the correlation disappeared by year five. Trophic correlation with unrelated individuals in similar habitats was modest, while habitat-independent correlation with nonmaternal relatives (e.g., cousins) was no different than with unrelated individuals. These findings suggest that ______",

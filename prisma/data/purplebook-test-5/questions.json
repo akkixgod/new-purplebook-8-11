@@ -2,7 +2,7 @@
   "ENGLISH": {
     "1": {
       "1": {
-        "stimulus": "The following text is from Northrop Frye's 1957 book Anatomy of Criticism.\n\nEven in lyrics and essays the writer is to some extent a fictional hero with a fictional audience, for if the element of fictional projection disappeared completely, the writing would become direct address, or straight discursive writing, and cease to be literature.",
+        "stimulus": "The following text is from Northrop Frye's 1957 book Anatomy of Criticism.\n\nEven in lyrics and essays the writer is to some extent a fictional hero with a fictional audience, for if the element of fictional _projection_ disappeared completely, the writing would become direct address, or straight discursive writing, and cease to be literature.",
         "text": "As used in the text, what does the word \"projection\" most nearly mean?",
         "choices": {
           "A": "Prediction",
@@ -57,7 +57,7 @@
         "imageUrl": null
       },
       "6": {
-        "stimulus": "Imani Jacqueline Brown is an artist who blends scientific research, political activism, and various media in her work. In her exhibition Strike Gulf, she interrogated the impact of the oil and gas industry on southern Louisiana (where she grew up), incorporating core samples from deep seabeds off the Louisiana coast, oil well data, archival information about oil boycotts, and video she took in New Orleans. Strike Gulf thus stands as an example of Brown's multidisciplinary approach and use of diverse sources.",
+        "stimulus": "Imani Jacqueline Brown is an artist who blends scientific research, political activism, and various media in her work. In her exhibition Strike Gulf, she interrogated the impact of the oil and gas industry on southern Louisiana (where she grew up), _incorporating core samples from deep seabeds off the Louisiana coast, oil well data, archival information about oil boycotts, and video she took in New Orleans_. Strike Gulf thus stands as an example of Brown's multidisciplinary approach and use of diverse sources.",
         "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
         "choices": {
           "A": "It describes a project of Brown's that deviates from the typical approach that is described earlier in the text.",
@@ -356,7 +356,7 @@
         "imageUrl": null
       },
       "6": {
-        "stimulus": "A trend away from stable, relatively high humidity in the Middle East over the past 8 million years can be inferred from the composition of cave formations dating to different periods. Cave formations from about 7 million years ago mainly consist of transparent columnar calcite, indicative of an underground water system regularly replenished by rainfall. Cave formations younger than approximately 1 million years, however, mainly consist of branching, opaque (and sometimes colorful) material, often with more frequent growth interruptions, indicating an intermittent water supply.",
+        "stimulus": "A trend away from stable, relatively high humidity in the Middle East over the past 8 million years can be inferred from the composition of cave formations dating to different periods. Cave formations from about 7 million years ago mainly consist of _transparent columnar calcite_, indicative of an underground water system regularly replenished by rainfall. Cave formations younger than approximately 1 million years, however, mainly consist of _branching, opaque (and sometimes colorful) material, often with more frequent growth interruptions_, indicating an intermittent water supply.",
         "text": "Which choice best describes the function of the two underlined portions in the text as a whole?",
         "choices": {
           "A": "They identify different characteristics of cave formations that when considered together provide evidence for a long-term shift toward lower and more variable humidity in the Middle East.",
@@ -455,7 +455,7 @@
         "imageUrl": null
       },
       "15": {
-        "stimulus": "There is an adaptation of established fiction genres to Southern contexts. Mark Twain derived his episodic narrative structures and roguish heroes from the picaresque novel, and William Faulkner realized the decadent aristocrat, the imperiled heroine, and other character types of the Gothic novel as rural Southerners who were more contingent, more caught in the net of societal relations and history than the fantastical figures of the Gothic had been. Some of the region's poets, such as James Dickey, have shown even greater dexterity by adapting these sources in an altogether different literary form.",
+        "stimulus": "There is an adaptation of established fiction genres to Southern contexts. Mark Twain derived his episodic narrative structures and roguish heroes from the picaresque novel, and William Faulkner realized the decadent aristocrat, the imperiled heroine, and other character types of the Gothic novel as rural Southerners who were more contingent, more caught in the net of societal relations and history than the fantastical figures of the Gothic had been. _Some of the region's poets, such as James Dickey, have shown even greater dexterity by adapting these sources in an altogether different literary form._",
         "text": "Which statement, if true, would most directly support the underlined sentence?",
         "choices": {
           "A": "With its rural settings and rustic characters, Dickey's poems suggest the influence of the genre of pastoral fiction, yet Dickey may have instead obtained these elements from pastoral poetry, which preceded its namesake in fiction.",

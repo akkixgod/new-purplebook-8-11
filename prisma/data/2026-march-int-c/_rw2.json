@@ -22,7 +22,7 @@
     "imageUrl": null
   },
   "3": {
-    "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her reserve; I merely felt in her an insurmountable reluctance to speak of him.",
+    "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her _reserve_; I merely felt in her an insurmountable reluctance to speak of him.",
     "text": "As used in the text, what does the word \"reserve\" most nearly mean?",
     "choices": {
       "A": "Misgiving",
@@ -107,7 +107,7 @@
       "C": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV only partially support the site age estimates previously established through mammalian fossil evidence.",
       "D": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV corroborate that both MFS and PFBV fall within Hh4 but suggest that PFBV was likely deposited more recently than MFS."
     },
-    "imageUrl": "NEEDS_SVG: Table titled \"Strontium Isotope Ratios and Corresponding Numerical Ages in the Global Seawater Curve\". Two columns with headers 87Sr/86Sr | Age (Ma). Five data rows: 0.708980 | 6.20; 0.709000 | 5.86; 0.709020 | 5.40; 0.709040 | 4.75; 0.709060 | 3.00. Thin black grid borders, centered values."
+    "imageUrl": "/mocks/2026-march-int-c/figures/eng2-q10-strontium.svg"
   },
   "11": {
     "stimulus": "Researchers used anonymized location data from the US and Côte d'Ivoire to document people's daily patterns of mobility, using these results to test the efficacy of the researchers' predictive computer model. In each country, unidirectional cycles among two, three, or four locations were empirically the most common pattern types; the graph shows each of these pattern types as a proportion of all pattern instances found for that country (e.g., the measured value for CI 3 in the graph, 0.12, indicates that the three-location pattern constituted 12% of all pattern instances in the Côte d'Ivoire data). The researchers ran their model twice under different assumptions, concluding that emphasizing the salience of local population density over personal preferences generally yielded the best results.",
@@ -118,7 +118,7 @@
       "C": "Under the assumption that density is more salient than preferences, the US 2 and CI 2 proportions are approximately 0.65 and 0.85, respectively significantly higher than the values predicted under the other assumption and thus farther than those predictions from the measured values.",
       "D": "Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and CI 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption."
     },
-    "imageUrl": "NEEDS_SVG: Grouped bar chart; x-axis label \"Mobility pattern by country\"; y-axis \"Proportion\" from 0 to 0.8 (ticks 0, 0.2, 0.4, 0.6, 0.8). Categories: US 2, US 3, US 4, CI 2, CI 3, CI 4. Three bars per category (left to right): measured (solid black/dark fill), model: emphasis density (white/light fill with outline), model: emphasis preferences (dark gray/stippled). Approx values measured/density/preferences — US2: ~0.76/~0.68/~0.47; US3: ~0.12/~0.19/~0.18; US4: ~0.03/~0.05/~0.09; CI2: ~0.80/~0.85/~0.35; CI3: ~0.12/~0.08/~0.21; CI4: ~0.02/~0.01/~0.11. Legend below chart for the three series."
+    "imageUrl": "/mocks/2026-march-int-c/figures/eng2-q11-mobility.svg"
   },
   "12": {
     "stimulus": "Last-mile delivery refers to the final step in delivering packages to customers—and this final step can be very difficult. Delivery companies are contending with the increasing popularity of next-day delivery and with the increasing volume of parcels to be delivered, resulting in a growing bottleneck of packages in the last-mile delivery stage. These companies have been experimenting with innovative solutions in last-mile delivery, including self-service lockers (containers where consumers can pick up their parcels using a unique code). Unfortunately, many of these innovations create new obstacles (e.g., convenient placement of self-service lockers is challenging) and are not ready for full-scale implementation. As a result, delivery companies will likely _______",

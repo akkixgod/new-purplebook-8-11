@@ -57,7 +57,7 @@
         "imageUrl": null
       },
       "6": {
-        "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify florists, beauty salons, and other businesses and map their locations. This approach has some limits—data from Places API tends to be restricted to places that are customer-facing—but the data set nevertheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.",
+        "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify florists, beauty salons, and other businesses and map their locations. This approach has some limits—_data from Places API tends to be restricted to places that are customer-facing_—but the data set nevertheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.",
         "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
         "choices": {
           "A": "It describes the imprecise and subjective nature of neighborhood boundaries.",
@@ -301,7 +301,7 @@
     },
     "2": {
       "1": {
-        "stimulus": "The following text is from Jhumpa Lahiri's 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father.\n\nHe watches his father raise a kite within minutes into the wind, so high that Gogol must tip his head back in order to see, a rippling speck against the sky. The wind whips around their ears, turning their faces cold.\n\n©2003 by Jhumpa Lahiri",
+        "stimulus": "The following text is from Jhumpa Lahiri's 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father.\n\nHe watches his father raise a kite within minutes into the wind, so high that Gogol must _tip_ his head back in order to see, a rippling speck against the sky. The wind whips around their ears, turning their faces cold.\n\n©2003 by Jhumpa Lahiri",
         "text": "As used in the text, what does the word \"tip\" most nearly mean?",
         "choices": {
           "A": "Lean",
@@ -345,7 +345,7 @@
         "imageUrl": null
       },
       "5": {
-        "stimulus": "HMS Surprise, first published in 1973, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of HMS Surprise and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's The Forsyte Saga.",
+        "stimulus": "HMS Surprise, first published in 1973, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of HMS Surprise and other books in the series, saying that they do not finish conclusively but arbitrarily stop. _But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's The Forsyte Saga._",
         "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
         "choices": {
           "A": "It presents a reason most critics think the Aubrey/Maturin series should have the literary renown of similar works like The Forsyte Saga.",
@@ -356,7 +356,7 @@
         "imageUrl": null
       },
       "6": {
-        "stimulus": "When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that didn't have wings also had feathers on their bodies. For instance, research indicates that the wingless, speedy Ornithomimus likely had feathers.",
+        "stimulus": "When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that didn't have wings also had feathers on their bodies. _For instance, research indicates that the wingless, speedy Ornithomimus likely had feathers._",
         "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
         "choices": {
           "A": "It explains the scientific debate about the finding discussed in the previous sentence.",

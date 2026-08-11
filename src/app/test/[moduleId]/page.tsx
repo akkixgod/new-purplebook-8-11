@@ -11,6 +11,7 @@ import {
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
 import { cacheAttempt, savePendingSubmission, clearPendingSubmission, type CachedAttempt } from "@/lib/attempt-cache";
+import { textToHtml } from "@/lib/text-to-html";
 
 interface Question {
   id: string;
@@ -36,14 +37,6 @@ const STORAGE_CROSSED_KEY = (id: string) => `purplebook_crossed_${id}`;
 
 type ChoiceLetter = "A" | "B" | "C" | "D";
 type CrossedMap = Record<string, ChoiceLetter[]>;
-
-function textToHtml(text: string): string {
-  return text
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/\n/g, "<br/>");
-}
 
 export default function TestPage({ params }: { params: Promise<{ moduleId: string }> }) {
   const { moduleId } = use(params);

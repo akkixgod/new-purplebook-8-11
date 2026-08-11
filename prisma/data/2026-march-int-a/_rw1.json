@@ -11,7 +11,7 @@
     "imageUrl": null
   },
   "2": {
-    "stimulus": "The following text is from Billie Jean King's 2021 autobiography All In.\n\n[P]eople on both sides of my family had repeatedly demonstrated an independent streak. In the end, that was the temperament I gravitated toward, too. Both the Moffitts and the members of my mother's clan, the Jermans, came from mining and oil-geyser towns on the western frontier. They kept their heads down and worked, worked, worked. But they also bucked convention.",
+    "stimulus": "The following text is from Billie Jean King's 2021 autobiography All In.\n\n[P]eople on both sides of my family had repeatedly _demonstrated_ an independent streak. In the end, that was the temperament I gravitated toward, too. Both the Moffitts and the members of my mother's clan, the Jermans, came from mining and oil-geyser towns on the western frontier. They kept their heads down and worked, worked, worked. But they also bucked convention.",
     "text": "As used in the text, what does the word \"demonstrated\" most nearly mean?",
     "choices": {
       "A": "Protested",
@@ -44,7 +44,7 @@
     "imageUrl": null
   },
   "5": {
-    "stimulus": "The following text is from Charles Chesnutt's 1905 novel The Colonel's Dream. Mr. French and Mr. Kirby work together.\n\nMr. French, the senior partner, who sat opposite Kirby, was an older man—a safe guess would have placed him somewhere in the debatable ground between forty and fifty; of a good height, as could be seen even from the seated figure, the upper part of which was held erect with the unconscious ease which one associates with military training.",
+    "stimulus": "The following text is from Charles Chesnutt's 1905 novel The Colonel's Dream. Mr. French and Mr. Kirby work together.\n\nMr. French, the senior partner, who sat opposite Kirby, was an older man—a safe guess would have placed him somewhere in the debatable ground between forty and fifty; of a _good_ height, as could be seen even from the seated figure, the upper part of which was held erect with the unconscious ease which one associates with military training.",
     "text": "As used in the text, what does the word \"good\" most nearly mean?",
     "choices": {
       "A": "Reliable",
@@ -99,7 +99,7 @@
     "imageUrl": null
   },
   "10": {
-    "stimulus": "Brown Bears in Katmai National Park, Alaska\n\n| Bear identification number | Sex | Age (years) | Approximate weight (pounds) |\n| --- | --- | --- | --- |\n| 173 | female | 10 | 400 |\n| 122 | male | 3 | 200 |\n| 117 | female | 6 | 325 |\n| 103 | male | 4 | 275 |\n\nScientists collected information about brown bears in Katmai National Park in Alaska. This information included each bear's sex, age, and approximate weight. For the bear with identification number 122, for example, the scientists recorded that the bear was ______",
+    "stimulus": "Scientists collected information about brown bears in Katmai National Park in Alaska. This information included each bear's sex, age, and approximate weight. For the bear with identification number 122, for example, the scientists recorded that the bear was ______",
     "text": "Which choice most effectively uses data from the table to complete the statement?",
     "choices": {
       "A": "male, 4 years old, and weighed approximately 275 pounds.",
@@ -107,7 +107,7 @@
       "C": "male, 3 years old, and weighed approximately 200 pounds.",
       "D": "female, 6 years old, and weighed approximately 325 pounds."
     },
-    "imageUrl": "NEEDS_SVG:Table titled \"Brown Bears in Katmai National Park, Alaska\" with columns Bear identification number, Sex, Age (years), Approximate weight (pounds); rows 173/female/10/400, 122/male/3/200, 117/female/6/325, 103/male/4/275"
+    "imageUrl": "/mocks/2026-march-int-a/figures/eng1-q10-bears.svg"
   },
   "11": {
     "stimulus": "Great Expectations is an 1861 novel by Charles Dickens. The narrator describes his uncle, Joe Gargery, as being both powerful and tender: ______",
@@ -129,7 +129,7 @@
       "C": "72 individuals in January of 2001.",
       "D": "5 individuals in July of 2001."
     },
-    "imageUrl": "NEEDS_SVG:Line graph \"Fish Population in a Taiwanese Tide Pool, January 2001 to October 2001\"; y-axis Number of individual fish observed (0–65); x-axis Month (January/April/July/October 2001); three series: combtooth blenny (~62→~1→~3→~1), barred flagtail (~14→~9→~7→~16), striated rockskipper (~1→~1→5→~4)"
+    "imageUrl": "/mocks/2026-march-int-a/figures/eng1-q12-fish.svg"
   },
   "13": {
     "stimulus": "In the early 1970s, art historian Michael Baxandall created an approach to viewing art called the \"period eye,\" which explains how to look at art through the lens of its historical period. Baxandall argued that it is critical that art historians understand and communicate the original social and cultural contexts of older works of art so that it is clear what the artists intended and how the pieces would have been understood by their original viewers. Since it was first introduced, Baxandall's period eye has significantly influenced the practice of art history.",

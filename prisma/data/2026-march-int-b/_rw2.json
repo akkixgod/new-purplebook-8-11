@@ -110,7 +110,7 @@
     "imageUrl": null
   },
   "11": {
-    "stimulus": "**Global Strontium Seawater Curve**\n\n| 87Sr / 86 Sr | Age (Ma) |\n| --- | --- |\n| 0.708980 | 6.20 |\n| 0.709000 | 5.86 |\n| 0.709020 | 5.40 |\n| 0.709040 | 4.75 |\n| 0.709060 | 3.00 |\n\nThe late Hemphillian (Hh) North American Land Mammal Age includes the subdivisions Hh3, 6.8 million years ago (Ma) to 6 Ma, and Hh4, 6 Ma to 4.75 Ma. While mammalian fossils have indicated that Florida's Montbrook Fossil Site (MFS) and Palmetto Fauna of the Bone Valley Region (PFBV) date to Hh4, a more precise determination of the sites' ages has proved challenging. Stephanie R. Killingsworth et al. compared average ratios of strontium-87 to strontium-86 (87Sr/86Sr) in fossil shark teeth from MFS and PFBV — 0.709000 and 0.709028, respectively — to 87Sr/86Sr ratios in the global strontium seawater curve, a record that shows how 87Sr/86Sr ratios in seawater correspond to numerical ages and that is used to date fossils and, by extension, fossil sites. The researchers concluded that ______",
+    "stimulus": "**Global Strontium Seawater Curve**\n\nThe late Hemphillian (Hh) North American Land Mammal Age includes the subdivisions Hh3, 6.8 million years ago (Ma) to 6 Ma, and Hh4, 6 Ma to 4.75 Ma. While mammalian fossils have indicated that Florida's Montbrook Fossil Site (MFS) and Palmetto Fauna of the Bone Valley Region (PFBV) date to Hh4, a more precise determination of the sites' ages has proved challenging. Stephanie R. Killingsworth et al. compared average ratios of strontium-87 to strontium-86 (87Sr/86Sr) in fossil shark teeth from MFS and PFBV — 0.709000 and 0.709028, respectively — to 87Sr/86Sr ratios in the global strontium seawater curve, a record that shows how 87Sr/86Sr ratios in seawater correspond to numerical ages and that is used to date fossils and, by extension, fossil sites. The researchers concluded that ______",
     "text": "Which choice most effectively uses data from the table to complete the statement?",
     "choices": {
       "A": "mammalian fossil evidence offers less dating precision than do 87Sr/86Sr ratios in fossil shark teeth and that PFBV likely was deposited closer to the Hh3-Hh4 boundary than was MFS.",
@@ -118,7 +118,7 @@
       "C": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV only partially support the site age estimates previously established through mammalian fossil evidence.",
       "D": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV corroborate that both MFS and PFBV fall within Hh4 but suggest that PFBV was likely deposited more recently than MFS."
     },
-    "imageUrl": "/mocks/2026-march-int-b/pages/page-13.png"
+    "imageUrl": "/mocks/2026-march-int-b/figures/eng2-q11-table.svg"
   },
   "12": {
     "stimulus": "The interiors of many temples in the ancient Middle East needed to satisfy a precise set of acoustic demands: the sounds of chants and hymns should travel with clarity, while profound silences should be fully felt and appreciated. In a research paper, a student claims that the users of one such temple were aware of how the materials that were used within the structure could affect sound quality and that they deliberately applied this knowledge to influence how sound was experienced in the space.",
@@ -132,7 +132,7 @@
     "imageUrl": null
   },
   "13": {
-    "stimulus": "**Form 4720s Filed by Private Foundations, by Taxable Activity, 2003–2005**\n\n| Taxable activity | 2003 | 2004 | 2005 |\n| --- | --- | --- | --- |\n| self-dealing | ~8% | ~9% | ~10% |\n| undistributed income | ~90% | ~88% | ~87% |\n| taxable expenditures | ~4% | ~4% | ~3% |\n| excess business holdings | ~1% | ~1% | ~1% |\n\nWhile US public charities, like Kaiser Foundation Hospitals, must file Form 990 yearly with the IRS, private foundations, such as the Gordon and Betty Moore Foundation, must file a different form, 990-PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, \"self-dealing\" (conducting activities that benefit foundation insiders), making taxable expenditures such as grants to non-charitable entities, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990-PF in the years 2003–2005, ______",
+    "stimulus": "**Form 4720s Filed by Private Foundations, by Taxable Activity, 2003–2005**\n\nWhile US public charities, like Kaiser Foundation Hospitals, must file Form 990 yearly with the IRS, private foundations, such as the Gordon and Betty Moore Foundation, must file a different form, 990-PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, \"self-dealing\" (conducting activities that benefit foundation insiders), making taxable expenditures such as grants to non-charitable entities, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990-PF in the years 2003–2005, ______",
     "text": "Which choice most effectively uses data from the graph to complete the assertion?",
     "choices": {
       "A": "a greater percentage of those that also filed Form 4720 did so because they held excess interests in a business enterprise than the percentage of those that filed Form 4720 because they did not meet the minimum charitable distribution requirement.",
@@ -140,7 +140,7 @@
       "C": "those that were also required to file Form 4720 because they had excess holdings in a business enterprise paid, on average, a significantly smaller penalty than those organizations that filed Form 4720 because they engaged in self-dealing.",
       "D": "those that were also required to file Form 4720 were more likely to do so because they did not meet the minimum charitable distribution requirement than for other reasons."
     },
-    "imageUrl": "/mocks/2026-march-int-b/pages/page-15.png"
+    "imageUrl": "/mocks/2026-march-int-b/figures/eng2-q13-graph.svg"
   },
   "14": {
     "stimulus": "There are over 150 species of the cactus genus Mammillaria throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of them, like M. schumannii, restricted to only one state. The fact that this genus has not been observed in parts of the Sierra Madre Occidental mountain range has been attributed to a lack of appropriate habitat, but much of the landscape in this area is notoriously inaccessible, which suggests that ______",
