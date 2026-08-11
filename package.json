@@ -11,7 +11,8 @@
     "seed:2026-int-b": "tsx prisma/seed-march2026-intb.ts",
     "seed:2026-int-a": "tsx prisma/seed-march2026-inta.ts",
     "seed:2026-int-c": "tsx prisma/seed-march2026-intc.ts",
-    "seed:2026-us-a": "tsx prisma/seed-march2026-usa.ts"
+    "seed:2026-us-a": "tsx prisma/seed-march2026-usa.ts",
+    "seed:pb1": "tsx prisma/seed-purplebook-test-1.ts"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.11.1",

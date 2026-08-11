@@ -2,6 +2,9 @@
 
 import { useEffect, useState, useCallback, use, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import { DesmosCalculatorModal } from "@/components/DesmosCalculatorModal";
+import { MathReferenceSheet } from "@/components/MathReferenceSheet";
+import { QuestionNavGrid } from "@/components/QuestionNavGrid";
 
 interface Question {
   id: string;
@@ -24,6 +27,10 @@ interface ModuleData {
 const STORAGE_KEY = (id: string) => `purplebook_answers_${id}`;
 const STORAGE_TIME_KEY = (id: string) => `purplebook_time_${id}`;
 const STORAGE_MARKS_KEY = (id: string) => `purplebook_marks_${id}`;
+const STORAGE_CROSSED_KEY = (id: string) => `purplebook_crossed_${id}`;
+
+type ChoiceLetter = "A" | "B" | "C" | "D";
+type CrossedMap = Record<string, ChoiceLetter[]>;
 
 function textToHtml(text: string): string {
   return text
@@ -48,11 +55,33 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [loading, setLoading] = useState(true);
   const [markedForReview, setMarkedForReview] = useState<Set<string>>(new Set());
   const [highlightMode, setHighlightMode] = useState(false);
+  const [crossOutMode, setCrossOutMode] = useState(false);
+  const [crossedOut, setCrossedOut] = useState<CrossedMap>({});
   const [highlights, setHighlights] = useState<Record<string, string>>({});
   const [showDesmos, setShowDesmos] = useState(false);
+  const [desmosMounted, setDesmosMounted] = useState(false);
+  const [showReference, setShowReference] = useState(false);
   const [showDirections, setShowDirections] = useState(false);
+  const [showQuestionGrid, setShowQuestionGrid] = useState(false);
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
+
+  const openCalculator = useCallback(() => {
+    setDesmosMounted(true);
+    setShowDesmos(true);
+  }, []);
+
+  const toggleCalculator = useCallback(() => {
+    setDesmosMounted(true);
+    setShowDesmos((v) => !v);
+  }, []);
+
+  const toggleCrossOutMode = useCallback(() => {
+    setCrossOutMode((v) => {
+      if (!v) setHighlightMode(false);
+      return !v;
+    });
+  }, []);
 
   useEffect(() => {
     fetch(`/api/modules/${moduleId}/questions`)
@@ -63,6 +92,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         if (saved) setAnswers(JSON.parse(saved));
         const savedMarks = localStorage.getItem(STORAGE_MARKS_KEY(attemptId));
         if (savedMarks) setMarkedForReview(new Set(JSON.parse(savedMarks)));
+        const savedCrossed = localStorage.getItem(STORAGE_CROSSED_KEY(attemptId));
+        if (savedCrossed) setCrossedOut(JSON.parse(savedCrossed));
         const savedTime = localStorage.getItem(STORAGE_TIME_KEY(attemptId));
         const elapsed = savedTime ? Math.floor((Date.now() - parseInt(savedTime)) / 1000) : 0;
         setTimeLeft(Math.max(0, data.timeLimit - elapsed));
@@ -78,6 +109,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   useEffect(() => {
     if (attemptId) localStorage.setItem(STORAGE_MARKS_KEY(attemptId), JSON.stringify([...markedForReview]));
   }, [markedForReview, attemptId]);
+
+  useEffect(() => {
+    if (attemptId) localStorage.setItem(STORAGE_CROSSED_KEY(attemptId), JSON.stringify(crossedOut));
+  }, [crossedOut, attemptId]);
 
   const handleSubmit = useCallback(async () => {
     if (submitting || !moduleData || !attemptId) return;
@@ -96,6 +131,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     localStorage.removeItem(STORAGE_KEY(attemptId));
     localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
     localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
+    localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
     router.push(`/test/${moduleId}/results?attemptId=${attemptId}`);
   }, [submitting, moduleData, attemptId, answers, moduleId, router]);
 
@@ -107,6 +143,31 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     const t = setTimeout(() => setTimeLeft((p) => (p !== null ? p - 1 : null)), 1000);
     return () => clearTimeout(t);
   }, [timeLeft, paused]);
+
+  // Alt+C / Option+C — toggle Desmos (Math only)
+  useEffect(() => {
+    if (!moduleData || moduleData.test.section !== "MATH") return;
+    const onKey = (e: KeyboardEvent) => {
+      if (!e.altKey) return;
+      if (e.key !== "c" && e.key !== "C") return;
+      e.preventDefault();
+      toggleCalculator();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [moduleData, toggleCalculator]);
+
+  // Alt+X / Option+X — toggle option eliminator
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (!e.altKey) return;
+      if (e.key !== "x" && e.key !== "X") return;
+      e.preventDefault();
+      toggleCrossOutMode();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [toggleCrossOutMode]);
 
   // Highlight: wrap selected text in <mark> on mouseup
   const handleMouseUp = useCallback(() => {
@@ -139,6 +200,38 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       return next;
     });
   };
+
+  const toggleCrossedLetter = useCallback((qId: string, letter: ChoiceLetter) => {
+    setCrossedOut((prev) => {
+      const current = prev[qId] ?? [];
+      const nextList = current.includes(letter)
+        ? current.filter((l) => l !== letter)
+        : [...current, letter];
+      return { ...prev, [qId]: nextList };
+    });
+  }, []);
+
+  const handleChoiceClick = useCallback(
+    (qId: string, letter: ChoiceLetter) => {
+      if (crossOutMode) {
+        const wasCrossed = (crossedOut[qId] ?? []).includes(letter);
+        toggleCrossedLetter(qId, letter);
+        // Eliminating the selected answer clears the selection (Bluebook)
+        if (!wasCrossed) {
+          setAnswers((prev) => (prev[qId] === letter ? { ...prev, [qId]: null } : prev));
+        }
+        return;
+      }
+      // Select answer; clear cross-out on this letter only (keep others)
+      setCrossedOut((prev) => {
+        const list = prev[qId] ?? [];
+        if (!list.includes(letter)) return prev;
+        return { ...prev, [qId]: list.filter((l) => l !== letter) };
+      });
+      setAnswers((prev) => ({ ...prev, [qId]: letter }));
+    },
+    [crossOutMode, crossedOut, toggleCrossedLetter]
+  );
 
   if (loading || !moduleData) {
     return (
@@ -207,8 +300,15 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           <div className="flex items-center gap-1.5 flex-1 justify-end">
             {/* Highlight */}
             <button
-              onClick={() => setHighlightMode((p) => !p)}
+              type="button"
+              onClick={() => {
+                setHighlightMode((p) => {
+                  if (!p) setCrossOutMode(false);
+                  return !p;
+                });
+              }}
               title={highlightMode ? "Exit highlight mode" : "Highlight text (select text to highlight)"}
+              aria-pressed={highlightMode}
               className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium transition-colors ${
                 highlightMode
                   ? "bg-yellow-200 text-yellow-800 border border-yellow-400"
@@ -221,18 +321,56 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               <span className="hidden sm:inline">Highlight</span>
             </button>
 
-            {/* Desmos — Math only */}
+            {/* Option eliminator (Cross-Out) */}
+            <button
+              type="button"
+              onClick={toggleCrossOutMode}
+              title={crossOutMode ? "Exit cross-out mode (Alt+X)" : "Cross out answer choices (Alt+X)"}
+              aria-pressed={crossOutMode}
+              aria-label="Cross-Out tool"
+              className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium transition-colors ${
+                crossOutMode
+                  ? "bg-gray-900 text-white border border-gray-900"
+                  : "border border-gray-300 text-gray-600 hover:bg-gray-100"
+              }`}
+            >
+              <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden>
+                <circle cx="12" cy="12" r="9" strokeWidth={2} />
+                <path strokeLinecap="round" strokeWidth={2} d="M7 7l10 10" />
+              </svg>
+              <span className="hidden sm:inline">Cross-Out</span>
+            </button>
+
+            {/* Reference + Calculator — Math only (Bluebook tools) */}
             {isMath && (
-              <button
-                onClick={() => setShowDesmos(true)}
-                title="Scientific Calculator"
-                className="flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium border border-gray-300 text-gray-600 hover:bg-gray-100 transition-colors"
-              >
-                <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 11h.01M12 11h.01M15 11h.01M4 19h16a2 2 0 002-2V7a2 2 0 00-2-2H4a2 2 0 00-2 2v10a2 2 0 002 2z" />
-                </svg>
-                <span className="hidden sm:inline">Calculator</span>
-              </button>
+              <>
+                <button
+                  type="button"
+                  onClick={() => setShowReference(true)}
+                  title="Reference sheet"
+                  className="flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium border border-gray-300 text-gray-600 hover:bg-gray-100 transition-colors"
+                >
+                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  <span className="hidden sm:inline">Reference</span>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => (showDesmos ? setShowDesmos(false) : openCalculator())}
+                  title="Graphing Calculator (Alt+C)"
+                  className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium border transition-colors ${
+                    showDesmos
+                      ? "border-[#7c3aed] bg-[#7c3aed]/10 text-[#7c3aed]"
+                      : "border-gray-300 text-gray-600 hover:bg-gray-100"
+                  }`}
+                >
+                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 11h.01M12 11h.01M15 11h.01M4 19h16a2 2 0 002-2V7a2 2 0 00-2-2H4a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                  </svg>
+                  <span className="hidden sm:inline">Calculator</span>
+                </button>
+              </>
             )}
 
             <button
@@ -291,7 +429,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               {current + 1}
             </span>
             <button
+              type="button"
               onClick={() => toggleMark(q.id)}
+              aria-pressed={markedForReview.has(q.id)}
               className={`flex items-center gap-1.5 text-xs font-medium transition-colors ${
                 markedForReview.has(q.id)
                   ? "text-orange-500"
@@ -303,6 +443,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                 fill={markedForReview.has(q.id) ? "currentColor" : "none"}
                 viewBox="0 0 24 24"
                 stroke="currentColor"
+                aria-hidden
               >
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
               </svg>
@@ -336,32 +477,76 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               />
             </div>
           ) : (
-            <div className="space-y-2.5">
+            <div
+              className="space-y-2.5"
+              role="listbox"
+              aria-label="Answer choices"
+              aria-orientation="vertical"
+            >
               {(["A", "B", "C", "D"] as const).map((letter) => {
                 if (!choices[letter] && choices[letter] !== "") return null;
-                // Show blank choice letters when choice text not yet transcribed
                 if (!(letter in choices)) return null;
                 const selected = answers[q.id] === letter;
+                const eliminated = (crossedOut[q.id] ?? []).includes(letter);
                 return (
                   <button
                     key={letter}
-                    onClick={() => setAnswers((prev) => ({ ...prev, [q.id]: letter }))}
-                    className={`w-full text-left px-4 py-3 rounded-xl border-2 transition-all flex items-start gap-3 ${
-                      selected
+                    type="button"
+                    role="option"
+                    aria-selected={selected}
+                    aria-label={
+                      eliminated
+                        ? `Choice ${letter}, crossed out${crossOutMode ? ". Activate to restore" : ""}`
+                        : `Choice ${letter}${crossOutMode ? ". Activate to cross out" : ""}`
+                    }
+                    data-eliminated={eliminated ? "true" : "false"}
+                    onClick={() => handleChoiceClick(q.id, letter)}
+                    className={`group w-full text-left px-4 py-3 rounded-xl border-2 transition-all flex items-start gap-3 ${
+                      eliminated
+                        ? "opacity-50 border-gray-200 bg-gray-50"
+                        : selected
                         ? "border-[#7c3aed] bg-[#7c3aed]/5"
                         : "border-gray-200 hover:border-gray-300"
-                    }`}
+                    } ${crossOutMode ? "cursor-pointer" : ""}`}
                   >
                     <span
-                      className={`w-6 h-6 rounded-full flex-shrink-0 flex items-center justify-center text-xs font-bold border-2 mt-0.5 transition-colors ${
-                        selected
+                      className={`relative w-6 h-6 rounded-full flex-shrink-0 flex items-center justify-center text-xs font-bold border-2 mt-0.5 transition-colors ${
+                        eliminated
+                          ? "border-gray-400 text-gray-500 line-through"
+                          : selected
                           ? "border-[#7c3aed] bg-[#7c3aed] text-white"
                           : "border-gray-300 text-gray-600"
                       }`}
                     >
-                      {letter}
+                      <span className={eliminated ? "line-through decoration-2" : ""}>{letter}</span>
+                      {/* Permanent diagonal when eliminated */}
+                      {eliminated && (
+                        <span
+                          className="pointer-events-none absolute inset-0 flex items-center justify-center"
+                          aria-hidden
+                        >
+                          <span className="block w-[130%] h-0.5 bg-gray-500 rotate-[-45deg] rounded-full" />
+                        </span>
+                      )}
+                      {/* Hover hint in cross-out mode when not yet eliminated */}
+                      {crossOutMode && !eliminated && (
+                        <span
+                          className="pointer-events-none absolute inset-0 hidden group-hover:flex items-center justify-center"
+                          aria-hidden
+                        >
+                          <span className="block w-[130%] h-0.5 bg-gray-400/80 rotate-[-45deg] rounded-full" />
+                        </span>
+                      )}
                     </span>
-                    <span className={`text-sm leading-relaxed ${selected ? "text-[#7c3aed] font-medium" : "text-gray-900"}`}>
+                    <span
+                      className={`text-sm leading-relaxed ${
+                        eliminated
+                          ? "text-gray-500 line-through decoration-gray-500"
+                          : selected
+                          ? "text-[#7c3aed] font-medium"
+                          : "text-gray-900"
+                      } ${crossOutMode && !eliminated ? "group-hover:line-through group-hover:decoration-gray-400" : ""}`}
+                    >
                       {choices[letter] || ""}
                     </span>
                   </button>
@@ -373,8 +558,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       </div>
 
       {/* ── Bottom nav ── */}
-      <div className="flex-shrink-0 border-t border-gray-200 bg-white px-4 py-2 flex items-center justify-between gap-3">
+      <div className="relative flex-shrink-0 border-t border-gray-200 bg-white px-4 py-2 flex items-center justify-between gap-3 z-[95]">
         <button
+          type="button"
           onClick={() => setCurrent((p) => Math.max(0, p - 1))}
           disabled={current === 0}
           className="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors disabled:opacity-30 flex-shrink-0"
@@ -385,35 +571,40 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           Back
         </button>
 
-        {/* Question dots */}
-        <div className="flex gap-1 overflow-x-auto max-w-sm lg:max-w-lg py-0.5 flex-1 justify-center">
-          {questions.map((qq, i) => {
-            const answered = !!answers[qq.id];
-            const marked = markedForReview.has(qq.id);
-            const isActive = i === current;
-            return (
-              <button
-                key={qq.id}
-                onClick={() => setCurrent(i)}
-                className={`relative w-7 h-7 text-xs rounded flex-shrink-0 font-medium transition-colors ${
-                  isActive
-                    ? "bg-[#7c3aed] text-white"
-                    : answered
-                    ? "bg-[#7c3aed]/20 text-[#7c3aed]"
-                    : "bg-gray-100 text-gray-500"
-                }`}
-              >
-                {i + 1}
-                {marked && (
-                  <span className="absolute -top-0.5 -right-0.5 w-2 h-2 rounded-full bg-orange-400 border border-white" />
-                )}
-              </button>
-            );
-          })}
-        </div>
+        {/* Question menu trigger (Bluebook overview) */}
+        <button
+          type="button"
+          onClick={() => setShowQuestionGrid((v) => !v)}
+          aria-expanded={showQuestionGrid}
+          aria-haspopup="dialog"
+          aria-controls="question-nav-grid"
+          title="Open question menu"
+          className={`flex items-center gap-2 px-3 py-1.5 text-sm rounded-lg border font-medium transition-colors flex-shrink-0 ${
+            showQuestionGrid
+              ? "border-[#7c3aed] bg-[#7c3aed]/10 text-[#7c3aed]"
+              : "border-gray-200 text-gray-800 hover:bg-gray-50"
+          }`}
+        >
+          <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden>
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h4v4H4V6zm6 0h4v4h-4V6zm6 0h4v4h-4V6zM4 12h4v4H4v-4zm6 0h4v4h-4v-4zm6 0h4v4h-4v-4zM4 18h4v4H4v-4zm6 0h4v4h-4v-4zm6 0h4v4h-4v-4z" />
+          </svg>
+          <span>
+            Question {current + 1} of {questions.length}
+          </span>
+          <svg
+            className={`w-3.5 h-3.5 text-gray-400 transition-transform ${showQuestionGrid ? "rotate-180" : ""}`}
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            aria-hidden
+          >
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 15l7-7 7 7" />
+          </svg>
+        </button>
 
         {current < questions.length - 1 ? (
           <button
+            type="button"
             onClick={() => setCurrent((p) => Math.min(questions.length - 1, p + 1))}
             className="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg bg-[#7c3aed] text-white hover:bg-[#6d28d9] transition-colors flex-shrink-0"
           >
@@ -424,6 +615,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           </button>
         ) : (
           <button
+            type="button"
             onClick={handleSubmit}
             disabled={submitting}
             className="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg bg-green-600 text-white hover:bg-green-700 transition-colors disabled:opacity-60 flex-shrink-0"
@@ -434,6 +626,19 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             </svg>
           </button>
         )}
+      </div>
+
+      <div id="question-nav-grid">
+        <QuestionNavGrid
+          open={showQuestionGrid}
+          onClose={() => setShowQuestionGrid(false)}
+          moduleNumber={moduleData.number}
+          questions={questions}
+          currentIndex={current}
+          answers={answers}
+          markedForReview={markedForReview}
+          onNavigate={setCurrent}
+        />
       </div>
 
       {/* ── Pause overlay ── */}
@@ -482,28 +687,14 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         </div>
       )}
 
-      {/* ── Desmos side panel ── */}
-      {showDesmos && (
-        <div className="fixed inset-0 z-[100] flex pointer-events-none">
-          <div className="ml-auto w-full max-w-xl h-full bg-white shadow-2xl flex flex-col pointer-events-auto border-l border-gray-200">
-            <div className="flex items-center justify-between px-4 py-2.5 border-b border-gray-200 bg-white">
-              <span className="font-semibold text-gray-900 text-sm">Scientific Calculator</span>
-              <button
-                onClick={() => setShowDesmos(false)}
-                className="p-1.5 rounded hover:bg-gray-100 transition-colors text-gray-600"
-              >
-                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              </button>
-            </div>
-            <iframe
-              src="https://www.desmos.com/scientific"
-              className="flex-1 border-none"
-              title="Desmos Scientific Calculator"
-            />
-          </div>
-        </div>
+      {/* ── Math Reference Sheet ── */}
+      {isMath && (
+        <MathReferenceSheet open={showReference} onClose={() => setShowReference(false)} />
+      )}
+
+      {/* ── Desmos Graphing Calculator (kept mounted for state persistence) ── */}
+      {isMath && desmosMounted && (
+        <DesmosCalculatorModal open={showDesmos} onClose={() => setShowDesmos(false)} />
       )}
     </div>
   );
