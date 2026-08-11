@@ -30,7 +30,7 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
     }
 
     let cancelled = false;
-    fetch(`/api/attempts/${attemptId}`)
+    fetch(`/api/attempts/${attemptId}`, { credentials: "include" })
       .then(async (r) => {
         const json = (await r.json()) as AttemptData;
         if (!r.ok) {

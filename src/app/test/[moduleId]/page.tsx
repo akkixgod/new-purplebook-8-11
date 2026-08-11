@@ -53,6 +53,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [timeLeft, setTimeLeft] = useState<number | null>(null);
   const [paused, setPaused] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [markedForReview, setMarkedForReview] = useState<Set<string>>(new Set());
   const [highlightMode, setHighlightMode] = useState(false);
@@ -119,6 +120,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
   const handleSubmit = useCallback(async () => {
     if (submitting || !moduleData || !attemptId) return;
+    setSubmitError(null);
     setSubmitting(true);
     const startTime = parseInt(localStorage.getItem(STORAGE_TIME_KEY(attemptId)) ?? "0");
     const timeSpent = startTime ? Math.floor((Date.now() - startTime) / 1000) : null;
@@ -126,11 +128,18 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       questionId: q.id,
       selected: answers[q.id] ?? null,
     }));
-    await fetch(`/api/attempts/${attemptId}/submit`, {
+    const r = await fetch(`/api/attempts/${attemptId}/submit`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
+      credentials: "include",
       body: JSON.stringify({ answers: answerPayload, timeSpent }),
     });
+    if (!r.ok) {
+      const json = (await r.json().catch(() => null)) as { error?: string } | null;
+      setSubmitError(json?.error ?? `Submit failed (${r.status})`);
+      setSubmitting(false);
+      return;
+    }
     localStorage.removeItem(STORAGE_KEY(attemptId));
     localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
     localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
@@ -403,6 +412,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             >
               Submit
             </button>
+            {submitError && (
+              <p className="mt-2 text-xs text-red-600 text-center w-full">{submitError}</p>
+            )}
           </div>
         </div>
 

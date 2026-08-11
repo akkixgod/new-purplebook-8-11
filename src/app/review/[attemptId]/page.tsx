@@ -41,7 +41,7 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
   const [expanded, setExpanded] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch(`/api/attempts/${attemptId}`)
+    fetch(`/api/attempts/${attemptId}`, { credentials: "include" })
       .then(async (r) => {
         const json = await r.json();
         if (!r.ok) throw new Error(json.error || `Failed to load review (${r.status})`);
