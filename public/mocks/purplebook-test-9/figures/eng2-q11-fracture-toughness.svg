@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="480" viewBox="0 0 620 480">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="310" y="22" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700">Fracture Toughness Values</text>
+  <text x="310" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700">for CrMnFeCoNi and CrCoNi</text>
+  <text x="310" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700">at Various Temperatures</text>
+
+  <!-- y-axis label -->
+  <text x="18" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" transform="rotate(-90 18 250)">Fracture toughness (megapascals times the square root of crack length)</text>
+
+  <!-- plot area: x 90..520, y 80..360 ; y 0..550 -->
+  <!-- grid -->
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="90" y1="360" x2="520" y2="360"/>
+    <line x1="90" y1="334.5" x2="520" y2="334.5"/>
+    <line x1="90" y1="309.1" x2="520" y2="309.1"/>
+    <line x1="90" y1="283.6" x2="520" y2="283.6"/>
+    <line x1="90" y1="258.2" x2="520" y2="258.2"/>
+    <line x1="90" y1="232.7" x2="520" y2="232.7"/>
+    <line x1="90" y1="207.3" x2="520" y2="207.3"/>
+    <line x1="90" y1="181.8" x2="520" y2="181.8"/>
+    <line x1="90" y1="156.4" x2="520" y2="156.4"/>
+    <line x1="90" y1="130.9" x2="520" y2="130.9"/>
+    <line x1="90" y1="105.5" x2="520" y2="105.5"/>
+    <line x1="90" y1="80" x2="520" y2="80"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="11" fill="#111" text-anchor="end">
+    <text x="84" y="364">0</text>
+    <text x="84" y="338.5">50</text>
+    <text x="84" y="313.1">100</text>
+    <text x="84" y="287.6">150</text>
+    <text x="84" y="262.2">200</text>
+    <text x="84" y="236.7">250</text>
+    <text x="84" y="211.3">300</text>
+    <text x="84" y="185.8">350</text>
+    <text x="84" y="160.4">400</text>
+    <text x="84" y="134.9">450</text>
+    <text x="84" y="109.5">500</text>
+    <text x="84" y="84">550</text>
+  </g>
+
+  <!-- axes -->
+  <line x1="90" y1="80" x2="90" y2="360" stroke="#111" stroke-width="1.5"/>
+  <line x1="90" y1="360" x2="520" y2="360" stroke="#111" stroke-width="1.5"/>
+
+  <!-- x labels at uneven temps: 20,77,198,293 mapped to equal visual slots -->
+  <!-- xs: 140, 255, 370, 485 -->
+  <g font-family="Arial,sans-serif" font-size="12" fill="#111" text-anchor="middle">
+    <text x="140" y="378">20</text>
+    <text x="255" y="378">77</text>
+    <text x="370" y="378">198</text>
+    <text x="485" y="378">293</text>
+  </g>
+  <text x="305" y="398" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Temperature (kelvins)</text>
+
+  <!-- y = 360 - v*(280/550) -->
+  <!-- CrCoNi initiation (filled triangle): 460,280,275,225 -->
+  <polyline fill="none" stroke="#111" stroke-width="2"
+    points="140,125.8 255,217.5 370,220.0 485,245.5"/>
+  <g fill="#111">
+    <polygon points="140,125.8 135,135.8 145,135.8"/>
+    <polygon points="255,217.5 250,227.5 260,227.5"/>
+    <polygon points="370,220.0 365,230.0 375,230.0"/>
+    <polygon points="485,245.5 480,255.5 490,255.5"/>
+  </g>
+
+  <!-- CrCoNi propagation (open square dashed): 540,460,455,400 -->
+  <polyline fill="none" stroke="#111" stroke-width="2" stroke-dasharray="6 4"
+    points="140,85.1 255,125.8 370,128.4 485,156.4"/>
+  <g fill="#fff" stroke="#111" stroke-width="1.5">
+    <rect x="134" y="79.1" width="12" height="12"/>
+    <rect x="249" y="119.8" width="12" height="12"/>
+    <rect x="364" y="122.4" width="12" height="12"/>
+    <rect x="479" y="150.4" width="12" height="12"/>
+  </g>
+
+  <!-- CrMnFeCoNi initiation (open circle dotted): 260,225,220,215 -->
+  <polyline fill="none" stroke="#111" stroke-width="2" stroke-dasharray="2 3"
+    points="140,227.6 255,245.5 370,248.0 485,250.5"/>
+  <g fill="#fff" stroke="#111" stroke-width="1.5">
+    <circle cx="140" cy="227.6" r="5"/>
+    <circle cx="255" cy="245.5" r="5"/>
+    <circle cx="370" cy="248.0" r="5"/>
+    <circle cx="485" cy="250.5" r="5"/>
+  </g>
+
+  <!-- CrMnFeCoNi propagation (filled diamond): 385,310,325,305 -->
+  <polyline fill="none" stroke="#4b5563" stroke-width="2"
+    points="140,164.0 255,202.2 370,194.5 485,204.7"/>
+  <g fill="#4b5563">
+    <polygon points="140,164.0 135,169.0 140,174.0 145,169.0"/>
+    <polygon points="255,202.2 250,207.2 255,212.2 260,207.2"/>
+    <polygon points="370,194.5 365,199.5 370,204.5 375,199.5"/>
+    <polygon points="485,204.7 480,209.7 485,214.7 490,209.7"/>
+  </g>
+
+  <!-- legend box -->
+  <rect x="300" y="70" width="210" height="95" fill="#fff" stroke="#111"/>
+  <g font-family="Arial,sans-serif" font-size="11" fill="#111">
+    <polyline points="310,88 330,88" stroke="#111" stroke-width="2"/>
+    <polygon points="340,88 335,96 345,96" fill="#111"/>
+    <text x="352" y="92">CrCoNi initiation toughness</text>
+
+    <polyline points="310,108 330,108" stroke="#111" stroke-width="2" stroke-dasharray="6 4"/>
+    <rect x="334" y="102" width="12" height="12" fill="#fff" stroke="#111"/>
+    <text x="352" y="112">CrCoNi propagation toughness</text>
+
+    <polyline points="310,128 330,128" stroke="#111" stroke-width="2" stroke-dasharray="2 3"/>
+    <circle cx="340" cy="128" r="5" fill="#fff" stroke="#111"/>
+    <text x="352" y="132">CrMnFeCoNi initiation</text>
+    <text x="352" y="145">toughness</text>
+
+    <polyline points="310,155 330,155" stroke="#4b5563" stroke-width="2"/>
+    <polygon points="340,155 335,160 340,165 345,160" fill="#4b5563"/>
+    <text x="352" y="159">CrMnFeCoNi propagation</text>
+    <text x="352" y="172">toughness</text>
+  </g>
+</svg>

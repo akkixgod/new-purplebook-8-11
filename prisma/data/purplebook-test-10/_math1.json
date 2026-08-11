@@ -1,0 +1,223 @@
+{
+  "1": {
+    "stimulus": "d = 29w + 100",
+    "text": "The equation d = 29w + 100 gives the total amount of money d, in dollars, that James plans to save w weeks after he starts to save. What is the total amount of money, in dollars, he plans to save in 10 weeks?",
+    "choices": {
+      "A": "340",
+      "B": "390",
+      "C": "440",
+      "D": "490"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "During a portion of a flight, a small airplane's cruising speed varied between 180 miles per hour and 190 miles per hour. Which inequality best represents this situation, where s is the cruising speed, in miles per hour, during this portion of the flight?",
+    "choices": {
+      "A": "s ≤ 10",
+      "B": "s ≤ 180",
+      "C": "s ≤ 190",
+      "D": "180 ≤ s ≤ 190"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "9m = 8(n + p)",
+    "text": "The given equation relates the positive numbers m, n, and p. Which equation correctly gives m in terms of n and p?",
+    "choices": {
+      "A": "m = 8(n + p)/9",
+      "B": "m = 8(n + p)",
+      "C": "m = 8(n + p) − 9",
+      "D": "m = 8 − n − p − 9"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "6x + 28 = 6x + k",
+    "text": "In the given equation, k is a constant. The equation has infinitely many solutions. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "In 2000, a census was taken to determine the population of a certain town. The graph gives the estimated population y, in thousands, of this town x years after the 2000 census was taken, where 0 ≤ x ≤ 5. Based on the graph, which of the following is the closest to the estimated population 2 years after the 2000 census was taken?",
+    "choices": {
+      "A": "7,400",
+      "B": "6,200",
+      "C": "4,300",
+      "D": "3,000"
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/math1-q05-population.svg"
+  },
+  "6": {
+    "stimulus": "f(x) = x² + x + 44",
+    "text": "The function f is defined by f(x) = x² + x + 44. What is the value of f(2)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "g(x) = x/2",
+    "text": "The function g is defined by g(x) = x/2. For what value of x does g(x) = 244?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A line segment that has a length of 118 centimeters (cm) is divided into three parts. One part is 48 cm long. The other two parts have lengths that are equal to each other. What is the length, in cm, of one of the other two parts of equal length?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "y = 3x + 4\ny = 2x + 9",
+    "text": "The solution to the given system of equations is (x, y). What is the value of x?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "9",
+      "D": "13"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "y = 5(x − 3)\ny = (x − 3)²",
+    "text": "Which ordered pair (x, y) is a solution to the given system of equations?",
+    "choices": {
+      "A": "(8, −5)",
+      "B": "(8, 25)",
+      "C": "(3, 8)",
+      "D": "(2, −5)"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "Each side of equilateral triangle S is multiplied by a scale factor of k to create equilateral triangle T. The length of each side of triangle T is greater than the length of each side of triangle S. Which of the following could be the value of k?",
+    "choices": {
+      "A": "0",
+      "B": "43/44",
+      "C": "1",
+      "D": "44/43"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "A company has a customer loyalty program. In January 2018, there were 900 customers enrolled in the loyalty program. For the next 24 months after January 2018, the total number of customers enrolled in the loyalty program each month was 2% greater than the total number enrolled the previous month. Which equation gives the total number of customers, c, enrolled in the company's loyalty program m months after January 2018, where m < 24?",
+    "choices": {
+      "A": "c = 900(0.02)^m",
+      "B": "c = 900(1.02)^m",
+      "C": "c = 900(1.2)^m",
+      "D": "c = 900(2)^m"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "For the function f, for every increase of 1/2 in the value of x, the value of f(x) increases by a factor of c, where c is a constant. Which of the following equivalent forms of function f displays the value of c as the base or coefficient?",
+    "choices": {
+      "A": "f(x) = 38(2)^(6x)",
+      "B": "f(x) = 38(8)^(2x)",
+      "C": "f(x) = 38(64)^x",
+      "D": "f(x) = 38(4,096)^(x/2)"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "In triangle DEF, the measure of angle D is 46° and the measure of angle E is 104°. In triangle RST, the measure of angle R is 46° and the measure of angle S is 104°. Which of the following additional pieces of information is needed to determine whether triangle DEF is similar to triangle RST?",
+    "choices": {
+      "A": "The measure of angle F",
+      "B": "The measure of angle T",
+      "C": "The measure of angle F and the measure of angle T",
+      "D": "No additional information is needed."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "The product of a positive number x and the number that is 7 less than x is equal to 228. What is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "K(v) = (1/2)(75)(v²)",
+    "text": "The kinetic energy, in joules, of an object with mass 75 kilograms traveling at a speed of v meters per second is given by the function K, where K(v) = (1/2)(75)(v²). Which of the following is the best interpretation of K(0) = 0 in this context?",
+    "choices": {
+      "A": "The kinetic energy of the object is 0 joules when the mass of the object is 0 kilograms.",
+      "B": "The speed of the object is 0 meters per second when the mass of the object is 0 kilograms.",
+      "C": "The kinetic energy of the object is 0 joules when the object is traveling at a speed of 0 meters per second.",
+      "D": "The height of the object is 0 meters when the object is traveling at a speed of 0 meters per second."
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "Line k is shown in the xy-plane. Line j (not shown) is perpendicular to line k and passes through the point (−12, −19). Which equation defines line j?",
+    "choices": {
+      "A": "y = (2/3)x − 11",
+      "B": "y = (2/3)x − 27",
+      "C": "y = (3/2)x − 11",
+      "D": "y = (3/2)x − 27"
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/math1-q17-line-k.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "In the xy-plane, line p has a slope of 5/3 and an x-intercept of (9, 0). What is the y-coordinate of the y-intercept of line p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "In the triangle shown, RS = √133. What is the value of sin R?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/math1-q19-triangle.svg"
+  },
+  "20": {
+    "stimulus": "h(x) = a^x + b",
+    "text": "The function h is defined by h(x) = a^x + b, where a and b are positive constants. The graph of y = h(x) in the xy-plane passes through the points (0, 8) and (2, 32). What is the value of ab?",
+    "choices": {
+      "A": "32",
+      "B": "35",
+      "C": "40",
+      "D": "64"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "A conservation specialist hung artificial nesting structures each in the shape of a right rectangular prism for a species of native duck. Each structure has a height of 12 inches. The length of each structure's base is x inches, which is 1 inch more than the width of the structure's base. Which function V gives the volume of each structure, in cubic inches, in terms of the length of the structure's base?",
+    "choices": {
+      "A": "V(x) = x(x + 12)(x + 1)",
+      "B": "V(x) = x(x + 12)(x − 1)",
+      "C": "V(x) = 12x(x + 1)",
+      "D": "V(x) = 12x(x − 1)"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "Point F lies on a unit circle in the xy-plane and has coordinates (1, 0). Point G is the center of the circle and has coordinates (0, 0). Point H also lies on the circle and has coordinates (−1, y), where y is a constant. Which of the following could be the positive measure of angle FGH, in radians?",
+    "choices": {
+      "A": "27π/2",
+      "B": "29π/2",
+      "C": "24π",
+      "D": "25π"
+    },
+    "imageUrl": null
+  }
+}

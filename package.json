@@ -19,7 +19,9 @@
     "seed:pb5": "npx tsx prisma/seed-purplebook-test-5.ts",
     "seed:pb6": "npx tsx prisma/seed-purplebook-test-6.ts",
     "seed:pb7": "npx tsx prisma/seed-purplebook-test-7.ts",
-    "seed:pb8": "npx tsx prisma/seed-purplebook-test-8.ts"
+    "seed:pb8": "npx tsx prisma/seed-purplebook-test-8.ts",
+    "seed:pb9": "npx tsx prisma/seed-purplebook-test-9.ts",
+    "seed:pb10": "npx tsx prisma/seed-purplebook-test-10.ts"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.11.1",

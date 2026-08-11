@@ -1,0 +1,223 @@
+{
+  "1": {
+    "stimulus": "f(x) = 8x + b",
+    "text": "For the linear function f, b is a constant and f(0) = 11. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "What is the y-intercept of the graph of y = 2x² + 6x + 3 in the xy-plane?",
+    "choices": {
+      "A": "(0, 2)",
+      "B": "(0, 3)",
+      "C": "(0, 6)",
+      "D": "(0, 9)"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "In the figure shown, the length of AB is 66. Which statement provides sufficient information to prove that triangle ABC is isosceles?",
+    "choices": {
+      "A": "The length of BC is 66.",
+      "B": "The length of AC is 33.",
+      "C": "The measure of angle A is 70°.",
+      "D": "The sum of the measures of angles A, B, and C is 180°."
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/math2-q03-triangle.svg"
+  },
+  "4": {
+    "stimulus": "−3x + 6rx = 54",
+    "text": "In the given equation, r is a constant. The equation has no solution. What is the value of r?",
+    "choices": {
+      "A": "1/9",
+      "B": "1/2",
+      "C": "2",
+      "D": "9"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "x² = 2,601",
+    "text": "How many distinct real solutions does the given equation have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "The graph gives the estimated population y, in thousands, of a town x years since 2007, where 0 ≤ x ≤ 5. Which of the following best describes the increase in the estimated population from x = 0 to x = 1?",
+    "choices": {
+      "A": "The estimated population at x = 1 is 3.5 times the estimated population at x = 0.",
+      "B": "The estimated population at x = 1 is 2.5 times the estimated population at x = 0.",
+      "C": "The estimated population at x = 1 is 1.5 times the estimated population at x = 0.",
+      "D": "The estimated population at x = 1 is 0.5 times the estimated population at x = 0."
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/math2-q06-population-graph.svg"
+  },
+  "7": {
+    "stimulus": null,
+    "text": "Eli used wax to make candles. The function f(x) = −15x + 60 approximates the weight, in ounces, of wax Eli had remaining after making x candles. Which statement is the best interpretation of the y-intercept of the graph of y = f(x) in the xy-plane in this context?",
+    "choices": {
+      "A": "Eli had approximately 15 ounces of wax when he began to make the candles.",
+      "B": "Eli used approximately 15 ounces of wax for each candle.",
+      "C": "Eli had approximately 60 ounces of wax when he began to make the candles.",
+      "D": "Eli used approximately 60 ounces of wax for each candle."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "16(x + 4) = 2(x + c) + 14x",
+    "text": "In the given equation, c is a constant. The equation has infinitely many solutions. What is the value of c?",
+    "choices": {
+      "A": "4",
+      "B": "8",
+      "C": "32",
+      "D": "64"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The minimum value of x is 4 less than 8 times another number n. Which inequality shows the possible values of x?",
+    "choices": {
+      "A": "x ≤ 8n − 4",
+      "B": "x ≥ 8n − 4",
+      "C": "x ≤ 4 − 8n",
+      "D": "x ≥ 4 − 8n"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "Rectangles ABCD and EFGH are similar. The length of each side of EFGH is 6 times the length of the corresponding side of ABCD. The area of ABCD is 96 square units. What is the area, in square units, of EFGH?",
+    "choices": {
+      "A": "16",
+      "B": "36",
+      "C": "576",
+      "D": "3,456"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "8(cx + 3)/5 = 4x − 3",
+    "text": "In the given equation, c is a constant. If the equation has no solution, what is the value of c?",
+    "choices": {
+      "A": "−5/2",
+      "B": "−2/5",
+      "C": "2/5",
+      "D": "5/2"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "Which equation has no solution?",
+    "choices": {
+      "A": "−19x − 1/7 = −19x − 1/7",
+      "B": "−19x − 1/7 = −19x + 1/7",
+      "C": "−19x − 1/7 = 19x − 1/7",
+      "D": "−19x − 1/7 = 19x + 1/7"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "A right square pyramid has a surface area of 75,264 square inches, which includes a base area of 36,864 square inches. What is the slant height, in inches, of this pyramid?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The function f gives the product of a number, x, and a number that is 7 more than x. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = x² + x + 7",
+      "B": "f(x) = x² + 7",
+      "C": "f(x) = x² + 7x",
+      "D": "f(x) = x² + 7x + 7"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "A circle has diameters AC and BD. The circumference of the circle is 84π, and the length of arc DA is 2 times the length of arc AB. What is the length of arc BC?",
+    "choices": {
+      "A": "2π",
+      "B": "14π",
+      "C": "21π",
+      "D": "28π"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "(p²)^(1/5) = t^(3/4)",
+    "text": "In the given equation, p > 1 and t > 1. If t = p^(2n−1), where n is a constant, what is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "A carpenter charges a flat rate of $234 for the first 3 hours of work and $65 for each additional hour of work. Which equation gives the total amount y, in dollars, that the carpenter charges for x hours of work, where x ≥ 3?",
+    "choices": {
+      "A": "y = 65x + 39",
+      "B": "y = 234x + 65",
+      "C": "y = 65x + 234",
+      "D": "y = 234x + 429"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "−9x(x + 9) = 90",
+    "text": "One solution to the given equation can be written as x = −(s + √t)/2, where s and t are positive integers. What is the value of s/t?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "(5/8)(5x + 8)(x + √(5k + 8))(x − √(5k + 8)) = 0",
+    "text": "In the given equation, k is a positive constant. The product of the solutions to the equation is 64. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "31(x − n) = 31y + 31n",
+    "text": "One of the equations in a system of two linear equations is given, where n is a positive constant. The system has no solution. Which equation could be the second equation in this system?",
+    "choices": {
+      "A": "3x − 3y = 6n",
+      "B": "3x + 3y = 3n",
+      "C": "3x + 3y = 6n",
+      "D": "3x − 3y = 3n"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "The mass of object A is 498% of the mass of object B, and the mass of object A is 0.830% of the mass of object C. If the mass of object C is p% of the mass of object B, what is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "1/(cx) = x/152 + 1/c",
+    "text": "In the given equation, c is a constant. If the equation has exactly one solution, what is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

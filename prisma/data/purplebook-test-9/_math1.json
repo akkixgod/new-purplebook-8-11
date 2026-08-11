@@ -1,0 +1,220 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "A line in the xy-plane has a slope of −1/4 and passes through the point (0, 19). Which equation represents this line?",
+    "choices": {
+      "A": "y = −(1/4)x − 19",
+      "B": "y = −(1/4)x + 19",
+      "C": "y = (1/4)x − 19",
+      "D": "y = (1/4)x + 19"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "In the linear function f, f(0) = 2 and f(7) = 2. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = 0",
+      "B": "f(x) = 7",
+      "C": "f(x) = 2",
+      "D": "f(x) = x + 2"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "A plant nursery classifies a perennial flower species as tall if its typical height when fully grown is more than 100 centimeters. Each of the following inequalities represents the possible heights h, in centimeters, for a specific perennial flower species when fully grown. Which inequality represents the possible heights h, in centimeters, for a tall perennial flower species?",
+    "choices": {
+      "A": "14 < h < 95",
+      "B": "41 < h < 93",
+      "C": "78 < h < 100",
+      "D": "107 < h < 160"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "If 5a/b = 3.5 and a/(bn) = 17.5, what is the value of 1/n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to (x + 8)² + 14(x + 8) + 49?",
+    "choices": {
+      "A": "(x + 15)²",
+      "B": "(x + 7)²",
+      "C": "8(x + 7)²",
+      "D": "7(x + 8)²"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "q − 34r = s",
+    "text": "The given equation relates the positive numbers q, r, and s. Which equation correctly expresses q in terms of r and s?",
+    "choices": {
+      "A": "q = s − 34r",
+      "B": "q = s + 34r",
+      "C": "q = 34rs",
+      "D": "q = −s/(34r)"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "25x/(x² − 25) = x/(x − 5) + 20/(x + 5)",
+    "text": "What is the positive solution to the given equation?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "For the polynomial function f, a solution to the equation f(x) = 0 is x = 7, and one of the factors of f(x) is x + 5. Which of the following could be the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "Graph with x-intercepts at x = −5 and x = 7",
+      "B": "Graph with x-intercepts at x = −7 and x = 5",
+      "C": "Graph with x-intercepts at x = −7 and x = −5",
+      "D": "Graph with x-intercepts at x = 5 and x = 7"
+    },
+    "imageUrl": "/mocks/purplebook-test-9/figures/math1-q08-polynomial-graphs.svg"
+  },
+  "9": {
+    "stimulus": null,
+    "text": "To cut a lawn, Antwan charges a fee of $10.00 for his equipment and $8.50 per hour spent cutting a lawn. Taylor charges a fee of $7.00 for her equipment and $9.50 per hour spent cutting a lawn. If x represents the number of hours spent cutting a lawn, what are all the values of x for which Taylor's total charge is greater than Antwan's total charge?",
+    "choices": {
+      "A": "2 ≤ x ≤ 3",
+      "B": "3 ≤ x ≤ 4",
+      "C": "x < 3",
+      "D": "x > 3"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "h = 9(v − 273.15)/5 + 32",
+    "text": "The equation gives the corresponding temperature h, in degrees Fahrenheit, of any substance that has a temperature of v kelvins, where v > 0. If a substance has a temperature of 809.33 degrees Fahrenheit, what is the corresponding temperature, in kelvins, of this substance?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The histogram summarizes a data set of the weights, in pounds, of 14 salmon. If an additional weight of 68 pounds is added to the original data set to create a new data set of 15 weights of salmon, which of the following measures must be greater for the new data set than for the original data set?\nI. The median\nII. The mean",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/purplebook-test-9/figures/math1-q11-salmon-histogram.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "If 5(4 − 5x) + 4(4 − 5x) + 9 = 8(4 − 5x) + 6, what is the value of 5x − 4?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 3x. For what value of x is g(x) = 12?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The edge length, in inches, of cube Y is 3/86 the edge length, in inches, of cube X. The surface area, in square inches, of cube Y is n times the surface area, in square inches, of cube X. What is the value of n?",
+    "choices": {
+      "A": "9/7,396",
+      "B": "27/3,698",
+      "C": "3/86",
+      "D": "9/43"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "y < −5x − 21\ny > −3x − 8",
+    "text": "For which of the following tables are all the values of x and their corresponding values of y solutions to the given system of inequalities?",
+    "choices": {
+      "A": "x: −8, −9, −11; y: 14, 35, −3",
+      "B": "x: −8, −9, −11; y: 19, 22, −3",
+      "C": "x: −8, −9, −11; y: 18, 25, −26",
+      "D": "x: −8, −9, −11; y: 18, 22, 26"
+    },
+    "imageUrl": "/mocks/purplebook-test-9/figures/math1-q15-inequality-tables.svg"
+  },
+  "16": {
+    "stimulus": null,
+    "text": "For groups of 5 or more people, a tour guide charges $9 for the first person in the group and $6 for each additional person. Which function g gives the total charge, in dollars, for a tour with a group of n people, where n ≥ 5?",
+    "choices": {
+      "A": "g(n) = 15n",
+      "B": "g(n) = 15n − 9",
+      "C": "g(n) = 6n + 3",
+      "D": "g(n) = 6n + 9"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = a^x + b, where a and b are constants and a > 0. In the xy-plane, the graph of y = f(x) has a y-intercept at (0, −20) and passes through the point (2, 43). What is the value of a − b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "In triangle ABC, the measure of angle A is 52° and AC = 35. In triangle PQR, the measure of angle P is 52° and PR = 105. Which additional piece of information is sufficient to prove that triangle ABC is similar to triangle PQR?",
+    "choices": {
+      "A": "AB = 30 and PQ = 30",
+      "B": "AB = 30 and QR = 90",
+      "C": "The measures of angle B and angle R are 34° and 94°, respectively",
+      "D": "The measures of angle B and angle Q are 52° and 34°, respectively"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "The number of bacteria in a liquid medium doubles every hour. There are 66,000 bacteria in the liquid medium at the start of an observation. Which of the following represents the number of bacteria, y, in the liquid medium t hours after the start of the observation?",
+    "choices": {
+      "A": "y = (1/2)(66,000)^t",
+      "B": "y = 2(66,000)^t",
+      "C": "y = 66,000(1/2)^t",
+      "D": "y = 66,000(2)^t"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The area of a rectangular region is increasing at a rate of 180 square centimeters per hour. What is this rate, in square meters per minute? (1 meter = 100 centimeters)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "For triangle ABC, the length of AB is 11 less than the length of AC. Point D (not shown) lies on AC such that BD (not shown) is perpendicular to AC. What is the value of BC/BD?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-9/figures/math1-q21-triangle-abc.svg"
+  },
+  "22": {
+    "stimulus": null,
+    "text": "In triangle ABC, the measure of angle B is 90° and BD is an altitude of the triangle. The length of AB is 24 and the length of AC is 13 greater than the length of AB. What is the value of BC/BD?",
+    "choices": {
+      "A": "13/24",
+      "B": "24/37",
+      "C": "37/24",
+      "D": "24/13"
+    },
+    "imageUrl": null
+  }
+}

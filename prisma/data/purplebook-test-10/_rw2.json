@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "Building additional road capacity may seem like an obvious solution to traffic congestion, but numerous studies have cast doubt on the ______ of that approach. Not only does additional road capacity often fail to relieve congestion, but it can also make traffic worse by encouraging more people to drive.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "efficacy",
+      "B": "aesthetics",
+      "C": "originality",
+      "D": "popularity"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "The results of randomized clinical trials testing the efficacy of common medical interventions sometimes fail to ______ conclusions that practitioners reach based on their real-world observations of patients. While there are several possible reasons for this, one is that practitioners may overlook confounding variables that account for the results they attribute to the interventions in question.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "implement",
+      "B": "disseminate",
+      "C": "circumvent",
+      "D": "corroborate"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Although the literary works of David Malo and Lee Cataluna have universal appeal, they are also ______ the Hawaiian literary tradition in which both authors work and that stretches back to the traditional stories of the *Kanaka Maoli*, the Native Hawaiian people.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "inextricable from",
+      "B": "subverted by",
+      "C": "presaged by",
+      "D": "incongruous with"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "The Roc-aux-Sorciers frieze—a group of relief carvings of animals found in what is now France and dating from around 14,000 years ago—is sometimes said to be emotionally powerful despite its age, but in fact the frieze is ______ precisely because of its age. It is the link of shared humanity with the artist across so many centuries that gives the Roc-aux-Sorciers frieze such resonance.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "ingenious",
+      "B": "pristine",
+      "C": "meticulous",
+      "D": "affecting"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "In 2013 Fredrik Jutfelt and Maria Hedgärde published a study concluding that ocean acidification has a strong effect on the behavior of *Gadus morhua*, a species of fish. However, Jutfelt and Hedgärde's study relied on a mean sample size of only about 16 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Josefin Sundin and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To explain how the behavior of a fish species has changed over time",
+      "B": "To note a potential concern about the findings of a scientific study",
+      "C": "To discuss an aspect of ocean acidification that is frequently overlooked",
+      "D": "To present a debate between two research teams about a cause of ocean acidification"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The following text is from Maria Amparo Ruiz de Burton's 1885 novel *The Squatter and the Don*. In the novel, Clarence and Mercedes develop a romantic relationship.\n\nMercedes, being not quite seventeen, her grief at parting from Clarence was wild, vehement and all-absorbing. But she had been trained to obedience, and her battles with the spirit always took place after she carefully locked her bedroom door. Then Clarence was wildly apostrophized, and a torrent of tears relieved the overcharged, aching heart.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "It emphasizes Mercedes's extreme insecurity.",
+      "B": "It suggests that the magnitude of Mercedes's feelings are unusual for her age.",
+      "C": "It provides background explaining why Clarence has left Mercedes.",
+      "D": "It conveys how Mercedes handles her intense feelings about being separated from Clarence."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Asteroid 6478 Gault has experienced intermittent mass loss since at least 2013, but in contrast to some other asteroids with repeated mass-loss episodes, 6478 Gault has not lost mass at its perihelion (the closest point of its orbit to the Sun), and thus the loss is not attributable to solar energy-driven ice vaporization. And as Jane X. Luu et al. point out, the singular nature of impact ejection makes it untenable as an account of multiple loss episodes of similar duration over several years. Instead, Luu et al. are likely correct that 6478 Gault is shedding mass due to rotational instability.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It presents a scientific observation, describes a contrast between that observation and other observations, and then explains why those other observations should not be considered credible.",
+      "B": "It describes an astronomical finding, discusses competing theories about that finding that the author regards as flawed, and then describes new evidence that supports an alternative theory.",
+      "C": "It discusses a physical process, evaluates possible causes of that process, and then states that a persuasive account of the process has yet to be put forward.",
+      "D": "It introduces a natural phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation for that phenomenon that the author regards as plausible."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Alexander Lang and colleagues found to be negatively associated with foraging by white-throated round-eared bats but Patricia C. Wright found to be positively associated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the bats.",
+    "text": "According to the text, the difference between Lang and colleagues' findings and Wright's findings can be attributed to which difference between white-throated round-eared bats and three-striped night monkeys?",
+    "choices": {
+      "A": "The bats are less reliant on vision than the monkeys are.",
+      "B": "The bats decrease their foraging activity as lunar intensity increases, whereas the monkeys increase their foraging activity.",
+      "C": "The bats are more vulnerable to predators than the monkeys are.",
+      "D": "The bats encounter different levels of lunar intensity than the monkeys do."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs. The researchers monitored the brain activity of Bran (a border collie), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of *The Little Prince* being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn't resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that differences in dogs' anatomical features may affect their ability to distinguish speech from nonspeech.",
+    "text": "Which finding from the study, if true, would most directly support the team's conclusion?",
+    "choices": {
+      "A": "The pattern of brain activity that long headed dogs showed when hearing the scrambled recording was different from the pattern of brain activity that short-headed dogs showed when hearing the language they were accustomed to.",
+      "B": "Long-headed dogs accustomed to hearing Spanish tended to show more brain activity when hearing Spanish than long-headed dogs accustomed to hearing Hungarian showed when hearing Hungarian.",
+      "C": "Compared with longer-headed dogs, shorter-headed dogs showed less difference in brain activity when hearing either Spanish or Hungarian than when hearing the scrambled recording.",
+      "D": "Compared with longer-headed dogs, shorter-headed dogs, showed a greater difference in brain activity when hearing the language they were accustomed to than when hearing the other language."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "In 2021, four of the United States national parks that were among the most visited were Grand Canyon National Park, Rocky Mountain National Park, Yellowstone National Park, and Zion National Park. The graph shows the number of visits for recreation to each of these parks during the three-month period with the highest number of visitors. A student notes that among the parks shown in the graph, the park with the highest monthly recreation visits in all three months was ______.",
+    "text": "Which choice most effectively uses data from the graph to complete the text?",
+    "choices": {
+      "A": "Zion National Park.",
+      "B": "Rocky Mountain National Park.",
+      "C": "Yellowstone National Park.",
+      "D": "Grand Canyon National Park."
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/eng2-q10-national-parks.svg"
+  },
+  "11": {
+    "stimulus": "In terms of total area, the Choctaw Nation is one of the largest tribal nations in the United States. It covers 10,864 square miles in what is now southeastern Oklahoma. In comparison, the total area of the White Earth Nation in Minnesota is only ______.",
+    "text": "Which choice most effectively uses data from the table to complete the comparison?",
+    "choices": {
+      "A": "1,167 square miles.",
+      "B": "4,453 square miles.",
+      "C": "3,606 square miles.",
+      "D": "2,188 square miles."
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/eng2-q11-tribal-nations.svg"
+  },
+  "12": {
+    "stimulus": "Scholars cite *Pedro Paramo*, the 1955 novel by Mexican author Juan Rulfo, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the folkloric traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Orhan Pamuk, _whose 2001 novel My Name Is Red resembles classic magical realist novels in its juxtaposition of literary realism with folklore—namely, that of Turkey._",
+    "text": "Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?",
+    "choices": {
+      "A": "\"The logic of the realistic plot of *My Name Is Red* is repeatedly and productively disrupted by the presence of imagery and situations drawn from Turkish folklore.\"",
+      "B": "\"While *My Name Is Red* alternates between realistic and antirealistic modes of representation, details suggesting the influence of Turkish folklore nevertheless occur throughout the novel.\"",
+      "C": "\"Although Turkish folklore clearly informs the style and occasionally antirealistic plot of *My Name Is Red*, the novel also shows the inarguable influence of the magical realist tradition of Latin America.\"",
+      "D": "\"Like many works in the Latin American magical realist tradition, *My Name Is Red* is indebted to antirealistic elements in the folkloric tradition of Turkey.\""
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Linda Lomahaftewa often assembles compositions out of motifs common in the ceramics and other traditional arts of the Hopi Tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Kiowa artist T.C. Cannon, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of Cannon's generation, the identification of an abstract painting as Indigenous art tends to ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "depend not on stylistic details but instead on an awareness of the artist's identity.",
+      "B": "place a greater emphasis on the artist's biography than on the aesthetic merit of the painting.",
+      "C": "obscure the Indigenous origins of certain motifs associated with Abstract Expressionism.",
+      "D": "deny the extent to which cultural identity influences an artist's work."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "In a 2014 study that took place in Laos, Stéphane Guédron, Delphine Tisserand, and colleagues found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 2015 in Canada by Stéphanie Hamelin and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "few of the studies conducted in North America have been able to measure dissolved organic carbon and mercury levels with the same level of precision as in Guédron, Tisserand, and colleagues' study.",
+      "B": "the mercury levels reported in Guédron, Tisserand, and colleagues' study were much higher than those reported in the study by Hamelin and colleagues even though the dissolved organic carbon levels reported in the two studies were approximately the same.",
+      "C": "Guédron, Tisserand, and colleagues' study may have inadvertently measured a different characteristic of bodies of fresh water than their levels of dissolved organic carbon and mercury.",
+      "D": "Guédron, Tisserand, and colleagues' finding may differ from the findings of other studies due to a difference in environmental circumstances that affects the relationship between dissolved organic carbon and mercury in fresh water."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "As complex life cycle parasites, *Opechona* sp. and *Cucullanellus kanabus* require multiple host species throughout their development. Extrapolating from parasite counts on Pacific herring and seven other fish species collected from Puget Sound from 1880 to 2019, Chelsea Wood et al. found that the abundance of three-host parasites, such as *Opechona* sp., negatively correlated with rising average annual sea temperatures; the abundance of two-host parasites, such as *C. kanabus*, was largely stable. Noting that fish and other marine vertebrates are especially vulnerable to climate change, Wood et al. observed that all three-host parasites in the study depend on at least two vertebrate species, while all two-host parasites depend on only one, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "although *Opechona* sp. and *C. kanabus* both require Pacific herring as a host, *C. kanabus* was more adversely affected by warming-driven changes in the Pacific herring population than *Opechona* sp. was.",
+      "B": "a parasite's sensitivity to warming temperatures is negatively correlated with the number of unique vertebrate species it depends on throughout its life cycle.",
+      "C": "warming-induced population changes among Puget Sound vertebrates may have suppressed some parasite populations, but there were no changes among the eight studied host species that affected two-host parasite abundance.",
+      "D": "population size and density of the eight fish species examined in the study were likely largely unaffected by rising sea temperatures."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian's 1983 painting *Panorama of Mount Lu* is inspired by the tradition of *qinglu shanshui*, a type of Chinese landscape painting ______ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "characterized",
+      "B": "is characterized",
+      "C": "has been characterized",
+      "D": "will be characterized"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "In Norway, the Longyearbyen observatory site monitors activity in the upper atmosphere of the northern ______ in Australia, another observatory site, Buckland Park, monitors the sky of the southern hemisphere. Together, they are part of the Super Dual Auroral Radar Network—or SuperDARN, as space physicists like Tadahiko Ogawa call it.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "hemisphere and",
+      "B": "hemisphere",
+      "C": "hemisphere,",
+      "D": "hemisphere;"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "A recipient of the King Faisal international Prize and the Othmer Gold Medal, ______ known as femtochemistry when he devised an optical spectroscopy technique that allowed researchers to study ultrafast chemical reactions occurring within molecules.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the limits of measurability were expanded by chemist Ahmed Zewail who introduced a new scientific discipline",
+      "B": "chemist Ahmed Zewail expanded the limits of measurability and introduced a new scientific discipline",
+      "C": "the introduction of a new scientific discipline by chemist Ahmed Zewail led to the expansion of the limits of measurability",
+      "D": "the result of chemist Ahmed Zewail's expansion of the limits of measurability was the introduction of a new scientific discipline"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Over the years, dozens of architectural and archaeological sites important to Hawaiian history and culture, such as the Haena Archeological Complex and the Bank of Hawaii-Haiku Branch, have been added to the Hawai'i Register of Historic Places, and each year, a review board of experts that includes sociologist Alton Okinaka and architect Katie Stephens gathers to ______ which sites to add next to the growing registry.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "select:",
+      "B": "select;",
+      "C": "select,",
+      "D": "select"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "At 1,723 years old, KET 3996r, a limber pine (*Pinus flexilis*) located in the United States, is one of the oldest known trees in the world. With over two millennia of climate data in its tree rings, a single tree like ______ claims dendrochronologist Valerie Trouet, can tell the history of the world.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "this:",
+      "B": "this",
+      "C": "this,",
+      "D": "this;"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "Australia ratified the Outer Space Treaty, an international agreement with over 100 signing nations that acts as the foundation for the laws of space, on January 27, 1967. Colombia signed the treaty; ______ it has yet to officially ratify it.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "however,",
+      "B": "similarly,",
+      "C": "specifically,",
+      "D": "for example,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "Modernista architects championed nature in their designs. ______ the dramatic archways and botanical glasswork of Palau Mornau, a Modernista private home designed by Manuel Raspall, couldn't exactly grow in a forest. Still, one sees natural influences in Raspall's penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Granted,",
+      "B": "Thus,",
+      "C": "Furthermore,",
+      "D": "Similarly,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Carnegie Prize is an international art competition administered by the Carnegie Museum of Art in Pittsburgh, Pennsylvania.\n• Painter Augustus John of Wales won a Carnegie Prize gold medal in 1924.\n• John's winning artwork was a painting entitled *Madame Suggia*.\n• Sculptor Richard Serra of the US won a Carnegie Prize gold medal in 1985.\n• Serra's winning artwork was a sculpture entitled *Carnegie*.",
+    "text": "The student wants to contrast the two artworks. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Both *Madame Suggia* and *Carnegie* are Carnegie Prize gold medal-winning artworks.",
+      "B": "Carnegie Prize gold medals have been awarded to both painters and sculptors.",
+      "C": "John won a Carnegie Prize gold medal in 1924 for the painting *Madame Suggia*.",
+      "D": "John's *Madame Suggia* is a painting, while Serra's *Carnegie* is a sculpture."
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "• Grimanesa Amoros is a Peruvian American artist.\n• She is well known for her large-scale LED light sculptures.\n• *Substancial (Phase 4)* debuted in 2007 at the Hudson River Community Health Center in Peekskill, New York.\n• It is made of iridescent multicolored LED domes.\n• It occupies 2,816 cubic feet of space.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize when and where *Substancial (Phase 4)* debuted?",
+    "choices": {
+      "A": "Grimanesa Amoros is a Peruvian American artist who often works with LED light in her large-scale sculptures, such as *Substancial (Phase 4)* (2007).",
+      "B": "Artist Grimanesa Amoros often works with light in her sculptures, which tend to be large in scale.",
+      "C": "As is common of Grimanesa Amoros's sculptures, the iridescent multicolored LED domes of *Substancial (Phase 4)* cut an imposing 2,816-cubic-foot figure when the piece debuted.",
+      "D": "In 2007, Grimanesa Amoros debuted *Substancial (Phase 4)* in Peekskill, New York."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Meteorites found on Earth are divided into two categories.\n• A meteorite that was observed falling to Earth before being recovered is known as a meteorite fall.\n• All other meteorites found on Earth are known as meteorite finds.\n• There have been about 1,200 recorded meteorite falls.\n• There have been over 60,000 recorded meteorite finds.",
+    "text": "The student wants to contrast the number of meteorite falls with the number of meteorite finds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "A meteorite that was observed falling to Earth before being recovered is known as a meteorite fall; all others are known as meteorite finds.",
+      "B": "Meteorites found on Earth are divided into two categories: meteorite falls and meteorite finds.",
+      "C": "There have been about 1,200 recorded meteorite falls, or meteorites observed falling to Earth.",
+      "D": "While there have been only about 1,200 recorded meteorite falls, there have been over 60,000 meteorite finds."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Museu de les Ciencies Principe Felipe is in Valencia, Spain.\n• It is home to a Foucault pendulum.\n• Vasile Alecsandri National College is in Galati, Romania.\n• It is home to a Foucault pendulum.\n• A Foucault pendulum dangles from a fixed point that ensures the swing path of the pendulum doesn't change.\n• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.",
+    "text": "The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Because Earth rotates beneath it, the swing path of the Foucault pendulum at the Museu de les Ciencies Principe Felipe appears to change over time.",
+      "B": "The Museu de les Ciencies Principe Felipe, which is home to a Foucault pendulum, is in Spain, not Romania.",
+      "C": "The Museu de les Ciencies Principe Felipe in Valencia, Spain, and Vasile Alecsandri National College in Galati, Romania, both house Foucault pendulums.",
+      "D": "One Foucault pendulum is in Spain, and the other is in Romania."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "• Vexillology is the study of flags.\n• The flags of many countries include symbols like animals, plants, or landforms.\n• These symbols often represent an aspect of the region's history, culture, or landscape.\n• The flag of Slovakia includes the Tatra, Mátra, and Fatra mountains.\n• The flag of Kiribati includes a frigatebird.",
+    "text": "Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?",
+    "choices": {
+      "A": "Vexillology is the study of flags; accordingly, vexillologists are interested in flags from around the world.",
+      "B": "Slovakia's flag includes the Tatra, Mátra, and Fatra mountains, a symbol that is important to that country's national identity.",
+      "C": "Many countries feature symbols on their flags, and the study of these designs is known as vexillology.",
+      "D": "The flags of some countries include symbols of landforms; Slovakia's, for example, includes the Tatra, Mátra, and Fatra mountains."
+    },
+    "imageUrl": null
+  }
+}

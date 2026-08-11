@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. One artist who received the fellowship is taiko drummer Seiichi Tanaka. Tanaka was chosen for his lifetime ______ the arts.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "contributions to",
+      "B": "imitations of",
+      "C": "doubts about",
+      "D": "misunderstandings of"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "The following text is adapted from Kenneth Grahame's 1908 novel The Wind in the Willows. The Mole is dazed after briefly meeting a stranger while traveling with a friend.\n\n[The] Mole stood still a moment, held in thought. As one wakened suddenly from a beautiful dream, who struggles to _recall_ it, and can re-capture nothing but a dim sense of the beauty of it, the beauty! Till that, too, fades away in its turn.",
+    "text": "As used in the text, what does the word \"recall\" most nearly mean?",
+    "choices": {
+      "A": "Begin",
+      "B": "Remember",
+      "C": "Overlook",
+      "D": "Reject"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Categorical claims about the original function and significance of the Urfa Man—a statue of a human figure found in what is now Turkey and dating from around 11,000 years ago—should be treated ______. We simply do not know enough about the people of the time to say with certainty what the statue meant to them.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "indulgently",
+      "B": "skeptically",
+      "C": "reverentially",
+      "D": "individually"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Few religious buildings can be said to ______ the astonishing size of Sultan Salahuddin Abdul Aziz Mosque in Malaysia, which, with the capacity to accommodate approximately 24,000 people at once, is one of the largest mosques in the world.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "conceal",
+      "B": "symbolize",
+      "C": "minimize",
+      "D": "match"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Steepletop in Austerlitz, New York, is the house where Edna St. Vincent Millay lived for twenty-five years and wrote many of her poems. Now the house is a museum dedicated to Millay's life and writings. Visitors travel to this museum to feel more connected to an author they admire. To encourage that sense of connection, the museum's curators recommend nearby hiking trails and outdoor activities. Such activities help visitors appreciate the natural scenery that inspired Millay.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To compare Steepletop with other museums",
+      "B": "To explain why readers enjoy Millay's works",
+      "C": "To summarize Millay's biography",
+      "D": "To describe a museum focused on Millay's life and works"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes Snake from 1997, which museum visitors can play on site, and SimCity 2000 from 1994, which visitors can see only in a video presentation. MOMA claims the video presentations are only for games that would be impractical to display in a playable form, but _video games are an inherently interactive medium_, a feature that is grossly absent in a video-only presentation.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It identifies a feature of video games that is central to the author's criticism of MOMA's decision to use video-only presentations for some games.",
+      "B": "It provides a claim about video games as art that both MoMA and the author accept as true.",
+      "C": "It describes a characteristic shared by many video games but not by some of the games in MoMA's exhibition.",
+      "D": "It presents a view about treating video games as art that the author criticizes in the remainder of the sentence."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "In a large community science effort, biologist Abbigail Merrill and colleagues collaborated with hundreds of students and other amateur science enthusiasts for more than three years to study how butterfly color and time of day relate to butterfly behavior. They found that butterfly color might influence behavior more than butterfly size does, and that butterflies were observed to feed more often in the morning than at any other time of day.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Time of day and butterfly color seem to have less influence on butterfly behavior than the location where the butterflies are studied does.",
+      "B": "A recent study suggested that butterflies' coloring seems to be less relevant to their behavior than time of day.",
+      "C": "Collaboration between professional scientists and members of the public is especially useful when studying the behavior of butterflies and other flying insects.",
+      "D": "A large study suggested that butterfly color and time of day might influence the behavior of certain butterflies."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "A contraction of \"you all,\" the pronoun \"y'all\" has long been used as a plural version of \"you\" in the South and in Black communities around the US. In recent decades, most other English-speaking communities in the US have begun to use \"y'all.\" What explains its rise in popularity? Many varieties of English have no pronoun that specifically addresses more than one person and instead must use \"you\" to address both one person and more than one. But \"y'all\" always refers to two or more people. As a result, it conveys the speaker's meaning more precisely than \"you\" can.",
+    "text": "Which question does the text most directly attempt to answer?",
+    "choices": {
+      "A": "How many other plural versions of the pronoun \"you\" are there in English, besides \"y'all\"?",
+      "B": "When was the first recorded use of the pronoun \"y'all\" in the English language?",
+      "C": "Is \"y'all\" commonly used in English-speaking regions of the world besides the US?",
+      "D": "Why has the pronoun \"y'all\" become more widely used in the US?"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "The following text is from Julia Alvarez's 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.\n\nIt was evening when the two men got up to leave. Tía Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into Salomé's salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.\n\n©2020 by Julia Alvarez",
+    "text": "Based on the text, what most likely motivates Tía Ana's behavior during Salomé's salon?",
+    "choices": {
+      "A": "She considers the guests to be uninteresting and is trying to convince them to leave.",
+      "B": "She is anxious for the gathering to disperse so that she can ready the space for her own needs.",
+      "C": "She is impatient to share her plans to start a new school with the guests and hopes they will support her.",
+      "D": "She is frustrated because she needs assistance elsewhere in the house, but Salomé is unavailable while entertaining the guests."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______",
+    "text": "Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?",
+    "choices": {
+      "A": "Vanya says to himself, \"I was proud of [Professor Serebrakoff] and of his learning; I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank!\"",
+      "B": "Professor Serebrakoff says to Helena, \"Ever since I have been old I have been hateful to myself, and I am sure, hateful to you all as well.\"",
+      "C": "Professor Serebrakoff says, \"I am a book-worm and a scholar, and am unfamiliar with practical affairs. I cannot, I find, dispense with the help of well-informed people.\"",
+      "D": "Professor Serebrakoff says to Helena, \"I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness [the estate], condemned to see the same stupid people from morning till night and listen to their futile conversations.\""
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey: ______",
+    "text": "Which quotation from a translation of The Underdogs most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"The sonorous, joyful bells rang again. From within the church, the honeyed voices of a female chorus rose melancholy and grave.\"",
+      "B": "\"All day long [the soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man's head, hill after hill in endless succession. At last, late in the afternoon, they descried several stone church towers in the heart of a bluish ridge, and, beyond, the white road with its curling spirals of dust and its gray telegraph poles.\"",
+      "C": "\"The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air, redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.\"",
+      "D": "\"Before Juchipila was lost from sight, Valderrama got off his horse, bent down, kneeled, and gravely kissed the ground.\""
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "Eduardo Martinez and colleagues found that tilling—the practice of turning soil with hoes, plows, or other machines before planting crops—was associated with an increased yield of winter wheat. But some studies of other crops have found the opposite effect, raising the question of whether the increase in yield found by Martinez and colleagues is specific to their study crop. However, this doesn't seem to be the case: ______",
+    "text": "Which choice most effectively uses data from the table to complete the assertion?",
+    "choices": {
+      "A": "Igor Bogunovic and colleagues reported an even larger positive effect of tilling on the yield of maize.",
+      "B": "a study using winter wheat yielded 4,829 kilograms per hectare with tilling and only 2,894 kilograms per hectare without tilling.",
+      "C": "Fuseini Issaka and colleagues found a similar association in a study using rice.",
+      "D": "crop yields with tilling have ranged from 1,676 kilograms per hectare for spring barley to 6,400 kilograms per hectare for rice."
+    },
+    "imageUrl": "/mocks/purplebook-test-10/figures/eng1-q12-tilling-crop-yields.svg"
+  },
+  "13": {
+    "stimulus": "The Age of Innocence is a 1920 novel by Edith Wharton set in 1870s New York City. In the novel, Newland Archer attends an opera. The narrator describes Newland's tendency to follow the social conventions dictated by other men of New York City society who are in the audience: ______",
+    "text": "Which quotation from The Age of Innocence best illustrates the claim?",
+    "choices": {
+      "A": "\"Though there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music].\"",
+      "B": "\"It surprised [Newland] that life should be going on in the old way when his own reactions to it had so completely changed.\"",
+      "C": "\"Newland Archer felt himself distinctly the superior of these chosen specimens of old New York gentility; he had probably read more, thought more, and even seen a good deal more of the world, than any other man of the number.\"",
+      "D": "\"Singly [the men around Newland] betrayed their inferiority; but grouped together they represented 'New York,' and the habit of masculine solidarity made him accept their doctrine on all the issues called moral.\""
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Rue du Petit-Champlain in Québec City, Canada, is a pedestrianized street—it is closed to car traffic except in special circumstances. Students in Québec City surveyed residents about a proposal to increase the amount of car traffic allowed on Rue du Petit-Champlain. The survey results suggest that residents are generally against the proposal, and the students claim that much of the survey respondents' opposition stems from concerns that allowing more car traffic would diminish the distinctive character of the street.",
+    "text": "Which quotation from a survey respondent would best illustrate the students' claim?",
+    "choices": {
+      "A": "\"I think Québec City needs more streets like Rue du Petit-Champlain, not more streets full of loud cars spewing exhaust fumes into the air.\"",
+      "B": "\"Rue du Petit-Champlain is one of the most unusual streets in Québec City. I would hate to see it become just like any other street.\"",
+      "C": "\"A lot of the businesses on Rue du Petit-Champlain depend on foot traffic. If fewer people walk on the street because there are more cars, those businesses might struggle.\"",
+      "D": "\"People behind this idea hardly consulted any of us who work or live around Rue du Petit-Champlain. This proposal doesn't reflect our opinions.\""
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Buried collections of Bronze Age metal items (called hoards) have been found all over Britain. For hoards discovered since the 1960s, such as the 1965 discovery of the Walderslade hoard, advancements like inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier for searchers to locate hoards before putting the first shovel in the ground. Hoards found before the 1960s, however, such as the discovery of the Auchnacree hoard around 1921 were not aided by such technologies and thus were much more likely to ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "include rare items from the 10th century BCE.",
+      "B": "include gold jewelry",
+      "C": "occur before the ground was disturbed",
+      "D": "result from artifacts being unearthed accidentally."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Trade with other societies was vital to the Byzantine Empire, which reigned in the Mediterranean from around 330 CE to 1453 CE. Its people profited by selling salt, textiles, and iron, items that ______ greatly in demand.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has been",
+      "B": "were",
+      "C": "was",
+      "D": "is"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "As an object-oriented computer programming language, Perl is used by coders like Black Girls Code founder Kimberly Bryant ______ programs by manipulating \"objects\" (that is, specifically defined variables or combinations of variables) into interacting with each other. Conversely, Pascal, used in software development and educational instruction, is not an object-oriented language.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "create",
+      "B": "to create",
+      "C": "created",
+      "D": "is creating"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Navajo artist Sally Black's mastery of traditional weaving techniques is apparent in her expertly crafted baskets, which typically are woven from sumac (a textured and flexible material) and ______ bold colors.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "had featured",
+      "B": "were featuring",
+      "C": "featured",
+      "D": "feature"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Featuring works by the photographers Dora Maar and Rogi André, the 2021 exhibition The New Woman Behind the Camera set out to provide a wide-ranging overview of photography by women in the 1920s through the ______ given the collection's breadth of more than 120 photos, its efforts were largely successful.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "1950s",
+      "B": "1950s and",
+      "C": "1950s, and",
+      "D": "1950s,"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "The Timeline of African American Music, a website that traces the history of genres such as soul and ragtime, is the result of decades of research by ethnomusicologist Portia K. Maultsby. She was not alone in her ______ Fernando Orejuela and Stephanie Shonekan, among other scholars, also contributed to the project.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "efforts, however;",
+      "B": "efforts however",
+      "C": "efforts; however,",
+      "D": "efforts, however,"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "The Austronesian language family comprises some 1,200 languages, including Minangkabau and Ilokano, which are spoken primarily in Indonesia and the Philippines, ______ accounting for one-fifth of the world's languages, the Austronesian family is of keen interest to linguists like Sandra Chung.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "respectively and",
+      "B": "respectively,",
+      "C": "respectively;",
+      "D": "respectively"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "In his essay \"Of Sleep,\" French philosopher Michel de Montaigne explores a relatively light subject, but he addresses heavier fare in \"Of the Vanity of Words.\" Regardless of subject matter, Montaigne works to question his own perspective throughout his essays. ______ his personal motto was \"What do I know?\"",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Conversely,",
+      "B": "Nowadays,",
+      "C": "Still,",
+      "D": "Fittingly,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "Courses on African American history can be found at colleges and universities across the US. For example, historian Jeanne Theoharis teaches courses at Brooklyn College about the Civil Rights and Black Power movements. ______ at Virginia Tech University, historian Paula Marie Seniors teaches courses about Africana studies.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In other words,",
+      "B": "Thus,",
+      "C": "In particular,",
+      "D": "Elsewhere,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Spinach is a vegetable that contains ascorbic acid, an essential nutrient for humans.\n• There is 30 milligrams (mg) of ascorbic acid in every 100 grams (g) of spinach.\n• Cauliflower is a vegetable that contains ascorbic acid.\n• There is 48 mg of ascorbic acid in every 100 g of cauliflower.\n• Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.\n• Ascorbic acid is also known as vitamin C.",
+    "text": "The student wants to emphasize a similarity between spinach and cauliflower. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Humans cannot make vitamin C in their bodies, so they must get this essential nutrient from vegetables, such as spinach.",
+      "B": "Just like fruits, vegetables are a food that humans can eat to get ascorbic acid, also know as vitamin C.",
+      "C": "Cauliflower is a vegetable that contains ascorbic acid; in fact, there is 48 mg of it in every 100g of cauliflower.",
+      "D": "One thing that spinach and cauliflower have in common is that they both contain vitamin C."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Traditionally, manufacturers have dyed denim jeans blue by dipping them in a solution containing indigo powder.\n• Indigo doesn't dissolve in just water, so manufacturers must mix hazardous chemicals with water to dissolve the powder.\n• Textile researcher Smriti Rai discovered a process for dyeing blue jeans without chemicals.\n• Rai added indigo powder to a hydrogel containing nanocellulose and produced a dye that could be spread directly onto the denim.\n• Nanocellulose is a natural, plant-based substance that separates the molecules of indigo powder.",
+    "text": "The student wants to emphasize a difference between the two approaches to dyeing blue jeans. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Though created using a different process, Rai's dye contains the same ingredient as the dye produced by blue jean manufacturers.",
+      "B": "Nanocellulose is a natural, plant-based substance that separates the molecules of indigo powder, which doesn't dissolve in water.",
+      "C": "The traditional approach to dyeing blue jeans is to dip them in a solution containing hazardous chemicals.",
+      "D": "Rai's approach substitutes a natural, plant-based substance for the hazardous chemicals that manufacturers have traditionally used."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "• Jean-Michel Basquiat was an American artist who produced more than two thousand drawings and paintings.\n• His work Mater was completed in 1982 and sold at auction in 2017.\n• Mater is composed of acrylic and oil stick on canvas and measures 6,048 square inches in area.\n• His work Flash in Naples was completed in 1983 and sold at auction in 2009.\n• Flash in Naples is composed of acrylic, oil stick, and oil on canvas and measures 3,992 square inches in area.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize how the two works are similar?",
+    "choices": {
+      "A": "Between artist Jean-Michel Basquiat's works Mater and Flash in Naples, the former is the larger of the two.",
+      "B": "Composed by artist Jean-Michel Basquiat in 1982 and 1983, respectively, both Mater and Flash in Naples use acrylic paint as a medium.",
+      "C": "Artist Jean-Michel Basquiat completed Mater in 1982, and Flash in Naples followed in 1983.",
+      "D": "Artist Jean-Michel Basquiat's work Mater is composed of acrylic and oil stick, while Flash in Naples is composed of acrylic, oil stick, and oil."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Future of Nostalgia is a scholarly book by literary theorist Svetlana Boym.\n• The book explores the concept of nostalgia from various angles.\n• Chapter 1 outlines the origins and use of the term nostalgia.\n• Chapter 17 discusses various skeptics' takes on the concept of nostalgia.\n• In Chapter 17, Boym expresses, \"The poethics of nostalgia combines estrangement and human solidarity, affect and reflection.\"",
+    "text": "The student wants to explain what Svetlana Boym writes about in chapter 1. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Literary theorist Svetlana Boym outlines the origins and use of the term nostalgia in chapter 1 of her book.",
+      "B": "As Svetlana Boym writes in the seventeenth chapter of her book, \"The poethics of nostalgia combines estrangement and human solidarity, affect and reflection.\"",
+      "C": "After outlining the origins and use of the term nostalgia, Svetlana Boym goes on to discuss various skeptics' takes on the concept of nostalgia.",
+      "D": "Svetlana Boym's The Future of Nostalgia explores the concept of nostalgia from various angles."
+    },
+    "imageUrl": null
+  }
+}
