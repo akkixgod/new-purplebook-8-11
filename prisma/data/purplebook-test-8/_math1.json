@@ -1,0 +1,223 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The table summarizes members of a local organization by age and whether they live north or south of Center St. If a member of the organization is selected at random, what is the probability that the selected member is at least 45 years old?",
+    "choices": {
+      "A": "30/135",
+      "B": "35/135",
+      "C": "100/135",
+      "D": "105/135"
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q01-member-table.svg"
+  },
+  "2": {
+    "stimulus": "4x + 13y = 150",
+    "text": "The equation gives the possible combinations of the number of mugs, x, and the number of plates, y, in a collection that is worth a total of $150. If there are 6 plates in the collection, how many mugs are in the collection?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 5x². What is the value of f(7)?",
+    "choices": {
+      "A": "35",
+      "B": "45",
+      "C": "70",
+      "D": "245"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "Sophia bought confetti and balloons for $56. Each package of confetti cost $3, and each balloon cost $1. If Sophia bought 10 packages of confetti, how many balloons did she buy?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "In the given scatterplot, a line of best fit for the data is shown. Which of the following equations best represents this line of best fit?",
+    "choices": {
+      "A": "y = 1.1x",
+      "B": "y = −1.1x",
+      "C": "y = 5.2",
+      "D": "y = −5.2"
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q05-scatter-best-fit.svg"
+  },
+  "6": {
+    "stimulus": null,
+    "text": "A geologist estimates that the volume of a boulder is greater than 12.7 cubic feet but less than 15.7 cubic feet. The geologist also estimates that the boulder weighs 160 pounds per cubic foot of volume. Which inequality represents this situation, where x represents the estimated total weight, in pounds, of the boulder?",
+    "choices": {
+      "A": "160 − 15.7 < x < 160 − 12.7",
+      "B": "160 + 12.7 < x < 160 + 15.7",
+      "C": "160(12.7) < x < 160(15.7)",
+      "D": "160/15.7 < x < 160/12.7"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "A shopper is purchasing oranges that cost $0.67 each. If the shopper has a coupon for $2 off the entire purchase and there is no sales tax, which inequality represents the number of oranges, x, that the shopper can purchase for no more than $12?",
+    "choices": {
+      "A": "0.67x + 2 ≤ 12",
+      "B": "0.67x + 2 ≥ 12",
+      "C": "0.67x − 2 ≤ 12",
+      "D": "0.67x − 2 ≥ 12"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "5% of w is 741.41. What is the value of w?",
+    "choices": {
+      "A": "778.481",
+      "B": "3,707.05",
+      "C": "14,828.2",
+      "D": "70,433.95"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The table shows the distribution of height, in centimeters, of 25 objects. Which of the following could be the median height of these objects?",
+    "choices": {
+      "A": "355",
+      "B": "255",
+      "C": "155",
+      "D": "55"
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q09-height-frequency.svg"
+  },
+  "10": {
+    "stimulus": null,
+    "text": "For the linear function f, the graph of y = f(x) in the xy-plane has a slope of 28 and passes through the point (0, 0). The function f is defined by f(x) = ax, where a is a constant. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown. Which of the following is closest to the slope of this line of best fit?",
+    "choices": {
+      "A": "−3.3",
+      "B": "−1.1",
+      "C": "1.1",
+      "D": "3.3"
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q11-scatter-best-fit.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The product of a positive number x and the number that is 1 less than x is equal to 272. What is the value of x?",
+    "choices": {
+      "A": "0.5",
+      "B": "17",
+      "C": "271",
+      "D": "273"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "If 5(3x + 6) = 3(3x + 6) + 78, what is the value of 3x + 6?",
+    "choices": {
+      "A": "78",
+      "B": "39",
+      "C": "33",
+      "D": "11"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "j/k = 62\n96j/(12xk) = 62",
+    "text": "If j/k = 62 and 96j/(12xk) = 62, what is the value of x?",
+    "choices": {
+      "A": "1/8",
+      "B": "6/31",
+      "C": "8",
+      "D": "96"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of f(x), where f(x) = (kx + 45)/(x + 2) and k is a constant. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q15-fx-table.svg"
+  },
+  "16": {
+    "stimulus": null,
+    "text": "Line k is shown in the xy-plane. Line j (not shown) is perpendicular to line k. What is the slope of line j?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q16-line-k.svg"
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The table gives three values of x in terms of constant k and their corresponding values of y. There is a linear relationship between x and y. In the xy-plane, the y-intercept of the line that represents this relationship is (0, 5). What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q17-xy-table.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "The current value of a house is $174,000, and this value increases by 2.4% each year from the value of the previous year. Which function f gives the value, in dollars, of the house x years from now?",
+    "choices": {
+      "A": "f(x) = 174,000(0.024)^x",
+      "B": "f(x) = 174,000(0.24)^x",
+      "C": "f(x) = 174,000(1.024)^x",
+      "D": "f(x) = 174,000(1.24)^x"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "The graph of y = f(x) is shown, where f(x) = ab^x + c, and a, b, and c are constants. For how many values of x does f(x) = 0?",
+    "choices": {
+      "A": "Three",
+      "B": "Two",
+      "C": "One",
+      "D": "Zero"
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q19-exponential.svg"
+  },
+  "20": {
+    "stimulus": null,
+    "text": "If (x − 16)/27 = (x − 16)/9, what is the value of x + 16?",
+    "choices": {
+      "A": "0",
+      "B": "3",
+      "C": "16",
+      "D": "32"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "Parallelogram ABCD is similar to parallelogram PQRS. The length of each side of parallelogram PQRS is 2 times the length of its corresponding side of parallelogram ABCD. The area of parallelogram ABCD is 5 square centimeters. What is the area, in square centimeters, of parallelogram PQRS?",
+    "choices": {
+      "A": "7",
+      "B": "10",
+      "C": "20",
+      "D": "25"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "The equation of the graph shown is y = a^x + b, where a and b are constants. What is the value of a − b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/math1-q22-exponential.svg"
+  }
+}

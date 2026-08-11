@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="410" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Studies of the Effects of Tilling vs. No Tilling on Crop Yields</text>
+  <!-- header -->
+  <rect x="10" y="40" width="200" height="52" fill="#f3f4f6" stroke="#111"/>
+  <text x="110" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Authors</text>
+  <rect x="210" y="40" width="90" height="52" fill="#f3f4f6" stroke="#111"/>
+  <text x="255" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Location</text>
+  <rect x="300" y="40" width="90" height="52" fill="#f3f4f6" stroke="#111"/>
+  <text x="345" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Crop</text>
+  <rect x="390" y="40" width="210" height="52" fill="#f3f4f6" stroke="#111"/>
+  <text x="495" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Crop yield with tilling</text>
+  <text x="495" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">(kilograms per hectare)</text>
+  <rect x="600" y="40" width="210" height="52" fill="#f3f4f6" stroke="#111"/>
+  <text x="705" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Crop yield with no tilling</text>
+  <text x="705" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">(kilograms per hectare)</text>
+  <!-- row 1 -->
+  <rect x="10" y="92" width="200" height="36" fill="#fff" stroke="#111"/>
+  <text x="110" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="11">T.K. Das and colleagues</text>
+  <rect x="210" y="92" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="255" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">India</text>
+  <rect x="300" y="92" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="345" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">maize</text>
+  <rect x="390" y="92" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="495" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,760</text>
+  <rect x="600" y="92" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="705" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">4,040</text>
+  <!-- row 2 -->
+  <rect x="10" y="128" width="200" height="36" fill="#fff" stroke="#111"/>
+  <text x="110" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="11">Igor Bogunovic and colleagues</text>
+  <rect x="210" y="128" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="255" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12">Croatia</text>
+  <rect x="300" y="128" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="345" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12">maize</text>
+  <rect x="390" y="128" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="495" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12">8,553</text>
+  <rect x="600" y="128" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="705" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12">6,065</text>
+  <!-- row 3 -->
+  <rect x="10" y="164" width="200" height="36" fill="#fff" stroke="#111"/>
+  <text x="110" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="11">Vinicius Brown and colleagues</text>
+  <rect x="210" y="164" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="255" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="12">Brazil</text>
+  <rect x="300" y="164" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="345" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="12">soybeans</text>
+  <rect x="390" y="164" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="495" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="12">3,070</text>
+  <rect x="600" y="164" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="705" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,270</text>
+  <!-- row 4 -->
+  <rect x="10" y="200" width="200" height="36" fill="#fff" stroke="#111"/>
+  <text x="110" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="11">Adrian Gracia-Romero and colleagues</text>
+  <rect x="210" y="200" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="255" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="12">Zimbabwe</text>
+  <rect x="300" y="200" width="90" height="36" fill="#fff" stroke="#111"/>
+  <text x="345" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="12">maize</text>
+  <rect x="390" y="200" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="495" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,420</text>
+  <rect x="600" y="200" width="210" height="36" fill="#fff" stroke="#111"/>
+  <text x="705" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,990</text>
+</svg>

@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "Web developers often encourage users to create passwords that are fairly complicated and therefore difficult to guess. Nonetheless, research has shown that the more ______ approach to password selection seems to favor convenience over security: for example, the fifth most commonly used password in 2013 was the easily remembered \"abc123.\"",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "complex",
+      "B": "useful",
+      "C": "creative",
+      "D": "popular"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "One popular theory of the origin of the Moon, the \"big whack,\" posits that a protoplanet called Theia collided with Earth, flinging debris into orbit that eventually coalesced into the Moon. Until recently, Theia was ______, but researcher Qian Yuan and colleagues now claim to have identified pieces of the protoplanet in the lowermost section of Earth's mantle.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "desultory",
+      "B": "notional",
+      "C": "veritable",
+      "D": "spurious"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Andrei Tarkovsky's Solaris has the measured pace typical of slow-cinema films. Thai slow-cinema director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives) even states that his own work induces sleep in audiences. This might suggest his films are boring, but boredom does not always cause sleep: boredom creates an anxious tension in the absence of a place to fix attention, and thus induces not somnolence but ______.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "fortitude",
+      "B": "perturbation",
+      "C": "nonchalance",
+      "D": "indolence"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "______ though it seemed to many mathematicians, the Marden tameness conjecture, posed in 1974, eventually yielded to the efforts of Ian Agol, who presented a proof of it in 2004.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "Insuperable",
+      "B": "Unequivocal",
+      "C": "Irreproachable",
+      "D": "Ineluctable"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "_Individual elephants and Arctic herbivores such as caribou tend to have fixed geographic ranges throughout their lifetimes_, which had prompted some researchers to speculate that the Arctic woolly mammoth, an extinct elephantid, might have exhibited similar behavior. Mammoth tusks grew in sequential layers, incorporating ingested minerals and organics, and so each ivory stratum reflects the ratio of strontium isotopes (87Sr/86Sr) in the local environment; thus, the sequence of strata shows where the animal roamed during life. Recent analysis of the strontium ratios in the strata of one Arctic woolly mammoth tusk in relation to the geographic distribution of strontium ratios in the environment shows the animal's range begin to expand as it reached sexual maturity, only to contract again in its final 1.5 years.",
+    "text": "Which choice best describes the function of the underlined statement in the text as a whole?",
+    "choices": {
+      "A": "It discusses a characteristic shared by certain animals in order to explain why researchers raised a possibility that turned out not to be supported by data described later in the text.",
+      "B": "It illustrates a pattern of behavior among certain animals in order to present a theory about exceptions to that pattern that is weakened by a finding described later in the text.",
+      "C": "It describes a similarity in the behavior of certain animals in order to show why a method described later in the text did not reveal whether another animal also showed that behavior.",
+      "D": "It introduces a trait shared by certain animals in order to contextualize a hypothesis about the origin of that trait that is advanced later in the text."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Text 1\nFor thousands of years, O'odham farmers in the Sonoran desert of the southwestern US and northern Mexico have cultivated elderberries and chia seeds, sometimes planting these species together so that the elderberry bushes provide shade for chia flowers. Doing so helps protect chia flowers from the harshest heat and light and thereby helps prevent soil moisture from evaporating.\n\nText 2\nChia flowers are well adapted to growing in the desert but grow best when shaded. Inspired by O'odham farmers, who often strategically plant chia flowers in the shade of sun-hardy species like elderberry bushes for protection from the sun and heat, Gary Nabhan and colleagues planted chia flowers in the shade of solar panels in the Sonoran desert and found that the plants grew well, suggesting to Nabhan and colleagues that the panels provide a benefit similar to that provided by elderberry bushes.",
+    "text": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?",
+    "choices": {
+      "A": "Elderberry bushes can provide shade that protects chia flowers from high-intensity heat and light.",
+      "B": "Nabhan's team's method could be refined to more actively prevent soil moisture from evaporating.",
+      "C": "Compared with Nabhan's approach, the O'odham approach has the advantage of producing chia seeds.",
+      "D": "Elderberry bushes grow best when planted in shaded areas, while chia flowers do not require shade to thrive."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Text 1\nIn parts of New Zealand, the stoat is a major predator of the house mouse. Researcher G.L. Blackwell and colleagues found that when this predation pressure on house mice was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological _principle_: predators control prey population numbers.\n\nText 2\nWilliam D. Gulsby and colleagues found that excluding coyotes from a site in the state of Georgia where they typically prey on white-tailed deer had no significant effect on white-tailed deer abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, mice, and frogs, rather than large, slowly reproducing prey, like white-tailed deer, which could account for the difference between those results and Gulsby and colleagues' results.",
+    "text": "Based on the texts, the author of Text 2 would most likely agree with which statement about the \"principle\" mentioned in Text 1?",
+    "choices": {
+      "A": "It is plausible, but many of the studies that support it have methodological flaws.",
+      "B": "It has been challenged by some studies, but the findings of those studies have not been widely accepted.",
+      "C": "It may be true for some predators but only because those predators share certain physical characteristics.",
+      "D": "It has some evidential support, but it should not be regarded as universally applicable."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Text 1\nStudies contributing to the body of evidence that people generally enjoy socializing have routinely focused on interactions in ongoing relationships (from spouses to classmates), but psychologist Selin Salman-Engin and colleagues have demonstrated the benefit of making connections with strangers. Greater positive affect was reported by participants in their study who warmly thanked a shuttle driver than by those who didn't speak to the driver.\n\nText 2\nSocial relations research commonly draws on a model that centers an individual within three concentric circles. The innermost circle holds one's strongest ties (e.g., a treasured friend), the next holds close but less important ties (e.g., a teammate), and the outermost holds weak ties (those more distant but important enough to be counted as part of one's social network).",
+    "text": "Based on the texts, what would Salman-Engin and colleagues (Text 1) most likely say about the discussion of the model in Text 2?",
+    "choices": {
+      "A": "It underscores that most research on social interactions fails to capture a category of connection that has the capacity to contribute positively to individuals' sense of well-being.",
+      "B": "It reflects an overemphasis on relationship longevity in researchers' evaluations of the relative importance of various connections in an individual's social network.",
+      "C": "It explains researchers' observations that individuals typically expect interactions with familiar people to be more positive than their interactions with unfamiliar people would be.",
+      "D": "It emphasizes distinctions among types of close connections that aren't adequately represented in social relations research, since most studies categorize relationships as either close or casual."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "In a paper for an art history class, a student claims that Rosa Bonheur's 1855 painting The Horse Fair marks a significant change in Bonheur's artistic development.",
+    "text": "Which quotation from an art history textbook would most effectively support the student's claim?",
+    "choices": {
+      "A": "\"The paintings that Bonheur produced before The Horse Fair can be thought of as belonging to her earlier style, to which she never returned.\"",
+      "B": "\"Of all Bonheur's paintings, none so clearly represents her abilities and ideas as The Horse Fair.\"",
+      "C": "\"The Horse Fair has been analyzed extensively since it was first exhibited, as no two viewers seem to agree about exactly what the painting means.\"",
+      "D": "\"Although Bonheur was clearly influenced by other artists of her time, she was also an artist ahead of her time, as The Horse Fair demonstrates.\""
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "Growing seasons in Alaska have been extending further into the year in response to climate warming, potentially enabling increased carbon dioxide (CO₂) absorption through greater productivity of marsh cinquefoil (Comarum palustre) plants and other vegetation, but also potentially enabling increased CO₂ output through greater heterotrophic respiration (CO₂ generated by the activity of soil microorganisms). Hydrologist Yonghong Yi and her colleagues developed a model incorporating numerous inputs—years of solar radiation and snow cover data among them—to evaluate the effects of warming on the CO₂ balance in Alaska, concluding that net CO₂ is likely to increase if warming hastens spring snow melt.",
+    "text": "Which finding, if true, would most directly support the researchers' conclusion?",
+    "choices": {
+      "A": "Early snow melt extends the period in which plant species such as C. palustre can absorb CO₂ but has no effect on the rate of heterotrophic respiration.",
+      "B": "Early snow melt slows the growth of plant species such as C. palustre by reducing soil insulation, and it suppresses heterotrophic respiration.",
+      "C": "Early snow melt reduces the amount of soil moisture available for the growth of plant species such as C. palustre, and it raises the rate of heterotrophic respiration.",
+      "D": "Early snow melt amplifies the effect of solar radiation on the growth of plant species such as C. palustre and on the rate of heterotrophic respiration."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example ______",
+    "text": "Which choice most effectively uses data from the graph to complete the researcher's example?",
+    "choices": {
+      "A": "both Lake Baikal and Oulujärvi, which had more than 100 days of ice in the winter of 2005-06.",
+      "B": "Lake Baikal, which had more days of ice in the winter of 2005-06 than it did in the winter of 1980-81.",
+      "C": "both Lake Baikal and Oulujärvi, which had fewer than 195 days of ice in the winter of 1980-81.",
+      "D": "both Lake Kegonsa and Oulujärvi, which had more days of ice in the winter of 2005-06 than they did in the winter of 1980-81."
+    },
+    "imageUrl": "/mocks/purplebook-test-8/figures/eng2-q11-lakes-ice.svg"
+  },
+  "12": {
+    "stimulus": "Early Earth is thought to have been characterized by a stagnant lid tectonic regime, in which the upper lithosphere (the outer rocky layer) was essentially immobile and there was no interaction between the lithosphere and the underlying mantle. Researchers investigated the timing of the transition from a stagnant lid regime to a tectonic plate regime, in which the lithosphere is fractured into dynamic plates that in turn allow lithospheric and mantle material to mix. Examining chemical data from lithospheric and mantle-derived rocks ranging from 285 million to 3.8 billion years old, the researchers dated the transition to 3.2 billion years ago.",
+    "text": "Which finding, if true, would most directly support the researchers' conclusion?",
+    "choices": {
+      "A": "Mantle-derived rocks older than 3.2 billion years show significantly more compositional diversity than lithospheric rocks older than 3.2 billion years do.",
+      "B": "There is a positive correlation between the age of lithospheric rocks and their chemical similarity to mantle-derived rocks, and that correlation increases significantly in strength at around 3.2 billion years old.",
+      "C": "Mantle-derived rocks younger than 3.2 billion years contain some material that is not found in older mantle-derived rocks but is found in older and contemporaneous lithospheric rocks.",
+      "D": "Among rocks known to be older than 3.2 billion years, significantly more are mantle derived than lithospheric, but the opposite is true for the rocks younger than 3.2 billion years."
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "Some fuel additives contain cerium oxide nanoparticles (CeO2-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Mael Garaud and colleagues found that CeO2-NPs can accumulate in the bodies of zebra mussels (Dreissena polymorpha). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CeO2-NP bioaccumulation in invertebrates like D. polymorpha could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as rainbow trout (Oncorhynchus mykiss), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.",
+    "text": "Which finding, if true, would most directly weaken the hypothesis presented in the text?",
+    "choices": {
+      "A": "When D. polymorpha and O. mykiss are exposed to similar levels of CeO2-NPs, concentrations of CeO2-NPs in animals of both species show little variation from individual to individual.",
+      "B": "The rate of CeO2-NP uptake in D. polymorpha differs from the rate of CeO2-NP uptake in O. mykiss in a way that is not yet well understood by researchers.",
+      "C": "D. polymorpha has been shown to accumulate several other types of manufactured nanoparticles in addition to CeO2-NPs, whereas O. mykiss has been shown to accumulate only CeO2-NPs.",
+      "D": "Compared with O. mykiss, D. polymorpha can accumulate detectable CeO2-NP concentrations with significantly fewer negative effects."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Ships in the British Royal Navy during the Napoleonic Wars (1803–1815) were ranked based on military strength. The system considered the number of a ship's cannons and decks. \"First-rate\" was the highest ranking, and \"sixth-rate\" was the lowest ranking, followed by unranked ships. The size of a ship's crew was based on this ranking: first-rate ships had between 850 and 875 crewmen, while lower-ranked ships had fewer. Two of the ships in the British Royal Navy from this period were the Boyne (98 cannons and three decks) and the Britannia (120 cannons and three decks). Of these two, only the Britannia was ranked a first-rate ship. It can therefore be concluded that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "some ships with three decks had a crew of fewer than 850 people.",
+      "B": "the Britannia needed a crew larger than 875 people in order to operate efficiently.",
+      "C": "the Boyne had a larger crew than the Britannia.",
+      "D": "all ships with at least 98 cannons had a crew of at least 850 people."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Scientists recently created a model to predict how shorter winters will affect future mammal population sizes in US national forests. Unfortunately, when the model is applied to large forests, its predictions for large-mammal populations are too high, and when applied to small forests, its predictions for small-mammal populations are too high. Tuskegee National Forest in Alabama is a small forest, covering less than 100,000 acres. If used to evaluate the effect of shorter winters on this forest in ten years, the model would likely therefore ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "exaggerate the effect of shorter winters on large mammals.",
+      "B": "reflect factors affecting small mammals other than shorter winters.",
+      "C": "overestimate the actual population sizes of small mammals.",
+      "D": "ignore the predator prey relationships between large and small mammals."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn't been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Francisco Leon Zoque, and a Mixe branch, which includes North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "North Central Mixe and the other languages of the Mixe branch likely supplanted the languages of the Zoque branch sometime before 1500 BCE.",
+      "B": "the language of the Olmec civilization was likely the founding language of the family that includes Mayan languages.",
+      "C": "the language of the Olmec civilization contributed words not only to Mayan languages but also to other languages in the Mixe-Zoquean family.",
+      "D": "the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region."
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Included in Reclamation! Pan-African Works from the Beth Rudin DeWoody Collection, a 2018 group exhibition at the Taubman Museum of Art in Roanoke, Virginia, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, and ______ she is credited with expanding the horizons of conceptual photographic art.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "memory,",
+      "B": "memory, and",
+      "C": "memory and",
+      "D": "memory"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Citing the example of Zeus, a mythological god whose tomb was reportedly located on the island of Crete, the writer Euhemerus (fourth century BCE) theorized that all the deities in the Greek pantheon—including the god of knowledge and the arts, Apollo; the god of wine and the theater, Dionysus; and the god of constellations, ______ may have been historical figures who, through the power of myth, underwent apotheosis.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Crius;",
+      "B": "Crius—",
+      "C": "Crius,",
+      "D": "Crius"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Legal scholars James Melton and Tom Ginsburg's analysis of de jure judicial independence and its growth over decades ______ six constitutional features that enhance such independence, including judicial tenure and selection procedure. Romania's constitution contains one of these features.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have identified",
+      "B": "identifies",
+      "C": "are identifying",
+      "D": "identify"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "On most of the world's beaches, sand is a predictable cream or beige color. The sand at Talofofo Beach in Guam is an ______ sand gets its shade from deposits of gray-and tan-hued quartz and feldspar, deposits of crushed olivine crystal and other organic matter lend the sand at Talofofo Beach a colorful green tint.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "exception, though most",
+      "B": "exception: though most",
+      "C": "exception, though, most",
+      "D": "exception, though. Most"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "The parks of San Jose, California, seem to be making people happier. In a 2022 study, researchers ______ for a relationship between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from San Jose. The team found that posts from the city's parks contained more words associated with happiness than other posts did.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were looking",
+      "B": "looked",
+      "C": "looking",
+      "D": "had looked"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ______ they created the show Six, a retelling of the history of King Henry VIII's wives in which each of the six queens has a starring role.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In summary,",
+      "B": "In other words,",
+      "C": "For example,",
+      "D": "To that end,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "The album Irreversible...2012 by La Arrolladora Banda El Limón De René Camacho received much critical attention and praise for its contribution to the banda genre, a form of regional Mexican music featuring large ensembles of wind instruments and drums that first developed in southern and central Mexico in the mid-nineteenth century. ______ few were surprised when the album won the Best Banda Album award at the 2012 Latin Grammys.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Often,",
+      "B": "Therefore,",
+      "C": "Nevertheless,",
+      "D": "Granted,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "Scientists studying asteroid deflection have focused on secondary objects such as S/2020 (2013 PY6), a moonlet orbiting the near-Earth asteroid 2013 PY6. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. Scientists have yet to demonstrate, ______ that 2013 PY6 and other primary objects would be similarly affected.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "for example,",
+      "B": "though,",
+      "C": "likewise,",
+      "D": "moreover,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A copyright prevents a book's contents from being reproduced (published) without permission from the copyright holder.\n• When a book's copyright expires, the book enters the public domain and can be legally reproduced by anyone.\n• Cane is a novel by Jean Toomer.\n• It entered the public domain in 2019.\n• Billy Budd, Sailor is a novella by Herman Melville.\n• It entered the public domain in 2020.",
+    "text": "The student wants to emphasize a similarity between Jean Toomer and Herman Melville. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Cane, a novel by Jean Toomer, entered the public domain in 2019, unlike Herman Melville's novella Billy Budd, Sailor.",
+      "B": "Both Cane and Billy Budd, Sailor are in the public domain; however, one is a novel and the other a novella.",
+      "C": "The year was 2020, and the copyright to Herman Melville's Billy Budd, Sailor had finally expired.",
+      "D": "Jean Toomer and Herman Melville are two authors whose works recently entered the public domain."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A sailing trip that goes in a complete circle around the world is called a circumnavigation.\n• Most circumnavigations include stops on land.\n• Anne Liardet is a French sailor.\n• Liardet sailed the boat Roxy on a nonstop, 119-day circumnavigation.\n• Asia Pajkowska is a Polish sailor.\n• Pajkowska sailed the boat FanFan on a nonstop, 216-day circumnavigation.",
+    "text": "The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Pajkowska sailed FanFan around the world, while Liardet sailed Roxy.",
+      "B": "Pajkowska and Liardet have both embarked on sailing journeys around the world, also called circumnavigations.",
+      "C": "Most circumnavigations include stops on land, but some circumnavigations are nonstop.",
+      "D": "A circumnavigation is defined as a sailing trip that goes in a complete circle around the world."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A river's stream length is the length of a line that follows along the river path.\n• A river's valley length is the length of a straight line drawn from the beginning of the river to the end.\n• The river's curviness, or sinuosity, is the ratio of the river's stream length to its valley length.\n• Low-sinuosity rivers have a stream length 1–1.5 times longer than their valley length, and high-sinuosity rivers have a stream length 1.5 or more times longer than their valley length.\n• The Embarras River in Canada has high sinuosity.\n• The Luni River in India has low sinuosity.",
+    "text": "The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The high-sinuosity Luni River in India is curvier than the low-sinuosity Embarras River in Canada.",
+      "B": "The Embarras River's ratio of stream length to valley length, also known as sinuosity, is greater than that of the Luni River.",
+      "C": "In both the Embarras and the Luni rivers, curviness is determined by comparing stream length to valley length.",
+      "D": "By comparing the stream lengths of the Embarras and Luni rivers to their valley lengths, one can calculate their curviness, or sinuosity."
+    },
+    "imageUrl": null
+  }
+}

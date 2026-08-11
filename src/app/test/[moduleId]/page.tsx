@@ -34,6 +34,9 @@ const STORAGE_KEY = (id: string) => `purplebook_answers_${id}`;
 const STORAGE_TIME_KEY = (id: string) => `purplebook_time_${id}`;
 const STORAGE_MARKS_KEY = (id: string) => `purplebook_marks_${id}`;
 const STORAGE_CROSSED_KEY = (id: string) => `purplebook_crossed_${id}`;
+const STORAGE_HIDE_TIMER_KEY = (id: string) => `purplebook_hide_timer_${id}`;
+
+const FIVE_MINUTES_SEC = 300;
 
 type ChoiceLetter = "A" | "B" | "C" | "D";
 type CrossedMap = Record<string, ChoiceLetter[]>;
@@ -49,6 +52,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [answers, setAnswers] = useState<Record<string, string | null>>({});
   const [timeLeft, setTimeLeft] = useState<number | null>(null);
   const [paused, setPaused] = useState(false);
+  const [hideTimer, setHideTimer] = useState(false);
+  const [timerHideLocked, setTimerHideLocked] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
@@ -92,8 +97,19 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         if (savedCrossed) setCrossedOut(JSON.parse(savedCrossed));
         const savedTime = localStorage.getItem(STORAGE_TIME_KEY(attemptId));
         const elapsed = savedTime ? Math.floor((Date.now() - parseInt(savedTime)) / 1000) : 0;
-        setTimeLeft(Math.max(0, data.timeLimit - elapsed));
+        const remaining = Math.max(0, data.timeLimit - elapsed);
+        setTimeLeft(remaining);
         if (!savedTime) localStorage.setItem(STORAGE_TIME_KEY(attemptId), String(Date.now()));
+
+        // Restore hide-timer preference unless already in the final 5 minutes.
+        if (remaining <= FIVE_MINUTES_SEC) {
+          setHideTimer(false);
+          setTimerHideLocked(true);
+        } else {
+          const savedHide = localStorage.getItem(STORAGE_HIDE_TIMER_KEY(attemptId));
+          setHideTimer(savedHide === "1");
+          setTimerHideLocked(false);
+        }
         setLoading(false);
       });
   }, [moduleId, attemptId]);
@@ -182,6 +198,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
         localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
         localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
+        localStorage.removeItem(STORAGE_HIDE_TIMER_KEY(attemptId));
         const resultsUrl = `/test/${moduleId}/results?attemptId=${serverAttemptId}`;
 
         if (isTelegramJoinedThisSession()) {
@@ -217,6 +234,21 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     const t = setTimeout(() => setTimeLeft((p) => (p !== null ? p - 1 : null)), 1000);
     return () => clearTimeout(t);
   }, [timeLeft, paused]);
+
+  // Bluebook-style rule: at 5:00 remaining, force the timer visible and lock Hide Timer.
+  useEffect(() => {
+    if (timeLeft === null) return;
+    if (timeLeft <= FIVE_MINUTES_SEC) {
+      setHideTimer(false);
+      setTimerHideLocked(true);
+      if (attemptId) localStorage.setItem(STORAGE_HIDE_TIMER_KEY(attemptId), "0");
+    }
+  }, [timeLeft, attemptId]);
+
+  useEffect(() => {
+    if (!attemptId || timerHideLocked) return;
+    localStorage.setItem(STORAGE_HIDE_TIMER_KEY(attemptId), hideTimer ? "1" : "0");
+  }, [hideTimer, attemptId, timerHideLocked]);
 
   // Alt+C / Option+C — toggle Desmos (Math only)
   useEffect(() => {
@@ -327,6 +359,13 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const mins = Math.floor((timeLeft ?? 0) / 60);
   const secs = ((timeLeft ?? 0) % 60).toString().padStart(2, "0");
   const isLow = (timeLeft ?? 0) < 120;
+  const showTimerDigits = !hideTimer || timerHideLocked;
+
+  const togglePause = () => setPaused((p) => !p);
+  const toggleHideTimer = () => {
+    if (timerHideLocked) return;
+    setHideTimer((h) => !h);
+  };
 
   // Left: passage/stimulus, or figure, or question text
   // Right: question prompt when stimulus/figure exists; always choices
@@ -362,13 +401,57 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             </button>
           </div>
 
-          {/* Center: timer + pause */}
-          <div className="flex items-center gap-2.5 flex-shrink-0">
-            <span className={`text-lg font-mono font-bold tabular-nums ${isLow ? "text-red-500" : "text-gray-900"}`}>
-              {mins}:{secs}
+          {/* Center: timer + hide + pause */}
+          <div className="flex items-center gap-2 flex-shrink-0">
+            <span
+              className={`text-lg font-mono font-bold tabular-nums min-w-[4.5rem] text-center ${
+                showTimerDigits
+                  ? isLow
+                    ? "text-red-500"
+                    : "text-gray-900"
+                  : "text-gray-400"
+              }`}
+              aria-live="polite"
+              aria-label={showTimerDigits ? `Time remaining ${mins} minutes ${secs} seconds` : "Timer hidden"}
+            >
+              {showTimerDigits ? `${mins}:${secs}` : "--:--"}
             </span>
+
             <button
-              onClick={() => setPaused((p) => !p)}
+              type="button"
+              onClick={toggleHideTimer}
+              disabled={timerHideLocked}
+              title={
+                timerHideLocked
+                  ? "Timer stays visible in the last 5 minutes"
+                  : hideTimer
+                    ? "Show timer"
+                    : "Hide timer"
+              }
+              aria-pressed={hideTimer && !timerHideLocked}
+              className="flex items-center gap-1 px-2.5 py-0.5 text-xs border border-gray-300 rounded-full hover:bg-gray-100 text-gray-700 transition-colors disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-transparent"
+            >
+              {hideTimer && !timerHideLocked ? (
+                <>
+                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden>
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                  </svg>
+                  <span className="hidden sm:inline">Show Timer</span>
+                </>
+              ) : (
+                <>
+                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden>
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
+                  </svg>
+                  <span className="hidden sm:inline">Hide Timer</span>
+                </>
+              )}
+            </button>
+
+            <button
+              type="button"
+              onClick={togglePause}
               className="px-3 py-0.5 text-xs border border-gray-300 rounded-full hover:bg-gray-100 text-gray-700 transition-colors"
             >
               {paused ? "Resume" : "Pause"}

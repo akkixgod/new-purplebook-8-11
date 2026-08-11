@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="320" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Average Hours Worked per Person per Year in 1950 and 2017</text>
+  <!-- header -->
+  <rect x="40" y="40" width="120" height="40" fill="#f3f4f6" stroke="#111"/>
+  <text x="100" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Country</text>
+  <rect x="160" y="40" width="100" height="40" fill="#f3f4f6" stroke="#111"/>
+  <text x="210" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">1950</text>
+  <rect x="260" y="40" width="100" height="40" fill="#f3f4f6" stroke="#111"/>
+  <text x="310" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">2017</text>
+  <rect x="360" y="40" width="130" height="40" fill="#f3f4f6" stroke="#111"/>
+  <text x="425" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Change in hours</text>
+  <rect x="490" y="40" width="120" height="40" fill="#f3f4f6" stroke="#111"/>
+  <text x="550" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Percent change</text>
+  <text x="550" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">in hours</text>
+  <!-- Mexico -->
+  <rect x="40" y="80" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="100" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12">Mexico</text>
+  <rect x="160" y="80" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,432</text>
+  <rect x="260" y="80" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="310" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,255</text>
+  <rect x="360" y="80" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="425" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12">177</text>
+  <rect x="490" y="80" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="550" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="12">7%</text>
+  <!-- Austria -->
+  <rect x="40" y="116" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="100" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="12">Austria</text>
+  <rect x="160" y="116" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,086</text>
+  <rect x="260" y="116" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="310" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="12">1,613</text>
+  <rect x="360" y="116" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="425" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="12">473</text>
+  <rect x="490" y="116" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="550" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="12">23%</text>
+  <!-- Brazil -->
+  <rect x="40" y="152" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="100" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="12">Brazil</text>
+  <rect x="160" y="152" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,042</text>
+  <rect x="260" y="152" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="310" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="12">1,709</text>
+  <rect x="360" y="152" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="425" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="12">333</text>
+  <rect x="490" y="152" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="550" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="12">16%</text>
+  <!-- Belgium -->
+  <rect x="40" y="188" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="100" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">Belgium</text>
+  <rect x="160" y="188" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,106</text>
+  <rect x="260" y="188" width="100" height="36" fill="#fff" stroke="#111"/>
+  <text x="310" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">1,544</text>
+  <rect x="360" y="188" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="425" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">562</text>
+  <rect x="490" y="188" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="550" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">27%</text>
+  <text x="320" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-style="italic">Calculation is may be inexact due to rounding.</text>
+</svg>

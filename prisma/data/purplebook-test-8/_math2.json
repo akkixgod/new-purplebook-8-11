@@ -1,0 +1,226 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "As part of a science experiment on evaporation, Ella measured the height of water in a glass over a period of time. The function f(x) = 39 − 0.18x gives the estimated height, in centimeters (cm), of the water in the glass x days after the start of the experiment. Which of the following is the best interpretation of 39 in this context?",
+    "choices": {
+      "A": "The estimated height, in cm, of the water at the start of the experiment",
+      "B": "The estimated height, in cm, of the water at the end of the experiment",
+      "C": "The estimated change in the height, in cm, of the water each day",
+      "D": "The estimated number of days for all the water in the glass to evaporate"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "28, 28, 29, 30, 32, 33, 37",
+    "text": "What is the mean of the data set shown?",
+    "choices": {
+      "A": "28",
+      "B": "30",
+      "C": "31",
+      "D": "37"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "A plant nursery classifies a perennial flower species as tall if its typical height when fully grown is more than 100 centimeters. Each of the following inequalities represents the possible heights h, in centimeters, for a specific perennial flower species when fully grown.",
+    "text": "Which inequality represents the possible heights h, in centimeters, for a tall perennial flower species?",
+    "choices": {
+      "A": "14 < h < 95",
+      "B": "41 < h < 93",
+      "C": "78 < h < 100",
+      "D": "107 < h < 160"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "3y = 8x + 18\n−3y = 7x − 26",
+    "text": "The solution to the given system of equations is (x, y). What is the value of 30x?",
+    "choices": {
+      "A": "−16",
+      "B": "−8",
+      "C": "8",
+      "D": "16"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "Circle K has a radius of 2 millimeters (mm). Circle L has an area of 144π mm². What is the total area, in mm², of circles K and L?",
+    "choices": {
+      "A": "14π",
+      "B": "28π",
+      "C": "56π",
+      "D": "148π"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "y = 6x + 16\n−7x − y = 36",
+    "text": "What is the solution (x, y) to the given system of equations?",
+    "choices": {
+      "A": "(−4, −8)",
+      "B": "(−20/13, −80/13)",
+      "C": "(4, 40)",
+      "D": "(20, 136)"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "James purchased a certain baseball card on January 1. The function f(x) = 85(1.04)^x, where 0 ≤ x ≤ 10, gives the predicted value, in dollars, of the baseball card x years after James purchased it. What is the best interpretation of the statement “f(8) is approximately equal to 116” in this context?",
+    "choices": {
+      "A": "When the baseball card’s predicted value is approximately 116 dollars, it is 8% greater than the predicted value, in dollars, on January 1 of the previous year.",
+      "B": "When the baseball card’s predicted value is approximately 116 dollars, it is 8 times the predicted value, in dollars, on January 1 of the previous year.",
+      "C": "From the day James purchased the baseball card to 8 years after James purchased the card, its predicted value increased by a total of approximately 116 dollars.",
+      "D": "8 years after James purchased the baseball card, its predicted value is approximately 116 dollars."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "How many solutions does the equation 7(x + 12) + 5x = 12(x + 7) have?",
+    "choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "f(x) = −(x − 6)² + 4",
+    "text": "The function f is defined by the given equation. For what value of x does f(x) reach its maximum?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "In the xy-plane, an equation of circle A is (x − 2)² + (y − 3)² = 9. Circle B has the same center as circle A but has a radius that is twice the radius of circle A. Which equation represents circle B?",
+    "choices": {
+      "A": "(x − 2)² + (y − 3)² = 18",
+      "B": "(x − 2)² + (y − 3)² = 36",
+      "C": "(x − 2)² + (y − 3)² = 54",
+      "D": "(x − 2)² + (y − 3)² = 81"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The function f is a quadratic function where f(−20) = 0 and f(−4) = 0. The graph of y = f(x) in the xy-plane has a vertex at (r, −64). What is the value of r?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "In a collection of items, 10% are red, 25% are green, 35% are blue, and 30% are yellow. If there are 40 green items, how many blue items are in the collection?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "48",
+      "D": "56"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "(x + k)² + 37 = 37",
+    "text": "In the given equation, k is a constant. How many distinct real solutions does this equation have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "x(9x − 2a) + b(9x − 2a) − (x + b) = 0",
+    "text": "In the given equation, a and b are positive constants. A solution to the equation is x = 42. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "A research manager selected 2 random samples of ovens of a certain type to estimate the average amount of time this type of oven takes to preheat to 325 degrees Fahrenheit (°F). The research manager recorded the amount of time, in minutes, each oven takes to preheat to 325°F. Based on the first sample, the research manager estimated that this type of oven takes an average of 15.2 minutes to preheat to 325°F, with an associated margin of error of 1 minute. Based on the second sample, the research manager estimated that this type of oven takes an average of 15.4 minutes to preheat to 325°F, with an associated margin of error of 2.2 minutes. Assuming the margins of error were calculated the same way, which of the following best explains why the first sample obtained a smaller margin of error than the second sample?",
+    "choices": {
+      "A": "The first sample contained more ovens than the second sample.",
+      "B": "The first sample contained fewer ovens than the second sample.",
+      "C": "The first sample took more time on average to preheat to 325°F than the second sample.",
+      "D": "The first sample took less time on average to preheat to 325°F than the second sample."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The functions f and g are defined by the given equations below, where x ≥ 0. Which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where x ≥ 0?\n\nI. f(x) = 18(1.4)^{x+5}\nII. g(x) = 18(1.16)(1.4)^{x+3}",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "A linear model estimates the height, in centimeters (cm), of a Madake bamboo culm, or stem, from the top of the soil x hours after it was first measured. The model estimates that the height of the bamboo culm was 93 cm when it was first measured and that for the next 3 hours, the height increased by 2 cm per hour. The model estimates that during the next 24 hours, the height increased by 4 cm per hour. Which equation best represents this model, where 3 ≤ x ≤ 27?",
+    "choices": {
+      "A": "y = 4x + 93",
+      "B": "y = 2x + 4x + 93",
+      "C": "y = 4x + 93 + 2(3)",
+      "D": "y = 4(x − 3) + 93 + 2(3)"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "A polygon has exactly 87 sides. If the measure of each of the 87 interior angles of this polygon is (180p)°, what is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "49/p = 49/q − 49/r − 49/s",
+    "text": "The given equation relates the positive variables p, q, r, and s. Which of the following is equivalent to q?",
+    "choices": {
+      "A": "p + r + s",
+      "B": "49(p + r + s)",
+      "C": "prs/(pr + ps + rs)",
+      "D": "prs/(49p + 49r + 49s)"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The function p is defined by p(x) = a((x + 5)² − b)((x + 5)² − c), where a, b, and c are constants. In the xy-plane, the graph of y = p(x) passes through the points (−6, 30) and (0, 342). What is the value of p(−10) + p(−4)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of these eight angles is (7x − 250)°. The sum of the measures of four of the eight angles is k°. Which of the following could NOT be equivalent to k, for all values of x?",
+    "choices": {
+      "A": "−14x + 1,540",
+      "B": "14x − 320",
+      "C": "−28x + 1,720",
+      "D": "360"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A researcher investigated two species of mites: a predator and its prey. At the start of a week, there was an equal number of the two species. At the end of the week, the number of prey had increased by 1900% of the number of prey at the start of the week, and the number of predators had increased by 180% of the number of predators at the start of the week. The number of predators at the end of the week was p% less than the number of prey at the end of the week. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}
