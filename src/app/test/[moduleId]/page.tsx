@@ -57,7 +57,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [loading, setLoading] = useState(true);
   const [markedForReview, setMarkedForReview] = useState<Set<string>>(new Set());
   const [highlightMode, setHighlightMode] = useState(false);
-  const [crossOutMode, setCrossOutMode] = useState(false);
   const [crossedOut, setCrossedOut] = useState<CrossedMap>({});
   const [highlights, setHighlights] = useState<Record<string, string>>({});
   const [showDesmos, setShowDesmos] = useState(false);
@@ -79,13 +78,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const toggleCalculator = useCallback(() => {
     setDesmosMounted(true);
     setShowDesmos((v) => !v);
-  }, []);
-
-  const toggleCrossOutMode = useCallback(() => {
-    setCrossOutMode((v) => {
-      if (!v) setHighlightMode(false);
-      return !v;
-    });
   }, []);
 
   useEffect(() => {
@@ -177,17 +169,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     return () => window.removeEventListener("keydown", onKey);
   }, [moduleData, toggleCalculator]);
 
-  // Alt+X / Option+X — toggle option eliminator
-  useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      if (!e.altKey) return;
-      if (e.key !== "x" && e.key !== "X") return;
-      e.preventDefault();
-      toggleCrossOutMode();
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
-  }, [toggleCrossOutMode]);
+  // Cross-out is controlled via the right-edge badge (click/right-click, and hover).
 
   const toggleMark = useCallback((qId: string) => {
     setMarkedForReview((prev) => {
@@ -356,25 +338,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               <span className="hidden sm:inline">Highlight</span>
             </button>
 
-            {/* Option eliminator (Cross-Out) */}
-            <button
-              type="button"
-              onClick={toggleCrossOutMode}
-              title={crossOutMode ? "Hide cross-out buttons (Alt+X)" : "Show cross-out buttons (Alt+X)"}
-              aria-pressed={crossOutMode}
-              aria-label="Cross-Out tool"
-              className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium transition-colors ${
-                crossOutMode
-                  ? "bg-gray-900 text-white border border-gray-900"
-                  : "border border-gray-300 text-gray-600 hover:bg-gray-100"
-              }`}
-            >
-              <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden>
-                <circle cx="12" cy="12" r="9" strokeWidth={2} />
-                <path strokeLinecap="round" strokeWidth={2} d="M7 7l10 10" />
-              </svg>
-              <span className="hidden sm:inline">Cross-Out</span>
-            </button>
+            {/* Cross-out button intentionally removed:
+                elimination is handled by the right-edge badge (click / hover / right-click). */}
 
             {/* Reference + Calculator — Math only (Bluebook tools) */}
             {isMath && (
@@ -603,12 +568,11 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                       </span>
                     </button>
 
-                    {/* Right-edge Cross-Out badge (always visible; hover toggle only in tool mode). */}
+                    {/* Right-edge Cross-Out badge */}
                     <button
                       type="button"
                       onClick={() => handleEliminateClick(q.id, letter)}
                       onMouseEnter={() => {
-                        if (!crossOutMode) return;
                         const key = `${q.id}:${letter}`;
                         // Toggle only once per hover entry to prevent rapid double toggles.
                         if (lastCrossHoverRef.current === key) return;
@@ -619,7 +583,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                         // allow re-toggle next time user hovers
                         lastCrossHoverRef.current = "";
                       }}
-                      title={crossOutMode ? (eliminated ? `Restore ${letter}` : `Cross out ${letter}`) : `Cross out ${letter}`}
+                      title={eliminated ? `Restore ${letter}` : `Cross out ${letter}`}
                       aria-label={
                         eliminated
                           ? `Cross-out badge ${letter}, active`
