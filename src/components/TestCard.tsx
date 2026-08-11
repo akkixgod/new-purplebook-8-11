@@ -40,24 +40,16 @@ export function TestCard({ title, year, month, section, version, isFree, modules
   const { data: session } = useSession();
   const [startingModuleId, setStartingModuleId] = useState<string | null>(null);
 
-  async function startPractice(moduleId: string) {
+  function startPractice(moduleId: string) {
     if (!session) {
       router.push("/auth/signin");
       return;
     }
     if (startingModuleId === moduleId) return;
     setStartingModuleId(moduleId);
-    const res = await fetch("/api/attempts", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ moduleId }),
-    });
-    if (!res.ok) {
-      setStartingModuleId(null);
-      return;
-    }
-    const attempt = await res.json();
-    router.push(`/test/${moduleId}?attemptId=${attempt.id}`);
+    const attemptId = crypto.randomUUID();
+    router.push(`/test/${moduleId}?attemptId=${attemptId}`);
+    setStartingModuleId(null);
   }
 
   const totalQuestions = modules.reduce((s, m) => s + m._count.questions, 0);

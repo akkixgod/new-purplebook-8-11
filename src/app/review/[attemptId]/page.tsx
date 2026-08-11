@@ -2,6 +2,7 @@
 
 import { useEffect, useState, use } from "react";
 import Link from "next/link";
+import { readAttemptCache } from "@/lib/attempt-cache";
 
 interface AnswerRow {
   id: string;
@@ -45,9 +46,20 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
 
     const load = async () => {
       try {
+        const cached = readAttemptCache(attemptId);
+        if (cached?.module?.test && Array.isArray(cached.module.questions)) {
+          setData(cached as AttemptDetail);
+          return;
+        }
+
         const r = await fetch(`/api/attempts/${attemptId}`, { credentials: "include" });
         const json = await r.json();
         if (!r.ok) {
+          const cachedAfterFail = readAttemptCache(attemptId);
+          if (cachedAfterFail?.module?.test && Array.isArray(cachedAfterFail.module.questions)) {
+            setData(cachedAfterFail as AttemptDetail);
+            return;
+          }
           if (r.status === 404 && !didRetry) {
             didRetry = true;
             await new Promise((res) => setTimeout(res, 350));

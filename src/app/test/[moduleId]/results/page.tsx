@@ -8,6 +8,7 @@ import {
   TelegramCommunityCheckModal,
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
+import { readAttemptCache } from "@/lib/attempt-cache";
 
 interface AttemptData {
   id: string;
@@ -44,9 +45,20 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
 
     const load = async () => {
       try {
+        const cached = readAttemptCache(attemptId);
+        if (cached?.module?.test) {
+          if (!cancelled) setData(cached);
+          return;
+        }
+
         const r = await fetch(`/api/attempts/${attemptId}`, { credentials: "include" });
         const json = (await r.json()) as AttemptData;
         if (!r.ok) {
+          const cachedAfterFail = readAttemptCache(attemptId);
+          if (cachedAfterFail?.module?.test) {
+            if (!cancelled) setData(cachedAfterFail);
+            return;
+          }
           // Very small chance the submit transaction hasn't become visible yet.
           if (r.status === 404 && !didRetry) {
             didRetry = true;
@@ -91,23 +103,14 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
     };
   }, [moduleId]);
 
-  const startNextModule = async () => {
+  const startNextModule = () => {
     if (!nextModuleId) return;
     if (!session) {
       router.push("/auth/signin");
       return;
     }
-
-    const res = await fetch("/api/attempts", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      credentials: "include",
-      body: JSON.stringify({ moduleId: nextModuleId }),
-    });
-
-    if (!res.ok) return;
-    const attempt = (await res.json()) as { id: string };
-    router.push(`/test/${nextModuleId}?attemptId=${attempt.id}`);
+    const attemptId = crypto.randomUUID();
+    router.push(`/test/${nextModuleId}?attemptId=${attemptId}`);
   };
 
   if (loadError) {

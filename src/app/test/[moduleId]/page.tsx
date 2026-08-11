@@ -10,6 +10,7 @@ import {
   TelegramCommunityCheckModal,
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
+import { cacheAttempt, type CachedAttempt } from "@/lib/attempt-cache";
 
 interface Question {
   id: string;
@@ -134,23 +135,29 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       questionId: q.id,
       selected: answers[q.id] ?? null,
     }));
-    const r = await fetch(`/api/attempts/${attemptId}/submit`, {
+    const r = await fetch("/api/attempts/complete", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       credentials: "include",
-      body: JSON.stringify({ answers: answerPayload, timeSpent }),
+      body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent }),
     });
+    const json = (await r.json().catch(() => null)) as
+      | (CachedAttempt & { attemptId?: string; error?: string })
+      | null;
     if (!r.ok) {
-      const json = (await r.json().catch(() => null)) as { error?: string } | null;
       setSubmitError(json?.error ?? `Submit failed (${r.status})`);
       setSubmitting(false);
       return;
+    }
+    const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
+    if (json?.module?.test) {
+      cacheAttempt({ ...json, id: serverAttemptId });
     }
     localStorage.removeItem(STORAGE_KEY(attemptId));
     localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
     localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
     localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
-    const resultsUrl = `/test/${moduleId}/results?attemptId=${attemptId}`;
+    const resultsUrl = `/test/${moduleId}/results?attemptId=${serverAttemptId}`;
 
     // Post-test modal: show Telegram prompt before navigating to results.
     if (isTelegramJoinedThisSession()) {
