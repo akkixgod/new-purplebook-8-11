@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "In ArtMed inSight, a series of art-based medical education classes taught by Anne Willieme, medical students learn to use techniques more often associated with the arts, such as slowing down interpretation and considering multiple perspectives. _______ Willieme's students develop better observational skills, enhancing their ability to understand and diagnose patients effectively.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Nevertheless,",
+      "B": "In doing so,",
+      "C": "For example,",
+      "D": "By contrast,"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Hawai'i has a rich literary history that originated with the traditional stories of the Kānaka Maoli, or the Native Hawaiian people. Anwei Skinsnes Law, Imaikalani Kalahele, and other writers have built on this tradition and brought Hawaiian literature to international prominence, _______ the manifold experiences of the Hawaiian people for readers around the world.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "excising",
+      "B": "illuminating",
+      "C": "controlling",
+      "D": "presupposing"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Several sociologists have observed that the word \"culture,\" though commonly used in academic literature, is an ultimately hazy concept—for example, Renate Mayntz has noted that \"there is (still) no agreement on the meaning of this core term of sociological analysis.\" Does the idea of culture encompass art, or customs, or both these things and others? For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Nonspecialists and specialists have different ideas of what the word \"culture\" means.",
+      "B": "There is no widely agreed-upon definition of the word \"culture,\" though the field of sociology would benefit if there were.",
+      "C": "In her research, Mayntz presented reasons why sociologists disagree on how to analyze \"culture.\"",
+      "D": "Art and customs are key components of what nonspecialists refer to as \"culture.\""
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Hawai'i has a rich literary history that originated with the traditional stories of the Kānaka Maoli, or the Native Hawaiian people. Mary Kawena Pukui, Gary Pak, and other writers have built on this tradition and brought Hawaiian literature to international prominence, _______ the manifold experiences of the Hawaiian people for readers around the world.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "controlling",
+      "B": "excising",
+      "C": "presupposing",
+      "D": "illuminating"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "The House on Mango Street is an English-language novella by Sandra Cisneros. It occasionally includes Spanish words and phrases. The English text surrounding these words and phrases _______ their meaning, so readers who aren't familiar with Spanish can easily read the novella. Ana Castillo takes the same approach in her novel Sapogonia.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "loses",
+      "B": "purchases",
+      "C": "suspects",
+      "D": "suggests"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The following text is from Ralph Waldo Emerson's 1841 essay \"The Method of Nature.\"\n\nThe scholars are the priests of that thought which establishes the foundations of the earth. No matter what is their special work or profession, they stand for the spiritual interest of the world, and it is a common calamity if they neglect their post in a country where the material interest is so predominant as it is in America.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "In a country whose citizens are largely preoccupied with tangible gains, it is crucial that some people work to foster and preserve ideas.",
+      "B": "Military experience encourages Americans to contemplate aspects of human life that they would not choose to otherwise.",
+      "C": "Many descriptions of the role of scholars in society unfairly diminish their importance.",
+      "D": "It is unfortunate that so many intellectuals are concerned with material things rather than ideas."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The table shows that in 2016, the percentage of commuters who regularly biked to work in Albuquerque, New Mexico, was _______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "1.6.",
+      "B": "9.0.",
+      "C": "0.6.",
+      "D": "4.6."
+    },
+    "imageUrl": "NEEDS_SVG: Table titled \"Percentage of City's Commuters Regularly Biking to Work in 2016\". Two columns: City | % of commuters. Four data rows: Albuquerque, New Mexico | 1.6; Berkeley, California | 9.0; Washington, DC | 4.6; Phoenix, Arizona | 0.6. Thin black grid borders."
+  },
+  "8": {
+    "stimulus": "Native to the Yangtze River in China, the Chinese river dolphin is one of many species to have recently gone extinct in what some are calling \"the sixth great mass extinction\" in Earth's history. Far from being caused by humans, though, the five prior such events—the Ordovician-Silurian (440 million years ago, or mya), the Devonian (365 mya), the Permian-Triassic (250 mya), the Triassic-Jurassic (201 mya), and the Cretaceous-Tertiary _______ all predate us.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "(65 mya)—",
+      "B": "(65 mya);",
+      "C": "(65 mya)",
+      "D": "(65 mya),"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "An imposing spire of igneous rock rising high above the Belle Fourche River in eastern Wyoming, Devils Tower (also known as Bear Lodge) is one of the most prominent examples of columnar jointing, a pattern of fracturing in rocks that _______ in parallel arrays of long polygonal prisms.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "resulting",
+      "B": "to result",
+      "C": "results",
+      "D": "were resulting"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "How a folktale begins depends largely on the language in which it _______ folktales told in the Korean language open with a phrase that roughly means \"on an old day, in the old times.\" English-language folktales, on the other hand, often begin with \"once upon a time.\"",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "originates. Many",
+      "B": "originates, many",
+      "C": "originates many",
+      "D": "originates many,"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Insects like ground beetles, crustaceans like calico crabs, and many other animals without spines are known as arthropods. Their nervous systems are made up of a brain and different nerves. Javier Ortega-Hernández, James Weaver, and team studied two fossils of the extinct arthropod Mollisonia symmetrica and identified parts of the species' nervous system. The researchers spotted evidence of nerves extending into the animal's body parts and may have also found rare signs of a synganglion, a brain-like mass of nerves in the head.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It describes a feature that was missing from both fossils.",
+      "B": "It gives the name of an arthropod species.",
+      "C": "It explains how the team discovered the fossils.",
+      "D": "It describes part of the nervous system the team identified."
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "During the relatively warm Cretaceous period (66 to 145 million years ago), there _______ forests near the North Pole and South Pole.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "having been",
+      "B": "were",
+      "C": "to be",
+      "D": "being"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "In 2014 Marta S. Pimentel and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of Coryphaena hippurus, a species of fish. However, Pimentel and colleagues' study relied on a mean sample size of only 10 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.",
+    "text": "What is the main topic of the scientific research discussed in the text?",
+    "choices": {
+      "A": "Feeding patterns of top marine predators",
+      "B": "Loss of marine diversity due to overfishing",
+      "C": "Changes in technologies used to capture fish",
+      "D": "Effects of ocean acidification on fish behavior"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "An intern at a publishing house who is writing a report is asked to determine which of several genres of books published in 2019 had paperbacks with the lowest average price. Consulting the table, she determines that, on average, the least expensive paperbacks in that year belonged to the genre of _______",
+    "text": "Which choice most effectively uses data from the table to complete the assertion?",
+    "choices": {
+      "A": "comics and graphic novels.",
+      "B": "young adult.",
+      "C": "mathematics.",
+      "D": "reference."
+    },
+    "imageUrl": "NEEDS_SVG: Table titled \"Average Paperback Prices, 2016–19\". Columns: Genre | 2016 | 2017 | 2018 | 2019. Rows: Young adult | $25.49 | $18.40 | $18.02 | $18.40; Mathematics | $97.31 | $78.54 | $106.69 | $76.99; Comics and graphic novels | $18.60 | $18.49 | $19.12 | $20.60; Reference | $156.03 | $189.53 | $186.25 | $148.88. Thin black grid borders."
+  },
+  "15": {
+    "stimulus": "Pacific hermit crabs live in shells that they either find empty or take from another hermit crab. Biologists Louise Roberts and Mark Laidre noticed that hermit crabs sometimes vibrate their shells and wondered if they do this to scare away other crabs. The researchers put a shell on a beach and set it up to remain still, gently vibrate, or strongly vibrate when another hermit crab approached it. They recorded how many of those crabs tried to flip the shell over, which is the first step in trying to take a shell from another crab.",
+    "text": "According to the table, what percentage of hermit crabs tried to flip the shell over when it was gently vibrating?",
+    "choices": {
+      "A": "35%",
+      "B": "0%",
+      "C": "19%",
+      "D": "70%"
+    },
+    "imageUrl": "NEEDS_SVG: Table titled \"Hermit Crab Reactions to a Shell on a Beach\". Two columns: Level of shell vibration | Percentage of crabs that tried to flip the shell over. Three data rows: None | 70%; Gentle vibration | 19%; Strong vibration | 0%. Thin black grid borders."
+  },
+  "16": {
+    "stimulus": "Scott Parazynski, a former US astronaut, has gone on seven spacewalks. During _______ spacewalks, Parazynski performed important tasks outside the spacecraft, such as installing new equipment.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "this",
+      "B": "that",
+      "C": "these",
+      "D": "one"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "There are over 150 species of the cactus genus Mammillaria throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of them, like M. schumannii, restricted to only one state. The fact that this genus has not been observed in parts of the Sierra Madre Occidental mountain range has been attributed to a lack of appropriate habitat, but much of the landscape in this area is notoriously inaccessible, which suggests that _______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the current methods of collecting and tracking Mammillaria species throughout Mexico may cause an overestimation of the number of species in this genus.",
+      "B": "M. schumannii may have been overlooked in parts of the Sierra Madre Occidental mountain range because of its similarity to another species.",
+      "C": "the dense vegetation and high annual precipitation levels in parts of the Sierra Madre Occidental mountain range impede the ability of Mammillaria species to survive.",
+      "D": "the perceived absence of Mammillaria in parts of the Sierra Madre Occidental mountain range may be due to insufficient exploration of the region."
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Why do children resemble their biological parents in some ways but not in _______ answer requires an understanding of genetics.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "others, the",
+      "B": "others. The",
+      "C": "others? The",
+      "D": "others the"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Russia, in 2018. _______ only 16 teams, all from Europe and the Americas, competed in the 1962 World Cup in Chile.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "In other words,",
+      "D": "In comparison,"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "Developed by Les Paul in 1945, multitrack recording allows music producers to record songs by layering separate musical tracks on top of one another. For example, producers can first record the drums. _______ they can record the guitars on top of the drums. Last, they can record the singer's vocals on top of the drum and guitar tracks to complete a rough mix of the song.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Next,",
+      "B": "Instead,",
+      "C": "In other words,",
+      "D": "First,"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "Readers sometimes divide the works of twentieth-century English author Evelyn Waugh into two periods: one consisting of his early satirical novels and the other consisting of his later, more serious—even ponderous—books. Critic Seamus Perry, however, challenges that strict division. Perry argues that Waugh's writing didn't change over time as much as some readers have suggested. For instance, Perry contends that some of Waugh's earliest works, notably his biography of artist Dante Gabriel Rossetti, exhibit the earnest romanticism that would characterize Waugh's later fiction.",
+    "text": "Based on the text, which statement about Waugh's works would Perry most likely agree with?",
+    "choices": {
+      "A": "Regardless of when they were written, Waugh's works have important similarities that transcend their differences.",
+      "B": "Over time, Waugh's works became less humorous and more focused on weightier topics.",
+      "C": "Waugh's works can appropriately be separated into two periods by their subject matter and tone.",
+      "D": "The earliest of Waugh's works exhibit a satirical tone, even if that tone is more apparent in Waugh's later works."
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "Nineteenth-century Modernista architects championed nature in their designs. Granted, the wavy stone façade and ornate floral tilework of Casa Batlló, a Modernista private home designed by Antoni Gaudí, couldn't exactly grow in a forest. _______ one sees natural influences in Gaudí's penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Furthermore,",
+      "B": "Still,",
+      "C": "Similarly,",
+      "D": "In other words,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "Throughout history, tall structures such as Ruwanwelisaya in Sri Lanka or the Minarets of Selimiye Mosque in Turkey have posed a challenge to their architects, since these structures are more susceptible to physical forces than smaller structures. For example, the lower floors of a building must be able to support the enormous weight of the upper floors. To test a hypothesis that steel is more suitable than concrete for construction of a tall building's lower floors, researchers created a computer model of two buildings that were identical except that one had concrete lower floors while one had steel lower floors, and simulated the effects of the forces of wind and gravity on those structures over the course of a century.",
+    "text": "Which finding, if true, would most directly support the researchers' hypothesis?",
+    "choices": {
+      "A": "At the end of the simulation, the structure with steel lower floors had slightly larger dimensions at its base than it did at the beginning of the simulation.",
+      "B": "During the simulation, the structure with steel lower floors bent in high wind to a greater degree than did the structure with concrete lower floors.",
+      "C": "During the simulation, when sudden forces caused vibrations in the structures, those vibrations took longer to disappear in the structure with steel lower floors than in the structure with concrete lower floors.",
+      "D": "At the end of the simulation, the structure with concrete lower floors was several inches shorter than the structure with steel lower floors."
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "In a study of perceptions of listening ability, participants explained their position on a sociopolitical issue and then received a listener's written summary that expressed agreement or disagreement. Within selected summaries, researchers embedded markers of attentive listening (e.g., references to specific details), hypothesizing that such indications would positively influence perceptions of listening skill even in the context of disagreement. Instead, participants consistently rated listeners who expressed disagreement as less skilled, regardless of the other traits of the listeners' summaries.",
+    "text": "What does the text most strongly imply about how participants responded to expressions of disagreement?",
+    "choices": {
+      "A": "Although participants were critical of expressions of disagreement, they gave higher ratings to listeners whose summaries included markers of attentiveness than to listeners whose summaries did not include these markers.",
+      "B": "Although participants maintained their positions regardless of a summary's level of detail, they tended to regard listeners who expressed disagreement as more attentive when these listeners provided more detailed summaries.",
+      "C": "When participants felt personally invested in the topics they discussed, they were less likely to perceive listeners who expressed disagreement as attentive, regardless of evidence to the contrary in these listeners' summaries.",
+      "D": "When participants encountered summaries from listeners who expressed disagreement with their views, participants tended to disregard evidence that the listeners had in fact been attentive."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Receptors in the human tongue can detect sweetness, saltiness, sourness, bitterness, and umami.\n• Umami is a rich, savory flavor.\n• Umami is triggered by the compounds in a variety of foods, including beef and caramelized onions.\n• Participants in a research study tasted samples of winged kelp (a type of brown seaweed) collected from Stykkishólmur, Iceland.\n• On average, they rated its umami intensity as moderate.",
+    "text": "The student wants to emphasize the umami intensity of winged kelp. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Participants in a research study found the umami intensity of winged kelp, a brown seaweed, to be moderate.",
+      "B": "Umami is triggered by compounds in winged kelp, beef, and caramelized onions.",
+      "C": "Samples of winged kelp, a brown seaweed, have been collected in Stykkishólmur, Iceland.",
+      "D": "Umami is a rich, savory flavor triggered by compounds in foods such as beef and caramelized onions."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Great Salt Lake is located in Utah.\n• It is one of the saltiest bodies of water in the world.\n• More than 330 species of migratory birds stop at the lake each year.\n• One of these species is the tundra swan.",
+    "text": "The student wants to emphasize the number of migratory bird species that stop at the Great Salt Lake. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The Great Salt Lake in Utah is one of the saltiest bodies of water in the world.",
+      "B": "The tundra swan is a type of migratory bird.",
+      "C": "Migratory birds stop at the Great Salt Lake in Utah.",
+      "D": "Each year, more than 330 species of migratory birds stop at the Great Salt Lake in Utah."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Colorado River is the eighth longest river in North America.\n• It passes through the country of Mexico.\n• It passes through the country of the United States.\n• It ranks No. 46 among the longest rivers in the world.\n• It is 2,333 kilometers long.",
+    "text": "The student wants to specify which countries the Colorado River passes through. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The eighth longest river in North America, the Colorado River passes through both Mexico and the United States.",
+      "B": "The Colorado River is not the longest river in the world.",
+      "C": "Among the longest rivers in the world, the Colorado River ranks No. 46.",
+      "D": "At 2,333 kilometers long, the Colorado River is the eighth longest river in North America."
+    },
+    "imageUrl": null
+  }
+}

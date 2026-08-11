@@ -1,0 +1,10 @@
+# Keep Vercel uploads small (page PNGs are gitignored but still on disk locally)
+.vercel
+.env*
+node_modules
+.next
+data/pdfs
+public/mocks/*/pages
+.cursor
+.agents
+*.db-journal

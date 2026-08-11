@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "A total of 50 people attended a conference and were offered 4 types of entrees. The table shows the number of people who chose each type of entree. If one of these people is selected at random, what is the probability of selecting a person who chose a vegetarian entree?",
+    "choices": {
+      "A": "9/100",
+      "B": "9/50",
+      "C": "1/4",
+      "D": "9/10"
+    },
+    "imageUrl": "NEEDS_SVG:2-column table, headers Type of entree | Number of people; rows Beef 20, Chicken 19, Fish 2, Vegetarian 9, Total 50; thin black grid borders, centered numbers"
+  },
+  "2": {
+    "stimulus": null,
+    "text": "If 3x = 7, what is the value of 12x?",
+    "choices": {
+      "A": "3",
+      "B": "11",
+      "C": "25",
+      "D": "28"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "The function f is defined by the equation f(x) = 320x. What is the value of f(10)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The expression 4x^6 · 3x is equivalent to bx^7, where b is a constant. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "y = 10x + 48",
+    "text": "One of the two equations in a system of linear equations is given. The system has infinitely many solutions. Which equation could be the second equation in this system?",
+    "choices": {
+      "A": "y − 10x = −48",
+      "B": "y − 10x = 48",
+      "C": "y − 12x = 24",
+      "D": "y − 12x = 0"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "In the right triangle shown, what is the value of cos A?",
+    "choices": {
+      "A": "1/43",
+      "B": "1/22",
+      "C": "22/43",
+      "D": "43/22"
+    },
+    "imageUrl": "NEEDS_SVG:Right triangle ABC; right angle at B (bottom-right, small square); A at top, C at bottom-left; vertical leg AB labeled 22 (to the right of AB); hypotenuse AC labeled 43; base BC unlabeled; below figure: Note: Figure not drawn to scale."
+  },
+  "7": {
+    "stimulus": "R = 0.43(l / A)",
+    "text": "The given equation relates the resistance R, in ohms, of a wire to its length l, in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?",
+    "choices": {
+      "A": "l = (R − A) / 0.43",
+      "B": "l = (R + A) / 0.43",
+      "C": "l = 0.43R / A",
+      "D": "l = AR / 0.43"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "There are 450 objects in a box. Of these objects, 8% are spheres. How many spheres are in the box?",
+    "choices": {
+      "A": "8",
+      "B": "36",
+      "C": "180",
+      "D": "442"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "A rectangle has a length of 10 centimeters and a width of 6,000 centimeters. What is the area, in square centimeters, of the rectangle?",
+    "choices": {
+      "A": "10",
+      "B": "6,010",
+      "C": "60,000",
+      "D": "66,000"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The figure shown is a right rectangular pyramid, where l = 16 units, w = 8 units, and h = 18 units. What is the surface area, in square units, of the pyramid?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "NEEDS_SVG:Right rectangular pyramid in perspective; rectangular base with front edge labeled l and right-side edge labeled w; apex above center; dashed height from apex to base center labeled h with right-angle mark at base; hidden base edges dashed; below: Note: Figure not drawn to scale."
+  },
+  "11": {
+    "stimulus": null,
+    "text": "How many solutions does the equation 6x + 4 = 22 have?",
+    "choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 3x − 7. If f(a + 1) = 2a, what is the value of a?",
+    "choices": {
+      "A": "−1",
+      "B": "1",
+      "C": "5",
+      "D": "6"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "7x + 12y = 180",
+    "text": "The equation gives the possible combinations of the number of mugs, x, and the number of plates, y, in a collection that is worth a total of $180. If there are 8 plates in the collection, how many mugs are in the collection?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown.",
+    "text": "Which of the following equations best represents the line of best fit shown?",
+    "choices": {
+      "A": "y = 12.4 + 0.7x",
+      "B": "y = 12.4 − 0.7x",
+      "C": "y = −12.4 + 0.7x",
+      "D": "y = −12.4 − 0.7x"
+    },
+    "imageUrl": "NEEDS_SVG:Scatterplot with line of best fit; x-axis and y-axis from 0 to 15 with labels at even integers 0–14, origin O, light unit grid; ~8 filled points approx (1,13), (3,11), (4,9), (6,12), (7,8), (9,5), (11,6), (13,2); solid decreasing LOBF with y-intercept ~12.4 and slope ~−0.7, through roughly (10,5.4) and (14,2.6)"
+  },
+  "15": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 4x^3 + 20x^2?",
+    "choices": {
+      "A": "x^2(4 + 20x)",
+      "B": "4x^2(x + 5)",
+      "C": "4x^2(x + 16)",
+      "D": "x^3(4 + 20x)"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "In triangle RST, the length of RS is 24, and the length of ST is 9. Triangle RST is dilated by a scale factor of 1/3 to obtain triangle R'S'T'. What is the length of S'T'?",
+    "choices": {
+      "A": "3",
+      "B": "7",
+      "C": "27",
+      "D": "63"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "z = √(y + 47x)",
+    "text": "The given equation relates the distinct positive values x, y, and z. Which equation correctly expresses x in terms of y and z?",
+    "choices": {
+      "A": "x = 47z^2 − y",
+      "B": "x = 47z − y^2",
+      "C": "x = (z^2 − y)/47",
+      "D": "x = (z − y^2)/47"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "A cable company charges new customers a onetime installation fee and a monthly service fee for cable service. The equation y = 50x + 120 gives the total amount y, in dollars, the cable company charges new customers for x months of cable service. What is the amount, in dollars, of the onetime installation fee the cable company charges new customers?",
+    "choices": {
+      "A": "170",
+      "B": "120",
+      "C": "70",
+      "D": "0"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "Which shaded region represents the solutions to the inequality 4x + 5y < 9? (Choices A–D are the graphs shown in the figure.)",
+    "choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "imageUrl": "NEEDS_SVG:Four xy-plane choice graphs A–D; each axes about −10 to 10 labeled every 2, light unit grid, origin O; all use dashed boundary. A: positive-slope dashed line through approx (−2.25,0) and (0,1.8), shade above/left. B: same positive-slope dashed line as A, shade below/right. C: negative-slope dashed line 4x+5y=9 (y-int 9/5, x-int 9/4), shade below/left including origin. D: same negative-slope dashed line as C, shade above/right excluding origin."
+  },
+  "20": {
+    "stimulus": null,
+    "text": "In the xy-plane, line k has a slope of 6/13, an x-intercept of (−6, 0), and a y-intercept of (0, p). What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "The measure of angle S is 8π/11 radians. The measure of angle T is 2 times the measure of angle S. Which expression represents the measure, in degrees, of angle T?",
+    "choices": {
+      "A": "(8/11)(90)(2)",
+      "B": "(8/11)(180)(2)",
+      "C": "(8/(11π))(90)(2)",
+      "D": "(8π/11)(180)(2)"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A research manager selected 2 random samples of ovens of a certain type to estimate the average amount of time this type of oven takes to preheat to 350°F. The research manager recorded the amount of time, in minutes, each oven takes to preheat to 350°F. Based on the first sample, the research manager estimated that this type of oven takes an average of 14.2 minutes to preheat to 350°F, with an associated margin of error of 1 minute. Based on the second sample, the research manager estimated that this type of oven takes an average of 14.4 minutes to preheat to 350°F, with an associated margin of error of 2.2 minutes. Assuming the margins of error were calculated the same way, which of the following best explains why the first sample obtained a smaller margin of error than the second sample?",
+    "choices": {
+      "A": "The first sample contained fewer ovens than the second sample.",
+      "B": "The first sample contained more ovens than the second sample.",
+      "C": "The first sample took less time on average to preheat to 350°F than the second sample.",
+      "D": "The first sample took more time on average to preheat to 350°F than the second sample."
+    },
+    "imageUrl": null
+  }
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <!-- base parallelogram -->
+  <path d="M 80,240 L 260,240 L 320,190 L 140,190 Z" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="140" y1="190" x2="200" y2="60" stroke="#111" stroke-width="2"/>
+  <line x1="320" y1="190" x2="200" y2="60" stroke="#111" stroke-width="2"/>
+  <line x1="80" y1="240" x2="200" y2="60" stroke="#111" stroke-width="2"/>
+  <line x1="260" y1="240" x2="200" y2="60" stroke="#111" stroke-width="2"/>
+  <!-- height dashed -->
+  <line x1="200" y1="60" x2="200" y2="215" stroke="#111" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <rect x="200" y="201" width="12" height="12" fill="none" stroke="#111"/>
+  <text x="165" y="265" font-family="Arial" font-size="16" font-style="italic">l</text>
+  <text x="295" y="225" font-family="Arial" font-size="16" font-style="italic">w</text>
+  <text x="210" y="140" font-family="Arial" font-size="16" font-style="italic">h</text>
+  <text x="210" y="320" text-anchor="middle" font-family="Arial" font-size="12" font-style="italic">Note: Figure not drawn to scale.</text>
+</svg>
