@@ -6,7 +6,7 @@
   "version": "ElitePractice X6 (May Edition)",
   "pageMap": {
     "ENGLISH": { "1": "pages 1-27", "2": "pages 28-54" },
-    "MATH": { "1": "pages 55-76", "2": "pages 77-98" },
+    "MATH": { "1": "pages 55-76", "2": "pages 77-99 (Q22 on page 99)" },
     "answerKey": "page 100"
   },
   "modules": {

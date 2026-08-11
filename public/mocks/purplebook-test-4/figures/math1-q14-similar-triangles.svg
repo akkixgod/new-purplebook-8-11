@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="280" viewBox="0 0 560 280">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <!-- small triangle ABC: A bottom-left, B top (leftish), C bottom-right -->
+  <polygon points="40,210 90,70 180,210" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="28" y="230" font-family="Arial" font-size="16" font-style="italic">A</text>
+  <text x="82" y="58" font-family="Arial" font-size="16" font-style="italic">B</text>
+  <text x="184" y="230" font-family="Arial" font-size="16" font-style="italic">C</text>
+  <!-- large triangle A'B'C' -->
+  <polygon points="260,230 360,40 520,230" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="242" y="252" font-family="Arial" font-size="16" font-style="italic">A′</text>
+  <text x="348" y="28" font-family="Arial" font-size="16" font-style="italic">B′</text>
+  <text x="524" y="252" font-family="Arial" font-size="16" font-style="italic">C′</text>
+  <text x="280" y="270" text-anchor="middle" font-family="Arial" font-size="12" font-style="italic">Note: Figure not drawn to scale.</text>
+</svg>

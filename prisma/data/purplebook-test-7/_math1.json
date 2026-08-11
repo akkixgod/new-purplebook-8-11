@@ -1,0 +1,226 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "If 6x = 60, what is the value of 7x + 3?",
+    "choices": {
+      "A": "73",
+      "B": "63",
+      "C": "55",
+      "D": "45"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 9(x² + 6)?",
+    "choices": {
+      "A": "9x² + 3",
+      "B": "9x² + 6",
+      "C": "9x² + 15",
+      "D": "9x² + 54"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "For a particular tree species, it is recommended to plant a maximum of 102 trees per acre. Based on this recommendation, what is the maximum number of trees of this species that can be planted on 3 acres?",
+    "choices": {
+      "A": "408",
+      "B": "306",
+      "C": "105",
+      "D": "99"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "An adult elephant drinks by pulling water up into its trunk and then emptying the water into its mouth. If an adult elephant pulls between 4 and 9 liters of water up into its trunk at a time, which of the following could be the number of times the elephant pulls water up into its trunk to drink 140 liters of water?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "34",
+      "D": "37"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "y = (2/5)x + 2",
+    "text": "One of the two equations in a system of linear equations is given. The system has infinitely many solutions. If the second equation in the system is y = mx + b, where m and b are constants, what is the value of b?",
+    "choices": {
+      "A": "−2",
+      "B": "−1/2",
+      "C": "1/2",
+      "D": "2"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 10x² + 130?",
+    "choices": {
+      "A": "10(13x²)",
+      "B": "10(x² + 13)",
+      "C": "130(10x²)",
+      "D": "130(10x² + 1)"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "x + 7 = 13\ny = 5x² + 5",
+    "text": "At what point (x, y) do the graphs of the equations in the given system intersect?",
+    "choices": {
+      "A": "(6, 180)",
+      "B": "(6, 185)",
+      "C": "(13, 5)",
+      "D": "(13, 850)"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A line in the xy-plane has a slope of 7 and passes through the point (0, −5). Which equation represents this line?",
+    "choices": {
+      "A": "y = −5x + 7",
+      "B": "y = −5x − 7",
+      "C": "y = 7x + 5",
+      "D": "y = 7x − 5"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "How many centimeters are equivalent to 21 meters? (1 meter = 100 centimeters)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown. Which of the following is closest to the slope of the line of best fit shown?",
+    "choices": {
+      "A": "−11.19",
+      "B": "−0.84",
+      "C": "0.84",
+      "D": "11.19"
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/math1-q10-scatter-best-fit.svg"
+  },
+  "11": {
+    "stimulus": "f(x) = 4^(x − 2) + 8",
+    "text": "The function f is defined by the equation shown. What is the value of f(2)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "8x² + 13x = 6",
+    "text": "What is the positive solution to the given equation?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "A machine fills bags with approximately 29 ounces of walnuts. To test the accuracy of the filling process, 169 bags of walnuts were selected at random and weighed. Based on the sample, it is estimated that the average weight of all bags of walnuts filled by the machine in an 8-hour period is 28.88 ounces, with an associated margin of error of 0.13 ounce. Which of the following is the best interpretation of this estimate?",
+    "choices": {
+      "A": "Plausible values for the average weight of all bags of walnuts filled by the machine are between 28.75 ounces and 29.01 ounces.",
+      "B": "Plausible values for the average weight of all bags of walnuts filled by the machine are less than 28.75 ounces or greater than 29.01 ounces.",
+      "C": "The average weight of all bags of walnuts filled by the machine is less than 28.99 ounces.",
+      "D": "The average weight of all bags of walnuts filled by the machine is greater than 28.99 ounces."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The function f gives the product of a number, x, and a number that is 62 more than x. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = x² + x + 62",
+      "B": "f(x) = x² + 62",
+      "C": "f(x) = x² + 62x",
+      "D": "f(x) = x² + 62x + 62"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "A right circular cone has a height of 13 centimeters (cm) and a base with a radius of 6 cm. What is the volume, in cm³, of this cone?",
+    "choices": {
+      "A": "26π",
+      "B": "78π",
+      "C": "156π",
+      "D": "468π"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "Rectangles ABCD and EFGH are similar. The length of each side of rectangle EFGH is 7 times the length of the corresponding side of rectangle ABCD. The area of rectangle ABCD is 68 square units. What is the area of rectangle EFGH, in square units?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Group G: 8, 15, 20, 20, 23\nGroup H: 15, 20, 20, 23",
+    "text": "A farmer gave two groups of chickens different types of chicken feed for a month to measure the effect on egg production. The lists give the number of eggs collected from each chicken in each of the two groups. Which statement correctly compares the median number of eggs collected for group G and the median number of eggs collected for group H?",
+    "choices": {
+      "A": "The median number of eggs collected for group G is equal to the median number of eggs collected for group H.",
+      "B": "The median number of eggs collected for group G is greater than the median number of eggs collected for group H.",
+      "C": "The median number of eggs collected for group G is less than the median number of eggs collected for group H.",
+      "D": "There is not enough information to compare the median number of eggs collected for group G and the median number of eggs collected for group H."
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "In triangle JKL, cos(K) = 36/60 and angle J is a right angle. What is the value of cos(L)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "In the xy-plane, a circle has center C with coordinates (h, k). Points A and B lie on the circle. Point A has coordinates (h + 1, k + √230), and ∠ACB is a right angle. What is the length of AB?",
+    "choices": {
+      "A": "231√3",
+      "B": "231√2",
+      "C": "2√230",
+      "D": "√462"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "A family has money in an account for renting movies online. Each time the family rents a movie, the cost of the rental is withdrawn from the account, and each rental costs the same amount of money. The function f(m) = 21 − 3m gives the amount of money, in dollars, in the account after the family has rented m movies. Which of the following represents the amount of money, in dollars, withdrawn from the account each time the family rents a movie?",
+    "choices": {
+      "A": "3m",
+      "B": "3",
+      "C": "21",
+      "D": "21 − 3m"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "Each of the following frequency tables represents a data set. Which data set has the greatest mean?",
+    "choices": {
+      "A": "Value|Frequency: 60|2, 70|3, 80|4, 90|5",
+      "B": "Value|Frequency: 60|6, 70|3, 80|3, 90|6",
+      "C": "Value|Frequency: 60|4, 70|4, 80|4, 90|4",
+      "D": "Value|Frequency: 60|5, 70|4, 80|4, 90|5"
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/math1-q21-frequency-tables.svg"
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A sphere has a volume of 247.00 cubic yards. What is the volume of the sphere, in cubic meters? (Use 1 yard = 0.914 meter.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

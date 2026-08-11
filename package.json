@@ -14,7 +14,11 @@
     "seed:2026-us-a": "tsx prisma/seed-march2026-usa.ts",
     "seed:pb1": "npx tsx prisma/seed-purplebook-test-1.ts",
     "seed:pb2": "npx tsx prisma/seed-purplebook-test-2.ts",
-    "seed:pb3": "npx tsx prisma/seed-purplebook-test-3.ts"
+    "seed:pb3": "npx tsx prisma/seed-purplebook-test-3.ts",
+    "seed:pb4": "npx tsx prisma/seed-purplebook-test-4.ts",
+    "seed:pb5": "npx tsx prisma/seed-purplebook-test-5.ts",
+    "seed:pb6": "npx tsx prisma/seed-purplebook-test-6.ts",
+    "seed:pb7": "npx tsx prisma/seed-purplebook-test-7.ts"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.11.1",

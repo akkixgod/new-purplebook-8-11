@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "A line in the xy-plane has a slope of −1/6 and passes through the point (0, 8). Which equation represents this line?",
+    "choices": {
+      "A": "y = −(1/6)x − 8",
+      "B": "y = −(1/6)x + 8",
+      "C": "y = (1/6)x − 8",
+      "D": "y = (1/6)x + 8"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "A right triangle has the dimensions shown, in centimeters (cm). What is the area of this triangle, in cm²?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-6/figures/math2-q02-right-triangle.svg"
+  },
+  "3": {
+    "stimulus": "−3x + 6rx = 42",
+    "text": "In the given equation, r is a constant. The equation has no solution. What is the value of r?",
+    "choices": {
+      "A": "1/7",
+      "B": "1/2",
+      "C": "2",
+      "D": "7"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "If |12 − 2x| = 48, which of the following is a value of 6 − x?",
+    "choices": {
+      "A": "0",
+      "B": "6",
+      "C": "24",
+      "D": "36"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "E(t) = 5(1.8)^t",
+    "text": "The equation E(t) = 5(1.8)^t gives the estimated number of employees at a restaurant, where t is the number of years since the restaurant opened. Which of the following is the best interpretation of the number 5 in this context?",
+    "choices": {
+      "A": "The estimated number of employees when the restaurant opened",
+      "B": "The increase in the estimated number of employees each year",
+      "C": "The number of years the restaurant has been open",
+      "D": "The percent increase in the estimated number of employees each year"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "An artist made 14 pieces of pottery using 48 pounds of clay. The pottery included only bowls and vases. Each bowl used 3 pounds of clay and each vase used 5 pounds of clay. How many vases did the artist make?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "8",
+      "D": "11"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 1/(9y⁸), where y > 1?",
+    "choices": {
+      "A": "9y⁻⁸",
+      "B": "(9y)⁻⁸",
+      "C": "9/y⁻⁸",
+      "D": "y⁻⁸/9"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "Line p in the xy-plane contains the points (23, 0) and (23, 23). Which equation defines line p?",
+    "choices": {
+      "A": "x = 23",
+      "B": "x = 0",
+      "C": "y = 23",
+      "D": "y = 0"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "What is the x-intercept of the graph of y = (33 − x)/(ax + b) in the xy-plane, where a and b are positive constants?",
+    "choices": {
+      "A": "(−b/a, 0)",
+      "B": "(0, 33/b)",
+      "C": "(0, −33)",
+      "D": "(33, 0)"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y. There is a quadratic relationship between x and y. An equation that represents this relationship can be written as y = 36x² − bx − 120, where b is a constant. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-6/figures/math2-q10-xy-table.svg"
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The line shown can be represented by the equation ax + by = 32, where a and b are constants. Which of the following is true about a and b?",
+    "choices": {
+      "A": "a < 0 and b < 0",
+      "B": "a < 0 and b > 0",
+      "C": "a > 0 and b < 0",
+      "D": "a > 0 and b > 0"
+    },
+    "imageUrl": "/mocks/purplebook-test-6/figures/math2-q11-line-graph.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "One gallon of paint will cover 310 square feet of a surface. A room has a total wall area of w square feet. Which equation represents the total amount of paint P, in gallons, needed to paint the walls of the room twice?",
+    "choices": {
+      "A": "P = w/155",
+      "B": "P = 620w",
+      "C": "P = w/310",
+      "D": "P = 310w"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "f(x) = (2x − 15)(2x + 7)",
+    "text": "What is the minimum value of the given function?",
+    "choices": {
+      "A": "−121",
+      "B": "−7/2",
+      "C": "2",
+      "D": "8"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The function f models the resistivity of copper, in nanoohm·meters, as a function of the temperature x, in kelvins, of the copper. The graph of y = f(x) is shown. According to the model, which of the following statements about the estimated resistivity of copper is true?",
+    "choices": {
+      "A": "It increases at a rate of 3/5 nanoohm·meters per 100 kelvins.",
+      "B": "It increases at a rate of 6 nanoohm·meters per 100 kelvins.",
+      "C": "At 100 kelvins, it is 10 nanoohm·meters.",
+      "D": "From 200 kelvins to 400 kelvins, it decreases 12 nanoohm·meters."
+    },
+    "imageUrl": "/mocks/purplebook-test-6/figures/math2-q14-copper-resistivity.svg"
+  },
+  "15": {
+    "stimulus": "5 + 2(11 − x)/9 = 3(11 − x) + 5",
+    "text": "If 5 + 2(11 − x)/9 = 3(11 − x) + 5, what is the value of 11 + x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "For two acute angles X and Y, the measure of angle Y is 24° and (sin X)/(cos Y) = 1. What is the measure, in degrees, of angle X?",
+    "choices": {
+      "A": "24",
+      "B": "45",
+      "C": "66",
+      "D": "69"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "In the figure, line AB is parallel to line CD, and line AD intersects line BC at point E. If y = 115 and z = 118, what is the value of x?",
+    "choices": {
+      "A": "53",
+      "B": "62",
+      "C": "127",
+      "D": "143"
+    },
+    "imageUrl": "/mocks/purplebook-test-6/figures/math2-q17-parallel-lines.svg"
+  },
+  "18": {
+    "stimulus": "−4x² + bx − 25 = 0",
+    "text": "In the given equation, b is a positive integer. The equation has no real solution. What is the largest possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "Which expression is NOT a factor of 37,500x⁴ − 960?",
+    "choices": {
+      "A": "25x² + 4",
+      "B": "5x² − 2",
+      "C": "5x + 2",
+      "D": "60"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "2x² + 18x + 2y² + 16y = 11/2",
+    "text": "The given equation defines a circle in the xy-plane. What is the radius of the circle?",
+    "choices": {
+      "A": "√22 / 2",
+      "B": "√11",
+      "C": "√39",
+      "D": "√602 / 2"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between x and y for the 9 data points in data set A. A quadratic model for the data in data set A can be written as y = 0.04x² − 0.07x + 6.52. The graph of this model is shown in the xy-plane. The data point at x = 0 was found to be the result of a recording error and was removed from data set A to create data set B, consisting of the remaining 8 data points. A quadratic model for the data in data set B can be written as y = ax² + bx + c, where a, b, and c are constants. If the quadratic models for data sets A and B are calculated in the same way, which of the following statements must be true?\n\nI. a > 0.04\nII. c < 6.52",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/purplebook-test-6/figures/math2-q21-scatter-quadratic.svg"
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A researcher investigated two species of mites: a predator and its prey. At the start of a week, there was an equal number of the two species. At the end of the week, the number of prey had increased by 2,700% of the number of prey at the start of the week, and the number of predators had increased by 180% of the number of predators at the start of the week. The number of prey at the end of the week was p% greater than the number of predators at the end of the week. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

@@ -50,3 +50,10 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# local OCR / crop working files
+**/_ocr_hint/
+**/_fig_crops/
+**/_crops/
+**/_easyocr/
+

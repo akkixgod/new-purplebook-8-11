@@ -1,0 +1,199 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "If 9 + x = 6, what is the value of −18 − 2x?",
+    "choices": {
+      "A": "−12",
+      "B": "−2",
+      "C": "6",
+      "D": "24"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "The shaded region shown represents the solutions to which inequality?",
+    "choices": {
+      "A": "y > 3x + 7",
+      "B": "y > 3x − 7",
+      "C": "y < 3x + 7",
+      "D": "y < 3x − 7"
+    },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math2-q02-inequality-graph.svg"
+  },
+  "3": {
+    "stimulus": "x + 7 = 13\ny = 5x² + 5",
+    "text": "At what point (x, y) do the graphs of the equations in the given system intersect?",
+    "choices": {
+      "A": "(6, 180)",
+      "B": "(6, 185)",
+      "C": "(13, 5)",
+      "D": "(13, 850)"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "The function t gives the estimated melting temperature, in degrees Celsius, of a DNA molecule as a function of the percent of guanine-cytosine (GC) content, x, in the DNA molecule. The graph of y = t(x) is shown.",
+    "text": "According to the graph, which of the following statements is NOT true?",
+    "choices": {
+      "A": "For each increase of x by 1, t(x) increases by approximately 2/5.",
+      "B": "A DNA molecule with a GC content of 0% has an estimated melting temperature between 60°C and 65°C.",
+      "C": "A DNA molecule with a GC content of 95% has an estimated melting temperature between 100°C and 105°C.",
+      "D": "For each increase of x by 10, t(x) increases by approximately 2/5."
+    },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math2-q04-dna-melting-line.svg"
+  },
+  "5": {
+    "stimulus": null,
+    "text": "A marine biologist uses a linear model to estimate the weight of a blue whale after it is born. The model estimates that a certain blue whale weighs 5,710 pounds at birth and gains 10.0 pounds per hour, for 120 hours, after it is born. Based on this model, what is the estimated weight, in pounds, of this blue whale 7 hours after it is born?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "Scientists collected fallen acorns that each housed a colony of the ant species P. ohioensis and analyzed each colony's structure. For any of these colonies, if the colony has x worker ants, the equation y = 0.67x + 2.6, where 20 ≤ x ≤ 110, gives the predicted number of larvae, y, in the colony. If one of these colonies has 39 worker ants, which of the following is closest to the predicted number of larvae in the colony?",
+    "choices": {
+      "A": "29",
+      "B": "42",
+      "C": "54",
+      "D": "128"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "R = 0.48l/A",
+    "text": "The given equation relates the resistance R, in ohms, of a wire to its length l, in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?",
+    "choices": {
+      "A": "l = AR/0.48",
+      "B": "l = 0.48R/A",
+      "C": "l = (R + A)/0.48",
+      "D": "l = (R − A)/0.48"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "Cube B has a volume of 125 cubic inches. The length of each edge of cube A is k times the length of each edge of cube B. If cube A has a volume of 3,375 cubic inches, what is the value of k?",
+    "choices": {
+      "A": "27",
+      "B": "3",
+      "C": "25",
+      "D": "5"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "h(t) = −16t² + b\n\nThe function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 2.56 feet above the ground when it is dropped at t = 0.",
+    "text": "How many seconds after being dropped does the function estimate the object will hit the ground?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "h = 9(v − 273.15)/5 + 32",
+    "text": "The equation gives the corresponding temperature h, in degrees Fahrenheit, of any substance that has a temperature of v kelvins, where v > 0. If a substance has a temperature of 809.33 degrees Fahrenheit, what is the corresponding temperature, in kelvins, of this substance?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The function f(x) = (1/9)(x − 6)² + 4 gives a toy car's height above the ground f(x), in inches, x seconds after it started moving on an elevated track, where 0 ≤ x ≤ 10. Which of the following is the best interpretation of the vertex of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "The toy car's minimum height was 4 inches above the ground.",
+      "B": "The toy car's minimum height was 6 inches above the ground.",
+      "C": "The toy car's height was 4 inches above the ground when it started moving.",
+      "D": "The toy car's height was 6 inches above the ground when it started moving."
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "A number x is less than 8 more than 1/2 times the value of a number y. If y is an integer and x = 17, what is the least possible value of y?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "(x + k) + (9/2)(y + t) + 19 = 0\n(x + k) − (9/2)(y + t) − 19 = 0",
+    "text": "In the given system of equations, k and t are constants. The solution to this system is (x, y). What is the value of 18(y + t)?",
+    "choices": {
+      "A": "−76",
+      "B": "0",
+      "C": "38",
+      "D": "9"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "In the equation x² + (√(k − 3))x + 42 = 0, k is a constant. The equation has exactly one real solution. What is the value of k?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "To investigate the effect of magnesium supplementation on the sleep quality of adults, a researcher selected 190 adults at random from a community center to participate in a study. The researcher first measured the sleep efficiency of each participant. Each participant was then randomly assigned to take a magnesium supplement or a placebo each day for 6 weeks. At the end of the 6 weeks, the researcher measured the sleep efficiency of all participants again and found that the magnesium supplement caused statistically significant improved sleep quality for the adults at the community center.",
+    "text": "What feature of this study allowed the researcher to conclude that the magnesium supplement caused the improved sleep quality?",
+    "choices": {
+      "A": "There were more than 100 participants in the study.",
+      "B": "The participants were selected at random from the community center.",
+      "C": "The sleep efficiency of each participant was measured again at the end of 6 weeks.",
+      "D": "Each participant was randomly assigned to take a magnesium supplement or a placebo."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The bone mineral density of a certain person's thoracic spine was estimated to be 0.812 grams per square centimeter. What is this estimated bone mineral density in grams per square millimeter? (1 centimeter = 10 millimeters)",
+    "choices": {
+      "A": "81.2",
+      "B": "8.12",
+      "C": "0.0812",
+      "D": "0.00812"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The table summarizes the distribution of age and assigned group for 120 participants in a study. One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least 10 years of age?",
+    "choices": {
+      "A": "5/24",
+      "B": "5/16",
+      "C": "9/20",
+      "D": "5/8"
+    },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math2-q17-age-group-table.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "A certain town has an area of 12,669,184 square yards. What is the area, in square miles, of this town? (1 mile = 1,760 yards)",
+    "choices": {
+      "A": "2.02",
+      "B": "7,198.4",
+      "C": "4.09",
+      "D": "3,559.38"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "The equation 9x² + 8 = nx has exactly one solution. What is the value of n²/8?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = (x² + ax + b)/(2x + c), where a, b, and c are constants. The graph of the function f in the xy-plane, where y = f(x), does not intersect the line x = 4. If f(5) = f(6) = 0, what is the value of a + b + c?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "The points (0, 15), (10, 8), and (10, 3) are shown in the xy-plane, where the x-axis and y-axis are measured in units. These points define one of the bases of a triangular prism. The distance between the two bases of the prism is 20 units.",
+    "text": "What is the volume, in cubic units, of the prism?",
+    "choices": { "gridIn": true },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math2-q21-prism-points.svg"
+  },
+  "22": {
+    "stimulus": "−x² + bx − 169 = 0",
+    "text": "In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  }
+}

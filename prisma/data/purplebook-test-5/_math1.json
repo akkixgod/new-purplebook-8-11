@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The function w models the weight, in ounces, of the remaining solid wax of a burning candle as a function of the time x, in hours, after the candle was lit. The graph of y = w(x) is shown. According to the model, what was the weight, in ounces, of the candle's remaining solid wax 12 hours after the candle was lit?",
+    "choices": {
+      "A": "4",
+      "B": "8",
+      "C": "10",
+      "D": "13"
+    },
+    "imageUrl": "/mocks/purplebook-test-5/figures/math1-q01-candle-weight.svg"
+  },
+  "2": {
+    "stimulus": null,
+    "text": "In triangle EFG, the sum of the measures of angles E and F is 36°. What is the measure of angle G?",
+    "choices": {
+      "A": "36°",
+      "B": "54°",
+      "C": "108°",
+      "D": "144°"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "A local gym is offering a 25% discount on an annual membership. The regular cost of an annual membership is $288. How much less is the discounted cost of the membership than the regular cost of the membership?",
+    "choices": {
+      "A": "$25",
+      "B": "$72",
+      "C": "$216",
+      "D": "$288"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y. There is a linear relationship between x and y. Which of the following equations represents this relationship?",
+    "choices": {
+      "A": "y = x + 22",
+      "B": "y = 24x",
+      "C": "y = 24x + 2",
+      "D": "y = 22x"
+    },
+    "imageUrl": "/mocks/purplebook-test-5/figures/math1-q04-xy-table.svg"
+  },
+  "5": {
+    "stimulus": "f(x) = 3800x",
+    "text": "The function f is defined by the equation f(x) = 3800x. What is the value of f(10)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "Which of the following equations has solutions 13 and −24?",
+    "choices": {
+      "A": "(x − 24)(x + 13) = 0",
+      "B": "(x − 13)(x + 24) = 0",
+      "C": "(x + 13)(x + 24) = 0",
+      "D": "(x − 24)(x − 13) = 0"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "y = 0\ny = 8(x^2 − 36)",
+    "text": "Which ordered pair (x, y) is a solution to the given system of equations?",
+    "choices": {
+      "A": "(0, 6)",
+      "B": "(0, 36)",
+      "C": "(6, 0)",
+      "D": "(36, 0)"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "When a scientist began observing a sample of an isotope, the mass of the sample was 530,000 milligrams. The mass of the sample decreases by half approximately every 5 days. Which of the following is closest to the mass, in milligrams, of the sample 35 days after the scientist began observing the sample?",
+    "choices": {
+      "A": "4,141",
+      "B": "15,143",
+      "C": "16,563",
+      "D": "75,714"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The height of a right circular cylinder is 31 inches, and the circumference of its base is 310 inches. Which expression represents the total surface area, in square inches, of the cylinder?",
+    "choices": {
+      "A": "(31)(310)",
+      "B": "π(155/π)^2(31)",
+      "C": "(31)(310) + π(155/π)^2",
+      "D": "(31)(310) + 2π(155/π)^2"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The function f(w) = 6w^2 gives the area of a rectangle, in square feet (ft^2), if its width is w ft and its length is 6 times its width. Which of the following is the best interpretation of f(14) = 1,176?",
+    "choices": {
+      "A": "If the width of the rectangle is 14 ft, then the area of the rectangle is 1,176 ft^2.",
+      "B": "If the width of the rectangle is 14 ft, then the length of the rectangle is 1,176 ft.",
+      "C": "If the width of the rectangle is 1,176 ft, then the length of the rectangle is 14 ft.",
+      "D": "If the width of the rectangle is 1,176 ft, then the area of the rectangle is 14 ft^2."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The expression (2x + 5)(7x − 10) can be written in the form ax^2 + bx + c, where a, b, and c are constants. What is the value of a + b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The ratio a to b is equivalent to the ratio 49 to 26. What is the value of a when b = 182?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "At the beginning of the year, Imani has $170 in her account. Each month this year, she will deposit between $30 and $60 into the account. Which inequality represents all possibilities for the total amount of money x, in dollars, in Imani's account after 10 months of deposits this year?",
+    "choices": {
+      "A": "x ≤ 300",
+      "B": "x ≥ 600",
+      "C": "170 ≤ x ≤ 620",
+      "D": "470 ≤ x ≤ 770"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = (x − 2)(x − 8)(x + 3). In the xy-plane, the graph of y = h(x) is the result of translating the graph of y = f(x) up 6 units. What is the y-coordinate of the y-intercept of the graph of y = h(x)?",
+    "choices": {
+      "A": "54",
+      "B": "48",
+      "C": "6",
+      "D": "0"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "A circle has a circumference of 42π centimeters. What is the diameter, in centimeters, of the circle?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "How many solutions does the equation 35x − 25 = 5(7x − 5) have?",
+    "choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "On January 1, 2000, the population of a town was 26,255 and on January 1, 2010, the population was 26,956. The equation 10x + 26,255 = 26,956 describes this situation. Which of the following is the best interpretation of x in this context?",
+    "choices": {
+      "A": "The total increase in population between 2000 and 2010",
+      "B": "The average increase per year of the population between 2000 and 2010",
+      "C": "The percentage by which the population of the town increased each year between 2000 and 2010",
+      "D": "The projected population of the town 10 years after 2010"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "For the linear function f, f(−2) = −9, and the slope of the graph of y = f(x) in the xy-plane is 8. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = 8x − 11",
+      "B": "f(x) = 8x − 9",
+      "C": "f(x) = 8x − 2",
+      "D": "f(x) = 8x + 7"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "In the xy-plane, an equation of circle A is (x − 2)^2 + (y − 3)^2 = 9. Circle B has the same center as circle A but has a radius that is twice the radius of circle A. Which equation represents circle B?",
+    "choices": {
+      "A": "(x − 2)^2 + (y − 3)^2 = 18",
+      "B": "(x − 2)^2 + (y − 3)^2 = 36",
+      "C": "(x − 2)^2 + (y − 3)^2 = 54",
+      "D": "(x − 2)^2 + (y − 3)^2 = 81"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "Line k contains the points (−3, −60), (v, 0), and (5, 76). What is the value of v?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "In right triangle FGH shown, what is the value of cos G?",
+    "choices": {
+      "A": "√3/68",
+      "B": "1/2",
+      "C": "√3/2",
+      "D": "34√3"
+    },
+    "imageUrl": "/mocks/purplebook-test-5/figures/math1-q21-triangle-fgh.svg"
+  },
+  "22": {
+    "stimulus": null,
+    "text": "Based on a model, on day 1 of an 8-day experiment, a lima bean plant had an estimated mass of 253 grams, and each day after day 1 of the experiment, the estimated mass of the plant decreased by 4 grams. Which equation represents this model, where m is the estimated mass, in grams, of the plant on day x of the experiment and 1 ≤ x ≤ 8?",
+    "choices": {
+      "A": "m = −4x + 245",
+      "B": "m = −4x + 249",
+      "C": "m = −4x + 253",
+      "D": "m = −4x + 257"
+    },
+    "imageUrl": null
+  }
+}

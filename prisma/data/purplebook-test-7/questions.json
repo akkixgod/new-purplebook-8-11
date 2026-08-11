@@ -1,0 +1,1062 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were ______, such as those for the town of Stone Ridge, Maryland, and the 18th-century forestry magnate Guillermo Garcia, persisted on the site for many before they were finally recognized as falsehoods and deleted.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "mandatory",
+          "B": "fraudulent",
+          "C": "authentic",
+          "D": "modest"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "During film's early years, those who worked in the industry had a vested interest in convincing the public to embrace the new medium. As Sumiko Higashi argues, some filmmakers relied on film critics to influence the public's ______ the world of cinema. Critics who drew similarities between film and traditional art forms, like drama, could help legitimize film as an art form.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "contribution to",
+          "B": "perception of",
+          "C": "reproduction of",
+          "D": "application to"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "Originating in the traditional stories of the Kanaka Maoli, the Native Hawaiian people, the literature of Hawaii has a rich history that was later brought to international prominence by writers such as Mary Kaivena Pukui. Now, by producing acclaimed works, Gary Pak has ______ his place in that literary tradition.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "contemplated",
+          "B": "subverted",
+          "C": "solidified",
+          "D": "extricated"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Ancient Greek and Roman sculpture is sometimes characterized as idealizing human subjects, but in fact there are many Greco-Roman sculptures that depict people in decidedly ______ ways.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "imprecise",
+          "B": "unflattering",
+          "C": "superficial",
+          "D": "implausible"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a thermopolium. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "To discuss the political system of Italy",
+          "B": "To present a recent archaeological discovery",
+          "C": "To describe a region's climate",
+          "D": "To compare ancient artworks with modern ones"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify florists, beauty salons, and other businesses and map their locations. This approach has some limits—data from Places API tends to be restricted to places that are customer-facing—but the data set nevertheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.",
+        "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It describes the imprecise and subjective nature of neighborhood boundaries.",
+          "B": "It introduces a model that a research team built to evaluate the mix of amenities in urban neighborhoods.",
+          "C": "It emphasizes the potential utility of the team's model.",
+          "D": "It identifies a specific flaw in using a data set about amenities in cities."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "The following text is from a translation of Maria Dueñas's 2009 novel The Time in Between. The narrator has just rented an apartment and is entering it for the first time.\n\nOver the years there have been many times when my destiny has delivered me unexpected moments, unforeseen twists and turns that I've had to handle on the fly as they appeared. Occasionally I was ready for them; very often I wasn't. Never, however, was I so aware of entering a new stage as I was that afternoon in October when I finally dared to cross the threshold and my steps sounded hollowly in the unfurnished apartment. Behind me was a complicated past, and in front of me, like an omen, I could see a space opening out, a great empty space that time would take care of filling up.\n\n©2009 by Maria Dueñas, Translation © 2011 by Daniel Hahn.",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "The narrator feels optimistic about the future success of a new business.",
+          "B": "The narrator has always had a plan for how to handle big moments in her life.",
+          "C": "The narrator recognizes that a particular moment marks a major shift in her life.",
+          "D": "The narrator wants to express her gratitude for the people who have helped her."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Superlubricity, the state of virtually no friction between materials, has desirable applications in many industries. For example, it can make aircraft engines more efficient. To produce a coating that achieves superlubricity, Chanaka Kumara and colleagues broke down carbon nanotubes into fragments of graphene to fully cover two surfaces that would rub together. Friction between pieces of graphene is generally extremely low, and when the researchers added a drop of oil as lubrication, that friction nearly vanished. This new coating may drastically lower friction-related energy costs.",
+        "text": "According to the text, what happened when the researchers added oil to the surfaces covered in graphene fragments?",
+        "choices": {
+          "A": "All the pieces of graphene collected on just one of the two surfaces.",
+          "B": "The low amount of friction between the surfaces became even lower.",
+          "C": "Carbon nanotubes on the surfaces fractured into smaller pieces.",
+          "D": "Friction between the surfaces did not noticeably change right away."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "The Yellow Admiral, first published in 1984, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, The Yellow Admiral has a rather abrupt ending, but the following book, The Hundred Days, picks up neatly where The Yellow Admiral leaves off. Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's In Search of Lost Time.",
+        "text": "Which choice best states the main ideas of the text?",
+        "choices": {
+          "A": "Over time, the Aubrey/Maturin series has required the same eminence among critics as other stories like In Search of Lost Time that have similar structures.",
+          "B": "A certain understanding of the structures of the novels in the Aubrey/Maturin series is helpful if one wishes to appreciate the series.",
+          "C": "Many readers find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels' structures.",
+          "D": "The Yellow Admiral and The Hundred Days are two of the most complex of O'Brian's novels due in part to their unconventional structures."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat-headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. Jaguars possess a flexible ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.",
+        "text": "According to the text, which trait do researchers think may contribute to a flat-headed cat's ability to purr?",
+        "choices": {
+          "A": "The shape of the flat-headed cat's larynx",
+          "B": "The ligament attaching the hyoid bone to the flat-headed cat's skull",
+          "C": "The flat-headed cat's rigid hyoid bone",
+          "D": "The relative size of the flat-headed cat's body and throat"
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "the Balline Hoard was found in 1868.",
+          "B": "the Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been found since 1868.",
+          "C": "the Ardagh Hoard and Balline Hoard were both found before 2000.",
+          "D": "Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s."
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/eng1-q11-hoards-ireland.svg"
+      },
+      "12": {
+        "stimulus": "If a planet orbits in close proximity to a star and lacks an atmosphere, the planet can become so hot that magma oceans form on its surface. For three planets that could plausibly harbor magma oceans, the table shows mass, density (expressed as the ratio of the material's volume at its current density to its maximum possible density, with higher numbers indicating lower densities), and surface temperature according to a model that assumes the absence of atmosphere.",
+        "text": "Which choice best describes how data in the table for HD 80653 b would likely differ if it had an atmosphere?",
+        "choices": {
+          "A": "It would have a mass below 5.6 Earth masses.",
+          "B": "Its surface temperature would be around 1,400 kelvins.",
+          "C": "It would have a mass above 5.6 Earth masses.",
+          "D": "Its surface temperature would be below 2,300 kelvins."
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/eng1-q12-lava-worlds.svg"
+      },
+      "13": {
+        "stimulus": "A road was recently built in a Maryland woodland that is home to the house finch. Some finches' nests were situated close to the new road and others were deeper in the woodland. Common ravens, which eat finch eggs, can spot nests near the open spaces of roads more easily than they can spot nests surrounded by woodland. Accordingly, researchers in Maryland trying to predict the impact of the new road on finches have suggested that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "finch eggs will make up about the same percentage of common ravens' diet as they did before the road was built.",
+          "B": "the number of finches building nests near the road will gradually increase as the finches adapt to the presence of the common ravens.",
+          "C": "finches nesting near the road will lose eggs to common ravens at a higher rate than will finches nesting far from the road.",
+          "D": "finches nesting far from the road will lay fewer eggs per nest than will finches nesting near the road."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Poems of Experience is a 1910 collection of poetry by Ella Wheeler Wilcox. In one of her poems, the speaker indicates that several beneficial opportunities have recently become available to women, saying, ______",
+        "text": "Which quotation from Poems of Experience most effectively illustrates the claim?",
+        "choices": {
+          "A": "\"Delicate creature of light and shade, / [Woman] gleamed like an opal, on wide worlds under.\" (from \"Woman\")",
+          "B": "\"We must use the joys of earth, / All its cares we'll keep; / Night was made for youth and mirth, / Day was made for sleep.\" (from \"The Voices of the City\")",
+          "C": "\"For worlds to conquer [woman] had not yearned, / Till [man] spoke of her feminine sphere as 'narrow.'\" (from \"Woman\")",
+          "D": "\"Trade and science and craft and art, / Have opened their doors to the call of woman; / And greater she grows in her greater part, / More tenderly wise, and more sweetly human.\" (from \"Woman\")"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Humans have a very strong bias toward right-handedness, with approximately 85-90% having right as their dominant hand. Among studies of nonhuman primates, James Welles's 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues' 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It's important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the apparent difference between the two studies' results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.",
+          "B": "the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.",
+          "C": "the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.",
+          "D": "the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Zydeco music originated in the French Creole community of southwest Louisiana. One instrument that gives zydeco its unique sound is the vest frottoir. The vest frottoir ______ a wearable washboard that is played by rubbing spoons or bottle openers against it.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is",
+          "B": "were",
+          "C": "are",
+          "D": "have been"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "The rough frog is a species of amphibian native to Australia. Currently, the frog's range ______ parts of northern New South Wales and southeastern Queensland.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "had included",
+          "B": "will have included",
+          "C": "includes",
+          "D": "included"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "The constitution of Spain, enacted in 1978, enshrines 60 total rights across 17,608 words of text. According to constitutional scholar George Tsebelis, who examines the implications of constitutional length on civil rights, ______ 105th in a global ranking of the shortest constitutions.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "its",
+          "B": "it's",
+          "C": "they're",
+          "D": "their"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Writer Silvia Moreno-Garcia's love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she later would become a prolific short story writer herself, publishing pieces like \"In the Details\" (2015) and \"To See Pedro Infante\" (2014). Yet she's best ______ especially since her 2020 novel Mexican Gothic reached the New York Times Best Sellers list—as a novelist.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "known",
+          "B": "known:",
+          "C": "known—",
+          "D": "known;"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "Between June 22 and July 2 each year, particles shed by comet 7P/Pons-Winnecke enter Earth's atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth's ______ since the meteoroids' compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the June Boötid meteor shower.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "surface, however;",
+          "B": "surface, however",
+          "C": "surface; however,",
+          "D": "surface. However,"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "In certain genetic inheritance patterns, inherited traits can skip a generation in a family tree. ______ it is entirely possible for an individual to share a trait, such as square nails, with a grandparent but not with either biological parent.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Thus,",
+          "B": "Still,",
+          "C": "On the contrary,",
+          "D": "In addition,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "In astrophysics, a ring of debris orbiting a larger object within the object's Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ______ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "likewise,",
+          "B": "fittingly,",
+          "C": "for example,",
+          "D": "though,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "The decades since the Second World War have seen a range of outcomes for the independence movements of Micronesia, Melanesia, and Polynesia. Many of the region's islands and groups of islands have become independent nations. ______ the Northern Mariana Islands, a commonwealth in Micronesia consisting of fifteen islands, are part of the US, and the Society Islands, a group of islands in Polynesia including Tahiti and Bora Bora, are part of the territory of French Polynesia.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "For example,",
+          "B": "Therefore,",
+          "C": "In fact,",
+          "D": "On the other hand,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "In contrast to first-past-the-post electoral processes, the proportional representation system by which Sweden's Parliament is elected begins with citizens casting their votes not for specific candidates but for political parties. ______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "However,",
+          "B": "Then,",
+          "C": "In other words,",
+          "D": "Conversely,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart.\n• In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis.\n• Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago.\n• At that distance, Chrysalis would have been broken apart by tidal forces.\n• The researchers hypothesized that the resulting debris formed Saturn's rings.",
+        "text": "The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "According to researchers' simulations, debris from Saturn's rings would likely have caused Chrysalis—a large moon orbiting Saturn—to break apart around 160 million years ago.",
+          "B": "In a 2022 study, researchers proposed that Saturn was once orbited by a large moon that broke apart.",
+          "C": "Around 160 million years ago, a large moon (Chrysalis) may have come close enough to Saturn that tidal forces broke the moon apart; its debris then formed the planet's rings.",
+          "D": "If a moon orbiting a planet (like Saturn) comes close enough to that planet, tidal forces can cause the moon to break apart."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The James River National Wildlife Refuge (NWR) is a protected natural area in Virginia.\n• It encompasses 4,147 acres.\n• It was established to safeguard the habitat of the bald eagle, an endangered species.\n• There are restrictions on human activities in the James River NWR.\n• The James River NWR is managed by the US Fish & Wildlife Service.",
+        "text": "The student wants to explain the original purpose of the James River NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The James River NWR is a protected natural area encompassing 4,147 acres; human activities are restricted there.",
+          "B": "The James River NWR was established to safeguard the habitat of the endangered bald eagle.",
+          "C": "Home to the bald eagle, the James River NWR is located in Virginia, where it encompasses 4,147 acres.",
+          "D": "Virginia's James River NWR is a protected natural area managed by the US Fish & Wildlife Service."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Most of the plant and bird species in Oahu, Hawaii, are non-native.\n• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.\n• Researchers catalogued plant seeds found in fecal samples from non-native birds.\n• Pipturus albidus, a flowering shrub, was one of fifteen native species catalogued.\n• Paederia foetida, a woody vine, was one of twenty-nine non-native species catalogued.\n• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.",
+        "text": "The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Most plant species found in Oahu, Hawaii, like Paederia foetida, are non-native.",
+          "B": "A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.",
+          "C": "Seeds from Pipturus albidus and Paederia foetida plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study.",
+          "D": "Though Pipturus albidus and Paederia foetida can both be found in Oahu, Hawaii, only the former plant is native."
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "The following text is from Jhumpa Lahiri's 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father.\n\nHe watches his father raise a kite within minutes into the wind, so high that Gogol must tip his head back in order to see, a rippling speck against the sky. The wind whips around their ears, turning their faces cold.\n\n©2003 by Jhumpa Lahiri",
+        "text": "As used in the text, what does the word \"tip\" most nearly mean?",
+        "choices": {
+          "A": "Lean",
+          "B": "Create",
+          "C": "Pay",
+          "D": "Teach"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Often, the Nobel Prize in Chemistry is given to a single person, such as Frederick Sanger in 1958. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ______. For instance, in 2008, Roger Y. Tsien was among those awarded for \"the discovery and development of the green fluorescent protein, GFP.\"",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "ceremoniously",
+          "B": "reluctantly",
+          "C": "jointly",
+          "D": "retroactively"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "When minor planets are discovered, each is given a unique identification number, and some may be given a unique name, as in the case of 1083 Salvia, which was named after the plant genus that includes sages. But naming a minor planet is not ______; whether to assign it a name is entirely the choice of whoever discovers it.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "mandatory",
+          "B": "feasible",
+          "C": "permissible",
+          "D": "selective"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Philosopher Ingrid Robeyns argues for the principle of limitarianism—that there should be a limit on the wealth a person possesses. Critics of limitarianism respond that it is ______ since it would require worldwide cooperation between governments in economic policy, a goal that is likely unachievable.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "perfunctory",
+          "B": "utopian",
+          "C": "punitive",
+          "D": "viable"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "HMS Surprise, first published in 1973, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of HMS Surprise and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's The Forsyte Saga.",
+        "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It presents a reason most critics think the Aubrey/Maturin series should have the literary renown of similar works like The Forsyte Saga.",
+          "B": "It summarizes a positive assessment of a particular characteristic of the Aubrey/Maturin novels.",
+          "C": "It explains why many critics find the Aubrey/Maturin novels to be entertaining despite flaws in the novels' structures.",
+          "D": "It argues that the unusual structure that O'Brian uses for HMS Surprise makes it one of his most entertaining books."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that didn't have wings also had feathers on their bodies. For instance, research indicates that the wingless, speedy Ornithomimus likely had feathers.",
+        "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It explains the scientific debate about the finding discussed in the previous sentence.",
+          "B": "It points out several weaknesses in the theory presented in the previous sentence.",
+          "C": "It identifies the researchers who made the discovery mentioned in the previous sentence.",
+          "D": "It provides a specific example of the dinosaurs described in the previous sentence."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Text 1\nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.\n\nText 2\nIn a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.'s calculations therefore placed the inner edge for these planets' HZ as far out as 3.85 AU.",
+        "text": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.'s research, as presented in Text 1?",
+        "choices": {
+          "A": "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
+          "B": "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet's surface is unlikely to harbor liquid water",
+          "C": "By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high",
+          "D": "By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Humans aren't the only ones who use tools. Other animals also find tools helpful. Boxer crabs use stinging anemones to defend against attack. And despite sometimes being thought of as simple, many birds make clever use of tools as well. Egyptian vultures have been observed using pebbles to break open ostrich egg shells.",
+        "text": "Which choice best states the main topic of the text?",
+        "choices": {
+          "A": "Intelligence in boxer crabs",
+          "B": "How to observe animals in the wild",
+          "C": "A study of Egyptian vultures",
+          "D": "Tool use in animals"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Falcons and horses can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of falcons and horses than that of octopuses or squid.",
+        "text": "Which choice best describes the main idea of the text?",
+        "choices": {
+          "A": "Cuttlefish eyes are much more complex than those of falcons or horses.",
+          "B": "Wardill's team designed 3D glasses for cuttlefish.",
+          "C": "Before completing their study, Wardill's team thought that cuttlefish have 3D vision, but horses may not.",
+          "D": "The findings of Wardill's team's study suggest that like falcons and horses, cuttlefish may also have 3D vision."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "The bird species Myiobius barbatus (the bearded flycatcher) shares some territory in French Guiana with Thamnomanes caesius (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded T. caesius alarm calls and played them in the vicinity of wild M. barbatus. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that M. barbatus associates T. caesius alarm calls with danger.",
+        "text": "Which finding, if true, would most directly support Martinez and colleagues' conclusion?",
+        "choices": {
+          "A": "Other bird species than M. barbatus also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played T. caesius alarm calls.",
+          "B": "Martinez and colleagues played alarm calls from different T. caesius individuals and observed no significant variation in the responses of M. barbatus.",
+          "C": "In some instances, M. barbatus froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds.",
+          "D": "When Martinez and colleagues played control sounds of random noise in the vicinity of M. barbatus, the birds displayed no reaction."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "The nearly forty tribes located in Oklahoma, including the Choctaw Nation and the Seminole Nation, operate numerous businesses, employ tens of thousands of people, and generate billions of dollars in revenue. A student in an economics class is researching the tribes' collective activity as a single industry. The student wants to compare that industry's role in Oklahoma in 2017 with the roles of other industries in the state. Looking at a table with information about three industries, the student finds that compared with the other two industries, tribal economic activity ______",
+        "text": "Which choice most effectively uses data from the table to complete the comparison?",
+        "choices": {
+          "A": "made the lowest total contribution by industry.",
+          "B": "ranked highest in all three economic measures listed in the table.",
+          "C": "made the highest average economic contribution per employee.",
+          "D": "employed the same number of people as accommodation/food services."
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q11-oklahoma-industries.svg"
+      },
+      "12": {
+        "stimulus": "A student is writing a research paper on the global rise of the home video game industry during the 1970s and 1980s. The student is surprised by differences in the number of units sold by some systems compared to those sold by others. Most remarkably, the ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "Game & Watch sold approximately 18,600,000 units, whereas the ColecoVision sold only approximately 2,000,000 units.",
+          "B": "Game & Watch sold approximately 4,000,000 units, whereas the ColecoVision sold only approximately 3,000,000 units.",
+          "C": "MSX sold approximately 4,000,000 units, whereas the Intellivision sold only approximately 3,000,000 units.",
+          "D": "MSX sold approximately 18,600,000 units, whereas the Intellivision sold only approximately 2,000,000 units."
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q12-video-game-systems.svg"
+      },
+      "13": {
+        "stimulus": "Most bird species that are capable of flight weigh less than a kilogram (kg), which is not surprising considering the burden that extra body weight puts on a flying animal. But not all flying birds are so light, as we can see most clearly in the example of the ______",
+        "text": "Which choice most effectively uses data from the table to complete the example?",
+        "choices": {
+          "A": "northern cassowary, which has an average mass of 44.0 kg.",
+          "B": "Andean condor, which has an average mass below 10 kg.",
+          "C": "northern cassowary, which has a higher average mass than the lesser rhea.",
+          "D": "Dalmatian pelican, which has an average mass of 11.5 kg."
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q13-bird-mass.svg"
+      },
+      "14": {
+        "stimulus": "Some studies of migrating animals measure how far the animals travel in a year by fitting individuals with GPS tracking collars. Other studies track annual round-trip distance (RTD), which is equal to double the distance separating the two habitats a population migrates between each year. A researcher argues that since GPS records all of an animal's movements, using the GPS method to track a population would result in significantly higher recorded travel distances than using the RTD method would. For example, it's very likely that the distance reported for the ______",
+        "text": "Which choice most effectively uses data from the table to complete the example?",
+        "choices": {
+          "A": "Mongolian gazelle would be greater than 5,067 kilometers if the GPS method had been used.",
+          "B": "khulan would be greater than 2,356 kilometers if the RTD method had been used.",
+          "C": "Mongolian gazelle would be less than 600 kilometers if the GPS method had been used.",
+          "D": "khulan would be less than 5,067 kilometers if the RTD method had been used."
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q14-migration-distances.svg"
+      },
+      "15": {
+        "stimulus": "Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Graeme Shannon and colleagues found in a 2016 study of black-tailed prairie dogs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for amphibians than they are for mammals.",
+          "B": "some studies of amphibians found larger effects of exposure to anthropogenic noise than some studies of mammals did.",
+          "C": "the difference found in the study conducted by Graeme Shannon and colleagues was likely larger than the average difference for studies of black-tailed prairie dogs included in the meta-analysis.",
+          "D": "the studies in the meta-analysis that examined mammals were more likely than those that examined amphibians to specify whether the observed effects were detrimental."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "While the ancient Celts—Iron Age peoples who inhabited parts of western and central Europe—weren't a single unified group, their art often featured common elements. These included intricate patterns of interlocking spiral lines, which often held symbolic ______ of birds, horses, and other animals; and inlaid enamel accents.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "significance; depictions",
+          "B": "significance, depictions",
+          "C": "significance. Depictions",
+          "D": "significance: depictions"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series Fifty Days at Iliam. In these works, Twombly's artistic style is exemplified by his use of graffiti-like ______ often incorporate words or phrases from poetry and mythology.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "scribbles; that",
+          "B": "scribbles that",
+          "C": "scribbles: that",
+          "D": "scribbles. That"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "When a picture of Robert Fulton was printed on $2 banknotes in ______ inventor of the steamboat became just one of many nonpresidents to appear on US currency.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "1896. The",
+          "B": "1896 the",
+          "C": "1896, the",
+          "D": "1896; the"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Objects orbiting in the outer solar system between Jupiter and Neptune, such as 2010 BK118, a 46-kilometer-wide body first detected in 2010, ______ both asteroidal and comet-like characteristics, being closer in size and appearance to asteroids but traveling in an elliptical orbit more closely resembling that of comets.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is displaying",
+          "B": "display",
+          "C": "displays",
+          "D": "has displayed"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "William Kittredge's short essay on \"krummholz,\" a word referring to twisted and stunted trees growing near the tree line, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn't written solely by ______ other authors, such as Linda Hogan and Barry Lopez, also contributed essays.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Kittredge, however;",
+          "B": "Kittredge; however,",
+          "C": "Kittredge. However,",
+          "D": "Kittredge, however,"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "Patricia Hampl's essay on \"terracette,\" a term referring to a series of terrace-like formations on a hillside, is just one of many essays included in Home Ground: A Guide to the American ______ by Barry Lopez and Debra Gwartney, the book celebrates the rich language used to describe the landscape of North America.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Landscape, edited",
+          "B": "Landscape and edited",
+          "C": "Landscape edited",
+          "D": "Landscape. Edited"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "In the list \"Things That Arouse a Fond Memory of the Past\" from Sei Shōnagon's Pillow Book, the author delights in pressed silk, a moonlit night, and dried hollyhock. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book's musings on tenth-century Japanese courtly life ______ readers a thousand years later.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "has fascinated",
+          "B": "fascinates",
+          "C": "fascinate",
+          "D": "is fascinating"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "The near-Earth asteroid 1991 VH is orbited by the moonlet S/1997 (35107). In 2022, scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. ______ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Meanwhile,",
+          "B": "To be exact,",
+          "C": "For example,",
+          "D": "Furthermore,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The Great Salt Lake in Utah is one of the world's saltiest bodies of water.\n• The northern portion of the lake has a higher concentration of salt than the southern portion.\n• Aquatic insects called Ephydra cinerea live in the southern portion.\n• Bacteria called Nodularia live in the southern portion.",
+        "text": "The student wants to emphasize a difference between Ephydra cinerea and Nodularia. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Ephydra cinerea and Nodularia are different types of organisms: Ephydra cinerea are aquatic insects, whereas Nodularia are bacteria.",
+          "B": "The northern portion of the Great Salt Lake has a higher concentration of salt than does the southern portion.",
+          "C": "Ephydra cinerea and Nodularia both live in the Great Salt Lake's southern portion.",
+          "D": "Ephydra cinerea are aquatic insects that live in the southern portion of the Great Salt Lake."
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.\n• Gropius was the school's director from 1919 to 1928.\n• Hannes Meyer was its director from 1928 to 1930.\n• Ludwig Mies van der Rohe was its director from 1930 to 1933.\n• Josef Albers was a painter and educator who began attending the Bauhaus in 1920.\n• Stella Steyn was a painter and illustrator who began attending the Bauhaus in 1931.",
+        "text": "The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Founded in 1919, the Bauhaus was a German art and design school whose past students include Josef Albers and Stella Steyn.",
+          "B": "The Bauhaus was founded in 1919, and Stella Steyn began attending in 1931.",
+          "C": "Josef Albers and Stella Steyn were both Bauhaus students, but Albers, who began attending in 1920, preceded Steyn.",
+          "D": "Walter Gropius founded the Bauhaus in 1919 and acted as its director until 1928, at which point Hannes Meyer succeeded him in the role."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The United States has designated more than 500 areas National Wildlife Refuges (NWRs).\n• Some NWRs were established specifically to protect endangered species.\n• The St. Johns NWR is a 6,255-acre area in Florida, on the Atlantic coast.\n• It was established to protect the endangered dusky seaside sparrow.\n• The Bitter Creek NWR is a 14,054-acre area in California, on the Pacific coast.\n• It was established to protect the endangered California condor.",
+        "text": "The student wants to contrast the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Some NWRs were established specifically to protect endangered species such as the California condor.",
+          "B": "Both the St. Johns NWR and the Bitter Creek NWR were established to protect endangered species.",
+          "C": "While the St. Johns NWR is in Florida, on the Atlantic coast, the Bitter Creek NWR is in California, on the Pacific coast.",
+          "D": "The US has designated more than 500 areas NWRs, including the St. Johns NWR in Florida."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.\n• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object's first layer takes shape.\n• Step 2: The partially cured resin object is raised, leaving a thin space (a \"dead zone\") beneath it for oxygen and liquid resin to flow through.\n• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.\n• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.",
+        "text": "The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "DLS cures 3D objects by passing through a \"dead zone,\" adding layers to the object, then curing the object in an oven.",
+          "B": "In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a \"dead zone,\" wherein the curing is completed.",
+          "C": "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.",
+          "D": "DLS is a form of additive manufacturing that creates a \"dead zone\" in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": null,
+        "text": "If 6x = 60, what is the value of 7x + 3?",
+        "choices": {
+          "A": "73",
+          "B": "63",
+          "C": "55",
+          "D": "45"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to 9(x² + 6)?",
+        "choices": {
+          "A": "9x² + 3",
+          "B": "9x² + 6",
+          "C": "9x² + 15",
+          "D": "9x² + 54"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "For a particular tree species, it is recommended to plant a maximum of 102 trees per acre. Based on this recommendation, what is the maximum number of trees of this species that can be planted on 3 acres?",
+        "choices": {
+          "A": "408",
+          "B": "306",
+          "C": "105",
+          "D": "99"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "An adult elephant drinks by pulling water up into its trunk and then emptying the water into its mouth. If an adult elephant pulls between 4 and 9 liters of water up into its trunk at a time, which of the following could be the number of times the elephant pulls water up into its trunk to drink 140 liters of water?",
+        "choices": {
+          "A": "14",
+          "B": "15",
+          "C": "34",
+          "D": "37"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "y = (2/5)x + 2",
+        "text": "One of the two equations in a system of linear equations is given. The system has infinitely many solutions. If the second equation in the system is y = mx + b, where m and b are constants, what is the value of b?",
+        "choices": {
+          "A": "−2",
+          "B": "−1/2",
+          "C": "1/2",
+          "D": "2"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to 10x² + 130?",
+        "choices": {
+          "A": "10(13x²)",
+          "B": "10(x² + 13)",
+          "C": "130(10x²)",
+          "D": "130(10x² + 1)"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "x + 7 = 13\ny = 5x² + 5",
+        "text": "At what point (x, y) do the graphs of the equations in the given system intersect?",
+        "choices": {
+          "A": "(6, 180)",
+          "B": "(6, 185)",
+          "C": "(13, 5)",
+          "D": "(13, 850)"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "A line in the xy-plane has a slope of 7 and passes through the point (0, −5). Which equation represents this line?",
+        "choices": {
+          "A": "y = −5x + 7",
+          "B": "y = −5x − 7",
+          "C": "y = 7x + 5",
+          "D": "y = 7x − 5"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "How many centimeters are equivalent to 21 meters? (1 meter = 100 centimeters)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown. Which of the following is closest to the slope of the line of best fit shown?",
+        "choices": {
+          "A": "−11.19",
+          "B": "−0.84",
+          "C": "0.84",
+          "D": "11.19"
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/math1-q10-scatter-best-fit.svg"
+      },
+      "11": {
+        "stimulus": "f(x) = 4^(x − 2) + 8",
+        "text": "The function f is defined by the equation shown. What is the value of f(2)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "8x² + 13x = 6",
+        "text": "What is the positive solution to the given equation?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "A machine fills bags with approximately 29 ounces of walnuts. To test the accuracy of the filling process, 169 bags of walnuts were selected at random and weighed. Based on the sample, it is estimated that the average weight of all bags of walnuts filled by the machine in an 8-hour period is 28.88 ounces, with an associated margin of error of 0.13 ounce. Which of the following is the best interpretation of this estimate?",
+        "choices": {
+          "A": "Plausible values for the average weight of all bags of walnuts filled by the machine are between 28.75 ounces and 29.01 ounces.",
+          "B": "Plausible values for the average weight of all bags of walnuts filled by the machine are less than 28.75 ounces or greater than 29.01 ounces.",
+          "C": "The average weight of all bags of walnuts filled by the machine is less than 28.99 ounces.",
+          "D": "The average weight of all bags of walnuts filled by the machine is greater than 28.99 ounces."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "The function f gives the product of a number, x, and a number that is 62 more than x. Which equation defines f?",
+        "choices": {
+          "A": "f(x) = x² + x + 62",
+          "B": "f(x) = x² + 62",
+          "C": "f(x) = x² + 62x",
+          "D": "f(x) = x² + 62x + 62"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "A right circular cone has a height of 13 centimeters (cm) and a base with a radius of 6 cm. What is the volume, in cm³, of this cone?",
+        "choices": {
+          "A": "26π",
+          "B": "78π",
+          "C": "156π",
+          "D": "468π"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "Rectangles ABCD and EFGH are similar. The length of each side of rectangle EFGH is 7 times the length of the corresponding side of rectangle ABCD. The area of rectangle ABCD is 68 square units. What is the area of rectangle EFGH, in square units?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Group G: 8, 15, 20, 20, 23\nGroup H: 15, 20, 20, 23",
+        "text": "A farmer gave two groups of chickens different types of chicken feed for a month to measure the effect on egg production. The lists give the number of eggs collected from each chicken in each of the two groups. Which statement correctly compares the median number of eggs collected for group G and the median number of eggs collected for group H?",
+        "choices": {
+          "A": "The median number of eggs collected for group G is equal to the median number of eggs collected for group H.",
+          "B": "The median number of eggs collected for group G is greater than the median number of eggs collected for group H.",
+          "C": "The median number of eggs collected for group G is less than the median number of eggs collected for group H.",
+          "D": "There is not enough information to compare the median number of eggs collected for group G and the median number of eggs collected for group H."
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "In triangle JKL, cos(K) = 36/60 and angle J is a right angle. What is the value of cos(L)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "In the xy-plane, a circle has center C with coordinates (h, k). Points A and B lie on the circle. Point A has coordinates (h + 1, k + √230), and ∠ACB is a right angle. What is the length of AB?",
+        "choices": {
+          "A": "231√3",
+          "B": "231√2",
+          "C": "2√230",
+          "D": "√462"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "A family has money in an account for renting movies online. Each time the family rents a movie, the cost of the rental is withdrawn from the account, and each rental costs the same amount of money. The function f(m) = 21 − 3m gives the amount of money, in dollars, in the account after the family has rented m movies. Which of the following represents the amount of money, in dollars, withdrawn from the account each time the family rents a movie?",
+        "choices": {
+          "A": "3m",
+          "B": "3",
+          "C": "21",
+          "D": "21 − 3m"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "Each of the following frequency tables represents a data set. Which data set has the greatest mean?",
+        "choices": {
+          "A": "Value|Frequency: 60|2, 70|3, 80|4, 90|5",
+          "B": "Value|Frequency: 60|6, 70|3, 80|3, 90|6",
+          "C": "Value|Frequency: 60|4, 70|4, 80|4, 90|4",
+          "D": "Value|Frequency: 60|5, 70|4, 80|4, 90|5"
+        },
+        "imageUrl": "/mocks/purplebook-test-7/figures/math1-q21-frequency-tables.svg"
+      },
+      "22": {
+        "stimulus": null,
+        "text": "A sphere has a volume of 247.00 cubic yards. What is the volume of the sphere, in cubic meters? (Use 1 yard = 0.914 meter.)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "For the linear function g, the graph of y = g(x) in the xy-plane has a slope of 5 and passes through the point (2, 47). Which equation defines g?",
+        "choices": {
+          "A": "g(x) = 37x",
+          "B": "g(x) = 37x + 5",
+          "C": "g(x) = 5x",
+          "D": "g(x) = 5x + 37"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "A certain elephant calf weighed 226 pounds when it was born. The elephant calf gained an average of 3 pounds per day in its first year of life. Which equation models this situation, where y is the estimated weight of the elephant calf, in pounds, x days after it was born?",
+        "choices": {
+          "A": "y = 226 + 3x",
+          "B": "y = 226 − 3x",
+          "C": "y = 3 + 226x",
+          "D": "y = 3 − 226x"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "0 = (x − k)(7x + t) − (x − k)",
+        "text": "In the given equation, k and t are positive constants. A solution to the equation is −22/7. What is the value of t?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "For a survey, a sample of 1,018 people was selected at random from all registered voters in a county. Based on the survey, it is estimated that 66% of all registered voters in the county are in favor of a new law, with an associated margin of error of 2.91%. Which of the following best describes the plausible values for the percent of all registered voters in the county who are in favor of the new law?",
+        "choices": {
+          "A": "Any value greater than 63.09% and less than 68.91%",
+          "B": "Any value greater than 63.09%",
+          "C": "Any value less than 63.09% or greater than 68.91%",
+          "D": "Any value less than 68.91%"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "f(x) = 4x²",
+        "text": "The function f is defined by the equation shown. What is the value of f(11)?",
+        "choices": {
+          "A": "44",
+          "B": "52",
+          "C": "88",
+          "D": "484"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "In triangle RST, the measure of angle R is 29 degrees. Which statement provides sufficient information to prove that triangle RST is isosceles?",
+        "choices": {
+          "A": "The measure of angle S is 151 degrees.",
+          "B": "The measure of angle S is 61 degrees.",
+          "C": "The measure of angle S is 58 degrees.",
+          "D": "The measure of angle S is 29 degrees."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "An object is launched from a height of 121 feet above the ground. A quadratic function f models the height above the ground, in feet, of the object t seconds after it is launched. According to the model, 2 seconds after the object is launched, it reaches a maximum height of 185 feet above the ground. Which equation defines f?",
+        "choices": {
+          "A": "f(t) = −16(t + 185)² − 2",
+          "B": "f(t) = −16(t − 185)² + 2",
+          "C": "f(t) = −16(t + 2)² − 185",
+          "D": "f(t) = −16(t − 2)² + 185"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "A plumbing company charges its customers $112 for the first hour of a plumbing service call and $40 for each additional hour, plus the cost of plumbing parts. Which equation represents the total cost y, in dollars, for an x hour plumbing service call where the cost of parts was $z and x ≥ 1?",
+        "choices": {
+          "A": "y = 40x + z",
+          "B": "y = 40x + z + 72",
+          "C": "y = 112x + z",
+          "D": "y = 112x + 40x + 72"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "−3x² − 7x + 9 = 0",
+        "text": "What is the greatest solution to the given equation?",
+        "choices": {
+          "A": "−7/3 + √157/3",
+          "B": "−7/3 − √157/3",
+          "C": "−7/6 + √157/6",
+          "D": "−7/6 − √157/6"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "x² − 25/81 = 0",
+        "text": "How many distinct real solutions does the given equation have?",
+        "choices": {
+          "A": "Zero",
+          "B": "Exactly one",
+          "C": "Exactly two",
+          "D": "Infinitely many"
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "(9/8)(x − 5) − 36 = (7/8)(x − 5) + 28",
+        "text": "What is the value of x − 5?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "The positive number a is 2,136% of the sum of the positive numbers b and c, and b is 89% of c. What percent of b is a?",
+        "choices": {
+          "A": "4,536%",
+          "B": "2,400%",
+          "C": "40.37%",
+          "D": "22.25%"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "An object is launched into the air from ground level. According to a quadratic model, 2.1 seconds after the object is launched, it reaches its maximum height of 70.56 feet above ground level. Which equation represents this model, where f(t) is the object's height, in feet, above ground level t seconds after it was launched?",
+        "choices": {
+          "A": "f(t) = −16(t − 2.1)² + 70.56",
+          "B": "f(t) = 16(t + 2.1)² + 70.56",
+          "C": "f(t) = −16(t + 2.1)² + 70.56",
+          "D": "f(t) = 16(t − 2.1)² + 70.56"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "∛(x^17 y^5) / (5x² ∛(y^3))",
+        "text": "For all positive values of x and y, the given expression is equivalent to which of the following?\nI. (x^(14/3) · y^(5/3)) / (5xy)\nII. ∛(x^11 y^2) / 5",
+        "choices": {
+          "A": "I only",
+          "B": "II only",
+          "C": "I and II",
+          "D": "Neither I nor II"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "z(w) = (0.829)^(2w)",
+        "text": "The function z is defined by the equation shown. The value of z(w) decreases by p% for each increase by 1 in the value of w. Which of the following is closest to the value of p?",
+        "choices": {
+          "A": "0.171",
+          "B": "0.829",
+          "C": "17.1",
+          "D": "31.3"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "As the size of a firework's shell increases, the height above the ground when the firework bursts increases. For a firework to burst 1,075 feet above the ground, a firework's shell in the shape of a sphere with a volume of 542.68 cubic inches could be used. To the nearest whole number, what is the volume of this firework's shell in cubic centimeters? (1 inch = 2.54 centimeters)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "y = x − c\ny = −4(x − 8)²",
+        "text": "In the given system of equations, c is a constant. The system has two distinct real solutions. Which of the following could be the value of c?",
+        "choices": {
+          "A": "3",
+          "B": "7",
+          "C": "127/16",
+          "D": "13"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "f(x) = 5x² + 60x + 181",
+        "text": "The function g is defined by g(x) = f(x + 8). What is the minimum value of g(x)?",
+        "choices": {
+          "A": "−14",
+          "B": "−6",
+          "C": "1",
+          "D": "9"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to 10(x + 3)?",
+        "choices": {
+          "A": "10x + 3",
+          "B": "10x + 13",
+          "C": "10x + 7",
+          "D": "10x + 30"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "f(x) = 66(b)^x",
+        "text": "In the given function, b is a positive constant. For every increase in the value of x by 1, the value of f(x) increases by c%, where 0 < c < 100. Which expression gives the value of c in terms of b?",
+        "choices": {
+          "A": "1 + b/100",
+          "B": "b + 100",
+          "C": "100(b + 1)",
+          "D": "100(b − 1)"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "A right rectangular prism has a base area of 16t square centimeters (cm²). The length of the base of the rectangular prism is 8/3 cm, and the height of the rectangular prism is 9 cm. Which expression represents the surface area, in cm², of the right rectangular prism?",
+        "choices": {
+          "A": "32t + 96",
+          "B": "140t + 48",
+          "C": "800t + 48",
+          "D": "144t"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "f(x) = ab^(x/n)",
+        "text": "The function f is defined by the equation shown, where a, b, and n are constants, and b and n are integers. If f(4) = 5 and f(7) = 135, what is the value of f(9)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

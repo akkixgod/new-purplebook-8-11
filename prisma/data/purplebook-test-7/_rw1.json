@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were ______, such as those for the town of Stone Ridge, Maryland, and the 18th-century forestry magnate Guillermo Garcia, persisted on the site for many before they were finally recognized as falsehoods and deleted.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "mandatory",
+      "B": "fraudulent",
+      "C": "authentic",
+      "D": "modest"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "During film's early years, those who worked in the industry had a vested interest in convincing the public to embrace the new medium. As Sumiko Higashi argues, some filmmakers relied on film critics to influence the public's ______ the world of cinema. Critics who drew similarities between film and traditional art forms, like drama, could help legitimize film as an art form.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "contribution to",
+      "B": "perception of",
+      "C": "reproduction of",
+      "D": "application to"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Originating in the traditional stories of the Kanaka Maoli, the Native Hawaiian people, the literature of Hawaii has a rich history that was later brought to international prominence by writers such as Mary Kaivena Pukui. Now, by producing acclaimed works, Gary Pak has ______ his place in that literary tradition.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "contemplated",
+      "B": "subverted",
+      "C": "solidified",
+      "D": "extricated"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Ancient Greek and Roman sculpture is sometimes characterized as idealizing human subjects, but in fact there are many Greco-Roman sculptures that depict people in decidedly ______ ways.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "imprecise",
+      "B": "unflattering",
+      "C": "superficial",
+      "D": "implausible"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a thermopolium. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To discuss the political system of Italy",
+      "B": "To present a recent archaeological discovery",
+      "C": "To describe a region's climate",
+      "D": "To compare ancient artworks with modern ones"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify florists, beauty salons, and other businesses and map their locations. This approach has some limits—data from Places API tends to be restricted to places that are customer-facing—but the data set nevertheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It describes the imprecise and subjective nature of neighborhood boundaries.",
+      "B": "It introduces a model that a research team built to evaluate the mix of amenities in urban neighborhoods.",
+      "C": "It emphasizes the potential utility of the team's model.",
+      "D": "It identifies a specific flaw in using a data set about amenities in cities."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The following text is from a translation of Maria Dueñas's 2009 novel The Time in Between. The narrator has just rented an apartment and is entering it for the first time.\n\nOver the years there have been many times when my destiny has delivered me unexpected moments, unforeseen twists and turns that I've had to handle on the fly as they appeared. Occasionally I was ready for them; very often I wasn't. Never, however, was I so aware of entering a new stage as I was that afternoon in October when I finally dared to cross the threshold and my steps sounded hollowly in the unfurnished apartment. Behind me was a complicated past, and in front of me, like an omen, I could see a space opening out, a great empty space that time would take care of filling up.\n\n©2009 by Maria Dueñas, Translation © 2011 by Daniel Hahn.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator feels optimistic about the future success of a new business.",
+      "B": "The narrator has always had a plan for how to handle big moments in her life.",
+      "C": "The narrator recognizes that a particular moment marks a major shift in her life.",
+      "D": "The narrator wants to express her gratitude for the people who have helped her."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Superlubricity, the state of virtually no friction between materials, has desirable applications in many industries. For example, it can make aircraft engines more efficient. To produce a coating that achieves superlubricity, Chanaka Kumara and colleagues broke down carbon nanotubes into fragments of graphene to fully cover two surfaces that would rub together. Friction between pieces of graphene is generally extremely low, and when the researchers added a drop of oil as lubrication, that friction nearly vanished. This new coating may drastically lower friction-related energy costs.",
+    "text": "According to the text, what happened when the researchers added oil to the surfaces covered in graphene fragments?",
+    "choices": {
+      "A": "All the pieces of graphene collected on just one of the two surfaces.",
+      "B": "The low amount of friction between the surfaces became even lower.",
+      "C": "Carbon nanotubes on the surfaces fractured into smaller pieces.",
+      "D": "Friction between the surfaces did not noticeably change right away."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "The Yellow Admiral, first published in 1984, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, The Yellow Admiral has a rather abrupt ending, but the following book, The Hundred Days, picks up neatly where The Yellow Admiral leaves off. Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's In Search of Lost Time.",
+    "text": "Which choice best states the main ideas of the text?",
+    "choices": {
+      "A": "Over time, the Aubrey/Maturin series has required the same eminence among critics as other stories like In Search of Lost Time that have similar structures.",
+      "B": "A certain understanding of the structures of the novels in the Aubrey/Maturin series is helpful if one wishes to appreciate the series.",
+      "C": "Many readers find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels' structures.",
+      "D": "The Yellow Admiral and The Hundred Days are two of the most complex of O'Brian's novels due in part to their unconventional structures."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat-headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. Jaguars possess a flexible ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.",
+    "text": "According to the text, which trait do researchers think may contribute to a flat-headed cat's ability to purr?",
+    "choices": {
+      "A": "The shape of the flat-headed cat's larynx",
+      "B": "The ligament attaching the hyoid bone to the flat-headed cat's skull",
+      "C": "The flat-headed cat's rigid hyoid bone",
+      "D": "The relative size of the flat-headed cat's body and throat"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "the Balline Hoard was found in 1868.",
+      "B": "the Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been found since 1868.",
+      "C": "the Ardagh Hoard and Balline Hoard were both found before 2000.",
+      "D": "Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s."
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/eng1-q11-hoards-ireland.svg"
+  },
+  "12": {
+    "stimulus": "If a planet orbits in close proximity to a star and lacks an atmosphere, the planet can become so hot that magma oceans form on its surface. For three planets that could plausibly harbor magma oceans, the table shows mass, density (expressed as the ratio of the material's volume at its current density to its maximum possible density, with higher numbers indicating lower densities), and surface temperature according to a model that assumes the absence of atmosphere.",
+    "text": "Which choice best describes how data in the table for HD 80653 b would likely differ if it had an atmosphere?",
+    "choices": {
+      "A": "It would have a mass below 5.6 Earth masses.",
+      "B": "Its surface temperature would be around 1,400 kelvins.",
+      "C": "It would have a mass above 5.6 Earth masses.",
+      "D": "Its surface temperature would be below 2,300 kelvins."
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/eng1-q12-lava-worlds.svg"
+  },
+  "13": {
+    "stimulus": "A road was recently built in a Maryland woodland that is home to the house finch. Some finches' nests were situated close to the new road and others were deeper in the woodland. Common ravens, which eat finch eggs, can spot nests near the open spaces of roads more easily than they can spot nests surrounded by woodland. Accordingly, researchers in Maryland trying to predict the impact of the new road on finches have suggested that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "finch eggs will make up about the same percentage of common ravens' diet as they did before the road was built.",
+      "B": "the number of finches building nests near the road will gradually increase as the finches adapt to the presence of the common ravens.",
+      "C": "finches nesting near the road will lose eggs to common ravens at a higher rate than will finches nesting far from the road.",
+      "D": "finches nesting far from the road will lay fewer eggs per nest than will finches nesting near the road."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Poems of Experience is a 1910 collection of poetry by Ella Wheeler Wilcox. In one of her poems, the speaker indicates that several beneficial opportunities have recently become available to women, saying, ______",
+    "text": "Which quotation from Poems of Experience most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"Delicate creature of light and shade, / [Woman] gleamed like an opal, on wide worlds under.\" (from \"Woman\")",
+      "B": "\"We must use the joys of earth, / All its cares we'll keep; / Night was made for youth and mirth, / Day was made for sleep.\" (from \"The Voices of the City\")",
+      "C": "\"For worlds to conquer [woman] had not yearned, / Till [man] spoke of her feminine sphere as 'narrow.'\" (from \"Woman\")",
+      "D": "\"Trade and science and craft and art, / Have opened their doors to the call of woman; / And greater she grows in her greater part, / More tenderly wise, and more sweetly human.\" (from \"Woman\")"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Humans have a very strong bias toward right-handedness, with approximately 85-90% having right as their dominant hand. Among studies of nonhuman primates, James Welles's 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues' 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It's important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the apparent difference between the two studies' results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.",
+      "B": "the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.",
+      "C": "the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.",
+      "D": "the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Zydeco music originated in the French Creole community of southwest Louisiana. One instrument that gives zydeco its unique sound is the vest frottoir. The vest frottoir ______ a wearable washboard that is played by rubbing spoons or bottle openers against it.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is",
+      "B": "were",
+      "C": "are",
+      "D": "have been"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "The rough frog is a species of amphibian native to Australia. Currently, the frog's range ______ parts of northern New South Wales and southeastern Queensland.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "had included",
+      "B": "will have included",
+      "C": "includes",
+      "D": "included"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "The constitution of Spain, enacted in 1978, enshrines 60 total rights across 17,608 words of text. According to constitutional scholar George Tsebelis, who examines the implications of constitutional length on civil rights, ______ 105th in a global ranking of the shortest constitutions.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "its",
+      "B": "it's",
+      "C": "they're",
+      "D": "their"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Writer Silvia Moreno-Garcia's love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she later would become a prolific short story writer herself, publishing pieces like \"In the Details\" (2015) and \"To See Pedro Infante\" (2014). Yet she's best ______ especially since her 2020 novel Mexican Gothic reached the New York Times Best Sellers list—as a novelist.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "known",
+      "B": "known:",
+      "C": "known—",
+      "D": "known;"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "Between June 22 and July 2 each year, particles shed by comet 7P/Pons-Winnecke enter Earth's atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth's ______ since the meteoroids' compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the June Boötid meteor shower.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "surface, however;",
+      "B": "surface, however",
+      "C": "surface; however,",
+      "D": "surface. However,"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "In certain genetic inheritance patterns, inherited traits can skip a generation in a family tree. ______ it is entirely possible for an individual to share a trait, such as square nails, with a grandparent but not with either biological parent.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Thus,",
+      "B": "Still,",
+      "C": "On the contrary,",
+      "D": "In addition,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "In astrophysics, a ring of debris orbiting a larger object within the object's Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ______ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "likewise,",
+      "B": "fittingly,",
+      "C": "for example,",
+      "D": "though,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "The decades since the Second World War have seen a range of outcomes for the independence movements of Micronesia, Melanesia, and Polynesia. Many of the region's islands and groups of islands have become independent nations. ______ the Northern Mariana Islands, a commonwealth in Micronesia consisting of fifteen islands, are part of the US, and the Society Islands, a group of islands in Polynesia including Tahiti and Bora Bora, are part of the territory of French Polynesia.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Therefore,",
+      "C": "In fact,",
+      "D": "On the other hand,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "In contrast to first-past-the-post electoral processes, the proportional representation system by which Sweden's Parliament is elected begins with citizens casting their votes not for specific candidates but for political parties. ______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Then,",
+      "C": "In other words,",
+      "D": "Conversely,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart.\n• In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis.\n• Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago.\n• At that distance, Chrysalis would have been broken apart by tidal forces.\n• The researchers hypothesized that the resulting debris formed Saturn's rings.",
+    "text": "The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "According to researchers' simulations, debris from Saturn's rings would likely have caused Chrysalis—a large moon orbiting Saturn—to break apart around 160 million years ago.",
+      "B": "In a 2022 study, researchers proposed that Saturn was once orbited by a large moon that broke apart.",
+      "C": "Around 160 million years ago, a large moon (Chrysalis) may have come close enough to Saturn that tidal forces broke the moon apart; its debris then formed the planet's rings.",
+      "D": "If a moon orbiting a planet (like Saturn) comes close enough to that planet, tidal forces can cause the moon to break apart."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The James River National Wildlife Refuge (NWR) is a protected natural area in Virginia.\n• It encompasses 4,147 acres.\n• It was established to safeguard the habitat of the bald eagle, an endangered species.\n• There are restrictions on human activities in the James River NWR.\n• The James River NWR is managed by the US Fish & Wildlife Service.",
+    "text": "The student wants to explain the original purpose of the James River NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The James River NWR is a protected natural area encompassing 4,147 acres; human activities are restricted there.",
+      "B": "The James River NWR was established to safeguard the habitat of the endangered bald eagle.",
+      "C": "Home to the bald eagle, the James River NWR is located in Virginia, where it encompasses 4,147 acres.",
+      "D": "Virginia's James River NWR is a protected natural area managed by the US Fish & Wildlife Service."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Most of the plant and bird species in Oahu, Hawaii, are non-native.\n• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.\n• Researchers catalogued plant seeds found in fecal samples from non-native birds.\n• Pipturus albidus, a flowering shrub, was one of fifteen native species catalogued.\n• Paederia foetida, a woody vine, was one of twenty-nine non-native species catalogued.\n• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.",
+    "text": "The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Most plant species found in Oahu, Hawaii, like Paederia foetida, are non-native.",
+      "B": "A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.",
+      "C": "Seeds from Pipturus albidus and Paederia foetida plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study.",
+      "D": "Though Pipturus albidus and Paederia foetida can both be found in Oahu, Hawaii, only the former plant is native."
+    },
+    "imageUrl": null
+  }
+}

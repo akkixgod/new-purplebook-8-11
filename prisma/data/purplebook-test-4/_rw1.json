@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. One artist who received the fellowship is taiko drummer Seiichi Tanaka. Tanaka was chosen for his lifetime ______ the arts.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "contributions to",
+      "B": "imitations of",
+      "C": "doubts about",
+      "D": "misunderstandings of"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "The following text is adapted from John Matheus's 1926 short story \"Mr. Bradford Teaches Sunday School.\" Mr. Bradford is driving through the countryside in Florida.\n\nThe moss in the towering water oaks had become enlivened with a verdant sheen of silver and hung like festoons of carnival or like funeral decorations for the mourning of the dead. The pine green was resplendent. The bald cypresses spread themselves along the water courses while the willows wept as they always did. Mr. Bradford was conscious of this gorgeous _display_ of nature.",
+    "text": "As used in the text, what does the word \"display\" most nearly mean?",
+    "choices": {
+      "A": "Exhibition",
+      "B": "Concealment",
+      "C": "Similarity",
+      "D": "Pretentiousness"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but to ______ a lasting historical legacy for oneself, almost nothing is more effective than being the first to do something. For example, people will always remember that Anesia Pinheiro Machado was the first female pilot in Brazil to carry passengers and the first to make stunt flights.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "recognize",
+      "B": "undermine",
+      "C": "constrain",
+      "D": "establish"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Certain features are almost always included in the designs of mosques, like the minaret (or tower), which is considered to be a ______ of mosques architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Shah Jahan Mosque, which incorporates elements from the Mughal, safavid, and Timurid styles, will also include several of these standard features.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "hallmark",
+      "B": "rejection",
+      "C": "motivation",
+      "D": "duplicate"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Text 1\nChemically analyzing bulk rock-core samples from Australia's Mount McRae Shale, Ariel Anbar et al. found a transient but significant increase in molybdenum (Mo) at a point corresponding to roughly 2.5 billion years ago (Ga). On Earth, Mo is released mainly through oxidative weathering of minerals; Anbar et al. therefore concluded that atmospheric oxygen briefly increased 2.5 Ga, then returned to its earlier negligible level.\n\nText 2\nSarah Slotznick et al. reexamined the Mount McRae Shale core. Since chemically analyzing bulk samples can occlude contextual details, Slotznick et al. also employed high-resolution microscopy, which revealed volcanic debris—a known Mo host—around 2.5 Ga and microfractures in the surrounding matrix. The researchers assert that fluid could have reached the debris through the microfractures and initiated oxidative weathering long after debris deposition.",
+    "text": "Based on the texts, Anbar et al. (Text 1) and Slotznick et al. (Text 2) would most likely disagree about the answer to which question about the portion of the Mount McRae Shale rock-core corresponding to 2.5 Ga?",
+    "choices": {
+      "A": "Is the increase in Mo in that portion attributable to oxidative weathering of the material found in that portion?",
+      "B": "Is the increase in Mo in that portion indicative of an increase in atmospheric oxygen dating to the same time?",
+      "C": "Did chemically analyzing bulk samples lead to a false impression that there is an increase in Mo in that portion?",
+      "D": "Does the increase in Mo in that portion suggest that atmospheric oxygen levels were not negligible before 2.5 Ga?"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes Snake from 1997, which museum visitors can play on site, and SimCity 2000 from 1994, which visitors can see only in a video presentation. MOMA claims the video presentations are only for games that would be impractical to display in a playable form, but _video games are an inherently interactive medium_, a feature that is grossly absent in a video-only presentation.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It identifies a feature of video games that is central to the author's criticism of MOMA's decision to use video-only presentations for some games.",
+      "B": "It provides a claim about video games as art that both MoMA and the author accept as true.",
+      "C": "It describes a characteristic shared by many video games but not by some of the games in MoMA's exhibition.",
+      "D": "It presents a view about treating video games as art that the author criticizes in the remainder of the sentence."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The Federalist Papers are a collection of 85 essays written by Alexander Hamilton, John Jay, and James Madison. They were published pseudonymously in the New York Packet and other New York newspapers in 1787–88 and argue that New Yorkers should vote to ratify the proposed United States Constitution. Though the authorship of most of the individual essays is certain, that of a few is in question: for instance, while No. 6, \"Concerning Dangers from Dissensions between the States,\" was surely penned by Hamilton, No. 62, \"The Senate,\" may have been written by either Hamilton or Madison.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "The text lists the authors of a collection of essays and then notes that some of the essays were written by one person, while others were written by two people.",
+      "B": "The text describes why a collection of essays is notable and then details its publication history.",
+      "C": "The text summarizes an argument made in a collection of essays and then suggests that the essays' authors didn't unanimously agree with the argument.",
+      "D": "The text mentions a collection of essays and then points out something about these essays that is not completely known."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of artist Frida Kahlo. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a woman holding a baby. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Villasana's works focus on recognizing both famous and everyday examples of human strength and connection.",
+      "B": "Villasana began her artistic career by painting portraits of famous people and then transitioned to depicting everyday people instead.",
+      "C": "Villasana's portrayal of a woman holding a baby focuses more on human connection than it does on human resilience.",
+      "D": "Villasana's depiction of Frida Kahlo receives more attention from scholars than her depiction of a woman holding a baby does."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered \"fast painting,\" which in part involved working across multiple canvasses at once. That many of Hair's acolytes, including Isaac Knight, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group's shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Willie Reagan was also prolific, his paintings were executed with greater attention to detail.",
+    "text": "What does the text most strongly suggest about paintings by Knight?",
+    "choices": {
+      "A": "Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by Reagan are.",
+      "B": "Although it is evident that Knight adopted some of Hair's preferred techniques, Knight's works are less derivative of works by Hair than is typically acknowledged.",
+      "C": "The lack of precision with which they were executed suggests that they are inferior to works by either Hair or Reagan.",
+      "D": "Knight's reliance on the technique of fast painting likely accounts for his works being more aesthetically interesting than works by Reagan are."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "\"Aunt Sue's Stories\" is a 1926 poem by Langston Hughes. In the poem, the speaker indicates that the stories Aunt Sue tells are based on Aunt Sue's personal experiences, saying that ______",
+    "text": "Which choice most effectively uses a quotation from \"Aunt Sue's Stories\" to illustrate the claim?",
+    "choices": {
+      "A": "a listening child \"knows that Aunt Sue / Never got her stories out of any book at all, / But that they came / Right out of her own life.\"",
+      "B": "the people in the stories \"Mingle themselves softly / In the flow of old Aunt Sue's voice, / Mingle themselves softly.\"",
+      "C": "dark shadows \"cross and recross / Aunt Sues stories.\"",
+      "D": "the stories are told during \"Summer nights on the front porch.\""
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey: ______",
+    "text": "Which quotation from a translation of The Underdogs most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"The sonorous, joyful bells rang again. From within the church, the honeyed voices of a female chorus rose melancholy and grave.\"",
+      "B": "\"All day long [the soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man's head, hill after hill in endless succession. At last, late in the afternoon, they descried several stone church towers in the heart of a bluish ridge, and, beyond, the white road with its curling spirals of dust and its gray telegraph poles.\"",
+      "C": "\"The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air, redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.\"",
+      "D": "\"Before Juchipila was lost from sight, Valderrama got off his horse, bent down, kneeled, and gravely kissed the ground.\""
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "Auxins are a class of hormones that influence plant growth, including leaf orientation (the tendency of leaves to be larger on one side of their long central axis than the other). University of California, Berkeley biologist Ciera Martinez and colleagues noted that in certain plants in which leaves grow in pairs, auxins will typically be concentrated in opposite sides of each leaf in the pair (e.g., on the left side of one leaf in the pair and the right side of the other). Accordingly, they hypothesized that paired leaves should tend to show opposite-side orientation, and they tested their hypothesis by examining paired leaves from several species of grapevines.",
+    "text": "Which choice best describes data from the graph that support Martinez and colleagues' hypothesis?",
+    "choices": {
+      "A": "Although the number of leaf pairs showing same-side orientation is fairly high in the July grape, it is much lower in both the Amur grape and graybark grape.",
+      "B": "In the graybark grape, Amur grape, and July grape, all the leaf pairs show opposite-side orientation.",
+      "C": "Although the exact ratio varies by species, the graybark grape, Amur grape, and July grape all show more leaf pairs with opposite-side orientations than with same-side orientations.",
+      "D": "The number of leaf pairs showing opposite-side orientation is fairly high in the July grape, but not as high as it is in the graybark grape."
+    },
+    "imageUrl": "/mocks/purplebook-test-4/figures/eng1-q12-grapevine-leaf-orientation.svg"
+  },
+  "13": {
+    "stimulus": "The Age of Innocence is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer arrives late to an opera performance, which the narrator attributes to Newland's enjoyment of anticipation: ______",
+    "text": "Which quotation from The Age of Innocence best illustrates the claim?",
+    "choices": {
+      "A": "\"To come to the Opera in a [carriage for hire] was almost as honourable a way of arriving as in one's own carriage.\"",
+      "B": "\"[T]hinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation.\"",
+      "C": "\"When Newland Archer opened the door at the back of the club box the curtain had just gone up on the garden scene. There was no reason why the young man should not have come earlier, for he had dined at seven, alone with his mother and sister.\"",
+      "D": "\"No expense had been spared on the setting, which was acknowledged to be very beautiful even by people who shared [Newland's] acquaintance with the Opera houses of Paris and Vienna.\""
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Mooseberry (Viburnum edule) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (Polygonum aviculare) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked V. edule and P. aviculare, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.",
+    "text": "Which finding, if true, would most directly support Mulder and Spellman's conclusion?",
+    "choices": {
+      "A": "Although V. edule and P. aviculare both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for P. aviculare than for V. edule.",
+      "B": "Although significant interannual variations in subfreezing temperature onset were observed during the study, neither P. aviculare nor V. edule showed any significant interannual variation in the cessation of leaf production.",
+      "C": "Although V. edule and P. aviculare tended to stop producing leaves at about the same time in years with historically typical temperature patterns, P. aviculare stopped producing leaves sooner than V. edule did in years with late subfreezing temperature onset.",
+      "D": "Although V. edule and P. aviculare both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Museo Francisco Pancho Coímbre, a sports museum in Ponce, Puerto Rico, is one of more than eighty museums in the US territory. Puerto Rico's museums ______ visitors about everything from the territory's sports to its architecture to its coffee.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "inform",
+      "B": "having informed",
+      "C": "to inform",
+      "D": "informing"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Trade with other societies was vital to the Byzantine Empire, which reigned in the Mediterranean from around 330 CE to 1453 CE. Its people profited by selling salt, textiles, and iron, items that ______ greatly in demand.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has been",
+      "B": "were",
+      "C": "was",
+      "D": "is"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "In the periodic table, an element's atomic number indicates how many protons there are in an atom of the element. For example, a helium atom ______ 2 protons. Professor Raymond Chang explains this concept in more detail in the textbook Chemistry.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has had",
+      "B": "has",
+      "C": "is having",
+      "D": "had"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "With one in Finland and another in Australia, the observatory sites that form the Super Dual Auroral Radar Network—or SuperDARN, as space physicists like Mark Lester call it—number nearly five ______ across the globe, the radars track ionospheric irregularities and other geospace phenomena.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "dozen. Located",
+      "B": "dozen, located",
+      "C": "dozen, which are located",
+      "D": "dozen located"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "The giant sequoia (Sequoiadendron giganteum) known as D-23, located in the United States, was one of the oldest known trees in the world, at 3,075 years old. With over three millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "rings. A",
+      "B": "rings; a",
+      "C": "rings and a",
+      "D": "rings, a"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "A worker cooperative is a business that is owned and operated by its workers. This model stands in contrast to traditional models in which a smaller group of owners controls a company. Because the profits made by a cooperative are shared by all workers—who are also owners—the workers ______ directly from its success.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "benefit",
+      "B": "had benefited",
+      "C": "benefited",
+      "D": "were benefiting"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "The Austronesian language family comprises some 1,200 languages, including Minangkabau and Ilokano, which are spoken primarily in Indonesia and the Philippines, ______ accounting for one-fifth of the world's languages, the Austronesian family is of keen interest to linguists like Sandra Chung.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "respectively and",
+      "B": "respectively,",
+      "C": "respectively;",
+      "D": "respectively"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "A blend of gabardine and wool, the material for Elvis Presley's Peacock jumpsuit was flexible enough to allow the singer to perform his signature dance moves. ______ the added weight of the suit's embroidered feathers in shades of blue and green likely limited Elvis's mobility to some degree.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Firstly,",
+      "C": "In other words,",
+      "D": "For this reason,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "The star Wezen is unvaryingly bright, consistently ranking as one of the brightest stars in the sky (Wezen ranked 36th on a recent list). By contrast, the brightness of the red giant Betelgeuse varies considerably. Indeed, between April and June 2023, Betelgeuse became an astonishing 40% brighter; ______ its ranking rose from 10th to 7th.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "in sum,",
+      "B": "in turn,",
+      "C": "specifically,",
+      "D": "for example,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.\n• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.\n• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.\n• The mineral fluorite has a Mohs scale number of 4.\n• The mineral orthoclase has a Mohs scale number of 6.\n• The mineral corundum has a Mohs scale number of 9.",
+    "text": "The student wants to emphasize orthoclase's Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In the Mohs scale of mineral hardness, corundum (9) is ranked higher than fluorite (4).",
+      "B": "Orthoclase has a Mohs scale number of 6, which means that it is harder than fluorite (4) but softer than corundum (9).",
+      "C": "Orthoclase, fluorite, and corundum can be ordered by their ability to leave visible scratches on other minerals.",
+      "D": "Corundum, which has a Mohs scale number of 9, can scratch both fluorite and orthoclase."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.\n• Reinflytting is a Norwegian slow TV program.\n• The 9-day-long program documented a wild reindeer migration from their winter to summer pastures.\n• It first aired in 2017.\n• Slow TV has been called \"the world's most boring television.\"\n• American journalist Nathan Heller praises it, writing that \"it affords a visceral kind of armchair tourism.\"",
+    "text": "The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "While some have praised slow TV for affording \"a visceral kind of armchair tourism,\" others have called it \"the world's most boring television.\"",
+      "B": "Far from boring, slow TV programs can provide a \"visceral kind of armchair tourism,\" as Heller puts it, whereby viewers can watch reindeer migrations in real time.",
+      "C": "With broadcasts of ordinary events, like reindeer migrations, occurring in real time, slow TV just might be \"the world's most boring television.\"",
+      "D": "Reinflytting can afford a \"visceral kind of armchair tourism,\" as Heller puts it."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "• Jean-Michel Basquiat was an American artist who produced more than two thousand drawings and paintings.\n• His work Mater was completed in 1982 and sold at auction in 2017.\n• Mater is composed of acrylic and oil stick on canvas and measures 6,048 square inches in area.\n• His work Flash in Naples was completed in 1983 and sold at auction in 2009.\n• Flash in Naples is composed of acrylic, oil stick, and oil on canvas and measures 3,992 square inches in area.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize how the two works are similar?",
+    "choices": {
+      "A": "Between artist Jean-Michel Basquiat's works Mater and Flash in Naples, the former is the larger of the two.",
+      "B": "Composed by artist Jean-Michel Basquiat in 1982 and 1983, respectively, both Mater and Flash in Naples use acrylic paint as a medium.",
+      "C": "Artist Jean-Michel Basquiat completed Mater in 1982, and Flash in Naples followed in 1983.",
+      "D": "Artist Jean-Michel Basquiat's work Mater is composed of acrylic and oil stick, while Flash in Naples is composed of acrylic, oil stick, and oil."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.\n• Before automation, lighthouses were run by lighthouse keepers.\n• Elizabeth Lusby was the lighthouse keeper at Turkey Point Light in Maryland.\n• She held this position from 1844 to 1862.\n• Thelma Austin was the lighthouse keeper at Point Fermin Light in California.\n• She held this position from 1925 to 1941.",
+    "text": "The student wants to emphasize a difference between the two lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Elizabeth Lusby and Thelma Austin both played crucial roles in ensuring safe navigation for watercraft in past centuries.",
+      "B": "As the lighthouse keeper at Point Fermin Light, Thelma Austin helped watercraft navigate at night.",
+      "C": "Elizabeth Lusby worked as a lighthouse keeper in an earlier century than did Thelma Austin.",
+      "D": "From 1844 to 1862, the nighttime waters of Maryland were made more navigable thanks to Elizabeth Lusby."
+    },
+    "imageUrl": null
+  }
+}

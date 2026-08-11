@@ -1,0 +1,224 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "A certain hybrid car uses 39 gallons of gasoline to travel 1,950 miles. At this rate, how many kilometers does the car travel using 39 gallons of gasoline? (Use 1 mile = 1.6 kilometers.)",
+    "choices": {
+      "A": "312",
+      "B": "3,120",
+      "C": "31,200",
+      "D": "312,000"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "A rectangle has a length of 29 meters and a width of 37 meters. What is the area, in square meters, of the rectangle?",
+    "choices": {
+      "A": "8",
+      "B": "66",
+      "C": "528",
+      "D": "1,073"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "The width of a rectangle is 5 centimeters. The length of the rectangle is 30 centimeters longer than the width. What is the area, in square centimeters, of this rectangle?",
+    "choices": {
+      "A": "175",
+      "B": "40",
+      "C": "10",
+      "D": "5"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The equation 58 = 2x + 2y gives the perimeter of a rectangular garden that has length x, in feet, and width y, in feet. The width of the garden is 14 feet. What is the length, in feet, of the garden?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "n = p/(23v)",
+    "text": "The given equation relates the variables n, p, and v. Which equation correctly expresses p in terms of n and v?",
+    "choices": {
+      "A": "p = n − 23v",
+      "B": "p = n + 23v",
+      "C": "p = n/(23v)",
+      "D": "p = 23vn"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "A group of students purchase ice cream cones and ice cream sundaes. The cones cost $1.40 each, and the cost for 19 sundaes is $64.60. The total cost for the cones and sundaes is $85.60. Which equation represents this situation, where x is the number of cones purchased and y is the number of sundaes purchased?",
+    "choices": {
+      "A": "1.40x + 64.60y = 85.60",
+      "B": "64.60x + 1.40y = 85.60",
+      "C": "3.40x + 1.40y = 85.60",
+      "D": "1.40x + 3.40y = 85.60"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "There are 950 objects in a bag. Of these objects, 6% are cubes. How many cubes are in the bag?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "During hibernation, American black bears do not eat or replenish calories. A certain black bear weighed 322 pounds when entering hibernation and lost weight at a rate of 0.7 pound per day. At this rate, how many days after entering hibernation did the black bear weigh 280 pounds?",
+    "choices": { "gridIn": true },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The length of a side of square X is 9 centimeters. The area of rectangle Y is 24 square centimeters. What is the total area, in square centimeters, of square X and rectangle Y?",
+    "choices": {
+      "A": "66",
+      "B": "81",
+      "C": "105",
+      "D": "129"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to (133y)^(1/2), where y > 1?",
+    "choices": {
+      "A": "133 · √y",
+      "B": "√133 · y",
+      "C": "√(133y)",
+      "D": "√((133y)²)"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "A company opens an account with an initial balance of $35,600.00. The account earns interest, and no additional deposits or withdrawals are made. The account balance is given by an exponential function A, where A(t) is the account balance, in dollars, t years after the account is opened. The account balance after 15 years is $129,672.38. Which equation could define A?",
+    "choices": {
+      "A": "A(t) = 35,600.00(1.09)^t",
+      "B": "A(t) = 35,600.00(0.09)^t",
+      "C": "A(t) = 94,072.38(1.09)^t",
+      "D": "A(t) = 94,072.38(0.09)^t"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "y = −18x + 22\ny = −26x + 30",
+    "text": "What is the solution (x, y) to the given system of equations?",
+    "choices": {
+      "A": "(1, 4)",
+      "B": "(22, 30)",
+      "C": "(30, 22)",
+      "D": "(4, 1)"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "b − 49 = x/y",
+    "text": "The given equation relates the positive numbers b, x, and y. Which equation correctly expresses x in terms of b and y?",
+    "choices": {
+      "A": "x = (by − 49)/y",
+      "B": "x = by − 49y",
+      "C": "x = by − 49",
+      "D": "x = (b − 49)/y"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "Triangle ABC and A'B'C' are shown. Triangle ABC is dilated by a scale factor of 6 to form triangle A'B'C'. If the length of AB is 18, what is the length of A'B'?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "24",
+      "D": "108"
+    },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math1-q14-similar-triangles.svg"
+  },
+  "15": {
+    "stimulus": null,
+    "text": "In the xy-plane, which of the following does NOT contain any points that are part of the solution set to 2x − 6y > 12?",
+    "choices": {
+      "A": "The region where x < 0 and y > 0",
+      "B": "The region where x < 0 and y < 0",
+      "C": "The region where x > 0 and y > 0",
+      "D": "The x-axis"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "Circle A shown is defined by the equation x² + (y − 5)² = 7. Circle B (not shown) has the same radius and is translated 91 units to the right. If the equation of circle B is (x − h)² + (y − k)² = a, where h, k, and a are constants, what is the value of 4a?",
+    "choices": { "gridIn": true },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math1-q16-circle-a.svg"
+  },
+  "17": {
+    "stimulus": "A botanist recorded the volume, in quarts, of cherries that grew on a semidwarf cherry tree during each growing season after the tree's transplantation. The scatterplot shows this volume, in quarts, for each of 8 growing seasons after the tree's transplantation.",
+    "text": "Which of the following is closest to the total volume, in quarts, of cherries that grew on the tree over these 8 growing seasons?",
+    "choices": {
+      "A": "231",
+      "B": "162",
+      "C": "40",
+      "D": "36"
+    },
+    "imageUrl": "/mocks/purplebook-test-4/figures/math1-q17-cherry-scatterplot.svg"
+  },
+  "18": {
+    "stimulus": "((x − 7)(x − 8))/(x − 3) = 0",
+    "text": "What is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "8",
+      "B": "18",
+      "C": "15",
+      "D": "3"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "a, 27, 28, b, 33, 48, c",
+    "text": "For the given data set, the data values are listed in ascending order, where a, b, and c are constants. For this data set, the mean is 35, the median is 28, and the range is 71. What is the value of c?",
+    "choices": {
+      "A": "53",
+      "B": "71",
+      "C": "76",
+      "D": "98"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The difference between the measure of angle A and the measure of angle B is −(11/12)π radians. Which expression shows the difference between the measure of angle A and the measure of angle B, in degrees?",
+    "choices": {
+      "A": "−(11/12) · (180°/π)",
+      "B": "−(11/12)π · (π/180°)",
+      "C": "−(11/12)π · (180°/π)",
+      "D": "−(11/12)π · (360°/π)"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "(x − 42)² = 1",
+    "text": "What is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "42",
+      "B": "43",
+      "C": "84",
+      "D": "85"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "In a set of three consecutive integers, where the integers are ordered from least to greatest, the first integer is represented by x. The sum of 9 and the second integer is less than the product of 11 and the third integer. Which inequality represents this situation?",
+    "choices": {
+      "A": "9 + (x + 1) > 11(x + 2)",
+      "B": "9 + (x + 1) < 11(x + 2)",
+      "C": "9 + (x + 2) > 11(x + 3)",
+      "D": "9 + (x + 2) < 11(x + 3)"
+    },
+    "imageUrl": null
+  }
+}

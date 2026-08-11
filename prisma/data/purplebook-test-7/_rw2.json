@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "The following text is from Jhumpa Lahiri's 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father.\n\nHe watches his father raise a kite within minutes into the wind, so high that Gogol must tip his head back in order to see, a rippling speck against the sky. The wind whips around their ears, turning their faces cold.\n\n©2003 by Jhumpa Lahiri",
+    "text": "As used in the text, what does the word \"tip\" most nearly mean?",
+    "choices": {
+      "A": "Lean",
+      "B": "Create",
+      "C": "Pay",
+      "D": "Teach"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Often, the Nobel Prize in Chemistry is given to a single person, such as Frederick Sanger in 1958. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ______. For instance, in 2008, Roger Y. Tsien was among those awarded for \"the discovery and development of the green fluorescent protein, GFP.\"",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "ceremoniously",
+      "B": "reluctantly",
+      "C": "jointly",
+      "D": "retroactively"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "When minor planets are discovered, each is given a unique identification number, and some may be given a unique name, as in the case of 1083 Salvia, which was named after the plant genus that includes sages. But naming a minor planet is not ______; whether to assign it a name is entirely the choice of whoever discovers it.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "mandatory",
+      "B": "feasible",
+      "C": "permissible",
+      "D": "selective"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Philosopher Ingrid Robeyns argues for the principle of limitarianism—that there should be a limit on the wealth a person possesses. Critics of limitarianism respond that it is ______ since it would require worldwide cooperation between governments in economic policy, a goal that is likely unachievable.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "perfunctory",
+      "B": "utopian",
+      "C": "punitive",
+      "D": "viable"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "HMS Surprise, first published in 1973, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of HMS Surprise and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's The Forsyte Saga.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It presents a reason most critics think the Aubrey/Maturin series should have the literary renown of similar works like The Forsyte Saga.",
+      "B": "It summarizes a positive assessment of a particular characteristic of the Aubrey/Maturin novels.",
+      "C": "It explains why many critics find the Aubrey/Maturin novels to be entertaining despite flaws in the novels' structures.",
+      "D": "It argues that the unusual structure that O'Brian uses for HMS Surprise makes it one of his most entertaining books."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that didn't have wings also had feathers on their bodies. For instance, research indicates that the wingless, speedy Ornithomimus likely had feathers.",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It explains the scientific debate about the finding discussed in the previous sentence.",
+      "B": "It points out several weaknesses in the theory presented in the previous sentence.",
+      "C": "It identifies the researchers who made the discovery mentioned in the previous sentence.",
+      "D": "It provides a specific example of the dinosaurs described in the previous sentence."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Text 1\nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.\n\nText 2\nIn a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.'s calculations therefore placed the inner edge for these planets' HZ as far out as 3.85 AU.",
+    "text": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.'s research, as presented in Text 1?",
+    "choices": {
+      "A": "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
+      "B": "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet's surface is unlikely to harbor liquid water",
+      "C": "By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high",
+      "D": "By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Humans aren't the only ones who use tools. Other animals also find tools helpful. Boxer crabs use stinging anemones to defend against attack. And despite sometimes being thought of as simple, many birds make clever use of tools as well. Egyptian vultures have been observed using pebbles to break open ostrich egg shells.",
+    "text": "Which choice best states the main topic of the text?",
+    "choices": {
+      "A": "Intelligence in boxer crabs",
+      "B": "How to observe animals in the wild",
+      "C": "A study of Egyptian vultures",
+      "D": "Tool use in animals"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Falcons and horses can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of falcons and horses than that of octopuses or squid.",
+    "text": "Which choice best describes the main idea of the text?",
+    "choices": {
+      "A": "Cuttlefish eyes are much more complex than those of falcons or horses.",
+      "B": "Wardill's team designed 3D glasses for cuttlefish.",
+      "C": "Before completing their study, Wardill's team thought that cuttlefish have 3D vision, but horses may not.",
+      "D": "The findings of Wardill's team's study suggest that like falcons and horses, cuttlefish may also have 3D vision."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "The bird species Myiobius barbatus (the bearded flycatcher) shares some territory in French Guiana with Thamnomanes caesius (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded T. caesius alarm calls and played them in the vicinity of wild M. barbatus. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that M. barbatus associates T. caesius alarm calls with danger.",
+    "text": "Which finding, if true, would most directly support Martinez and colleagues' conclusion?",
+    "choices": {
+      "A": "Other bird species than M. barbatus also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played T. caesius alarm calls.",
+      "B": "Martinez and colleagues played alarm calls from different T. caesius individuals and observed no significant variation in the responses of M. barbatus.",
+      "C": "In some instances, M. barbatus froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds.",
+      "D": "When Martinez and colleagues played control sounds of random noise in the vicinity of M. barbatus, the birds displayed no reaction."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "The nearly forty tribes located in Oklahoma, including the Choctaw Nation and the Seminole Nation, operate numerous businesses, employ tens of thousands of people, and generate billions of dollars in revenue. A student in an economics class is researching the tribes' collective activity as a single industry. The student wants to compare that industry's role in Oklahoma in 2017 with the roles of other industries in the state. Looking at a table with information about three industries, the student finds that compared with the other two industries, tribal economic activity ______",
+    "text": "Which choice most effectively uses data from the table to complete the comparison?",
+    "choices": {
+      "A": "made the lowest total contribution by industry.",
+      "B": "ranked highest in all three economic measures listed in the table.",
+      "C": "made the highest average economic contribution per employee.",
+      "D": "employed the same number of people as accommodation/food services."
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q11-oklahoma-industries.svg"
+  },
+  "12": {
+    "stimulus": "A student is writing a research paper on the global rise of the home video game industry during the 1970s and 1980s. The student is surprised by differences in the number of units sold by some systems compared to those sold by others. Most remarkably, the ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "Game & Watch sold approximately 18,600,000 units, whereas the ColecoVision sold only approximately 2,000,000 units.",
+      "B": "Game & Watch sold approximately 4,000,000 units, whereas the ColecoVision sold only approximately 3,000,000 units.",
+      "C": "MSX sold approximately 4,000,000 units, whereas the Intellivision sold only approximately 3,000,000 units.",
+      "D": "MSX sold approximately 18,600,000 units, whereas the Intellivision sold only approximately 2,000,000 units."
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q12-video-game-systems.svg"
+  },
+  "13": {
+    "stimulus": "Most bird species that are capable of flight weigh less than a kilogram (kg), which is not surprising considering the burden that extra body weight puts on a flying animal. But not all flying birds are so light, as we can see most clearly in the example of the ______",
+    "text": "Which choice most effectively uses data from the table to complete the example?",
+    "choices": {
+      "A": "northern cassowary, which has an average mass of 44.0 kg.",
+      "B": "Andean condor, which has an average mass below 10 kg.",
+      "C": "northern cassowary, which has a higher average mass than the lesser rhea.",
+      "D": "Dalmatian pelican, which has an average mass of 11.5 kg."
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q13-bird-mass.svg"
+  },
+  "14": {
+    "stimulus": "Some studies of migrating animals measure how far the animals travel in a year by fitting individuals with GPS tracking collars. Other studies track annual round-trip distance (RTD), which is equal to double the distance separating the two habitats a population migrates between each year. A researcher argues that since GPS records all of an animal's movements, using the GPS method to track a population would result in significantly higher recorded travel distances than using the RTD method would. For example, it's very likely that the distance reported for the ______",
+    "text": "Which choice most effectively uses data from the table to complete the example?",
+    "choices": {
+      "A": "Mongolian gazelle would be greater than 5,067 kilometers if the GPS method had been used.",
+      "B": "khulan would be greater than 2,356 kilometers if the RTD method had been used.",
+      "C": "Mongolian gazelle would be less than 600 kilometers if the GPS method had been used.",
+      "D": "khulan would be less than 5,067 kilometers if the RTD method had been used."
+    },
+    "imageUrl": "/mocks/purplebook-test-7/figures/eng2-q14-migration-distances.svg"
+  },
+  "15": {
+    "stimulus": "Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Graeme Shannon and colleagues found in a 2016 study of black-tailed prairie dogs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for amphibians than they are for mammals.",
+      "B": "some studies of amphibians found larger effects of exposure to anthropogenic noise than some studies of mammals did.",
+      "C": "the difference found in the study conducted by Graeme Shannon and colleagues was likely larger than the average difference for studies of black-tailed prairie dogs included in the meta-analysis.",
+      "D": "the studies in the meta-analysis that examined mammals were more likely than those that examined amphibians to specify whether the observed effects were detrimental."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "While the ancient Celts—Iron Age peoples who inhabited parts of western and central Europe—weren't a single unified group, their art often featured common elements. These included intricate patterns of interlocking spiral lines, which often held symbolic ______ of birds, horses, and other animals; and inlaid enamel accents.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "significance; depictions",
+      "B": "significance, depictions",
+      "C": "significance. Depictions",
+      "D": "significance: depictions"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series Fifty Days at Iliam. In these works, Twombly's artistic style is exemplified by his use of graffiti-like ______ often incorporate words or phrases from poetry and mythology.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "scribbles; that",
+      "B": "scribbles that",
+      "C": "scribbles: that",
+      "D": "scribbles. That"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "When a picture of Robert Fulton was printed on $2 banknotes in ______ inventor of the steamboat became just one of many nonpresidents to appear on US currency.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "1896. The",
+      "B": "1896 the",
+      "C": "1896, the",
+      "D": "1896; the"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Objects orbiting in the outer solar system between Jupiter and Neptune, such as 2010 BK118, a 46-kilometer-wide body first detected in 2010, ______ both asteroidal and comet-like characteristics, being closer in size and appearance to asteroids but traveling in an elliptical orbit more closely resembling that of comets.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is displaying",
+      "B": "display",
+      "C": "displays",
+      "D": "has displayed"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "William Kittredge's short essay on \"krummholz,\" a word referring to twisted and stunted trees growing near the tree line, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn't written solely by ______ other authors, such as Linda Hogan and Barry Lopez, also contributed essays.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Kittredge, however;",
+      "B": "Kittredge; however,",
+      "C": "Kittredge. However,",
+      "D": "Kittredge, however,"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "Patricia Hampl's essay on \"terracette,\" a term referring to a series of terrace-like formations on a hillside, is just one of many essays included in Home Ground: A Guide to the American ______ by Barry Lopez and Debra Gwartney, the book celebrates the rich language used to describe the landscape of North America.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Landscape, edited",
+      "B": "Landscape and edited",
+      "C": "Landscape edited",
+      "D": "Landscape. Edited"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "In the list \"Things That Arouse a Fond Memory of the Past\" from Sei Shōnagon's Pillow Book, the author delights in pressed silk, a moonlit night, and dried hollyhock. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book's musings on tenth-century Japanese courtly life ______ readers a thousand years later.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has fascinated",
+      "B": "fascinates",
+      "C": "fascinate",
+      "D": "is fascinating"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "The near-Earth asteroid 1991 VH is orbited by the moonlet S/1997 (35107). In 2022, scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. ______ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Meanwhile,",
+      "B": "To be exact,",
+      "C": "For example,",
+      "D": "Furthermore,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Great Salt Lake in Utah is one of the world's saltiest bodies of water.\n• The northern portion of the lake has a higher concentration of salt than the southern portion.\n• Aquatic insects called Ephydra cinerea live in the southern portion.\n• Bacteria called Nodularia live in the southern portion.",
+    "text": "The student wants to emphasize a difference between Ephydra cinerea and Nodularia. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Ephydra cinerea and Nodularia are different types of organisms: Ephydra cinerea are aquatic insects, whereas Nodularia are bacteria.",
+      "B": "The northern portion of the Great Salt Lake has a higher concentration of salt than does the southern portion.",
+      "C": "Ephydra cinerea and Nodularia both live in the Great Salt Lake's southern portion.",
+      "D": "Ephydra cinerea are aquatic insects that live in the southern portion of the Great Salt Lake."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.\n• Gropius was the school's director from 1919 to 1928.\n• Hannes Meyer was its director from 1928 to 1930.\n• Ludwig Mies van der Rohe was its director from 1930 to 1933.\n• Josef Albers was a painter and educator who began attending the Bauhaus in 1920.\n• Stella Steyn was a painter and illustrator who began attending the Bauhaus in 1931.",
+    "text": "The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Founded in 1919, the Bauhaus was a German art and design school whose past students include Josef Albers and Stella Steyn.",
+      "B": "The Bauhaus was founded in 1919, and Stella Steyn began attending in 1931.",
+      "C": "Josef Albers and Stella Steyn were both Bauhaus students, but Albers, who began attending in 1920, preceded Steyn.",
+      "D": "Walter Gropius founded the Bauhaus in 1919 and acted as its director until 1928, at which point Hannes Meyer succeeded him in the role."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The United States has designated more than 500 areas National Wildlife Refuges (NWRs).\n• Some NWRs were established specifically to protect endangered species.\n• The St. Johns NWR is a 6,255-acre area in Florida, on the Atlantic coast.\n• It was established to protect the endangered dusky seaside sparrow.\n• The Bitter Creek NWR is a 14,054-acre area in California, on the Pacific coast.\n• It was established to protect the endangered California condor.",
+    "text": "The student wants to contrast the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some NWRs were established specifically to protect endangered species such as the California condor.",
+      "B": "Both the St. Johns NWR and the Bitter Creek NWR were established to protect endangered species.",
+      "C": "While the St. Johns NWR is in Florida, on the Atlantic coast, the Bitter Creek NWR is in California, on the Pacific coast.",
+      "D": "The US has designated more than 500 areas NWRs, including the St. Johns NWR in Florida."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.\n• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object's first layer takes shape.\n• Step 2: The partially cured resin object is raised, leaving a thin space (a \"dead zone\") beneath it for oxygen and liquid resin to flow through.\n• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.\n• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.",
+    "text": "The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "DLS cures 3D objects by passing through a \"dead zone,\" adding layers to the object, then curing the object in an oven.",
+      "B": "In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a \"dead zone,\" wherein the curing is completed.",
+      "C": "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.",
+      "D": "DLS is a form of additive manufacturing that creates a \"dead zone\" in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object."
+    },
+    "imageUrl": null
+  }
+}

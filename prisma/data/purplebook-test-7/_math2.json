@@ -1,0 +1,232 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "For the linear function g, the graph of y = g(x) in the xy-plane has a slope of 5 and passes through the point (2, 47). Which equation defines g?",
+    "choices": {
+      "A": "g(x) = 37x",
+      "B": "g(x) = 37x + 5",
+      "C": "g(x) = 5x",
+      "D": "g(x) = 5x + 37"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "A certain elephant calf weighed 226 pounds when it was born. The elephant calf gained an average of 3 pounds per day in its first year of life. Which equation models this situation, where y is the estimated weight of the elephant calf, in pounds, x days after it was born?",
+    "choices": {
+      "A": "y = 226 + 3x",
+      "B": "y = 226 − 3x",
+      "C": "y = 3 + 226x",
+      "D": "y = 3 − 226x"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "0 = (x − k)(7x + t) − (x − k)",
+    "text": "In the given equation, k and t are positive constants. A solution to the equation is −22/7. What is the value of t?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "For a survey, a sample of 1,018 people was selected at random from all registered voters in a county. Based on the survey, it is estimated that 66% of all registered voters in the county are in favor of a new law, with an associated margin of error of 2.91%. Which of the following best describes the plausible values for the percent of all registered voters in the county who are in favor of the new law?",
+    "choices": {
+      "A": "Any value greater than 63.09% and less than 68.91%",
+      "B": "Any value greater than 63.09%",
+      "C": "Any value less than 63.09% or greater than 68.91%",
+      "D": "Any value less than 68.91%"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "f(x) = 4x²",
+    "text": "The function f is defined by the equation shown. What is the value of f(11)?",
+    "choices": {
+      "A": "44",
+      "B": "52",
+      "C": "88",
+      "D": "484"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "In triangle RST, the measure of angle R is 29 degrees. Which statement provides sufficient information to prove that triangle RST is isosceles?",
+    "choices": {
+      "A": "The measure of angle S is 151 degrees.",
+      "B": "The measure of angle S is 61 degrees.",
+      "C": "The measure of angle S is 58 degrees.",
+      "D": "The measure of angle S is 29 degrees."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "An object is launched from a height of 121 feet above the ground. A quadratic function f models the height above the ground, in feet, of the object t seconds after it is launched. According to the model, 2 seconds after the object is launched, it reaches a maximum height of 185 feet above the ground. Which equation defines f?",
+    "choices": {
+      "A": "f(t) = −16(t + 185)² − 2",
+      "B": "f(t) = −16(t − 185)² + 2",
+      "C": "f(t) = −16(t + 2)² − 185",
+      "D": "f(t) = −16(t − 2)² + 185"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A plumbing company charges its customers $112 for the first hour of a plumbing service call and $40 for each additional hour, plus the cost of plumbing parts. Which equation represents the total cost y, in dollars, for an x hour plumbing service call where the cost of parts was $z and x ≥ 1?",
+    "choices": {
+      "A": "y = 40x + z",
+      "B": "y = 40x + z + 72",
+      "C": "y = 112x + z",
+      "D": "y = 112x + 40x + 72"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "−3x² − 7x + 9 = 0",
+    "text": "What is the greatest solution to the given equation?",
+    "choices": {
+      "A": "−7/3 + √157/3",
+      "B": "−7/3 − √157/3",
+      "C": "−7/6 + √157/6",
+      "D": "−7/6 − √157/6"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "x² − 25/81 = 0",
+    "text": "How many distinct real solutions does the given equation have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "(9/8)(x − 5) − 36 = (7/8)(x − 5) + 28",
+    "text": "What is the value of x − 5?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The positive number a is 2,136% of the sum of the positive numbers b and c, and b is 89% of c. What percent of b is a?",
+    "choices": {
+      "A": "4,536%",
+      "B": "2,400%",
+      "C": "40.37%",
+      "D": "22.25%"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "An object is launched into the air from ground level. According to a quadratic model, 2.1 seconds after the object is launched, it reaches its maximum height of 70.56 feet above ground level. Which equation represents this model, where f(t) is the object's height, in feet, above ground level t seconds after it was launched?",
+    "choices": {
+      "A": "f(t) = −16(t − 2.1)² + 70.56",
+      "B": "f(t) = 16(t + 2.1)² + 70.56",
+      "C": "f(t) = −16(t + 2.1)² + 70.56",
+      "D": "f(t) = 16(t − 2.1)² + 70.56"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "∛(x^17 y^5) / (5x² ∛(y^3))",
+    "text": "For all positive values of x and y, the given expression is equivalent to which of the following?\nI. (x^(14/3) · y^(5/3)) / (5xy)\nII. ∛(x^11 y^2) / 5",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "z(w) = (0.829)^(2w)",
+    "text": "The function z is defined by the equation shown. The value of z(w) decreases by p% for each increase by 1 in the value of w. Which of the following is closest to the value of p?",
+    "choices": {
+      "A": "0.171",
+      "B": "0.829",
+      "C": "17.1",
+      "D": "31.3"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "As the size of a firework's shell increases, the height above the ground when the firework bursts increases. For a firework to burst 1,075 feet above the ground, a firework's shell in the shape of a sphere with a volume of 542.68 cubic inches could be used. To the nearest whole number, what is the volume of this firework's shell in cubic centimeters? (1 inch = 2.54 centimeters)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "y = x − c\ny = −4(x − 8)²",
+    "text": "In the given system of equations, c is a constant. The system has two distinct real solutions. Which of the following could be the value of c?",
+    "choices": {
+      "A": "3",
+      "B": "7",
+      "C": "127/16",
+      "D": "13"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "f(x) = 5x² + 60x + 181",
+    "text": "The function g is defined by g(x) = f(x + 8). What is the minimum value of g(x)?",
+    "choices": {
+      "A": "−14",
+      "B": "−6",
+      "C": "1",
+      "D": "9"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 10(x + 3)?",
+    "choices": {
+      "A": "10x + 3",
+      "B": "10x + 13",
+      "C": "10x + 7",
+      "D": "10x + 30"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "f(x) = 66(b)^x",
+    "text": "In the given function, b is a positive constant. For every increase in the value of x by 1, the value of f(x) increases by c%, where 0 < c < 100. Which expression gives the value of c in terms of b?",
+    "choices": {
+      "A": "1 + b/100",
+      "B": "b + 100",
+      "C": "100(b + 1)",
+      "D": "100(b − 1)"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "A right rectangular prism has a base area of 16t square centimeters (cm²). The length of the base of the rectangular prism is 8/3 cm, and the height of the rectangular prism is 9 cm. Which expression represents the surface area, in cm², of the right rectangular prism?",
+    "choices": {
+      "A": "32t + 96",
+      "B": "140t + 48",
+      "C": "800t + 48",
+      "D": "144t"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "f(x) = ab^(x/n)",
+    "text": "The function f is defined by the equation shown, where a, b, and n are constants, and b and n are integers. If f(4) = 5 and f(7) = 135, what is the value of f(9)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}
