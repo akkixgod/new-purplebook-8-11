@@ -41,20 +41,31 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
   const [expanded, setExpanded] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch(`/api/attempts/${attemptId}`, { credentials: "include" })
-      .then(async (r) => {
+    let didRetry = false;
+
+    const load = async () => {
+      try {
+        const r = await fetch(`/api/attempts/${attemptId}`, { credentials: "include" });
         const json = await r.json();
-        if (!r.ok) throw new Error(json.error || `Failed to load review (${r.status})`);
+        if (!r.ok) {
+          if (r.status === 404 && !didRetry) {
+            didRetry = true;
+            await new Promise((res) => setTimeout(res, 350));
+            return load();
+          }
+          throw new Error(json.error || `Failed to load review (${r.status})`);
+        }
         if (!json.module?.test || !Array.isArray(json.module?.questions)) {
           throw new Error("Incomplete attempt data");
         }
-        return json as AttemptDetail;
-      })
-      .then(setData)
-      .catch((error: unknown) => {
+        setData(json as AttemptDetail);
+      } catch (error: unknown) {
         console.error("Results page error:", error);
         setData(null);
-      });
+      }
+    };
+
+    void load();
   }, [attemptId]);
 
   if (!data) {

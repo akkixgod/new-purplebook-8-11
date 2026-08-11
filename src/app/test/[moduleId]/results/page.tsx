@@ -31,28 +31,34 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
     }
 
     let cancelled = false;
-    fetch(`/api/attempts/${attemptId}`, { credentials: "include" })
-      .then(async (r) => {
+    let didRetry = false;
+
+    const load = async () => {
+      try {
+        const r = await fetch(`/api/attempts/${attemptId}`, { credentials: "include" });
         const json = (await r.json()) as AttemptData;
         if (!r.ok) {
+          // Very small chance the submit transaction hasn't become visible yet.
+          if (r.status === 404 && !didRetry) {
+            didRetry = true;
+            await new Promise((res) => setTimeout(res, 350));
+            return load();
+          }
           throw new Error(json.error || `Failed to load results (${r.status})`);
         }
         if (!json.module?.test) {
           throw new Error("Incomplete attempt data (missing module/test).");
         }
-        return json;
-      })
-      .then((json) => {
         if (!cancelled) setData(json);
-      })
-      .catch((error: unknown) => {
+      } catch (error: unknown) {
         console.error("Results page error:", error);
         if (!cancelled) {
-          setLoadError(
-            error instanceof Error ? error.message : "Failed to load results."
-          );
+          setLoadError(error instanceof Error ? error.message : "Failed to load results.");
         }
-      });
+      }
+    };
+
+    void load();
 
     return () => {
       cancelled = true;
