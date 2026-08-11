@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
+import { resolveSessionUserId } from "@/lib/resolve-session-user";
 
 // POST /api/attempts/complete — create + grade + finish in one request (serverless-safe)
 export async function POST(req: NextRequest) {
@@ -22,11 +23,32 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Invalid answers payload" }, { status: 400 });
     }
 
+    const userId = await resolveSessionUserId({
+      id: session.user.id,
+      email: session.user.email,
+      name: session.user.name,
+      image: session.user.image,
+    });
+
     const module = await prisma.module.findUnique({
       where: { id: moduleId },
-      include: {
+      select: {
+        id: true,
+        number: true,
         test: { select: { title: true, section: true, year: true, month: true } },
-        questions: { orderBy: { order: "asc" } },
+        questions: {
+          orderBy: { order: "asc" },
+          select: {
+            id: true,
+            order: true,
+            stimulus: true,
+            text: true,
+            imageUrl: true,
+            choices: true,
+            correctAnswer: true,
+            explanation: true,
+          },
+        },
       },
     });
 
@@ -57,7 +79,7 @@ export async function POST(req: NextRequest) {
     const attempt = await prisma.$transaction(async (tx) => {
       const created = await tx.attempt.create({
         data: {
-          userId: session.user.id,
+          userId,
           moduleId,
           finishedAt,
           score,
@@ -66,16 +88,22 @@ export async function POST(req: NextRequest) {
         },
       });
 
-      await tx.answer.createMany({
-        data: answerRows.map((row) => ({ ...row, attemptId: created.id })),
-      });
+      if (answerRows.length > 0) {
+        await tx.answer.createMany({
+          data: answerRows.map((row) => ({ ...row, attemptId: created.id })),
+        });
+      }
 
       return created;
     });
 
-    const storedAnswers = await prisma.answer.findMany({
-      where: { attemptId: attempt.id },
-    });
+    const storedAnswers = answerRows.map((row, i) => ({
+      id: `local-${i}`,
+      attemptId: attempt.id,
+      questionId: row.questionId,
+      selected: row.selected,
+      isCorrect: row.isCorrect,
+    }));
 
     return NextResponse.json({
       id: attempt.id,
@@ -94,6 +122,10 @@ export async function POST(req: NextRequest) {
     });
   } catch (error) {
     console.error("Complete attempt error:", error);
-    return NextResponse.json({ error: "Failed to submit attempt" }, { status: 500 });
+    const message =
+      error instanceof Error && /Unable to resolve session user/i.test(error.message)
+        ? "Session expired. Sign in again, then retry submission."
+        : "Failed to submit attempt";
+    return NextResponse.json({ error: message }, { status: 500 });
   }
 }

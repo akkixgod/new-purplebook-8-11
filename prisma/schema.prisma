@@ -75,6 +75,9 @@ model Module {
   test        Test       @relation(fields: [testId], references: [id], onDelete: Cascade)
   questions   Question[]
   attempts    Attempt[]
+
+  @@index([testId])
+  @@index([testId, number])
 }
 
 model Question {
@@ -89,6 +92,9 @@ model Question {
   explanation   String?
   module        Module   @relation(fields: [moduleId], references: [id], onDelete: Cascade)
   answers       Answer[]
+
+  @@index([moduleId])
+  @@index([moduleId, order])
 }
 
 model Attempt {
@@ -103,6 +109,11 @@ model Attempt {
   user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
   module          Module    @relation(fields: [moduleId], references: [id], onDelete: Cascade)
   answers         Answer[]
+
+  @@index([userId])
+  @@index([moduleId])
+  @@index([userId, moduleId])
+  @@index([finishedAt])
 }
 
 model Answer {
@@ -113,4 +124,7 @@ model Answer {
   isCorrect   Boolean
   attempt     Attempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
   question    Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@index([attemptId])
+  @@index([questionId])
 }

@@ -10,7 +10,7 @@ import {
   TelegramCommunityCheckModal,
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
-import { cacheAttempt, type CachedAttempt } from "@/lib/attempt-cache";
+import { cacheAttempt, savePendingSubmission, clearPendingSubmission, type CachedAttempt } from "@/lib/attempt-cache";
 
 interface Question {
   id: string;
@@ -19,7 +19,6 @@ interface Question {
   text: string;
   imageUrl: string | null;
   choices: string;
-  correctAnswer: string;
 }
 
 interface ModuleData {
@@ -129,44 +128,92 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     if (submitting || !moduleData || !attemptId) return;
     setSubmitError(null);
     setSubmitting(true);
+
     const startTime = parseInt(localStorage.getItem(STORAGE_TIME_KEY(attemptId)) ?? "0");
     const timeSpent = startTime ? Math.floor((Date.now() - startTime) / 1000) : null;
     const answerPayload = moduleData.questions.map((q) => ({
       questionId: q.id,
       selected: answers[q.id] ?? null,
     }));
-    const r = await fetch("/api/attempts/complete", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      credentials: "include",
-      body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent }),
+
+    // Durable local copy so a dropped request never loses work.
+    savePendingSubmission({
+      moduleId,
+      attemptId,
+      answers: answerPayload,
+      timeSpent,
+      savedAt: Date.now(),
     });
-    const json = (await r.json().catch(() => null)) as
-      | (CachedAttempt & { attemptId?: string; error?: string })
-      | null;
-    if (!r.ok) {
-      setSubmitError(json?.error ?? `Submit failed (${r.status})`);
-      setSubmitting(false);
-      return;
-    }
-    const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
-    if (json?.module?.test) {
-      cacheAttempt({ ...json, id: serverAttemptId });
-    }
-    localStorage.removeItem(STORAGE_KEY(attemptId));
-    localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
-    localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
-    localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
-    const resultsUrl = `/test/${moduleId}/results?attemptId=${serverAttemptId}`;
+    localStorage.setItem(STORAGE_KEY(attemptId), JSON.stringify(answers));
 
-    // Post-test modal: show Telegram prompt before navigating to results.
-    if (isTelegramJoinedThisSession()) {
-      router.push(resultsUrl);
-      return;
+    const maxAttempts = 3;
+    let lastError = "Failed to submit attempt";
+
+    for (let i = 0; i < maxAttempts; i++) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 25000);
+        const r = await fetch("/api/attempts/complete", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          credentials: "include",
+          signal: controller.signal,
+          body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent }),
+        });
+        clearTimeout(timeout);
+
+        const json = (await r.json().catch(() => null)) as
+          | (CachedAttempt & { attemptId?: string; error?: string })
+          | null;
+
+        if (!r.ok) {
+          lastError = json?.error ?? `Submit failed (${r.status})`;
+          if (r.status === 401) {
+            setSubmitError("Session expired. Sign in again, then retry submission.");
+            setSubmitting(false);
+            return;
+          }
+          if (i < maxAttempts - 1) {
+            await new Promise((res) => setTimeout(res, 400 * 2 ** i));
+            continue;
+          }
+          break;
+        }
+
+        const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
+        if (json?.module?.test) {
+          cacheAttempt({ ...json, id: serverAttemptId });
+        }
+        clearPendingSubmission(attemptId);
+        localStorage.removeItem(STORAGE_KEY(attemptId));
+        localStorage.removeItem(STORAGE_TIME_KEY(attemptId));
+        localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
+        localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
+        const resultsUrl = `/test/${moduleId}/results?attemptId=${serverAttemptId}`;
+
+        if (isTelegramJoinedThisSession()) {
+          router.push(resultsUrl);
+          return;
+        }
+
+        setPendingResultsUrl(resultsUrl);
+        setShowTelegramModal(true);
+        setShowReviewModal(false);
+        setSubmitting(false);
+        return;
+      } catch (err) {
+        lastError =
+          err instanceof DOMException && err.name === "AbortError"
+            ? "Submit timed out. Your answers are saved — retry submission."
+            : "Network error. Your answers are saved — retry submission.";
+        if (i < maxAttempts - 1) {
+          await new Promise((res) => setTimeout(res, 400 * 2 ** i));
+        }
+      }
     }
 
-    setPendingResultsUrl(resultsUrl);
-    setShowTelegramModal(true);
+    setSubmitError(lastError);
+    setSubmitting(false);
   }, [submitting, moduleData, attemptId, answers, moduleId, router]);
 
   useEffect(() => { handleSubmitRef.current = handleSubmit; }, [handleSubmit]);
@@ -402,13 +449,23 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               disabled={submitting}
               className="px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-60"
             >
-              Submit
+              {submitting ? "Submitting…" : "Submit"}
             </button>
-            {submitError && (
-              <p className="mt-2 text-xs text-red-600 text-center w-full">{submitError}</p>
-            )}
           </div>
         </div>
+        {submitError && (
+          <div className="border-t border-red-100 bg-red-50 px-4 py-2 flex flex-wrap items-center justify-center gap-3">
+            <p className="text-xs text-red-700">{submitError}</p>
+            <button
+              type="button"
+              onClick={() => void handleSubmit()}
+              disabled={submitting}
+              className="px-3 py-1 text-xs font-semibold rounded-lg bg-red-600 text-white hover:bg-red-700 disabled:opacity-60"
+            >
+              Retry Submission
+            </button>
+          </div>
+        )}
 
         {/* Segmented progress bar */}
         <div className="flex h-1.5 w-full gap-px bg-gray-200">
@@ -729,6 +786,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         onClose={() => setShowReviewModal(false)}
         onConfirmSubmit={handleSubmit}
         submitting={submitting}
+        submitError={submitError}
         moduleNumber={moduleData.number}
         questions={questions}
         answers={answers}

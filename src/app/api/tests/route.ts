@@ -28,13 +28,20 @@ export async function GET(req: NextRequest) {
   let attemptMap: Record<string, { score: number; totalQuestions: number; id: string }> = {};
 
   if (session?.user?.id) {
+    const moduleIds = tests.flatMap((t) => t.modules.map((m) => m.id));
     const attempts = await prisma.attempt.findMany({
       where: {
         userId: session.user.id,
         finishedAt: { not: null },
-        moduleId: { in: tests.flatMap((t) => t.modules.map((m) => m.id)) },
+        moduleId: { in: moduleIds },
       },
       orderBy: { finishedAt: "desc" },
+      select: {
+        id: true,
+        moduleId: true,
+        score: true,
+        totalQuestions: true,
+      },
     });
 
     for (const a of attempts) {

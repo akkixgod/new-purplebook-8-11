@@ -12,6 +12,7 @@ type Props = {
   onClose: () => void;
   onConfirmSubmit: () => void;
   submitting: boolean;
+  submitError?: string | null;
   moduleNumber: number;
   questions: QuestionItem[];
   answers: Record<string, string | null>;
@@ -28,6 +29,7 @@ export function ModuleReviewModal({
   onClose,
   onConfirmSubmit,
   submitting,
+  submitError = null,
   moduleNumber,
   questions,
   answers,
@@ -151,7 +153,10 @@ export function ModuleReviewModal({
           </section>
         </div>
 
-        <div className="flex flex-col-reverse gap-2 border-t border-gray-100 px-5 py-4 sm:flex-row sm:justify-end">
+        <div className="flex flex-col-reverse gap-2 border-t border-gray-100 px-5 py-4 sm:flex-row sm:justify-end sm:items-center">
+          {submitError && (
+            <p className="flex-1 text-xs text-red-600 sm:mr-auto">{submitError}</p>
+          )}
           <button
             type="button"
             onClick={onClose}
@@ -165,7 +170,7 @@ export function ModuleReviewModal({
             disabled={submitting}
             className="rounded-lg bg-green-600 px-4 py-2.5 text-sm font-semibold text-white hover:bg-green-700 disabled:opacity-60"
           >
-            {submitting ? "Submitting…" : "Submit module"}
+            {submitting ? "Submitting…" : submitError ? "Retry Submission" : "Submit module"}
           </button>
         </div>
       </div>

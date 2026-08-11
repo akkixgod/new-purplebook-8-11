@@ -52,3 +52,39 @@ export function readAttemptCache(attemptId: string): CachedAttempt | null {
     return null;
   }
 }
+
+export interface PendingSubmission {
+  moduleId: string;
+  attemptId: string;
+  answers: { questionId: string; selected: string | null }[];
+  timeSpent: number | null;
+  savedAt: number;
+}
+
+const pendingKey = (attemptId: string) => `purplebook_pending_submit_${attemptId}`;
+
+export function savePendingSubmission(data: PendingSubmission): void {
+  try {
+    localStorage.setItem(pendingKey(data.attemptId), JSON.stringify(data));
+  } catch {
+    /* quota / private mode */
+  }
+}
+
+export function readPendingSubmission(attemptId: string): PendingSubmission | null {
+  try {
+    const raw = localStorage.getItem(pendingKey(attemptId));
+    if (!raw) return null;
+    return JSON.parse(raw) as PendingSubmission;
+  } catch {
+    return null;
+  }
+}
+
+export function clearPendingSubmission(attemptId: string): void {
+  try {
+    localStorage.removeItem(pendingKey(attemptId));
+  } catch {
+    /* ignore */
+  }
+}
