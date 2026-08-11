@@ -1,0 +1,220 @@
+{
+  "1": {
+    "stimulus": "f(x) = (x + 9)/3",
+    "text": "For the function f defined by the equation shown, what is the value of f(−6)?",
+    "choices": {
+      "A": "−3",
+      "B": "−1",
+      "C": "1",
+      "D": "3"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "The population of a certain city doubled every 25 years from 1660 to 1760. The population of this city was 208,000 in 1760. What was the population of this city in 1660?",
+    "choices": {
+      "A": "13,000",
+      "B": "26,000",
+      "C": "104,000",
+      "D": "416,000"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "f(x) = −40x + 280",
+    "text": "The function f gives the predicted height above the ground f(x), in feet, of a model airplane x minutes after it begins to descend. What is the predicted height above the ground, in feet, of the model airplane 4 minutes after it begins to descend?",
+    "choices": {
+      "A": "120",
+      "B": "160",
+      "C": "240",
+      "D": "440"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "How many solutions does the equation 5x + 3 = 5x have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 6v¹²/(18v³), where v > 0?",
+    "choices": {
+      "A": "v⁴/3",
+      "B": "v⁹/3",
+      "C": "3v⁴",
+      "D": "3v⁹"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "f(x) = (2x − 3)(x + 8)\ng(x) = 3(6x − 9)",
+    "text": "The functions f and g are defined by the equations shown. Which of the following is equivalent to f(x) − g(x)?",
+    "choices": {
+      "A": "2x² + 7x − 15",
+      "B": "2x² − 5x + 3",
+      "C": "2x² − x − 3",
+      "D": "2x² + 31x − 51"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "y > 17\n4x + y < 21",
+    "text": "The point (x, 54) is a solution to the given system of inequalities in the xy-plane. Which of the following could be the value of x?",
+    "choices": {
+      "A": "9",
+      "B": "5",
+      "C": "−5",
+      "D": "−9"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "In triangle ABC, angle B is a right angle. The length of side AB is 10√39 and the length of side BC is 24√39. What is the length of side AC?",
+    "choices": {
+      "A": "14√39",
+      "B": "26√39",
+      "C": "34√39",
+      "D": "√(34 · 39)"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "y = 900ax²",
+    "text": "For a certain type of rope, the equation shown, where a is a constant, gives the estimated breaking strength y, in pounds, of a rope with a circumference of x inches. Based on this equation, if a rope of this type has a circumference of 0.75 inches, it has an estimated breaking strength of 708.75 pounds. What is the estimated breaking strength, in pounds, of a rope of this type that has a circumference of 4.50 inches?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "y = −2x − 10\ny = 2x + 16",
+    "text": "The solution to the given system of equations is (x, y). What is the value of y?",
+    "choices": {
+      "A": "16",
+      "B": "6",
+      "C": "3",
+      "D": "−10"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The dot plots represent the distributions of values in data sets A and B.\n\nWhich of the following statements must be true?\n\nI. The median of data set A is equal to the median of data set B.\nII. The standard deviation of data set A is equal to the standard deviation of data set B.",
+    "choices": {
+      "A": "I and II",
+      "B": "I only",
+      "C": "II only",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/math2-q11-dot-plots.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "A carnival receives $10 for each adult admission ticket sold and $5 for each child admission ticket sold. On a particular day, the carnival received a total of $4,100 from selling adult and child admission tickets. If 220 adult admission tickets were sold on that day, how many child admission tickets were sold?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "g(x) = 3x",
+    "text": "The function g is defined by the equation shown. For what value of x is g(x) = 12?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "4x² + 19 = 32x + r",
+    "text": "In the given equation, r is a constant. The equation has exactly one real solution. What is the value of r?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "x² − 6x + y² − 4y − 51 = 0",
+    "text": "In the xy-plane, the graph of the given equation is a circle. If this circle is inscribed in a square, what is the perimeter of the square?",
+    "choices": {
+      "A": "16",
+      "B": "32",
+      "C": "64",
+      "D": "204"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The daily precipitation total at a weather station is recorded by a weather instrument each day. The daily precipitation total recorded on Monday was 19.00 millimeters. The daily precipitation total recorded on Tuesday was a 134.00% increase from the daily precipitation total recorded on Monday. What was the daily precipitation total, in millimeters, recorded on Tuesday?",
+    "choices": {
+      "A": "8.12",
+      "B": "14.18",
+      "C": "25.46",
+      "D": "44.46"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "121x² = −110x + 56",
+    "text": "What is the value of 11x + 5, where 11x + 5 > 0?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "One gallon of sealant costs $23 and will cover 250 square feet of a surface. A deck has a total surface area of d square feet. Which equation represents the cost c, in dollars, of the sealant needed to cover the deck twice?",
+    "choices": {
+      "A": "c = 250d/23",
+      "B": "c = 500d/23",
+      "C": "c = 23(d/125)",
+      "D": "c = 23(d/250)"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "x² − 4x + y² − 8y − 80 = 0",
+    "text": "In the xy-plane, the graph of the given equation is a circle. If this circle is inscribed in a square, what is the perimeter of the square?",
+    "choices": {
+      "A": "20",
+      "B": "40",
+      "C": "80",
+      "D": "320"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The area of a rectangular region is increasing at a rate of 180 square centimeters per hour. What is this rate, in square meters per minute? (1 meter = 100 centimeters)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "h(x) = −√(x² + bx + c)",
+    "text": "The function h is defined by the equation shown, where b and c are constants. In the xy-plane, the graph of y = h(x) contains the points (2, 0) and (0, −√358). If h(m) = 0, what is the greatest possible value of m?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "r² + qr = 8r − 97",
+    "text": "In the given equation, q is an integer constant. The given equation has no real solution. What is the largest possible value of q?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

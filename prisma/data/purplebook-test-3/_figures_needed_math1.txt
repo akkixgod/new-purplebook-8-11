@@ -1,0 +1,36 @@
+math1-q08-bank-account-graph.svg
+- Coordinate plane with linear graph of function f, where y = f(x).
+- Y-axis labeled "Bank account balance (dollars)"; scale 0 to 80 in increments of 10.
+- X-axis labeled "Time since initial deposit (months)"; scale 0 to 10 in increments of 2 (0, 2, 4, 6, 8, 10).
+- Solid line with positive slope; y-intercept at (0, 35); passes through approximately (10, 55).
+- Light grid lines; no duplicate table in stimulus.
+
+math1-q10-value-table.svg
+- Two-column table with headers x and y.
+- Row 1: x = 1, y = 13
+- Row 2: x = 2, y = 21
+- Row 3: x = 3, y = a
+- Thin black borders; centered headers.
+
+math1-q12-right-triangle.svg
+- Right triangle; right angle at bottom-left (square mark).
+- Vertical leg (left side) labeled 39.
+- Horizontal leg (bottom side) labeled 40.
+- Acute angle at bottom-right vertex labeled x°.
+- Below figure: "Note: Figure not drawn to scale."
+
+math1-q13-right-triangle.svg
+- Right triangle; right angle at bottom-left (square mark).
+- Vertical leg (left side) labeled 22.
+- Horizontal leg (bottom side) labeled 39.
+- Hypotenuse labeled c.
+- Acute angle at bottom-right vertex labeled x°.
+- Below figure: "Note: Figure not drawn to scale."
+
+math1-q15-linear-function-table.svg
+- Two-column table with headers x and g(x).
+- Row 1: x = 1, g(x) = 46
+- Row 2: x = 2, g(x) = 43
+- Row 3: x = 3, g(x) = 40
+- Row 4: x = 4, g(x) = 37
+- Thin black borders; centered headers.

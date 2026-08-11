@@ -1,0 +1,34 @@
+{
+  "slug": "purplebook-test-2",
+  "title": "PurpleBook test 2",
+  "year": 2026,
+  "month": 3,
+  "version": "ElitePractice X2",
+  "pageMap": {
+    "ENGLISH": { "1": "pages 1-27", "2": "pages 28-54" },
+    "MATH": { "1": "pages 55-76", "2": "pages 77-98" },
+    "answerKey": "page 99"
+  },
+  "modules": {
+    "ENGLISH": {
+      "1": {
+        "timeLimit": 1920,
+        "answers": ["A","A","B","C","A","B","A","C","C","B","D","A","D","D","A","B","A","A","B","A","B","C","C","B","D","C","C"]
+      },
+      "2": {
+        "timeLimit": 1920,
+        "answers": ["A","A","A","A","D","B","B","B","C","A","D","D","C","D","A","C","C","D","D","D","D","D","D","A","B","A","B"]
+      }
+    },
+    "MATH": {
+      "1": {
+        "timeLimit": 2100,
+        "answers": ["D","B","D","D","C","A","A","D","44","B","D","B","C","D","A","25","D","B","226","D","C","-13/14"]
+      },
+      "2": {
+        "timeLimit": 2100,
+        "answers": ["B","D","B","C","C","35","B","A","B","527.7","B","A","D","B","B","48.25","42","A","1141","-5/3","C","113/2"]
+      }
+    }
+  }
+}

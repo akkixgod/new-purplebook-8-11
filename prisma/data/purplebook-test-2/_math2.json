@@ -1,0 +1,223 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "Function f is defined as f(x) = (2x − 5)², and function g is defined as g(x) = 2(2x + 7). Which of the following is equivalent to f(x) + g(x)?",
+    "choices": {
+      "A": "4x² − 16x + 11",
+      "B": "4x² − 16x + 39",
+      "C": "4x² − 6x + 39",
+      "D": "4x² + 24x + 11"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "Which of the following lists represents a data set with the smallest standard deviation?",
+    "choices": {
+      "A": "44, 45, 47, 49, 50",
+      "B": "45, 45, 47, 49, 49",
+      "C": "45, 46, 47, 48, 49",
+      "D": "46, 47, 47, 47, 48"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "(x + k)² + 37 = 37",
+    "text": "In the given equation, k is a constant. How many distinct real solutions does this equation have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "What is the y-intercept of the graph of y = 12(5)^{x+2} in the xy-plane?",
+    "choices": {
+      "A": "(0, 12)",
+      "B": "(0, 120)",
+      "C": "(0, 300)",
+      "D": "(0, 3,600)"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "In the xy-plane, line s is parallel to line t. Line s is defined by y + 16 = 7x. What is the slope of line t?",
+    "choices": {
+      "A": "−16",
+      "B": "−7",
+      "C": "7",
+      "D": "16"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "In triangle XYZ, the measure of angle Y is 90 degrees. Triangle RST (not shown) is similar to triangle XYZ such that R, S, and T correspond to X, Y, and Z, respectively. Each side of triangle RST is 19 times the length of the corresponding side of triangle XYZ. What is the measure, in degrees, of one of the angles in triangle RST?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math2-q06-right-triangle.svg"
+  },
+  "7": {
+    "stimulus": null,
+    "text": "Rectangle X has a length of 24 millimeters (mm) and a width of 7.5 mm. Right triangle Y has a base of 60 mm. The area of rectangle X is 3 times the area of right triangle Y. What is the height, in mm, of right triangle Y?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "The function j is defined by j(x) = (10x + 5)/(3p), and the function k is defined by k(x) = (j(x) · p)/(x + 1), where p is a positive constant. What is the value of k(9)?",
+    "choices": {
+      "A": "19/6",
+      "B": "10/3",
+      "C": "95/13",
+      "D": "85/3"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "In triangle ABC, angle B is a right angle. The length of side AB is 10√69 and the length of side BC is 24√69. What is the length of side AC?",
+    "choices": {
+      "A": "14√69",
+      "B": "26√69",
+      "C": "34√69",
+      "D": "√(34 · 69)"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The figure shown is a right rectangular pyramid, where l = 18 units, w = 9 units, and h = 12 units. What is the surface area, in square units, of the pyramid?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math2-q10-pyramid.svg"
+  },
+  "11": {
+    "stimulus": "ax − by = 72\n2ax − 8y = 48",
+    "text": "In the given system of equations, a and b are constants. The graphs of these equations in the xy-plane intersect at the point (x, 6). What is the value of b?",
+    "choices": {
+      "A": "−8",
+      "B": "−4",
+      "C": "4",
+      "D": "6"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "x² + (√(k − 2))x + 37 = 0",
+    "text": "In the given equation, k is a constant. The equation has exactly one real solution. What is the value of k?",
+    "choices": {
+      "A": "150",
+      "B": "148",
+      "C": "146",
+      "D": "39"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "(3/2)x − (1/3)y = 24\nx + 2y = −4",
+    "text": "The solution to the given system of equations is (x, y). What is the value of x + y?",
+    "choices": {
+      "A": "−5",
+      "B": "−4",
+      "C": "4",
+      "D": "5"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "An object's speed, in meters per hour, is increasing at a rate of 1,490 meters per hour per second. Which of the following is closest to this rate in feet per second squared? (Use 1 meter = 3.28 feet.)",
+    "choices": {
+      "A": "0.126",
+      "B": "1.36",
+      "C": "7.57",
+      "D": "81.5"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "f(x) = 7(4)^x",
+    "text": "The function f is defined by the given equation. If g(x) = f(x + 3), which of the following equations defines the function g?",
+    "choices": {
+      "A": "g(x) = 21(4)^x",
+      "B": "g(x) = 448(4)^x",
+      "C": "g(x) = 21(12)^x",
+      "D": "g(x) = 343(64)^x"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "For two acute angles A and B, cos A − sin B = 0. The measure of angle A is x degrees, where 8x − 13 = 321. What is the measure of angle B, in degrees?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "In the xy-plane, line r passes through the points (3, 15) and (7, 16). Line s passes through the point (1, 2) and is perpendicular to line r. An equation of line s is ax + 7y = c, where a and c are constants. What is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "c(x − 2) = −5(x + k)",
+    "text": "In the given equation, c and k are constants. The equation has exactly one solution. Which of the following statements must be true?",
+    "choices": {
+      "A": "The value of c cannot be −5.",
+      "B": "The value of c cannot be −5/2.",
+      "C": "The value of k cannot be 2/5.",
+      "D": "The value of k cannot be −2."
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "38z¹⁸ + bz⁹ + 30",
+    "text": "In the given expression, b is a positive integer. If qz⁹ + r is a factor of the expression, where q and r are positive integers, what is the greatest possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "In the xy-plane, a unit circle with center at the origin O contains point A with coordinates (1, 0) and point B with coordinates (5/√34, −3/√34). If the measure of angle AOB is p radians, what is the value of (cos p)/(sin p)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "The frequency tables represent data sets A and B, where c is a negative integer constant. The mean of data set A is r and the mean of data set B is q. What is the value of r/q?",
+    "choices": {
+      "A": "−4/3",
+      "B": "1",
+      "C": "4/3",
+      "D": "There is not enough information to determine the value of r/q."
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math2-q21-frequency-tables.svg"
+  },
+  "22": {
+    "stimulus": null,
+    "text": "In the figure shown, points A, B, C, and E lie on the circle, and AB < BC. Segment AC is perpendicular to segment BE at point D, and BD = √226. The diameter of the circle is 115. If CD/AD = r, what is the value of r?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math2-q22-circle-chords.svg"
+  }
+}

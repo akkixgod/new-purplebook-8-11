@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <polygon points="80,260 80,80 340,260" fill="none" stroke="#111" stroke-width="2.5"/>
+  <rect x="80" y="240" width="20" height="20" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="68" y="70" font-family="Arial" font-size="18" font-weight="700">X</text>
+  <text x="62" y="280" font-family="Arial" font-size="18" font-weight="700">Y</text>
+  <text x="350" y="280" font-family="Arial" font-size="18" font-weight="700">Z</text>
+  <text x="250" y="245" font-family="Arial" font-size="16">35°</text>
+  <text x="210" y="320" text-anchor="middle" font-family="Arial" font-size="12" font-style="italic">Note: Figure not drawn to scale.</text>
+</svg>

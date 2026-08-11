@@ -1,0 +1,31 @@
+math1-q01-right-triangle.svg
+- Right triangle ABC; right angle at B (bottom-left) with square mark.
+- Vertex A top-left; vertex C bottom-right; hypotenuse AC.
+- Interior angle at A labeled 56°.
+- Below figure: "Note: Figure not drawn to scale."
+
+math1-q02-isosceles-triangle.svg
+- Triangle with base labeled x (bottom horizontal) and both slanted sides labeled y.
+- Below figure: "Note: Figure not drawn to scale."
+
+math1-q06-linear-graph.svg
+- Coordinate plane with unit grid.
+- x-axis roughly -9 to 9, labeled every 2: -8,-6,-4,-2,0,2,4,6,8; axis label x.
+- y-axis roughly -11 to 3, labeled every 2: 2,0,-2,-4,-6,-8,-10; axis label y.
+- Straight line through solid dots at (-6, -8) and (6, -6); line extends to grid edges (also passes near (0, -7)).
+
+math1-q09-parallel-lines.svg
+- Two horizontal parallel lines: top labeled r (right end), bottom labeled s (right end).
+- Transversal t sloping up-right, labeled t near top-right of transversal.
+- At intersection of t and s: angle above s and right of t labeled 44°.
+- At intersection of t and r: angle above r and right of t labeled x°.
+- Below figure: "Note: Figure not drawn to scale."
+
+math1-q15-histograms.svg
+- Two stacked histograms, same axes/scales.
+- X-axis labeled "Score" with ticks at 15, 20, 25, 30, 35, 40, 45, 50 (bins of width 5).
+- Y-axis labeled "Frequency" with ticks/grid at 0, 10, 20, 30, 40, 50.
+- Top title "Team A" (unimodal, peaked in middle):
+  - 15–20: 10; 20–25: 15; 25–30: 30; 30–35: 50; 35–40: 30; 40–45: 15; 45–50: 10
+- Bottom title "Team B" (U-shaped / higher at extremes):
+  - 15–20: 30; 20–25: 25; 25–30: 15; 30–35: 10; 35–40: 15; 40–45: 25; 45–50: 30

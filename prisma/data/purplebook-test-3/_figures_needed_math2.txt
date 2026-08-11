@@ -1,0 +1,22 @@
+math2-q11-dot-plots.svg
+- Two dot plots side by side, titled "Data set A" (left) and "Data set B" (right).
+- Shared horizontal axis labeled "Value" with tick marks at 8, 9, 10, 11, 12, 13, 14.
+- Vertical stacking of dots at each value (no y-axis label needed).
+- Data set A dot counts by value:
+  - 8: 1 dot
+  - 9: 2 dots
+  - 10: 3 dots
+  - 11: 4 dots
+  - 12: 3 dots
+  - 13: 2 dots
+  - 14: 1 dot
+- Data set B dot counts by value (match page-87.png exactly):
+  - 8: 1 dot
+  - 9: 2 dots
+  - 10: 3 dots
+  - 11: 4 dots
+  - 12: 3 dots
+  - 13: 2 dots
+  - 14: 1 dot
+- Use solid black circles (~6px radius) stacked vertically above each tick mark.
+- Light grid or baseline only; no duplicate table in stimulus.

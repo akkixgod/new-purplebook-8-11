@@ -1,0 +1,32 @@
+eng1-q10-tribal-nations-california.svg
+  Table: "Total Areas of Five Tribal Nations in California"
+  Columns: Tribal nation | Location | Area (square miles)
+  Rows:
+    Hoopa Valley Tribe | Northern California | 141.68
+    La Jolla Band of Luiseño Indians | Southern California | 13.50
+    Pauma Band of Luiseño Mission Indians | Southern California | 9.36
+    Agua Caliente Band of Cahuilla Indians | Northern California | 53.68
+    Los Coyotes Band of Cahuilla and Cupeño Indians | Southern California | 39.21
+
+eng1-q13-urban-agriculture-ratings.svg
+  Bar graph: urban agriculture contribution ratings by group (Bologna, Italy)
+  Y-axis: Rating (0 = no contribution, 5 = high contribution), 0-5
+  X-axis groups: project leaders, stakeholders, general public
+  Legend (3 series):
+    increase in global biodiversity (dark gray)
+    improvement of local microclimate (light gray)
+    improvement of neighborhood attachment (black)
+  Approximate values:
+    project leaders: biodiversity ~3.5, microclimate ~3.0, attachment ~3.0
+    stakeholders: all three ~4.1
+    general public: biodiversity ~4.0, microclimate ~3.8, attachment ~4.4
+
+eng1-q14-honeybee-cells.svg
+  Bar graph: "Percentage of Nonhexagonal Cells in Hives of Three Honeybee Species"
+  Y-axis: Average percentage of nonhexagonal cells by shape (0-3.0)
+  X-axis species: black dwarf honeybee, dwarf honeybee, western honeybee
+  Legend: 5-sided (dark gray), 7-sided (light gray), 8-sided (black)
+  Approximate values:
+    black dwarf honeybee: 5-sided ~2.5%, 7-sided ~2.4%, 8-sided ~0%
+    dwarf honeybee: 5-sided ~2.6%, 7-sided ~2.1%, 8-sided ~0.2%
+    western honeybee: 5-sided ~0.5%, 7-sided ~0.4%, 8-sided ~0.1%

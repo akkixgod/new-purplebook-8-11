@@ -1,0 +1,214 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "Jasmin grows bean pods in her garden. This year, she harvested 480 bean pods and saved 10% of them to plant next year. How many of the harvested bean pods did Jasmin save to plant next year?",
+    "choices": {
+      "A": "38",
+      "B": "48",
+      "C": "56",
+      "D": "58"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 13(x^2 - 7)?",
+    "choices": {
+      "A": "13x^2 - 91",
+      "B": "13x^2 - 20",
+      "C": "13x^2 - 7",
+      "D": "13x^2 + 6"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "If 8x + 7 = 79, what is the value of 80x + 70?",
+    "choices": {
+      "A": "790",
+      "B": "150",
+      "C": "90",
+      "D": "9"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "A car travels at a speed of at least 40 miles per hour but no more than 65 miles per hour for a certain part of a trip. Which inequality represents this situation, where x is the speed of the car, in miles per hour, on this part of the trip?",
+    "choices": {
+      "A": "x ≥ 40",
+      "B": "x ≥ 65",
+      "C": "40 ≤ x ≤ 65",
+      "D": "x ≤ 105"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "The growth of the number of bacteria in a certain population is modeled by a function that increases exponentially over time. Which of the following could describe how the number of bacteria in the population changes each hour?",
+    "choices": {
+      "A": "Each hour, the number of bacteria in the population is 16% greater than it was the previous hour.",
+      "B": "Each hour, the number of bacteria in the population is 1,600 greater than it was the previous hour.",
+      "C": "Each hour, the number of bacteria in the population is 1,600 less than it was the previous hour.",
+      "D": "Each hour, the number of bacteria in the population is 16% less than it was the previous hour."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "In △JKL, the measures of both ∠J and ∠K are equal and the measure of ∠L is 124°. What is the measure of ∠J?",
+    "choices": {
+      "A": "28°",
+      "B": "56°",
+      "C": "62°",
+      "D": "90°"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "2.5c + 5d = 60\n\nThe given equation describes the relationship between the number of cats, c, and the number of dogs, d, that can be cared for at a pet care business during a week. If the business cares for 12 dogs during a week, how many cats can it care for during this week?",
+    "choices": {
+      "A": "0",
+      "B": "5",
+      "C": "30",
+      "D": "60"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A bank account was opened with an initial deposit. Over the next several months, regular deposits were made into this account, and there were no withdrawals made during this time. The graph of the function f shown, where y = f(x), estimates the account balance, in dollars, in this bank account x months since the initial deposit. To the nearest whole dollar, what is the amount of the initial deposit estimated by the graph?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/math1-q08-bank-account-graph.svg"
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The y-intercept of the graph of y = x^2 + 15 in the xy-plane is (0, y). What is the value of y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y for the equation y = 4(2)^x + 5. In the table, a is a constant. What is the value of a?",
+    "choices": {
+      "A": "69",
+      "B": "37",
+      "C": "32",
+      "D": "29"
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/math1-q10-value-table.svg"
+  },
+  "11": {
+    "stimulus": null,
+    "text": "If 3(7x) = 12, what is the value of 7x?",
+    "choices": {
+      "A": "9/7",
+      "B": "7/4",
+      "C": "4",
+      "D": "9"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "In the right triangle shown, the value of tan x° is c/39. What is the value of c?",
+    "choices": {
+      "A": "79",
+      "B": "40",
+      "C": "39",
+      "D": "1"
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/math1-q12-right-triangle.svg"
+  },
+  "13": {
+    "stimulus": null,
+    "text": "In the right triangle shown, c is a constant. The value of sin x° = k/c, where k is a constant. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/math1-q13-right-triangle.svg"
+  },
+  "14": {
+    "stimulus": null,
+    "text": "If −7(13 − 5x) + 3 = −8(13 − 5x) + 21, what is the value of 13 − 5x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "For the linear function g, the table shows four values of x and their corresponding values of g(x). The function can be written as g(x) = mx + b, where m and b are constants. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/math1-q15-linear-function-table.svg"
+  },
+  "16": {
+    "stimulus": null,
+    "text": "x + 21y = 33\n5x + 3y = 29\n\nThe solution to the given system of equations is (x, y). What is the value of y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "6(x − 4) = (x − 4) + 6\n\nIf x is the solution to the given equation, what is the value of x − 4?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "45x + 33y − 200 = −359\n2wx + 11y = −53\n\nIn the given system of equations, w is a constant. The system has infinitely many solutions. What is the value of w?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "g(x) = x^2 + (27/2)x\n\nWhich expression represents the minimum value of the given function?",
+    "choices": {
+      "A": "−(27/2)^2",
+      "B": "−(27/4)^2",
+      "C": "(27/4)^2",
+      "D": "(27/2)^2"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "A real estate company offers a series of three webinars. 2,000 people attended the first webinar. 65% of the people who attended the first webinar attended the second webinar, and 44% of the people who attended both the first and second webinar attended the third webinar. Of those who attended the first but did not attend the second webinar, 31% attended the third webinar. How many people attended both the first and third webinars but did not attend the second webinar?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "In right triangle ABC, side BC has a length of √799. The hypotenuse, side AB, has a length of 32. What is the value of sin B?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "y = 2x^2 − 12x + 22\ny + 3 = 0\n\nHow many solutions are there to the given system of equations?",
+    "choices": {
+      "A": "There is exactly 1 solution.",
+      "B": "There are exactly 2 solutions.",
+      "C": "There are exactly 3 solutions.",
+      "D": "There are no solutions."
+    },
+    "imageUrl": null
+  }
+}

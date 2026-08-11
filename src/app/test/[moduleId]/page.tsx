@@ -228,26 +228,27 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     });
   }, []);
 
-  const handleChoiceClick = useCallback(
+  /** Select an answer (always selects; clears strike on that letter). */
+  const handleChoiceClick = useCallback((qId: string, letter: ChoiceLetter) => {
+    setCrossedOut((prev) => {
+      const list = prev[qId] ?? [];
+      if (!list.includes(letter)) return prev;
+      return { ...prev, [qId]: list.filter((l) => l !== letter) };
+    });
+    setAnswers((prev) => ({ ...prev, [qId]: letter }));
+  }, []);
+
+  /** Eliminate / restore a choice via the right-side control (Bluebook). */
+  const handleEliminateClick = useCallback(
     (qId: string, letter: ChoiceLetter) => {
-      if (crossOutMode) {
-        const wasCrossed = (crossedOut[qId] ?? []).includes(letter);
-        toggleCrossedLetter(qId, letter);
-        // Eliminating the selected answer clears the selection (Bluebook)
-        if (!wasCrossed) {
-          setAnswers((prev) => (prev[qId] === letter ? { ...prev, [qId]: null } : prev));
-        }
-        return;
+      const wasCrossed = (crossedOut[qId] ?? []).includes(letter);
+      toggleCrossedLetter(qId, letter);
+      // Eliminating the selected answer clears the selection
+      if (!wasCrossed) {
+        setAnswers((prev) => (prev[qId] === letter ? { ...prev, [qId]: null } : prev));
       }
-      // Select answer; clear cross-out on this letter only (keep others)
-      setCrossedOut((prev) => {
-        const list = prev[qId] ?? [];
-        if (!list.includes(letter)) return prev;
-        return { ...prev, [qId]: list.filter((l) => l !== letter) };
-      });
-      setAnswers((prev) => ({ ...prev, [qId]: letter }));
     },
-    [crossOutMode, crossedOut, toggleCrossedLetter]
+    [crossedOut, toggleCrossedLetter]
   );
 
   if (loading || !moduleData) {
@@ -344,7 +345,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             <button
               type="button"
               onClick={toggleCrossOutMode}
-              title={crossOutMode ? "Exit cross-out mode (Alt+X)" : "Cross out answer choices (Alt+X)"}
+              title={crossOutMode ? "Hide cross-out buttons (Alt+X)" : "Show cross-out buttons (Alt+X)"}
               aria-pressed={crossOutMode}
               aria-label="Cross-Out tool"
               className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium transition-colors ${
@@ -512,68 +513,90 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                 if (!(letter in choices)) return null;
                 const selected = answers[q.id] === letter;
                 const eliminated = (crossedOut[q.id] ?? []).includes(letter);
+                const choiceLabel =
+                  typeof choices[letter] === "boolean"
+                    ? choices[letter]
+                      ? "True"
+                      : "False"
+                    : String(choices[letter] ?? "");
                 return (
-                  <button
-                    key={letter}
-                    type="button"
-                    role="option"
-                    aria-selected={selected}
-                    aria-label={
-                      eliminated
-                        ? `Choice ${letter}, crossed out${crossOutMode ? ". Activate to restore" : ""}`
-                        : `Choice ${letter}${crossOutMode ? ". Activate to cross out" : ""}`
-                    }
-                    data-eliminated={eliminated ? "true" : "false"}
-                    onClick={() => handleChoiceClick(q.id, letter)}
-                    className={`group w-full text-left px-4 py-3 rounded-xl border-2 transition-all flex items-start gap-3 ${
-                      eliminated
-                        ? "opacity-50 border-gray-200 bg-gray-50"
-                        : selected
-                        ? "border-[#7c3aed] bg-[#7c3aed]/5"
-                        : "border-gray-200 hover:border-gray-300"
-                    } ${crossOutMode ? "cursor-pointer" : ""}`}
-                  >
-                    <span
-                      className={`relative w-6 h-6 rounded-full flex-shrink-0 flex items-center justify-center text-xs font-bold border-2 mt-0.5 transition-colors ${
+                  <div key={letter} className="flex items-center gap-2.5" role="none">
+                    {/* Main answer choice */}
+                    <button
+                      type="button"
+                      role="option"
+                      aria-selected={selected}
+                      aria-label={
                         eliminated
-                          ? "border-gray-400 text-gray-500 line-through"
+                          ? `Choice ${letter}, crossed out`
+                          : `Choice ${letter}`
+                      }
+                      data-eliminated={eliminated ? "true" : "false"}
+                      onClick={() => handleChoiceClick(q.id, letter)}
+                      className={`flex-1 min-w-0 text-left px-4 py-3 rounded-xl border-2 transition-all flex items-start gap-3 ${
+                        eliminated
+                          ? "opacity-50 border-gray-200 bg-gray-50"
                           : selected
-                          ? "border-[#7c3aed] bg-[#7c3aed] text-white"
-                          : "border-gray-300 text-gray-600"
+                            ? "border-[#7c3aed] bg-[#7c3aed]/5"
+                            : "border-gray-200 hover:border-gray-300"
                       }`}
                     >
-                      <span className={eliminated ? "line-through decoration-2" : ""}>{letter}</span>
-                      {/* Permanent diagonal when eliminated */}
-                      {eliminated && (
+                      <span
+                        className={`relative w-6 h-6 rounded-full flex-shrink-0 flex items-center justify-center text-xs font-bold border-2 mt-0.5 transition-colors ${
+                          eliminated
+                            ? "border-gray-400 text-gray-500"
+                            : selected
+                              ? "border-[#7c3aed] bg-[#7c3aed] text-white"
+                              : "border-gray-300 text-gray-600"
+                        }`}
+                      >
+                        {letter}
+                        {eliminated && (
+                          <span
+                            className="pointer-events-none absolute inset-0 flex items-center justify-center"
+                            aria-hidden
+                          >
+                            <span className="block w-[130%] h-0.5 bg-gray-500 rotate-[-45deg] rounded-full" />
+                          </span>
+                        )}
+                      </span>
+                      <span
+                        className={`text-sm leading-relaxed ${
+                          eliminated
+                            ? "text-gray-500 line-through decoration-gray-500"
+                            : selected
+                              ? "text-[#7c3aed] font-medium"
+                              : "text-gray-900"
+                        }`}
+                      >
+                        {choiceLabel}
+                      </span>
+                    </button>
+
+                    {/* Cross-out control — right of option (Bluebook); visible when tool is on */}
+                    {crossOutMode && (
+                      <button
+                        type="button"
+                        onClick={() => handleEliminateClick(q.id, letter)}
+                        title={eliminated ? `Restore choice ${letter}` : `Cross out choice ${letter}`}
+                        aria-label={
+                          eliminated ? `Restore choice ${letter}` : `Cross out choice ${letter}`
+                        }
+                        aria-pressed={eliminated}
+                        className={`flex-shrink-0 w-9 h-9 rounded-full border-2 flex items-center justify-center relative transition-colors ${
+                          eliminated
+                            ? "border-gray-700 bg-gray-100 text-gray-800"
+                            : "border-gray-400 text-gray-700 hover:border-gray-600 hover:bg-gray-50"
+                        }`}
+                      >
+                        <span className="text-sm font-bold leading-none">{letter}</span>
                         <span
-                          className="pointer-events-none absolute inset-0 flex items-center justify-center"
+                          className="pointer-events-none absolute left-1 right-1 top-1/2 -translate-y-1/2 h-[1.5px] bg-current rounded-full"
                           aria-hidden
-                        >
-                          <span className="block w-[130%] h-0.5 bg-gray-500 rotate-[-45deg] rounded-full" />
-                        </span>
-                      )}
-                      {/* Hover hint in cross-out mode when not yet eliminated */}
-                      {crossOutMode && !eliminated && (
-                        <span
-                          className="pointer-events-none absolute inset-0 hidden group-hover:flex items-center justify-center"
-                          aria-hidden
-                        >
-                          <span className="block w-[130%] h-0.5 bg-gray-400/80 rotate-[-45deg] rounded-full" />
-                        </span>
-                      )}
-                    </span>
-                    <span
-                      className={`text-sm leading-relaxed ${
-                        eliminated
-                          ? "text-gray-500 line-through decoration-gray-500"
-                          : selected
-                          ? "text-[#7c3aed] font-medium"
-                          : "text-gray-900"
-                      } ${crossOutMode && !eliminated ? "group-hover:line-through group-hover:decoration-gray-400" : ""}`}
-                    >
-                      {choices[letter] || ""}
-                    </span>
-                  </button>
+                        />
+                      </button>
+                    )}
+                  </div>
                 );
               })}
             </div>

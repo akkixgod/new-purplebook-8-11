@@ -1,0 +1,232 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "In right triangle ABC shown, what is the measure of angle C?",
+    "choices": {
+      "A": "124°",
+      "B": "146°",
+      "C": "56°",
+      "D": "34°"
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math1-q01-right-triangle.svg"
+  },
+  "2": {
+    "stimulus": null,
+    "text": "The triangle shown has one side with a length of x inches and two sides each with a length of y inches. The perimeter of the triangle is 47 inches, which equation represents this situation?",
+    "choices": {
+      "A": "x + y = 47",
+      "B": "x + 2y = 47",
+      "C": "2x + y = 47",
+      "D": "2x + 2y = 47"
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math1-q02-isosceles-triangle.svg"
+  },
+  "3": {
+    "stimulus": null,
+    "text": "Javier deposits $45 in a savings account at the end of each week. At the beginning of the 1st week of a year there was $700 in that savings account. How much money, in dollars, will be in the account at the end of the 6th week of the year?",
+    "choices": {
+      "A": "430",
+      "B": "745",
+      "C": "751",
+      "D": "970"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "x^2 − 2 = 23\n\nWhich value is a solution to the given equation?",
+    "choices": {
+      "A": "-23",
+      "B": "-21",
+      "C": "-2",
+      "D": "5"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "y = 0\ny = 8(x^2 − 36)\n\nWhich ordered pair (x, y) is a solution to the given system of equations?",
+    "choices": {
+      "A": "(0, 6)",
+      "B": "(0, 36)",
+      "C": "(6, 0)",
+      "D": "(36, 0)"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "The graph of the linear function f is shown, where y = f(x). What is the slope of the graph of f?",
+    "choices": {
+      "A": "1/6",
+      "B": "-7",
+      "C": "-1/6",
+      "D": "7"
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math1-q06-linear-graph.svg"
+  },
+  "7": {
+    "stimulus": null,
+    "text": "If 8x + 7 = 32, what is the value of 3(8x + 7)?",
+    "choices": {
+      "A": "75",
+      "B": "96",
+      "C": "117",
+      "D": "128"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A landscaping company mixes oil with gasoline to power its tools. A chainsaw requires 8 ounces of oil per gallon of gasoline. A lawnmower requires 4 ounces of oil per gallon of gasoline. The company uses a total of 21 ounces of oil in its mixes for the chainsaw and lawnmower. Which of the following equations represents this situation, where x represents the amount of gasoline, in gallons, in the mix for the chainsaw and y represents the amount of gasoline, in gallons, in the mix for the lawnmower?",
+    "choices": {
+      "A": "2(x + 2y) = 21",
+      "B": "2(2x + y) = 21",
+      "C": "4(x + 2y) = 21",
+      "D": "4(2x + y) = 21"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "In the figure shown, line r is parallel to line s. What is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math1-q09-parallel-lines.svg"
+  },
+  "10": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 20x^2 + 3 + 5x^2?",
+    "choices": {
+      "A": "25x^4 + 3",
+      "B": "25x^2 + 3",
+      "C": "28x^4",
+      "D": "28x^2"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "Circle N has a radius of 6 millimeters (mm). Circle M has an area of 121π mm^2. What is the total area, in mm^2, of circles N and M?",
+    "choices": {
+      "A": "17π",
+      "B": "133π",
+      "C": "145π",
+      "D": "157π"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "An arborist studying forestland in Illinois estimates that there are at least 40 and no more than 50 hickory trees per acre in a certain forest. Which of the following best represents the arborist's estimate of the number of hickory trees, x, that are in a 3-acre section of this forest?",
+    "choices": {
+      "A": "150 ≤ x ≤ 300",
+      "B": "120 ≤ x ≤ 150",
+      "C": "43 ≤ x ≤ 53",
+      "D": "40 ≤ x ≤ 50"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "On a particular assembly line, 51 out of every 100 products have a defect. A product from the assembly line will be selected at random. What is the probability of selecting a product that has a defect?",
+    "choices": {
+      "A": "1/5100",
+      "B": "1/51",
+      "C": "51/100",
+      "D": "51/10"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "A plant nursery classifies a perennial flower species as tall if its typical height when fully grown is more than 100 centimeters. Each of the following inequalities represents the possible heights h, in centimeters, for a specific perennial flower species when fully grown. Which inequality represents the possible heights h, in centimeters, for a tall perennial flower species?",
+    "choices": {
+      "A": "14 < h < 95",
+      "B": "41 < h < 93",
+      "C": "78 < h < 100",
+      "D": "107 < h < 160"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "The histograms summarize the distributions of scores for team A and team B. Which statement best compares the standard deviations of scores for these teams?",
+    "choices": {
+      "A": "The standard deviation of scores for team A is less than the standard deviation of scores for team B.",
+      "B": "The standard deviation of scores for team A is greater than the standard deviation of scores for team B.",
+      "C": "The standard deviation of scores for team A is equal to the standard deviation of scores for team B.",
+      "D": "There is not enough information to compare the standard deviations."
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/math1-q15-histograms.svg"
+  },
+  "16": {
+    "stimulus": null,
+    "text": "x + 4y = −3\n4x − y = 22\n\nThe solution to the given system of equations is (x, y). What is the value of 3x − 5y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "a = (3/5)b + 6\n\nThe given equation relates the positive numbers a and b. Which equation correctly expresses b in terms of a?",
+    "choices": {
+      "A": "b = (3/5)a + 6",
+      "B": "b = (3/5)a − 10",
+      "C": "b = (5/3)a − 6",
+      "D": "b = (5/3)a − 10"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "f(x) = (a − 19)/x + 5\n\nIn the given function f, a is a constant. The graph of function f in the xy-plane, where y = f(x), is translated 3 units down and 4 units to the right to produce the graph of y = g(x). Which equation defines function g?",
+    "choices": {
+      "A": "g(x) = (a − 19)/(x + 4) + 2",
+      "B": "g(x) = (a − 19)/(x − 4) + 2",
+      "C": "g(x) = (a − 22)/(x + 4) + 5",
+      "D": "g(x) = (a − 22)/(x − 4) + 5"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "(1/4)(s + 4t) = 544\n7s − 8t = 1192\n\nThe solution to the given system of equations is (s, t). What is the value of s − t?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "A rectangular banner has an area of 2,300 square inches. A copy of the banner is made in which the length and width of the original banner are each increased by 20%. What is the area of the copy, in square inches?",
+    "choices": {
+      "A": "2,320",
+      "B": "2,340",
+      "C": "2,760",
+      "D": "3,312"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "(x − 42)^2 = 1\n\nWhat is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "42",
+      "B": "43",
+      "C": "84",
+      "D": "85"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "5(kx − n) = −(65/14)x − 85/18\n\nIn the given equation, k and n are constants and n > 1. The equation has no solution. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

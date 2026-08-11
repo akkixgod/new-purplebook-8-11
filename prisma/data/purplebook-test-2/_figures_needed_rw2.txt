@@ -1,0 +1,2 @@
+eng2-q08-orangutan-diet.svg — Average Overlap between Immature Orangutans' Diets (ID) and Their Mothers' Diets (MD); grouped bars for MD shared with ID / ID not shared with MD; legend: individual 17 (male), individual 5 (female); approx values MD shared ~59% male / ~65% female; ID not shared ~19% male / ~8% female
+eng2-q11-foreign-investors.svg — Table "Year That Foreign Investors Were First Allowed to Purchase Shares"; columns Country / Year; rows India 1986, Morocco 1988, Indonesia 1989

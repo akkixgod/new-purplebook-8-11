@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "In addition to the giant stock exchanges in places like London, Mumbai, and Tokyo, there are many smaller exchanges such as the Beirut Stock Exchange in Beirut, Lebanon. Though small, by being dedicated to Lebanon, it can better address factors that help local businesses ______, and that focus on the success of local businesses benefits investors and the local economy.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "thrive",
+      "B": "disperse",
+      "C": "ebb",
+      "D": "overspend"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "In a 2020 paper, Arya Udry et al. cautioned that although similarities in the isotopic signatures of elements detected in Mars's atmosphere and in Martian meteorites recovered on Earth make it tempting to treat the geochemical properties of the meteorites as ______ those of Mars's interiors, Mars's geology cannot be ascertained based solely on meteorite-sample analyses.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "proxies for",
+      "B": "contrivances of",
+      "C": "catalysts of",
+      "D": "deterrents to"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "As a work of scholarship, Advancing U.S. Latino Entrepreneurship (2020) is notable for its ______. Featuring contributions from Zulema Valdez, Bea Stotzer, and others, it explores contemporary issues while also providing context dating all the way back to the sixteenth century on Latino populations and their experiences with business and commerce.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "scope",
+      "B": "impartiality",
+      "C": "terseness",
+      "D": "reputation"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Theater and film scholars often draw parallels between the lives of performers and aspects of roles they've played; however, the most insightful of these discussions, such as Linda Costanzo Cahir's consideration of resemblances between actor Vivien Leigh and the character Blanche DuBois, maintain a rigid distinction between the actor and the character, taking care never to ______ them.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "conflate",
+      "B": "epitomize",
+      "C": "lambaste",
+      "D": "overshadow"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Roy McLendon's Moonlit S. Lucie, a riverscape featuring the silhouette of a single palm tree against the backdrop of shimmering water and a brilliant moonlit sky, is typical of paintings by the Florida Highwaymen, loosely affiliated landscape artists mainly active in Fort Pierce, Florida, during the 1950s and '60s. Some art historians suggest that Highwaymen paintings played a role in shaping popular perceptions of the state that persist today: the natural iconography that McLendon and colleagues constantly revisited—placid inland rivers, windswept palm trees—is now seen as classically Floridian.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To describe the historical circumstances in which paintings by the Florida Highwaymen experienced a resurgence in popularity",
+      "B": "To explain that a particular painting by Roy McLendon has had greater influence on the broader culture of the state of Florida than is generally acknowledged",
+      "C": "To contrast the public's reaction during the 1950s and '60s to a particular painting by Roy McLendon with more recent reactions to it",
+      "D": "To present the argument that paintings by the Florida Highwaymen likely helped to create a particular widespread impression of Florida"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The following text is adapted from Henrik Ibsen's 1899 play When We Dead Awaken (translated by William Archer in 1907). Ulfheim is introducing himself to Professor Rubek, a sculptor.\n\nULFHEIM: I believe I have the honour of addressing no less a person than the great Sculptor Rubek.\nPROFESSOR RUBEK: (Nods.) I remember meeting you once or twice—the autumn when I was last at home.\nULFHEIM: That's many years ago, now. And then you weren't so illustrious as I hear you've since become.",
+    "text": "Which choice best describes the function of the underlined portion in the text?",
+    "choices": {
+      "A": "It reveals that Professor Rubek first met Ulfheim many years ago.",
+      "B": "It emphasizes that Professor Rubek has a distinguished reputation.",
+      "C": "It suggests that Ulfheim prefers autumn to spring, summer, or winter.",
+      "D": "It indicates that many other sculptors are more famous than Professor Rubek."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The following text is adapted from Matthew Arnold's 1869 nonfiction book Culture and Anarchy.\n\nThe Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behaviour of the English abroad, urges that the English ideal is that every one should be free to do and to look just as he likes. But culture indefatigably tries, not to make what each raw person may like, the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Culture's duty is to use scientific methods to determine what is beautiful.",
+      "B": "One of the functions of culture is to create a consensus about matters of good taste.",
+      "C": "The English are unjustly derided for their sense of taste.",
+      "D": "The process of determining what should be considered beautiful is likely to lead to disagreement."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Male orangutans typically disperse from the territory in which they were born when they reach maturity, whereas females typically do not. Beatrice Ehmann and her colleagues hypothesized that this difference in life trajectory should be reflected in the diets of immature orangutans: males should share fewer of their mothers' dietary preferences than females do since those preferences tend to be particular to the food resources available in the local area and may be of relatively low utility beyond it. The researchers calculated the percent of mother orangutans' diets shared with their offspring's diets and the percent of immature orangutans' diets not shared with their mothers' diets.",
+    "text": "Which choice best describes data from the graph that support Ehmann and colleagues' hypothesis?",
+    "choices": {
+      "A": "The majority of the diet of the mother of individual 5 was shared with the diet of individual 5, whereas significantly less than half the diet of the mother of individual 17 was shared with the diet of individual 17.",
+      "B": "The percent of the mother's diet shared with its offspring's diet was smaller for individual 17 than for individual 5, and the percent of the individual's diet not shared with its mother's diet was greater for individual 17 than for individual 5.",
+      "C": "Neither individual 17 nor individual 5 had a diet that consisted mostly of food not shared with the individual's mother's diet, whereas more than half of both individuals' mothers' diets were shared with their offspring's diets.",
+      "D": "The percent of individual 5's mother's diet that was shared with individual 5's diet ranged from approximately 59% to approximately 65%, whereas the percent of individual 17's mother's diet that was shared with individual 17's diet ranged from approximately 8% to approximately 19%."
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/eng2-q08-orangutan-diet.svg"
+  },
+  "9": {
+    "stimulus": "Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others' agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone's agency or an otherwise impermissible end.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Pallikkathayil's argument suggests that if we have a duty to respect other people's agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.",
+      "B": "Pallikkathayil's argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.",
+      "C": "One potential means of justifying opposition to lying is Pallikkathayil's argument that we have an obligation to respect other people's agency that entails a commitment to truthfulness except in certain circumstances.",
+      "D": "Many people have an intuitive sense that lying is permissible in some circumstances but lack a principled way to identify those circumstances, and Pallikkathayil's argument may provide a means of resolving that problem."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Searsville Lake (a man-made body of water created in San Mateo County, California, in 1890) in a larger historical context. The student claims that some modern-day irrigation methods used in southwestern states, such as California, Arizona, and New Mexico, have a lineage that long predates the completion of Searsville Lake.",
+    "text": "Which quotation from a historian best supports the student's claim?",
+    "choices": {
+      "A": "\"The irrigation system developed by the Hohokam people in what is now central Arizona in the 7th century CE was simple but made use of hydraulic engineering design principles that are still utilized by today's engineers.\"",
+      "B": "\"The importance of the development of irrigation infrastructure in the American Southwest today cannot be overstated, since it is the most common means of conveying water for food production.\"",
+      "C": "\"In the decades following the Second World War, irrigation of arid areas for agriculture increased to such a degree that it now accounts for roughly 70% of the world's water usage.\"",
+      "D": "\"Sprinkler irrigation systems, which were developed in the late 20th century, are a convenient technique of irrigating that makes use of machinery in order to spray water in all directions. Many areas of the Southwestern United States are currently irrigated by this method.\""
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "In the 1980s and 1990s, many countries began allowing foreign investors to purchase shares of companies based in those countries.",
+    "text": "According to the table, in what year did India make the change mentioned in the text?",
+    "choices": {
+      "A": "1981",
+      "B": "1988",
+      "C": "1983",
+      "D": "1986"
+    },
+    "imageUrl": "/mocks/purplebook-test-2/figures/eng2-q11-foreign-investors.svg"
+  },
+  "12": {
+    "stimulus": "The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as having an exaggerated sense of their own wisdom, as seen when the character ______",
+    "text": "Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?",
+    "choices": {
+      "A": "Socrates, a sophist, says to a customer, \"You talk nonsense. Begone; I can't teach you any longer.\"",
+      "B": "Strepsiades says of a sophist business, \"There dwell men who in speaking of the heavens persuade people that it is an oven, and that it encompasses us, and that we are the embers. These men teach, if one give them money, to conquer in speaking, right or wrong.\"",
+      "C": "Strepsiades encourages his son to learn to be a sophist, saying, \"Go, I entreat you, dearest of men, go and be taught.\"",
+      "D": "Socrates, a sophist, says to a new customer, \"Come, then, take care that, whenever I propound any clever dogma about abstruse matters, you [seize] immediately.\""
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "The subscription economy has rapidly expanded to include a wide range of products—from books to cloud storage—in part because consumers appreciate the convenience of automatic payments. But as a study by Ben Klopack and team shows, consumers are typically inattentive to automatic payments and remain subscribed to services long after their value has worn off. The study also found that subscribers were much more likely to discontinue a service when they had to make an active renewal decision (for example, when they need to update payment information to remain subscribed) than at other times. The researchers therefore concluded that a regulation requiring all subscribers to complete payments manually would likely ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "deter attentive consumers from subscribing in the first place but would have little effect on whether inattentive consumers decide to subscribe.",
+      "B": "decrease subscribers' valuation of the subscription services at a faster rate than if no such regulation were implemented.",
+      "C": "enable dissatisfied subscribers to save more money than they would without such a regulation in place but at the expense of a feature that may have induced them to subscribe initially.",
+      "D": "result in reduced average subscription durations, but the overall experience of the longest-subscribing consumers would improve."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "The single origin hypothesis of iron metallurgy posits that the craft originated in Anatolia (West Asia) circa 2200-2000 BCE before diffusing to other parts of the world, including Africa. Some proponents of the hypothesis argue that iron production technologies first arrived in North Africa through Carthage, where the earliest evidence of ironworking dates to approximately 800-600 BCE, before these technologies spread to sub-Saharan Africa over the following centuries. However, excavation of multiple sites on the Adamawa plateau in Central Africa conducted by Etienne Zangato and Augustin Holl uncovered evidence of iron workshops that may have been in operation as late as 900-750 BCE in Gbabari and as early as 2300-1900 BCE in Oboui and Gbatoro. These findings suggest that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "iron production may have originated in Anatolia much earlier than the available evidence currently indicates.",
+      "B": "iron production technologies were likely transmitted from Anatolia to Central Africa via an alternate route than the one suggested by some proponents of the single origin hypothesis.",
+      "C": "iron production technologies found in Gbabari likely derived directly from technologies transmitted from Anatolia, but those found in Oboui and Gbatoro did not.",
+      "D": "iron production may have developed independently and relatively simultaneously in Anatolia and parts of Central Africa."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Linda Lomahaftewa often assembles compositions out of motifs common in the ceramics and other traditional arts of the Hopi Tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Kiowa artist TC Cannon, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of Cannon's generation, the identification of an abstract painting as Indigenous art tends to ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "depend not on stylistic details but instead on an awareness of the artist's identity.",
+      "B": "place a greater emphasis on the artist's biography than on the aesthetic merit of the painting.",
+      "C": "obscure the Indigenous origins of certain motifs associated with Abstract Expressionism.",
+      "D": "deny the extent to which cultural identity influences an artist's work."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Whereas Joan Lockard's 1984 study of captive gorillas reported more right-handedness than left-handedness, Jane Goodall's 1963 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result; however, the study by Lockard included a total population of 8, and the study by Goodall included a total population of 8. This suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the study by Lockard reliably represents handedness in captive primates but not in wild primates.",
+      "B": "Goodall likely underestimated the prevalence of right-handedness among the wild chimpanzees in the study.",
+      "C": "neither the study by Lockard nor the study by Goodall provides sufficient evidence to make a meaningful comparison about handedness in primates.",
+      "D": "the study by Lockard reliably represents handedness in captive primates, but the study by Goodall likely does not reliably represent handedness in wild primates."
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "In rural Minnesota, ecologist Leroy Walston conducted a study to determine whether seeding solar panel fields with wildflowers could bolster pollinator populations in nearby food crops. Walston's findings indicate that—assuming solar panel installers' ______ practice has the potential to increase the number of native bees in crops near solar fields throughout the Midwest by up to 20 percent.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "cooperation this",
+      "B": "cooperation: this",
+      "C": "cooperation—this",
+      "D": "cooperation, this"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "George Saunders concludes his essay \"What Writers Really Do When They Write\" by comparing the work of fiction writing to the act of juggling. The author-as-juggler performs a ______ gathering of central themes and tensions, the tossing of these elements into a dynamic narrative, and the catching of the resolutions that emerge.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "routine; the",
+      "B": "routine, the",
+      "C": "routine. The",
+      "D": "routine: the"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "A 2016 study by researchers Andreas Keller and Leslie Vosshall evaluating how participants described the odors of various chemical compounds revealed some similarities between the odor of sample 15 (linoleic acid) and that of sample 18 (propionic acid). The ______ primary descriptors both included \"sour\"; however, the next most common word used for sample 15 was \"decayed,\" while that for sample 18 was \"musky.\"",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "sample's odors",
+      "B": "samples' odor's",
+      "C": "samples odors'",
+      "D": "samples' odors"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "In her work, Ponca artist Julie Buffalohead uses mythical animal imagery to create fairytale-esque drawings and paintings. Since 1989, Indianapolis's Eiteljorg Museum has celebrated the work of groundbreaking contemporary Native ______ in 2013, it awarded Buffalohead one of its prestigious artist fellowships.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "artists, thus",
+      "B": "artists;",
+      "C": "artists and",
+      "D": "artists"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "If an animal can recognize itself in a reflective surface (\"the mirror test\"), it is considered to have self-awareness. In a recent study, scientists ______ for evidence of self-awareness in snakes, species that rely primarily on olfactory rather than visual processing, adapted the test to foreground smell, modifying the scent trails of North American eastern garter snakes and African ball pythons.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "searched",
+      "B": "were searching",
+      "C": "have searched",
+      "D": "searching"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "The parks of Austin, Texas, seem to be making people happier. In 2022, a team of researchers ______ to find connections between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from various sites in Austin. The team found that posts from the city's parks contained more words associated with happiness than did the other posts.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were hoping",
+      "B": "hoped",
+      "C": "was hoping",
+      "D": "hoping"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, ______ visited a select few nesting sites before laying and incubating her eggs herself.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "In particular,",
+      "C": "similarly,",
+      "D": "alternatively,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• \"Organ²/ASLSP (As Slow as Possible)\" is a musical piece by avant-garde composer John Cage.\n• A specially designed automated organ in St. Burchardi Church in Halberstadt, Germany, began playing the piece in 2001.\n• It is scheduled to stop playing the piece in 2640.\n• The performance will last 639 years.\n• It will be the longest continuous musical performance in history.",
+    "text": "The student wants to indicate how long John Cage's musical piece will last. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Lasting 639 years, John Cage's musical piece will be the longest continuous musical performance in history.",
+      "B": "\"Organ²/ASLSP (As Slow as Possible)\" is a musical piece currently being played in St. Burchardi Church in Halberstadt, Germany.",
+      "C": "An organ in St. Burchardi Church in Halberstadt, Germany, began playing a musical piece by avant-garde composer John Cage.",
+      "D": "John Cage is the composer of the musical piece \"Organ²/ASSLSP (As Slow as Possible).\""
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Peloncillo-Pan Duro Mountains are located in northwestern Mexico.\n• They cover an area of 1,360 square miles (mi²).\n• The Sierrita Mountains are located in the southwestern United States.\n• They cover an area of 63 mi².\n• These mountain ranges are two of the dozens of \"sky islands\" in the southwestern US and northwestern Mexico.\n• A sky island is an isolated mountain range whose environment differs drastically from that of the surrounding lowlands.",
+    "text": "The student wants to compare the sizes of the two mountain ranges. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "There are dozens of isolated mountain ranges located in the southwestern US and northwestern Mexico.",
+      "B": "In terms of area, the Peloncillo-Pan Duro Mountains (which cover 1,360 mi²) are larger than the Sierrita Mountains (63 mi²).",
+      "C": "Sky islands in northwestern Mexico and the southwestern US can vary in size.",
+      "D": "The Peloncillo-Pan Duro Mountains and the Sierrita Mountains are both isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Lou Scheper Berkenkamp was a painter and author born in Wesel, Germany.\n• She began attending the Bauhaus in 1920.\n• The Bauhaus was an influential German art and design school.\n• The school famously espoused the design principle of \"form follows function.\"\n• \"Form follows function\" means that an object's shape should be determined primarily by its intended purpose.",
+    "text": "The student wants to explain the principle espoused by the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "According to the Bauhaus, an object's intended purpose (function) should primarily determine its shape (form).",
+      "B": "Lou Scheper Berkenkamp was a painter and author who attended the Bauhaus, famous for espousing the principle of \"form follows function.\"",
+      "C": "Famous for its principle of \"form follows function,\" the Bauhaus was an influential German art and design school.",
+      "D": "An object's intended purpose and its shape are two elements of the design principle \"form follows function.\""
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Curtis Martin and Jim Brow had historic careers as running backs in the National Football League (NFL).\n• The running back position entails running, or rushing, down the field with the football to gain yards for the team.\n• Curtis Martin gained a total of 14,101 rushing yards in his career.\n• He played for the New England Patriots and the New York Jets.\n• Jim Brown gained a total of 12,312 rushing yards in his career.\n• He played for the Cleveland Browns.",
+    "text": "Which choice most effectively uses information from the given sentences to begin a narrative about one of the athletes?",
+    "choices": {
+      "A": "Martin began his career with the New England Patriots; Brown started with Cleveland Browns.",
+      "B": "When Martin put on his New England Patriots uniform for his first NFL game, he began what would become a legendary professional career.",
+      "C": "While Martin finished his career with more rushing yards, both Martin and Brown reached the career milestone of rushing for over 10,000 yards total.",
+      "D": "Martin's blend of speed, power, and agility helped him accrue 14,101 rushing yards by the end of his career, etching his name into the NFL's record books."
+    },
+    "imageUrl": null
+  }
+}

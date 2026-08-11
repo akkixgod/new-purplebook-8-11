@@ -1,0 +1,33 @@
+math2-q06-right-triangle.svg
+- Right triangle XYZ; right angle at Y (bottom-left) with square mark.
+- Vertex X at top; vertex Z at bottom-right; hypotenuse XZ.
+- Interior angle at Z labeled 35°.
+- Below figure: "Note: Figure not drawn to scale."
+
+math2-q10-pyramid.svg
+- Right rectangular pyramid in 3D perspective.
+- Rectangular base: front-left edge labeled l, front-right edge labeled w.
+- Apex above center of base; four solid lateral edges from apex to base corners.
+- Dashed vertical height from apex to base center labeled h; right-angle mark at foot of height on base.
+- Hidden back base edges dashed.
+- Below figure: "Note: Figure not drawn to scale."
+
+math2-q21-frequency-tables.svg
+- Two side-by-side (or stacked) 2-column frequency tables with thin black borders, headers Value | Frequency.
+- Left/top titled "Data Set A":
+  - c | 12
+  - 2c | 21
+  - 3c | 30
+- Right/bottom titled "Data Set B":
+  - c | 30
+  - 2c | 21
+  - 3c | 12
+- Values left-aligned or centered consistently; frequencies numeric as shown.
+
+math2-q22-circle-chords.svg
+- Circle with points A, B, C, E on the circumference.
+- Point B upper-left arc; A below B on left; E further down bottom-left; C on far right.
+- Chord AC and chord BE intersect at interior point D; right-angle mark at D (AC ⊥ BE).
+- Also draw chord AB and chord BC (triangle ABC visible).
+- Labels: A, B, C, D, E at respective points.
+- Below figure: "Note: Figure not drawn to scale."

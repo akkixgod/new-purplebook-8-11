@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="260" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Year That Foreign Investors Were First Allowed to Purchase Shares</text>
+  <rect x="40" y="50" width="220" height="36" fill="#f3f4f6" stroke="#111"/>
+  <rect x="260" y="50" width="220" height="36" fill="#f3f4f6" stroke="#111"/>
+  <text x="150" y="74" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Country</text>
+  <text x="370" y="74" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Year</text>
+  <rect x="40" y="86" width="220" height="36" fill="#fff" stroke="#111"/>
+  <rect x="260" y="86" width="220" height="36" fill="#fff" stroke="#111"/>
+  <text x="150" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="13">India</text>
+  <text x="370" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="13">1986</text>
+  <rect x="40" y="122" width="220" height="36" fill="#fff" stroke="#111"/>
+  <rect x="260" y="122" width="220" height="36" fill="#fff" stroke="#111"/>
+  <text x="150" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="13">Morocco</text>
+  <text x="370" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="13">1988</text>
+  <rect x="40" y="158" width="220" height="36" fill="#fff" stroke="#111"/>
+  <rect x="260" y="158" width="220" height="36" fill="#fff" stroke="#111"/>
+  <text x="150" y="182" text-anchor="middle" font-family="Georgia, serif" font-size="13">Indonesia</text>
+  <text x="370" y="182" text-anchor="middle" font-family="Georgia, serif" font-size="13">1989</text>
+</svg>

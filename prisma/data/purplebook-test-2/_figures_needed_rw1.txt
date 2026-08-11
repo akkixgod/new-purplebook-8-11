@@ -1,0 +1,6 @@
+Q10: Line graph "Employment in Agriculture, Hunting, and Forestry in the Czech Republic and Austria, 1995-2013"
+- Y-axis: Number of employees (in thousands), 0–250
+- X-axis: Year — 1995, 1998, 2001, 2004, 2007, 2010, 2013
+- Czech Republic: solid line with filled markers; ~230k in 1995, declining to ~155k in 2007, ~135k in 2010, slight rise ~140k in 2013
+- Austria: dashed line with open markers; roughly flat ~45–50k throughout 1995–2013
+- Planned path: /mocks/purplebook-test-2/figures/eng1-q10-employment-agriculture.svg

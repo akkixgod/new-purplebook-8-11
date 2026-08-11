@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "Text corpora such as the Brown Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word \"know\" appears quite often in written English could ______ that assumption with data from a corpus: \"know\" is the eighth most commonly used verb.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "substantiate",
+      "B": "entail",
+      "C": "transpose",
+      "D": "refute"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "postulate",
+      "B": "ameliorate",
+      "C": "sanction",
+      "D": "rationalize"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Though it does not guarantee a book's commercial success, ______ can play a big role in that success—a well-executed marketing campaign helped to make Danielle Steel's novel *The Gift* the fourth-best-selling novel of 1994.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "originality",
+      "B": "publicity",
+      "C": "complexity",
+      "D": "practicality"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Though John Crowley, author of *Endless Things*, is not as well-known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley's book *Little, Big*, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), *Little, Big* fuses both modes of writing.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It accounts for a writer's lack of popular appeal, cites a literary figure who appreciates that writer, and summarizes the qualities that make the writer's work unique.",
+      "B": "It describes a writer's successful career, presents two literary figures who were supporters of that writer's career, and explains why the writer was able to achieve what he did.",
+      "C": "It mentions a writer whose work is not widely known, presents two people who hold a positive opinion of that writer, and gives a reason why one of those people holds that opinion.",
+      "D": "It identifies a writer whose work is regarded as difficult to read, brings up two admirers of that writer's work, and gives information that may make the writer's work more accessible to new readers."
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Like all species of baleen whales, the humpback whale feeds on tiny creatures known as krill by filtering water through bristlelike keratin structures called baleen plates. In this way, baleen whales can eat up to 30 percent of their total mass per day. And while no one would call the humpback whale small—it can have a mass as high as 30,000 kg—it is one of the smaller baleen whales and is much smaller than the fin whale, which can weigh a whopping 80,000 kg and consume as much as 24,000 kg of krill per day.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It draws a distinction between the sizes of the humpback whale and the fin whale and then presents a feature that they have in common.",
+      "B": "It details a relationship between humpback and fin whales and krill and then discusses an unexpected consequence of a change in baleen whale populations.",
+      "C": "It discusses a unique feature of the humpback whale and how the lack of that feature in the fin whale explains differences in the two species' behavior.",
+      "D": "It describes a characteristic shared by all baleen whales and then illustrates a difference between the humpback whale and the fin whale that is relevant to that characteristic."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Paintings by the Florida Highwaymen—an informal collective of prolific landscape artists active in Florida during the 1950s and '60s—are recognizable by their reiteration of the same general compositional structures and subjects: moonlit waters and poinciana trees, to name two. But there was room for individuation: Al Black's *Sunset Backwater Scene with Egrets*, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their comparative bleakness and minimalism.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework.",
+      "B": "It describes the common perception that a particular group of artists' works are derivative and then provides a specific piece of evidence that reinforces that perception.",
+      "C": "It explains how a particular group of artists began collaborating and then recounts how one member of that group became especially influential among them.",
+      "D": "It offers historical context that accounts for a particular group of artists' shared style and then indicates the circumstances under which several members of that group began exploring more unconventional themes."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city's parks, and of the 653 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can't explain the difference in park use.",
+    "text": "The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?",
+    "choices": {
+      "A": "It was much larger than the researchers conducting the study expected.",
+      "B": "It could be due to inaccuracies in the survey results.",
+      "C": "It was calculated using sources that predate the survey.",
+      "D": "It is caused by something other than the parks' proximity to city residents."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "The following text is adapted from Daniel Defoe's 1704 nonfiction book *The Storm*.\n\nThe sermon is a sound of words spoken to the ear, and prepared only for present meditation and extends no farther than the strength of memory can convey it; a book printed is a record, remaining in every man's possession, always ready to renew its acquaintance with his memory, and always ready to be produced as an authority or voucher to any reports he makes out of it, and conveys its contents for ages to come, to the eternity of mortal time, when the author is forgotten in his grave.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Words committed to print have a greater permanence than messages that are merely spoken aloud.",
+      "B": "People are less likely to forget a message when they hear it spoken aloud than they are when they read it in print.",
+      "C": "Unless a spoken message is delivered by a confident orator, it may be ignored.",
+      "D": "Most authors have little hope of being remembered well past their lifetimes."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on *difrasismo*, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common *difrasismo in cuauhtli in ocelotl* (literally, \"the eagle, the jaguar\") signifies \"warrior.\" The device's function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that *difrasismos* are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.",
+    "text": "Which statement about the *difrasismo in cuauhtli in ocelotl* is most strongly supported by the text?",
+    "choices": {
+      "A": "Its frequency in Classical Nahuatl poetry confirms its intelligibility to the Aztec audience.",
+      "B": "Its unintelligibility may cause its formal function within a line of verse to go unnoticed by present-day readers.",
+      "C": "Its apparent obscurity can be resolved when considered in the proper cultural context.",
+      "D": "Its metaphorical significance derives from the semantic equivalence of the two nouns constituting the *difrasismo*."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "The *Reckoning and Resilience* (2022) exhibition at Duke University's Nasher Museum of Art in Durham, North Carolina, is dedicated to the work of thirty North Carolina artists, including Lien Truong, Kennedi Carter, and Meg Stein. Although the Nasher Museum has focused exhibitions entirely on North Carolina artists before, as it did previously in the photography exhibition *Across County Lines*, the breadth of disciplines in *Reckoning and Resilience* sets it apart.",
+    "text": "Which finding, if true, would most directly support the underlined claim?",
+    "choices": {
+      "A": "*Reckoning and Resilience* and *Across County Lines* were curated to emphasize works that are not owned by the Nasher Museum.",
+      "B": "Truong is a painter, Carter is a photographer, and Stein is a sculptor.",
+      "C": "The Nasher Museum has a world-class collection of contemporary art that includes many paintings and sculptures from artists both inside and outside North Carolina.",
+      "D": "Carter is a North Carolina photographer, as were all of the artists featured in *Across County Lines*."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Studies of the population density of cougars (*Puma concolor*) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum population density reported by Ross Clarke and that reported by David M. Choate et al. might be artificially large if the use of ______",
+    "text": "Which choice most effectively uses data from the table to complete the example?",
+    "choices": {
+      "A": "helicopter surveying underestimates the density of cougars.",
+      "B": "helicopter surveying is more common in Utah than the use of radio-collar tracking is.",
+      "C": "radio-collar tracking underestimates the density of cougars.",
+      "D": "radio-collar tracking is impractical outside of British Columbia."
+    },
+    "imageUrl": "/mocks/purplebook-test-3/figures/eng2-q11-cougar-density.svg"
+  },
+  "12": {
+    "stimulus": "Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Opechona* sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Anthocotyle merluccii* (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.",
+      "B": "as the number of host species involved in a parasite's transmission increases, the parasite is better protected against rising temperatures.",
+      "C": "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs.",
+      "D": "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature-driven factors on CLP abundance."
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "Architects looking for inspiration may examine photographs of iconic buildings such as the Forbidden City in Beijing. A two-dimensional photograph, however, cannot capture how a building interacts with its surroundings, whether by complementing, blending in with, or perhaps even clashing with sights and activities nearby. An image of the Forbidden City thus ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "serves to exaggerate the building's historical importance.",
+      "B": "fails to convey the full impact of the building's design and structure.",
+      "C": "misrepresents how the building is perceived by people who have never visited the Forbidden City.",
+      "D": "conceals the subtle deterioration of the building's materials."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "As computer engineer Sanaz Bahargam can explain, deep learning (DL) and trustworthy machine learning (TML) take divergent approaches in the development of AI technologies. DL pertains to the training of computers to process data in the same way a human brain would, and TML ______ to the training of computer algorithms to be accurate, safe, and fair.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "are pertaining",
+      "B": "pertains",
+      "C": "have pertained",
+      "D": "pertain"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1900, it was little more than a marketing gimmick; brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide's recommended hotels and restaurants along the way. Nevertheless, the guide soon grew in scope and ______ its modest French eateries were replaced with some of the most esteemed restaurants from around the world, including Kohaku in Tokyo and Rutz in Berlin.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "influence and",
+      "B": "influence,",
+      "C": "influence",
+      "D": "influence, and"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "An emulsifier is a type of compound that serves to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together. In the cosmetics industry, emulsifiers such as stearyl alcohol ______ to blend oil and water into homogeneous formulations, like lotions and perfumes.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "employed",
+      "B": "being employed",
+      "C": "are employed",
+      "D": "that they employ"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Neoclassical economic models assume that people consistently make rational economic decisions, but Francesca Gino of Harvard Business School makes no such assumption; behavioral economists such as Gino, whose research focuses on worker productivity, ______ that economic decision-making can in fact be highly irrational.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "contend",
+      "B": "is contending",
+      "C": "has contended",
+      "D": "contends"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Objects orbiting in the outer solar system between Jupiter and Neptune, such as 2010 BL4, a 16-kilometer-wide body first detected in 2010, ______ both asteroidal and comet-like characteristics, being closer in size and appearance to asteroids but traveling in an elliptical orbit more closely resembling that of comets.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "exhibits",
+      "B": "exhibit",
+      "C": "is exhibiting",
+      "D": "has exhibited"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "With the development of new technologies that use natural resources more efficiently, the overall consumption of those resources might be expected to decrease. Economists have observed that improvements in efficiency often correlate negatively with resource ______ efficiency gains, lowering the cost of use, may increase demand to the extent that resource consumption ultimately rises.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "conservation; though",
+      "B": "conservation, though,",
+      "C": "conservation, though",
+      "D": "conservation, though;"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "Recent pollen analyses of the Aran Islands have led some researchers to propose that the now treeless islands were once wooded. This hypothesis ______ that certain trees, such as *P. sylvestris*, survived without interruption or human intervention throughout the Holocene cannot stand, researchers Michael O'Connell and Karen Molloy counter, unless other explanations can first be ruled out.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "suggests",
+      "B": "suggested",
+      "C": "suggesting",
+      "D": "has suggested"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "In recent years, the English writer Ann Yearsley (1753-1806), whose poetry was widely read during her lifetime, has been rediscovered by contemporary audiences—a resurgence of interest that is largely due to literary scholars such as Stacey McDowell, whose work ______ the richness of Yearsley's poems and the poet's historical importance to the Romantic literary movement encourages a broader rethinking of British Romanticism itself.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "highlights",
+      "B": "highlighting",
+      "C": "has highlighted",
+      "D": "is highlighting"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "Marcia Rieke is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Rieke's contributions, the telescope is now positioned near the Sun-Earth L₂ Lagrange point, almost one million miles beyond Earth's orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Therefore,",
+      "B": "Similarly,",
+      "C": "By contrast,",
+      "D": "Secondly,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "As part of a study, participants were asked to list animals they thought of as \"charismatic,\" which was defined as \"attractive, fascinating, or appealing.\" Researchers compiled the responses into a single list and found that the cheetah and the blue whale both landed in the top twenty. ______ no animal outranked the tiger.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In other words,",
+      "B": "As a result,",
+      "C": "Still,",
+      "D": "For example,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "The Beatrice, an offshore wind farm located off the coast of Scotland, produces about 588 megawatts (MW) of electricity per year. ______ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218MW of electricity.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For instance,",
+      "B": "As a result,",
+      "C": "That is,",
+      "D": "By comparison,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• At London and New York Fashion Weeks, fashion designers debut new clothing collections.\n• Color consultants create trend reports on the popular colors at a given Fashion Week.\n• A report on 2018 New York Fashion Week noted the popularity of a delicate petal pink shade that was warm in tone and soft in intensity.\n• A report on 2021 London Fashion Week noted the popularity of a stirring ocean blue shade that was cool in tone and bright in intensity.",
+    "text": "Which choice most effectively uses information from the given sentences to describe a color that was popular at 2021 London Fashion Week?",
+    "choices": {
+      "A": "Shades of delicate petal pink and stirring ocean blue have both been featured in Fashion Week reports prepared by color consultants.",
+      "B": "Each Fashion Week, color consultants compile reports on the colors that have been popular among designers.",
+      "C": "The shade favored by designers at 2021 London Fashion Week was a departure from the warm, soft shade of delicate petal pink that had proved popular at 2018 New York Fashion Week.",
+      "D": "At 2021 London Fashion Week, many designer collections featured a cool, bright shade of stirring ocean blue."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Reaching the *New York Times* (NYT) Best Sellers list is a coveted achievement among authors.\n• Kwame Alexander and Terry McMillan are Black authors who have reached the NYT Best Sellers list.\n• *The Crossover* is a children's book by Kwame Alexander.\n• It reached the NYT Best Sellers list on August 27, 2017.\n• *Waiting to Exhale* is a novel by Terry McMillan.\n• It reached the NYT Best Sellers list on August 2, 1992.",
+    "text": "Which choice most effectively uses information from the given sentences to introduce *The Crossover* to a new audience?",
+    "choices": {
+      "A": "The NYT Best Sellers list once included Kwame Alexander's *The Crossover*.",
+      "B": "The children's book *The Crossover* made the NYT Best Sellers list on August 27, 2017; the novel *Waiting to Exhale* made this list on August 2, 1992.",
+      "C": "Kwame Alexander is the author of the NYT best-selling children's book *The Crossover*.",
+      "D": "*The Crossover* is an NYT best-selling children's book by author Kwame Alexander."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Sydney Opera House was designed by Jorn Utzon.\n• It was completed in 1973.\n• The Geodesic Dome for Expo '67 was designed by Buckminster Fuller.\n• It was completed in 1967.\n• They are famous examples of modern architecture.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize the order in which the two works were completed?",
+    "choices": {
+      "A": "Though completed years apart, both the Sydney Opera House and the Geodesic Dome for Expo '67 are considered examples of modern architecture.",
+      "B": "Designed by Jorn Utzon and completed in 1973, the Sydney Opera House stands as a famous example of modern architecture.",
+      "C": "Finished in 1973, the Sydney Opera House was completed after the Geodesic Dome for Expo '67, which was finished in 1967.",
+      "D": "The Sydney Opera House and the Geodesic Dome for Expo '67 are the respective works of Jorn Utzon and Buckminster Fuller."
+    },
+    "imageUrl": null
+  }
+}

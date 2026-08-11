@@ -2,7 +2,9 @@
 
 import { useEffect, useState } from "react";
 import { Header } from "@/components/Header";
+import { HeroPromoBanner } from "@/components/HeroPromoBanner";
 import { TestCard } from "@/components/TestCard";
+import { buildTestGroups, getTestGroup, sortTestsForDisplay } from "@/lib/test-groups";
 
 interface ModuleInfo {
   id: string;
@@ -28,24 +30,13 @@ interface AttemptInfo {
   totalQuestions: number;
 }
 
-const MONTH_NAMES = [
-  "", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
-];
-
 type Section = "MATH" | "ENGLISH";
-
-interface DateEntry {
-  year: number;
-  month: number;
-  label: string;
-}
 
 export default function HomePage() {
   const [section, setSection] = useState<Section>("MATH");
   const [tests, setTests] = useState<Test[]>([]);
   const [attemptMap, setAttemptMap] = useState<Record<string, AttemptInfo>>({});
-  const [selectedDate, setSelectedDate] = useState<string | null>(null);
+  const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
 
   async function fetchTests() {
@@ -55,41 +46,24 @@ export default function HomePage() {
     const data = await res.json();
     setTests(data.tests ?? []);
     setAttemptMap(data.attemptMap ?? {});
-    setSelectedDate(null);
+    setSelectedGroup(null);
     setLoading(false);
   }
 
   useEffect(() => { fetchTests(); }, [section]);
 
-  // Build unique dates from tests
-  const dateEntries: DateEntry[] = Array.from(
-    new Map(
-      tests.map((t) => [`${t.year}-${t.month}`, { year: t.year, month: t.month, label: `${String(t.month).padStart(2, "0")}.${String(t.year).slice(2)}` }])
-    ).values()
-  );
+  const groupEntries = buildTestGroups(tests);
 
-  const filteredTests = selectedDate
-    ? tests.filter((t) => `${t.year}-${t.month}` === selectedDate)
-    : tests;
+  const filteredTests = sortTestsForDisplay(
+    selectedGroup ? tests.filter((t) => getTestGroup(t) === selectedGroup) : tests
+  );
 
   return (
     <div className="min-h-screen bg-gray-50">
       <Header />
 
-      {/* Hero */}
-      <div className="max-w-7xl mx-auto px-4 pt-10 pb-6 text-center">
-        <h1 className="text-4xl font-bold text-gray-900 mb-3">PurpleBook.cc</h1>
-        <p className="text-gray-500 text-base max-w-md mx-auto leading-relaxed">
-          Free SAT past papers with timed modules, instant scoring, and detailed answer review.
-        </p>
-        <a
-          href="https://t.me/purplebook_cc"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-block mt-4 px-6 py-2 rounded-lg border-2 border-[#7c3aed] text-[#7c3aed] font-medium text-sm hover:bg-[#7c3aed] hover:text-white transition-colors"
-        >
-          Join Community
-        </a>
+      <div className="max-w-7xl mx-auto px-4 pt-4">
+        <HeroPromoBanner />
       </div>
 
       {/* Section tabs */}
@@ -114,36 +88,34 @@ export default function HomePage() {
       {/* Content area */}
       <div className="max-w-7xl mx-auto px-4 pb-12">
         <div className="flex gap-6">
-          {/* Date Sidebar */}
-          <aside className="w-36 flex-shrink-0">
-            <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">Dates</p>
+          {/* Group sidebar */}
+          <aside className="w-44 flex-shrink-0">
+            <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">Groups</p>
             <div className="space-y-1">
               <button
-                onClick={() => setSelectedDate(null)}
+                onClick={() => setSelectedGroup(null)}
                 className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-colors ${
-                  !selectedDate
+                  !selectedGroup
                     ? "bg-[#7c3aed]/10 text-[#7c3aed] font-medium"
                     : "text-gray-600 hover:bg-gray-100"
                 }`}
               >
                 All
               </button>
-              {dateEntries.map((d) => {
-                const key = `${d.year}-${d.month}`;
-                return (
-                  <button
-                    key={key}
-                    onClick={() => setSelectedDate(key)}
-                    className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-colors ${
-                      selectedDate === key
-                        ? "bg-[#7c3aed]/10 text-[#7c3aed] font-medium"
-                        : "text-gray-600 hover:bg-gray-100"
-                    }`}
-                  >
-                    {d.label}
-                  </button>
-                );
-              })}
+              {groupEntries.map((g) => (
+                <button
+                  key={g.key}
+                  onClick={() => setSelectedGroup(g.key)}
+                  className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-colors ${
+                    selectedGroup === g.key
+                      ? "bg-[#7c3aed]/10 text-[#7c3aed] font-medium"
+                      : "text-gray-600 hover:bg-gray-100"
+                  }`}
+                >
+                  <span className="block truncate">{g.label}</span>
+                  <span className="text-xs text-gray-400">{g.count} {g.count === 1 ? "test" : "tests"}</span>
+                </button>
+              ))}
             </div>
           </aside>
 
