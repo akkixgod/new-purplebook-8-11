@@ -1,4 +1,5 @@
 import { prisma } from "@/lib/prisma";
+import { findUserByEmail, normalizeEmail } from "@/lib/find-user-by-email";
 
 type SessionUser = {
   id: string;
@@ -21,13 +22,10 @@ export async function resolveSessionUserId(user: SessionUser): Promise<string> {
 
   const email =
     typeof user.email === "string" && user.email.includes("@")
-      ? user.email.trim().toLowerCase()
+      ? normalizeEmail(user.email)
       : `user-${user.id}@purplebook.local`;
 
-  const byEmail = await prisma.user.findUnique({
-    where: { email },
-    select: { id: true },
-  });
+  const byEmail = await findUserByEmail(email);
   if (byEmail) return byEmail.id;
 
   try {
@@ -45,7 +43,7 @@ export async function resolveSessionUserId(user: SessionUser): Promise<string> {
     // Race: another instance created the same email/id.
     const again =
       (await prisma.user.findUnique({ where: { id: user.id }, select: { id: true } })) ??
-      (await prisma.user.findUnique({ where: { email }, select: { id: true } }));
+      (await findUserByEmail(email));
     if (again) return again.id;
     throw new Error("Unable to resolve session user for attempt write");
   }

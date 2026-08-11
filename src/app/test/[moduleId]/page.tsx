@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback, use, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { DesmosCalculatorModal } from "@/components/DesmosCalculatorModal";
 import { MathReferenceSheet } from "@/components/MathReferenceSheet";
+import { Module1PathModal } from "@/components/Module1PathModal";
 import { ModuleReviewModal } from "@/components/ModuleReviewModal";
 import { QuestionNavGrid } from "@/components/QuestionNavGrid";
 import {
@@ -11,6 +12,7 @@ import {
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
 import { cacheAttempt, savePendingSubmission, clearPendingSubmission, type CachedAttempt } from "@/lib/attempt-cache";
+import { saveModule1Journey, readModule1Journey } from "@/lib/test-journey";
 import { textToHtml } from "@/lib/text-to-html";
 
 interface Question {
@@ -24,6 +26,7 @@ interface Question {
 
 interface ModuleData {
   id: string;
+  testId?: string;
   number: number;
   timeLimit: number;
   test: { title: string; section: string; year: number; month: number };
@@ -67,8 +70,11 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [showDirections, setShowDirections] = useState(false);
   const [showQuestionGrid, setShowQuestionGrid] = useState(false);
   const [showReviewModal, setShowReviewModal] = useState(false);
+  const [showModule1PathModal, setShowModule1PathModal] = useState(false);
   const [showTelegramModal, setShowTelegramModal] = useState(false);
   const [pendingResultsUrl, setPendingResultsUrl] = useState<string | null>(null);
+  const [submittedAttemptId, setSubmittedAttemptId] = useState<string | null>(null);
+  const [nextModuleId, setNextModuleId] = useState<string | null>(null);
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
   const currentQuestionIdRef = useRef<string>("");
@@ -199,7 +205,71 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         localStorage.removeItem(STORAGE_MARKS_KEY(attemptId));
         localStorage.removeItem(STORAGE_CROSSED_KEY(attemptId));
         localStorage.removeItem(STORAGE_HIDE_TIMER_KEY(attemptId));
-        const resultsUrl = `/test/${moduleId}/results?attemptId=${serverAttemptId}`;
+        setShowReviewModal(false);
+        setSubmittedAttemptId(serverAttemptId);
+
+        // Module 1: choose finish vs continue (no Telegram until Finish is chosen).
+        if (moduleData.number === 1) {
+          const journeyTestId =
+            moduleData.testId ||
+            `${moduleData.test.section}-${moduleData.test.year}-${moduleData.test.month}-${moduleData.test.title}`;
+          saveModule1Journey({
+            testId: journeyTestId,
+            module1AttemptId: serverAttemptId,
+            module1ModuleId: moduleId,
+          });
+          // Stash under moduleId too so Module 2 can find it if testId is missing from cache.
+          saveModule1Journey({
+            testId: moduleId,
+            module1AttemptId: serverAttemptId,
+            module1ModuleId: moduleId,
+          });
+          let siblingId: string | null = null;
+          try {
+            const nr = await fetch(`/api/modules/${moduleId}/next-module`, {
+              credentials: "include",
+            });
+            const nj = (await nr.json()) as { nextModuleId: string | null };
+            siblingId = nj.nextModuleId ?? null;
+          } catch {
+            siblingId = null;
+          }
+          setNextModuleId(siblingId);
+          setShowModule1PathModal(true);
+          setSubmitting(false);
+          return;
+        }
+
+        // Module 2: Telegram then combined results.
+        const journeyKeys = [
+          moduleData.testId,
+          `${moduleData.test.section}-${moduleData.test.year}-${moduleData.test.month}-${moduleData.test.title}`,
+        ].filter(Boolean) as string[];
+        let m1Id: string | undefined;
+        for (const key of journeyKeys) {
+          const j = readModule1Journey(key);
+          if (j?.module1AttemptId) {
+            m1Id = j.module1AttemptId;
+            break;
+          }
+        }
+        // Also check journeys saved under sibling module 1 id via next-module reverse lookup.
+        if (!m1Id) {
+          try {
+            const nr = await fetch(`/api/modules/${moduleId}/next-module`, {
+              credentials: "include",
+            });
+            const nj = (await nr.json()) as { nextModuleId: string | null };
+            if (nj.nextModuleId) {
+              m1Id = readModule1Journey(nj.nextModuleId)?.module1AttemptId;
+            }
+          } catch {
+            /* ignore */
+          }
+        }
+        const resultsUrl = m1Id
+          ? `/test/${moduleId}/results?attemptId=${serverAttemptId}&prevAttemptId=${m1Id}&combined=1`
+          : `/test/${moduleId}/results?attemptId=${serverAttemptId}`;
 
         if (isTelegramJoinedThisSession()) {
           router.push(resultsUrl);
@@ -208,7 +278,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
         setPendingResultsUrl(resultsUrl);
         setShowTelegramModal(true);
-        setShowReviewModal(false);
         setSubmitting(false);
         return;
       } catch (err) {
@@ -870,11 +939,44 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         onNavigate={setCurrent}
       />
 
+      <Module1PathModal
+        open={showModule1PathModal}
+        submitting={submitting}
+        onBack={() => setShowModule1PathModal(false)}
+        onFinishTest={() => {
+          if (!submittedAttemptId) return;
+          const resultsUrl = `/test/${moduleId}/results?attemptId=${submittedAttemptId}&solo=1`;
+          setShowModule1PathModal(false);
+          if (isTelegramJoinedThisSession()) {
+            router.push(resultsUrl);
+            return;
+          }
+          setPendingResultsUrl(resultsUrl);
+          setShowTelegramModal(true);
+        }}
+        onContinueModule2={() => {
+          if (!nextModuleId) {
+            setShowModule1PathModal(false);
+            setSubmitError("Module 2 is not available for this test.");
+            return;
+          }
+          setShowModule1PathModal(false);
+          const nextAttemptId = crypto.randomUUID();
+          router.push(`/test/${nextModuleId}?attemptId=${nextAttemptId}`);
+        }}
+      />
+
       <TelegramCommunityCheckModal
         open={showTelegramModal}
         mode="post-test"
         onClose={() => setShowTelegramModal(false)}
         onJoin={() => {
+          setShowTelegramModal(false);
+          const url = pendingResultsUrl;
+          setPendingResultsUrl(null);
+          if (url) router.push(url);
+        }}
+        onAlreadyJoined={() => {
           setShowTelegramModal(false);
           const url = pendingResultsUrl;
           setPendingResultsUrl(null);

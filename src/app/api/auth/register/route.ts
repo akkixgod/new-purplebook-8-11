@@ -1,12 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/prisma";
+import { findUserByEmail, normalizeEmail } from "@/lib/find-user-by-email";
 
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
     const name = typeof body.name === "string" ? body.name.trim() : "";
-    const email = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
+    const email = typeof body.email === "string" ? normalizeEmail(body.email) : "";
     const password = typeof body.password === "string" ? body.password : "";
 
     if (!email || !password) {
@@ -17,7 +18,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Password must be at least 6 characters" }, { status: 400 });
     }
 
-    const existing = await prisma.user.findUnique({ where: { email } });
+    const existing = await findUserByEmail(email);
     if (existing) {
       return NextResponse.json({ error: "Email already in use" }, { status: 409 });
     }

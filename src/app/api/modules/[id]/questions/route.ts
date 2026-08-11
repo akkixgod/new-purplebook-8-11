@@ -34,6 +34,7 @@ export async function GET(
       id: true,
       number: true,
       timeLimit: true,
+      testId: true,
       // Take-test payload: omit correctAnswer / explanation (graded only on submit).
       questions: {
         orderBy: { order: "asc" },
@@ -58,6 +59,7 @@ export async function GET(
 
   const payload = {
     id: module_.id,
+    testId: module_.testId,
     number: module_.number,
     timeLimit: module_.timeLimit,
     test: module_.test,

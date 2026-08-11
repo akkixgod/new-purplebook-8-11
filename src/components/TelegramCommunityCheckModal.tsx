@@ -7,20 +7,13 @@ const JOINED_SESSION_KEY = "purplebook_telegram_joined_session_v1";
 
 export type TelegramModalMode = "post-test" | "inter-module";
 
-type Props =
-  | {
-      open: boolean;
-      mode: "post-test";
-      onClose: () => void;
-      onJoin: () => void;
-    }
-  | {
-      open: boolean;
-      mode: "inter-module";
-      onClose: () => void;
-      onJoin: () => void;
-      onAlreadyJoined: () => void;
-    };
+type Props = {
+  open: boolean;
+  mode: TelegramModalMode;
+  onClose: () => void;
+  onJoin: () => void;
+  onAlreadyJoined: () => void;
+};
 
 export function TelegramCommunityCheckModal(props: Props) {
   if (!props.open) return null;
@@ -42,43 +35,27 @@ export function TelegramCommunityCheckModal(props: Props) {
         </p>
 
         <div className="mt-6 flex flex-col sm:flex-row gap-3 sm:justify-end">
-          {props.mode === "post-test" ? (
-            <button
-              type="button"
-              onClick={() => {
-                sessionStorage.setItem(JOINED_SESSION_KEY, "1");
-                window.open(TELEGRAM_URL, "_blank", "noopener,noreferrer");
-                props.onJoin();
-              }}
-              className="w-full sm:w-auto rounded-xl bg-[#7c3aed] px-4 py-2.5 text-sm font-semibold text-white hover:bg-[#6d28d9]"
-            >
-              Join
-            </button>
-          ) : (
-            <>
-              <button
-                type="button"
-                onClick={() => {
-                  sessionStorage.setItem(JOINED_SESSION_KEY, "1");
-                  window.open(TELEGRAM_URL, "_blank", "noopener,noreferrer");
-                  props.onJoin();
-                }}
-                className="w-full sm:w-auto rounded-xl bg-[#7c3aed] px-4 py-2.5 text-sm font-semibold text-white hover:bg-[#6d28d9]"
-              >
-                Join
-              </button>
-              <button
-                type="button"
-                onClick={() => {
-                  sessionStorage.setItem(JOINED_SESSION_KEY, "1");
-                  props.onAlreadyJoined();
-                }}
-                className="w-full sm:w-auto rounded-xl border border-gray-200 px-4 py-2.5 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-              >
-                Already Joined
-              </button>
-            </>
-          )}
+          <button
+            type="button"
+            onClick={() => {
+              sessionStorage.setItem(JOINED_SESSION_KEY, "1");
+              window.open(TELEGRAM_URL, "_blank", "noopener,noreferrer");
+              props.onJoin();
+            }}
+            className="w-full sm:w-auto rounded-xl bg-[#7c3aed] px-4 py-2.5 text-sm font-semibold text-white hover:bg-[#6d28d9]"
+          >
+            Join
+          </button>
+          <button
+            type="button"
+            onClick={() => {
+              sessionStorage.setItem(JOINED_SESSION_KEY, "1");
+              props.onAlreadyJoined();
+            }}
+            className="w-full sm:w-auto rounded-xl border border-gray-200 px-4 py-2.5 text-sm font-semibold text-gray-900 hover:bg-gray-50"
+          >
+            Already Joined
+          </button>
         </div>
       </div>
     </div>
