@@ -1,0 +1,232 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The product of a positive number x and the number that is 5 less than x is equal to 104. What is the value of x?",
+    "choices": {
+      "A": "2.5",
+      "B": "13",
+      "C": "99",
+      "D": "109"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "What is an equation of the graph shown?",
+    "choices": {
+      "A": "y = 3^(−x) + 11",
+      "B": "y = 3^x + 11",
+      "C": "y = 3^(−x) + 10",
+      "D": "y = 3^x + 10"
+    },
+    "imageUrl": "NEEDS_SVG:xy-plane with light unit grid; x-axis from −8 to 8 labeled at even integers (−8…8) with arrows and label x; y-axis from 0 to 14 labeled at even integers (0…14) with arrows and label y; origin O. Smooth increasing exponential curve with horizontal asymptote y=10 approached as x→−∞ (nearly flat on y=10 for x≤−4); passes through (0,11) and (1,13); continues rising steeply through roughly (2,19) off the top of the frame. Consistent with y=3^x+10."
+  },
+  "3": {
+    "stimulus": null,
+    "text": "Triangle ABC is similar to triangle XYZ, such that A, B, and C correspond to X, Y, and Z, respectively. The length of each side of triangle XYZ is 2 times the length of its corresponding side in triangle ABC. The measure of angle B is 17°. What is the measure of angle Y, in degrees?",
+    "choices": {
+      "A": "15",
+      "B": "17",
+      "C": "19",
+      "D": "34"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The measure of angle R is 2π/3 radians. The measure of angle T is 23π/18 radians greater than the measure of angle R. What is the measure of angle T, in degrees?",
+    "choices": {
+      "A": "120",
+      "B": "230",
+      "C": "350",
+      "D": "700"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "A total of 255 people registered for a city's annual race as either a runner or a walker. 210 people registered as a runner. How many people registered as a walker?",
+    "choices": {
+      "A": "510",
+      "B": "255",
+      "C": "210",
+      "D": "45"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "The scatterplot shows the temperature, in degrees Fahrenheit °F, and the elevation, in feet, measured at 6 locations on a mountain. A line of best fit is also shown. At an elevation of 4,000 feet, what is the temperature, in °F, predicted by the line of best fit?",
+    "choices": {
+      "A": "54",
+      "B": "30",
+      "C": "15",
+      "D": "0"
+    },
+    "imageUrl": "NEEDS_SVG:Scatterplot; x-axis labeled Elevation (feet) from 0 to 8,000 with labels at 0, 2,000, 4,000, 6,000, 8,000 and vertical grid every 1,000; y-axis labeled Temperature (°F) from 0 to 80 with labels every 10 and horizontal grid every 5. Six solid black data points near a solid downward-sloping line of best fit: approx (500,52), (1200,51), (2200,39), (3300,36), (6200,15), (7200,12). Line of best fit has y-intercept near (0,54), passes exactly through grid point (4000,30), and continues to about (8000,6)."
+  },
+  "7": {
+    "stimulus": null,
+    "text": "The graph of a system of a linear equation and a quadratic equation is shown. What is the solution x, y to this system?",
+    "choices": {
+      "A": "0 2",
+      "B": "0 3",
+      "C": "−3 2",
+      "D": "3 −2"
+    },
+    "imageUrl": "NEEDS_SVG:xy-plane with light unit grid; x-axis from about −11 to 5 labeled at even integers (−10…4); y-axis from about −5 to 7 labeled at even integers (−4…6); origin O. Horizontal line y=2. Downward-opening parabola with vertex at (−3,2), also passing through (−5,−2), (−4,1), (−2,1), and (−1,−2). Line and parabola intersect only at the vertex (−3,2)."
+  },
+  "8": {
+    "stimulus": "5x = 35",
+    "text": "What is the positive solution to the given equation?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "During an experiment, a particle's speed was 41 feet per second. What is this speed in feet per minute?",
+    "choices": {
+      "A": "71",
+      "B": "101",
+      "C": "1,230",
+      "D": "2,460"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "A rectangle has a length of 100 centimeters and a width of 400 centimeters. What is the area, in square centimeters, of the rectangle?",
+    "choices": {
+      "A": "100",
+      "B": "500",
+      "C": "40,000",
+      "D": "40,400"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = x^2 + 79. What is the value of f(x) when x = 10?",
+    "choices": {
+      "A": "−179",
+      "B": "−21",
+      "C": "21",
+      "D": "179"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "What is the x-intercept of the graph of y = (45 − x)/(ax + b) in the xy-plane, where a and b are positive constants?",
+    "choices": {
+      "A": "(−b/a, 0)",
+      "B": "(0, 45/b)",
+      "C": "(0, −45)",
+      "D": "(45, 0)"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "Kayra spent $74 at a book sale and bought a total of 22 books. She bought h hardcover books for $4 each and p paperback books for $3 each. Which system of equations represents this situation?",
+    "choices": {
+      "A": "h + p = 22\n3h + 4p = 74",
+      "B": "h + p = 22\n4h + 3p = 74",
+      "C": "h + p = 74\n3h + 4p = 22",
+      "D": "h + p = 74\n4h + 3p = 22"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "2x + 7y = 58\ny = 6",
+    "text": "The solution to the given system of equations is (x, y). What is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "The table summarizes the distribution of average pitching speed, in miles per hour (mph), for a sample of 24 pitchers in a youth softball league. According to the table, how many pitchers in the sample have an average pitching speed of at least 30 mph but less than 35 mph?",
+    "choices": {
+      "A": "12",
+      "B": "7",
+      "C": "4",
+      "D": "1"
+    },
+    "imageUrl": "NEEDS_SVG:2-column table; headers Average pitching speed | Number of pitchers; rows: At least 30 mph but less than 35 mph | 12; At least 35 mph but less than 40 mph | 7; At least 40 mph but less than 45 mph | 4; At least 45 mph but less than 50 mph | 1; thin black borders, left-aligned text in first column, centered numbers in second"
+  },
+  "16": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 18x^2 + 9x + 9?",
+    "choices": {
+      "A": "2x^2 + 9x + 9",
+      "B": "18x(x + 1)",
+      "C": "9(2x^2 + x + 1)",
+      "D": "36x^2 + x + 1"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The price of an item increased by p% from $90 to $93. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "If 6x = 9, what is the value of 48x?",
+    "choices": {
+      "A": "1",
+      "B": "17",
+      "C": "62",
+      "D": "72"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "The number of cells of the bacteria Bacillus megaterium doubles every 25 minutes during its growth period when placed in a medium of sucrose-salts in a controlled laboratory environment. If a sample of 530 cells of Bacillus megaterium is placed in sucrose-salts in a controlled laboratory environment, which function f best represents the number of cells of the bacteria x minutes after the growth period begins, where x is less than the number of minutes in the growth period?",
+    "choices": {
+      "A": "f(x) = 530(1/3)^(x/25)",
+      "B": "f(x) = 530(1/2)^(x/25)",
+      "C": "f(x) = 530(2)^(x/25)",
+      "D": "f(x) = 530(3)^(x/25)"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "p(x) = x^3 + 4x^2 + 9x + 12",
+    "text": "When the given function p is graphed in the xy-plane, where y = p(x), the y-intercept of the graph is (0, y). What is the value of y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "For the function h, the table gives three values of x and their corresponding values of h(x). Which equation could define h?",
+    "choices": {
+      "A": "h(x) = 2^x + 14",
+      "B": "h(x) = 2^x + 13",
+      "C": "h(x) = 2^x + 2",
+      "D": "h(x) = 2^x"
+    },
+    "imageUrl": "NEEDS_SVG:2-column table; headers x | h(x); data rows 0 | 15, 1 | 16, 2 | 18; thin black borders, centered cells"
+  },
+  "22": {
+    "stimulus": null,
+    "text": "For the linear function f, the graph of y = f(x) in the xy-plane has a slope of −5 and passes through the point (2, −4). Which equation defines f?",
+    "choices": {
+      "A": "f(x) = 2x − 4",
+      "B": "f(x) = −5x − 4",
+      "C": "f(x) = −5x − 5",
+      "D": "f(x) = −5x + 6"
+    },
+    "imageUrl": null
+  }
+}

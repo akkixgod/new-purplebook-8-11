@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "Lima beans were domesticated in South America. Their physical structure is no longer identical to the structure of the wild plant they are descended from. Summer squash also ______ its wild ancestor. That ancestor plant had a hard rind and bitter flesh. Indigenous people in eastern North America carefully bred the crop until it had a soft rind and mild-tasting flesh.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "reacts to",
+      "B": "helps with",
+      "C": "varies from",
+      "D": "argues with"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "\"Eyes of Zapata\" is an English-language short story by Sandra Cisneros. It occasionally includes Spanish words and phrases. The English text surrounding these words and phrases ______ their meaning, so readers who aren't familiar with Spanish can easily read the story. Ana Castillo takes the same approach in her novel So Far from God.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "loses",
+      "B": "purchases",
+      "C": "suspects",
+      "D": "suggests"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "The dinosaur displays at museums such as the American Museum of Natural History in New York (which has a mounted Allosaurus fragilis skeleton among its holdings) are notable for the ______ of the research behind them — the museum staff consulted numerous sources to ensure the accuracy of the displays.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "novelty",
+      "B": "obscurity",
+      "C": "rigor",
+      "D": "shallowness"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the narrator arriving at his father's apartment.\n\n\"Pops, I'm here!\" I drop my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.",
+    "text": "As used in the text, what does the word \"drop\" most nearly mean?",
+    "choices": {
+      "A": "Unbolt",
+      "B": "Put down",
+      "C": "Forget about",
+      "D": "Erase"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "The following text is adapted from Maria Amparo Ruiz de Burton's 1885 novel The Squatter and the Don. Mercedes and Clarence, who develop a romantic relationship in the novel, have been traveling with a group of friends.\n\n[Mercedes] was still very pale, and her hands yet trembled, when the thundering of the east-bound train was heard in the distance. Two shrieks pierced the air simultaneously, as the two trains passed each other. Her heart gave accelerated throbs when she heard those shrieks, because she knew that one of them came from the train which bore Clarence away, and it seemed to her as if expressive of his pain at being torn from her. Yes, that magician, the locomotive, understood it all, and shrieked to say he did so, because he knew she, too, wished to shriek like that.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Mercedes shares a passion for locomotive travel with Clarence.",
+      "B": "The sounds at the train station irritate Mercedes.",
+      "C": "Clarence boarded his train at the last minute.",
+      "D": "Mercedes feels heartbroken to be separated from Clarence."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Seventeenth-century Flemish artist Clara Peeters played a crucial role in the history of still-life painting. At a time when historical paintings were the preferred genre — indeed, at a time when there wasn't even a term for still-life painting in Peeters's language — Peeters painted food, flowers, fish and game. Her influence spread throughout Western Europe and she became so strongly associated with the genre that painters who took up similar subjects were sometimes described as belonging to the \"circle of Peeters.\"",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Clara Peeters was an important figure in the development of still-life painting",
+      "B": "Clara Peeters made significant contributions to multiple genres of painting.",
+      "C": "Clara Peeters introduced the term \"still-life painting\" to Western Europe.",
+      "D": "Some paintings attributed to Clara Peeters may have been painted by other artists in her circle"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The following text is from an 1894 translation of Alexandre Dumas's 1844 novel The Count of Monte-Cristo. Dantes is searching for a treasure and finds a cave whose opening has been deliberately blocked by a large rock. Hercules is a hero of Greek mythology.\n\nDantes dug away the earth carefully, and detected, or fancied he detected, the ingenious artifice. He attacked this wall, cemented by the hand of time, with his pickaxe. After ten minutes' labor the wall gave way, and a hole large enough to insert the arm was opened. Dantes went and cut the strongest olive-tree he could find, stripped off its branches, inserted it in the hole, and used it as a lever. But the rock was too heavy, and too firmly wedged, to be moved by any one man, were he Hercules himself.",
+    "text": "Which statement about Dantes is best supported by the text?",
+    "choices": {
+      "A": "He is determined in his efforts to move the rock away from the opening of the cave.",
+      "B": "He is worried he will lack the courage to enter the cave when the entrance is finally opened.",
+      "C": "He is unsure why the cave's opening was purposely hidden behind a wall and a large rock.",
+      "D": "He is aware that his impatience is causing him to make clumsy errors as he enlarges the hole in the wall."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Bioluminescence is most commonly found among marine organisms: 70% of known luminescent species inhabit ocean environments. This trait is remarkably stable and has evolved independently in many marine species over time. Light-emitting marine species, like the Humboldt squid with its flashing light displays, exhibit accelerated diversification compared to non-luminescent relatives. This increased genetic variety among related light-emitting species further underscores bioluminescence's crucial role in marine biodiversity and evolution.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "To provide a statistical comparison between two categories of bioluminescent species that is elaborated on in the rest of the text",
+      "B": "To present a scientific finding that the text's discussion of the evolutionary history of bioluminescence calls into question",
+      "C": "To provide data that support an argument made in the text about a particular light-emitting ocean species",
+      "D": "To support the text's assertion that bioluminescence is associated with particular environments"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "In 2014 Marta S. Pimentel and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of Coryphaena hippurus, a species of fish. However, Pimentel and colleagues' study relied on a mean sample size of only 10 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.",
+    "text": "What is the main topic of the scientific research discussed in the text?",
+    "choices": {
+      "A": "Feeding patterns of top marine predators",
+      "B": "Loss of marine diversity due to overfishing",
+      "C": "Changes in technologies used to capture fish",
+      "D": "Effects of ocean acidification on fish behavior"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters\n\n| Species | Minimum depth (meters) | Maximum depth (meters) |\n| --- | --- | --- |\n| Acropora echinata | 8 | 25 |\n| Danafungia scruposa | 1 | 27 |\n| Astreopora expansa | 5 | 15 |\n| Scolymia lacera | 10 | 80 |\n\nA marine biologist is researching four scleractinian coral species, which are also called stony corals because of the hard skeletons they develop. Consulting the table, she notes that the two species for which the maximum depths are most similar are ______.",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "Astreopora expansa and Scolymia lacera.",
+      "B": "Astreopora expansa and Acropora echinata.",
+      "C": "Acropora echinata and Danafungia scruposa.",
+      "D": "Danafungia scruposa and Scolymia lacera."
+    },
+    "imageUrl": "/mocks/2026-march-int-b/pages/page-04.png"
+  },
+  "11": {
+    "stimulus": "Peter Pan is a 1911 novel by J.M. Barrie. In the fantasy novel, a dog named Nana is a nurse (nanny) for the children in the Darling family—Wendy, John, and Michael. The narrator describes Nana as planning for events like a human would: ______",
+    "text": "Which quotation from Peter Pan best illustrates the claim?",
+    "choices": {
+      "A": "\"On John's [soccer] days [Nana] never once forgot his sweater, and she usually carried an umbrella in her mouth in case of rain.\"",
+      "B": "\"[Mrs. Darling] was wearing Wendy's bracelet on her arm.\"",
+      "C": "\"Mrs. Darling loved to have everything just so, and Mr. Darling had a passion for being exactly like his neighbours.\"",
+      "D": "\"Of course [Nana's] kennel was in the nursery.\""
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "Life Among the Paiutes is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins, a Northern Paiute author, educator, and activist. In the work, Winnemucca directly addresses the reader to explain certain customs, writing ______",
+    "text": "Which quotation from Life Among the Paiutes most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"But how can I describe the scene that followed? Some of you, dear readers, can imagine.\"",
+      "B": "\"Now, my dear reader, there is no word so endearing as the word father, and that is why [my people] call all good people father or mother.\"",
+      "C": "\"During the time my grandfather was away in California, where he [stayed] till after the Mexican war, there was a girl-baby born in our family.\"",
+      "D": "\"We would all go in company to see if the flowers we were named for were yet in bloom, for almost all the girls are named for flowers.\""
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks batata vada and sabudana vada, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food's fat content. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. Therefore, the more moisture a food loses during frying, ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the lower the temperature must be to fry the food.",
+      "B": "the softer the crust will be when frying is completed.",
+      "C": "the higher the fat content will be when frying is completed.",
+      "D": "the quicker the crust will lose its permeability."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Accurately measuring the sizes of marine fish populations is challenging because predation, reproduction, and fishing are constantly affecting those populations' numbers. To avoid overfishing, many commercial fishers rely on complex computer models that estimate current and historical fish population sizes. These models incorporate various biological factors, such as fish size, age distribution, and reproductive rates. Recently, a team of researchers examined decades of modeled predictions for 230 major commercially fished species. They discovered that the models often overestimated fish population sizes. And contrary to their expectations, the researchers found that accuracy did not improve as the data grew overtime. The team's discovery most directly suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "it is important to incorporate more diverse data sources, including commercial fishers' observations, into population size models.",
+      "B": "researchers should be cautious when considering findings about commercially fished populations that predate the development of the models.",
+      "C": "some commercial fishers have likely been unknowingly overfishing and may need to decrease their catches going forward.",
+      "D": "environmental factors, rather than commercial fishing, play a role in the population size models"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Louis-Ferdinand Celine's 1932 novel Journey to the End of the Night is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel's protagonist, Ferdinand Bardamu, and those of Celine—but it should not be taken to mean that every person or event depicted in Journey to the End of the Night has a real-life analogue. Much of the novel is pure invention, and readers who neglect this fact and instead focus excessively on correspondences between the novel and Celine's life can thus ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "misrepresent Journey to the End of the Night as being more widely read than it actually is.",
+      "B": "fail to appreciate how much creativity Celine shows in the book.",
+      "C": "refuse to acknowledge that Celine drew on real-world material when writing Journey to the End of the Night.",
+      "D": "overemphasize the extent to which Celine took inspiration from earlier writers"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Though they are in different countries, the towns of Entebbe, Uganda, and Booue, Gabon, ______ They are among the rare places that sit almost directly on the equator.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "do have something in common?",
+      "B": "do they have something in common",
+      "C": "do they have something in common?",
+      "D": "do have something in common."
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Among several noun cases used in Sanskrit and other Indo-Aryan languages ______ the locative case, used to indicate that an action is occurring in, at, on, or near a particular noun.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have been",
+      "B": "are",
+      "C": "is",
+      "D": "were"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "It was long thought that maize was domesticated solely from parviglumis — a subspecies of teosinte, a wild grass — in Mexico's lowlands about 9,000 years ago. However, a 2024 analysis has revealed that between 15 and 25percent of maize's genes can be traced to a second ______ highland subspecies of teosinte that was hybridized with maize around 4,000 years after the initial domestication.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "ancestor; mexicana, a",
+      "B": "ancestor: mexicana, a",
+      "C": "ancestor mexicana a",
+      "D": "ancestor, mexicana. A"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Hummingbird flower mites use electroreception to detect electric fields created by flapping hummingbird wings, allowing mites to travel from flower to flower in hummingbird beaks. Both host detection and transportation are electrically ______ when mites move their legs toward the arriving hummingbird, they are pulled by electrostatic force to the bird's modulated electric fields—a process that occurs in milliseconds.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "mediated,",
+      "B": "mediated",
+      "C": "mediated:",
+      "D": "mediated and"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "An emulsifier is a type of compound that serves to stabilize an emulsion — a mixture of two or more liquids that otherwise would not easily blend together, like oil and water. Though modern chemists commonly use emulsifiers like poloxamer 407 in their formulations, emulsifiers that have been employed for millennia, such as beeswax and egg yolk, ______ used to this day by chemists as well.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "are",
+      "B": "would have been",
+      "C": "were being",
+      "D": "were"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "In Art Med inSight, a series of art-based medical education classes taught by Anne Willieme, medical students learn to use techniques more often associated with the arts, such as slowing down interpretation and considering multiple perspectives. ______ Willieme's students develop better observational skills, enhancing their ability to understand and diagnose patients effectively.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Nevertheless,",
+      "B": "In doing so,",
+      "C": "For example,",
+      "D": "By contrast,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Germany, in 2006. The event, which is held every four years, used to be much smaller and more limited geographically. ______ the 1930 World Cup in Uruguay included only 13 teams, all from Europe and the Americas.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "At last,",
+      "C": "For example,",
+      "D": "However,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "Karel Čapek's 1920 play R.U.R. (Rossum's Universal Robots), in which artificial workers overthrow their masters, left an indelible mark on the science fiction genre, and the English language, by introducing the term \"robot\" (derived from the Czech word robota, meaning \"indentured labor\" or \"drudgery\"). ______ Čapek's play also contributed to a venerable literary and mythological tradition: using artificial beings as mirrors and foils for humanity.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "By achieving such a lofty goal,",
+      "B": "Beyond the simple coining of a term,",
+      "C": "Despite its creation of such an iconic trope,",
+      "D": "Ultimately limited in its lasting influence,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The human tongue contains taste receptors for a rich, savory flavor called umami.\n• Umami is triggered by the compounds in a variety of foods, including sardines and mushrooms.\n• Participants in a study tasted a sample of wakame, a type of brown seaweed.\n• They rated its umami intensity as moderate.\n• The participants tasted a sample of ma-konbu, another type of brown seaweed.\n• They rated its umami intensity as high.",
+    "text": "The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "While wakame and ma-konbu contain umami flavor, umami can also be found in sardines and mushrooms.",
+      "B": "After tasting two types of brown seaweed, wakame and ma-konbu, participants in a study found ma-konbu's umami flavor to be the more intense of the two.",
+      "C": "Wakame is a type of brown seaweed, but so is ma-konbu.",
+      "D": "Some types of brown seaweed, like wakame and ma-konbu, trigger umami flavor in human taste buds."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.\n• It is also known as a land bridge.\n• The Isthmus of Tehuantepec is located in Mexico.\n• It connects the southern tip of Mexico to the northern part of Mexico.",
+    "text": "The student wants to provide a specific example of an isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "There is a land bridge in Mexico",
+      "B": "One example of an isthmus is the Isthmus of Tehuantepec in Mexico.",
+      "C": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water.",
+      "D": "In Mexico, the southern tip of Mexico is connected to the northern part of Mexico."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• There are around 90 automated snow measurement sites in Wyoming.\n• One site is at Cloud Peak Reservoir.\n• At the start of February 2021, the site's snow depth was 46 inches.\n• At the start of March 2021, the site's snow depth was 31 inches.",
+    "text": "The student wants to specify the snow depth at Cloud Peak Reservoir at the start of March 2021. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "At the Cloud Peak Reservoir site, there were 46 inches of snow on the ground at the start of February 2021.",
+      "B": "At the start of March 2021, 31 inches of snow covered the ground at the Cloud Peak Reservoir site.",
+      "C": "Located in Wyoming, the Cloud Peak Reservoir site monitors snow conditions, such as snow depth.",
+      "D": "In 2021, the site at Cloud Peak Reservoir was one of about 90 automated snow measurement stations in Wyoming."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Sheet music contains many notations that instruct the musician on how to perform the piece.\n• The notation pp stands for pianissimo.\n• It means the piece should be performed at a very quiet volume.\n• The notation mf stands for mezzo forte.\n• It means the piece should be performed at a moderately loud volume.",
+    "text": "The student wants to explain what pp stands for in sheet music. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Pianissimo and mezzo forte are two examples of notations that can appear on sheet music.",
+      "B": "The notation mf, which stands for mezzo forte, is used in sheet music.",
+      "C": "In sheet music, the notation pp stands for pianissimo, which means the piece should be performed very quietly.",
+      "D": "A piece of sheet music can contain a range of notations, such as pp or mf."
+    },
+    "imageUrl": null
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "Although more documentaries are being made than ever before, too many seem _______, offering stories without any depth. In a refreshing contrast, Ahmir \"Questlove\" Thompson's 2021 documentary Summer of Soul (...or, When the Revolution Could Not Be Televised) draws from present-day interviews to supply compelling historical and social context for footage of the 1969 Harlem Cultural Festival.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "cryptic",
+      "B": "inaccessible",
+      "C": "haughty",
+      "D": "perfunctory"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Among saltwater fish species, there is a clear association between habitat latitude and morphological variety. While tropical species are _______ deep-bodied physical forms (body shapes that are laterally compressed but vertically extended), polar and temperate species are highly dispersed across the morphological spectrum.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "authenticated by",
+      "B": "concentrated among",
+      "C": "habituated to",
+      "D": "contemporary with"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her reserve; I merely felt in her an insurmountable reluctance to speak of him.",
+    "text": "As used in the text, what does the word \"reserve\" most nearly mean?",
+    "choices": {
+      "A": "Misgiving",
+      "B": "Constraint",
+      "C": "Composure",
+      "D": "Modesty"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "The work of Tobias Gerstenberg et al. on tracking eye movements supports a theory that people envision _______ scenarios when making causal judgments: when subjects were asked to look at two colliding billiard balls and judge whether one caused or prevented the other's movement through a gate, their eyes looked at where the target ball would have gone if the ball that altered its path did not exist.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "ambivalent",
+      "B": "retrospective",
+      "C": "counterfactual",
+      "D": "analogical"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Paul Linebarger is often recognized as an influential science fiction writer (under the pen name Cordwainer Smith), but his most significant work was a 1940s classified US Army guide exploring the role of propaganda in times of war. Citing the uniquely absorbing nature of motion pictures, he contended that US propaganda should equal popular films in its appeal, entertaining audiences while engendering views of the nation as an ally. Linebarger's work shaped the distinctive US approach to promoting national interests, one that continues to draw inspiration from elements of pop culture.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It distinguishes a work from others in its genre, outlines the central objective of that work, and then addresses a recent resurgence of interest in that work.",
+      "B": "It sketches the development of a prominent work, familiarizes readers with an argument in that work, and then suggests that the work has had repercussions in other fields.",
+      "C": "It characterizes a work as having been underappreciated, describes a core concept in that work, and then argues that the influence of that concept is recognizable in other works.",
+      "D": "It introduces a significant work, summarizes a noteworthy idea in that work, and then places that idea into a context that demonstrates its broader implications."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Text 1\nIn separate studies, Lingbo Meng and colleagues and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meng and colleagues excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.\n\nText 2\nMeng and colleagues took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.",
+    "text": "Based on the texts, how would the author of Text 2 most likely respond to the characterization of Meng and colleagues' study in Text 1?",
+    "choices": {
+      "A": "By asserting that the author of Text 1 has overstated the effectiveness of the method that Meng and colleagues used",
+      "B": "By pointing out that the author of Text 1 has overlooked studies that reported results that contradict those reported by Meng and colleagues",
+      "C": "By claiming that the author of Text 1 has misrepresented what Meng and colleagues were trying to achieve with their experimental design",
+      "D": "By arguing that the author of Text 1 has conflated the method used by Meng and colleagues with that used by He and colleagues"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The fifteenth-century English Heege Manuscript is unusual among collections of its kind and time given its focus on fantasy tales over more acclaimed works by celebrated medieval authors like Hoccleve. But according to professor James Wade, even more unusually, the three texts in the manuscript's first booklet were likely copied by Richard Heege from a traveling minstrel's repertoire book. The evidence includes performative elements such as the narrator politely addressing the audience, joking about peasants and royalty, and making jokes that could be modified to refer to the town of Radford when in nearby Brackonwet to avoid giving offense.",
+    "text": "As presented in the text, Wade would most likely agree with which statement about the first booklet of the Heege Manuscript?",
+    "choices": {
+      "A": "It was likely a copy Heege intended to give to a traveling minstrel working in the area around Radford and Brackonwet.",
+      "B": "The texts it includes were based on stories about the area around Radford and Brackonwet, but these names were later removed.",
+      "C": "It was copied from a text that originated from a traveling minstrel who worked in the area around Radford and Brackonwet.",
+      "D": "It was written down by Heege from memory based on a performance by a traveling minstrel who worked in the area around Radford and Brackonwet."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Within higher education, studying philosophy requires that students be conversant with the field's foundational texts and historical figures. By contrast, doing philosophy within or beyond the academy demands the creative, self-directed application of acquired expertise to enduring questions about the nature of existence and knowledge. While both approaches engage with influential figures, those who do philosophy treat such figures as vital interlocutors who facilitate new insights rather than as ossified authorities who, though relevant to the present, primarily represent the discipline's past.",
+    "text": "Based on the text, which choice best describes the relationship between doing philosophy and studying philosophy?",
+    "choices": {
+      "A": "Doing philosophy involves developing novel ideas through imagined dialogue with past philosophers based on knowledge of those philosophers' views acquired by studying philosophy.",
+      "B": "Doing philosophy helps students formulate concrete solutions to practical issues, whereas studying philosophy prioritizes engagement with historical arguments in the field.",
+      "C": "Doing philosophy represents a departure from the norms that govern scholarly inquiry, whereas studying philosophy requires conformation to these norms.",
+      "D": "Doing philosophy requires students to challenge the ideas articulated by past philosophers, especially when these ideas are broadly accepted by other people studying philosophy."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Archaeologist Weiwei Wang and her colleagues analyzed footed grinding slabs and other food-preparation tools excavated from OC Eo, a Southeast Asian port city that flourished between the first and sixth centuries CE. Wang and colleagues recovered microscopic remnants of turmeric and other spices from the surfaces of the tools. Turmeric is native to South Asia, more than a thousand miles west of OC Eo, and the researchers showed that the footed grinding slabs at OC Eo are very similar to footed grinding slabs common throughout South Asia from around 500 BCE to 300 CE. Wang and colleagues' findings therefore indicate that there must have been a trade link, whether direct or indirect, between the two regions.",
+    "text": "Which finding, if true, would directly weaken the conclusion about Wang and her colleagues' findings that is presented in the text?",
+    "choices": {
+      "A": "Other types of artifacts originating in South Asia and dating to the first through sixth centuries CE have been found throughout Southeast Asia.",
+      "B": "In the first through third centuries CE, there was a significant migration of people from South Asia to Southeast Asia.",
+      "C": "The people of OC Eo and several communities in South Asia regularly traded with people in the region that is now the Southeast Asian country of Malaysia no later than the first century CE.",
+      "D": "Some of the spices recovered from OC Eo are native to the Maluku Islands, which are located approximately 2,000 miles southeast of OC Eo."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "The late Hemphillian (Hh) North American Land Mammal Age includes the subdivisions Hh3, 6.8 million years ago (Ma) to 6 Ma, and Hh4, 6 Ma to 4.75 Ma. While mammalian fossils have indicated that Florida's Montbrook Fossil Site (MFS) and Palmetto Fauna of the Bone Valley Region (PFBV) date to Hh4, a more precise determination of the sites' ages has proved challenging. Stephanie R. Killingsworth et al. compared average ratios of strontium-87 to strontium-86 (87Sr/86Sr) in fossil shark teeth from MFS and PFBV — 0.709000 and 0.709028, respectively — to 87Sr/86Sr ratios in the global strontium seawater curve, a record that shows how 87Sr/86Sr ratios in seawater correspond to numerical ages and that is used to date fossils and, by extension, fossil sites. The researchers concluded that _______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "mammalian fossil evidence offers less dating precision than do 87Sr/86Sr ratios in fossil shark teeth and that PFBV likely was deposited closer to the Hh3-Hh4 boundary than was MFS.",
+      "B": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV resolve previous uncertainty about the sites' relative ages by indicating that both sites were deposited contemporaneously during the late Hh.",
+      "C": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV only partially support the site age estimates previously established through mammalian fossil evidence.",
+      "D": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV corroborate that both MFS and PFBV fall within Hh4 but suggest that PFBV was likely deposited more recently than MFS."
+    },
+    "imageUrl": "NEEDS_SVG: Table titled \"Strontium Isotope Ratios and Corresponding Numerical Ages in the Global Seawater Curve\". Two columns with headers 87Sr/86Sr | Age (Ma). Five data rows: 0.708980 | 6.20; 0.709000 | 5.86; 0.709020 | 5.40; 0.709040 | 4.75; 0.709060 | 3.00. Thin black grid borders, centered values."
+  },
+  "11": {
+    "stimulus": "Researchers used anonymized location data from the US and Côte d'Ivoire to document people's daily patterns of mobility, using these results to test the efficacy of the researchers' predictive computer model. In each country, unidirectional cycles among two, three, or four locations were empirically the most common pattern types; the graph shows each of these pattern types as a proportion of all pattern instances found for that country (e.g., the measured value for CI 3 in the graph, 0.12, indicates that the three-location pattern constituted 12% of all pattern instances in the Côte d'Ivoire data). The researchers ran their model twice under different assumptions, concluding that emphasizing the salience of local population density over personal preferences generally yielded the best results.",
+    "text": "Which choice most effectively uses data from the graph to illustrate the researchers' conclusion?",
+    "choices": {
+      "A": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be approximately 0.45 and 0.35, respectively, both below the measured values, whereas under the other assumption, the model overestimated the proportion for US 2 and overestimated that for CI 2.",
+      "B": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be in the range of 0.3 to 0.5, placing them farther from the measured values than were those predicted under the other assumption.",
+      "C": "Under the assumption that density is more salient than preferences, the US 2 and CI 2 proportions are approximately 0.65 and 0.85, respectively significantly higher than the values predicted under the other assumption and thus farther than those predictions from the measured values.",
+      "D": "Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and CI 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption."
+    },
+    "imageUrl": "NEEDS_SVG: Grouped bar chart; x-axis label \"Mobility pattern by country\"; y-axis \"Proportion\" from 0 to 0.8 (ticks 0, 0.2, 0.4, 0.6, 0.8). Categories: US 2, US 3, US 4, CI 2, CI 3, CI 4. Three bars per category (left to right): measured (solid black/dark fill), model: emphasis density (white/light fill with outline), model: emphasis preferences (dark gray/stippled). Approx values measured/density/preferences — US2: ~0.76/~0.68/~0.47; US3: ~0.12/~0.19/~0.18; US4: ~0.03/~0.05/~0.09; CI2: ~0.80/~0.85/~0.35; CI3: ~0.12/~0.08/~0.21; CI4: ~0.02/~0.01/~0.11. Legend below chart for the three series."
+  },
+  "12": {
+    "stimulus": "Last-mile delivery refers to the final step in delivering packages to customers—and this final step can be very difficult. Delivery companies are contending with the increasing popularity of next-day delivery and with the increasing volume of parcels to be delivered, resulting in a growing bottleneck of packages in the last-mile delivery stage. These companies have been experimenting with innovative solutions in last-mile delivery, including self-service lockers (containers where consumers can pick up their parcels using a unique code). Unfortunately, many of these innovations create new obstacles (e.g., convenient placement of self-service lockers is challenging) and are not ready for full-scale implementation. As a result, delivery companies will likely _______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "encourage consumers to expect next-day delivery only for products that are widely available.",
+      "B": "continue to struggle with last-mile delivery operations until viable solutions become available.",
+      "C": "be able to meet consumer's expectations for next-day delivery in many areas but not in all regions.",
+      "D": "have little incentive to find a solution to last-mile delivery challenges."
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "Across brown bears—omnivores with high dietary plasticity—there is wide variety in dietary mix, which may reflect genetics, local resource availability, or social learning (cubs stay with their mothers for two years or more). Evaluating these possibilities, Anne Hertel et al. analyzed 30 years of data on trophic position (indicative of dietary mix) for female brown bears. After separation, daughters, who tended to settle near their mothers, occupied the same trophic positions as their mothers for two years, but the correlation disappeared by year five. Trophic correlation with unrelated individuals in similar habitats was modest, while habitat-independent correlation with nonmaternal relatives (e.g., cousins) was no different than with unrelated individuals. These findings suggest that _______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "social learning and resource fluctuations may both play a role in dietary mix among females, at least temporarily, though genetic factors appear to make a significant contribution as well.",
+      "B": "female dietary mix is best understood as changeable and contingent on fluctuating environmental conditions rather than as the result of social learning or genetic factors.",
+      "C": "dietary mix among females may reflect a social learning effect that eventually diminishes, though environmental constraints cannot be ruled out as a contributing factor.",
+      "D": "dietary similarity among female brown bears is likely driven primarily by social learning during early independence but fades quickly as individual foraging habits develop."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "The parks of Los Angeles, California, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was created and _______ contents analyzed geotagged social media posts from Los Angeles. They found that posts from the city's parks contained more words associated with happiness than other posts did.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they're",
+      "B": "it's",
+      "C": "their",
+      "D": "its"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "On April 12, 1985, the space shuttle Discovery blasted off into space, commencing Mission _______ six days and twenty-three hours, the mission ended when the shuttle landed at Kennedy Space Center in Florida.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "STS-51-D, it lasted",
+      "B": "STS-51-D, lasting",
+      "C": "STS-51-D lasting",
+      "D": "STS-51-D. Lasting"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Now seen as a mechanical precursor to the e-reader, Spanish educator and inventor Ángela Ruiz Robles's Enciclopedia Mecánica eschewed pages in favor of three horizontal paper scrolls that could be easily swapped out to accommodate a range of subjects. Though Ruiz Robles's prototype had limited functionality, interactive features described in her 1949 patent—such as a button labeled \"verb\" that would illuminate relevant text when pressed—_______ an impressive early vision of hypertext.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "revealing",
+      "B": "reveal",
+      "C": "reveals",
+      "D": "has revealed"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Jane Austen's Northanger Abbey (1818) is considered a satire of another novel popular at the time: Ann Radcliffe's The Mysteries of Udolpho (1794), which Austen's heroine, Catherine Morland, is depicted reading. However, the similarity of the _______ experiences—the predicaments of both Catherine and Radcliffe's Emily St. Aubert result from men's greed—suggests that underlying the satire is a social critique.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "novel's protagonists'",
+      "B": "novels' protagonists",
+      "C": "novels' protagonists'",
+      "D": "novel's protagonist's"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Roger Angell's reputation as one of the greatest baseball writers of all ______ bolstered by dozens of New Yorker essays in which he demonstrated a deep affection for and knowledge of the game, has perhaps overshadowed his remarkable career as a fiction editor: during his decades-long tenure at the New Yorker, Angell helped shape the work of John Updike, Ann Beattie, and other contributors of note.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "time was",
+      "B": "time,",
+      "C": "time had been",
+      "D": "time, was"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Before the ratification of the 19th Amendment in 1920, many US territories extended voting rights to women, in part to spur westward migration that would help these territories meet population thresholds for statehood. The Territory of Wyoming approved women's suffrage in 1869 before attaining statehood in _______ while eastern states, lacking the same incentive, did not follow suit until after the turn of the century.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "1890, for example;",
+      "B": "1890, for example,",
+      "C": "1890; for example,",
+      "D": "1890, for example:"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Panama, one of many places that reveal their imperial history in their language. Contrast Panama with the Netherlands, which ceased to be part of the empire in _______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "1648 and",
+      "B": "1648:",
+      "C": "1648,",
+      "D": "1,648"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "To determine the approximate age of stone tools excavated from ancient lake beds in Saudi Arabia, archaeologist Eleanor Scerri and colleagues collected samples of sediments surrounding the tools; these samples were then analyzed using a method known as optically stimulated luminescence (OSL) dating. _______ OSL dating indicated that the tools were around 400,000 years old.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "By comparison,",
+      "C": "Similarly,",
+      "D": "Ultimately,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "The moon Lysithea orbits Jupiter in the same direction that the planet rotates. _______ Lysithea's orbit is described as prograde. Mneme, another of Jupiter's moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Next,",
+      "C": "Thus,",
+      "D": "However,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "Macarena Garcia Marin is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Garcia Marin's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. _______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Secondly,",
+      "C": "By contrast,",
+      "D": "Therefore,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "The Austronesian language of Nauruan has only about 10,300 living speakers. Although most Nauruan speakers live in Nauru, where the language originated, Nauruan is also spoken in New York City. _______ the New York-based Endangered Language Alliance has identified a group of Nauruan speakers in the city's Murray Hill neighborhood, in the borough of Manhattan.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Nonetheless,",
+      "B": "In addition,",
+      "C": "Meanwhile,",
+      "D": "Specifically,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "Nineteenth-century Modernista architects championed nature in their designs. Granted, the wavy stone façade and ornate floral tilework of Casa Batlló, a Modernista private home designed by Antoni Gaudí, couldn't exactly grow in a forest. _______ one sees natural influences in Gaudí's penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Furthermore,",
+      "B": "Similarly,",
+      "C": "Still,",
+      "D": "In other words,"
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).\n• The ACM gives the award for \"major contributions of lasting importance to computing.\"\n• It is named after groundbreaking British mathematician Alan Turing.\n• Barbara Liskov won the award in 2008.",
+    "text": "The student wants to explain whom the award is named for and identify one recipient of it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In 2008, Barbara Liskov won the A.M. Turing Award, which is given for \"major contributions of lasting importance to computing.\"",
+      "B": "The A.M. Turing Award, which is named for British mathematician Alan Turing, was given to Barbara Liskov in 2008.",
+      "C": "The A.M. Turing Award is given for \"major contributions of lasting importance to computing.\"",
+      "D": "It was in 2008 that Barbara Liskov won the A.M. Turing Award."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• When the electrons of a chemical element change energy states, certain wavelengths of light are released.\n• This unique collection of wavelengths is known as the emission spectrum of the element.\n• Titanium's emission spectrum includes the 430.5 nanometer (nm) wavelength.\n• Krypton's emission spectrum includes the 583.2 nm wavelength.\n• The violet portion of the visible spectrum is made up of light with wavelengths of 380–450 nm.",
+    "text": "The student wants to identify an emission spectrum that includes a wavelength in the violet portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The 583.2 nm wavelength, which is in the violet portion of the visible spectrum, is one wavelength in the emission spectrum of krypton.",
+      "B": "Since the 430.5 nm wavelength of light is within the 380–450 nm range, it is part of the violet portion of the visible spectrum.",
+      "C": "Containing the 430.5 nm and 583.2 nm wavelengths, respectively, both titanium's and krypton's emission spectra include wavelengths in the violet portion of the visible spectrum.",
+      "D": "Titanium's emission spectrum includes the 430.5 nm wavelength, which is in the violet portion of the visible spectrum."
+    },
+    "imageUrl": null
+  }
+}

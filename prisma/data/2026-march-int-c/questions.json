@@ -1,0 +1,1059 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "Lima beans were domesticated in South America. Their physical structure is no longer identical to the structure of the wild plant they are descended from. Summer squash also ______ its wild ancestor. That ancestor plant had a hard rind and bitter flesh. Indigenous people in eastern North America carefully bred the crop until it had a soft rind and mild-tasting flesh.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "reacts to",
+          "B": "helps with",
+          "C": "varies from",
+          "D": "argues with"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "\"Eyes of Zapata\" is an English-language short story by Sandra Cisneros. It occasionally includes Spanish words and phrases. The English text surrounding these words and phrases ______ their meaning, so readers who aren't familiar with Spanish can easily read the story. Ana Castillo takes the same approach in her novel So Far from God.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "loses",
+          "B": "purchases",
+          "C": "suspects",
+          "D": "suggests"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "The following text is from Billie Jean King's 2021 autobiography All In.\n\n[P]eople on both sides of my family had repeatedly demonstrated an independent streak. In the end, that was the temperament I gravitated toward, too. Both the Moffitts and the members of my mother's clan, the Jermans, came from mining and oil-geyser towns on the western frontier. They kept their heads down and worked, worked, worked. But they also bucked convention.",
+        "text": "As used in the text, what does the word \"demonstrated\" most nearly mean?",
+        "choices": {
+          "A": "Defined",
+          "B": "Exhibited",
+          "C": "Confirmed",
+          "D": "Protested"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Scientists studying marine ecosystems were surprised by the extent of internal carbon recycling by red coralline algae. While some ______ of carbon was expected, the scientists found that the algae reabsorb nearly 40% of the carbon dioxide they produce during calcification processes and harness it for photosynthesis.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "reuse",
+          "B": "supply",
+          "C": "imitation",
+          "D": "examination"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "The dinosaur displays at museums such as the American Museum of Natural History in New York (which has a mounted Allosaurus fragilis skeleton among its holdings) are notable for the ______ of the research behind them—the museum staff consulted numerous sources to ensure the accuracy of the displays.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "novelty",
+          "B": "obscurity",
+          "C": "rigor",
+          "D": "shallowness"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "The Nazca lines in Peru are designs marked in the earth by ancient peoples. Monuments like these were an inspiration for the land art movement that began in the 1960s. Land art artists create works set in the outdoors. For example, in his 1968 work Annual rings, Dennis Oppenheim fashioned concentric lines that look like tree rings into the ice that covered a waterway.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "The text describes the benefits of being an artist.",
+          "B": "The text argues against placing works of art outside.",
+          "C": "The text describes the popularity of art galleries in the 1960s.",
+          "D": "The text provides information about the land art movement."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Though Chloé Zhao's films are fictional, she incorporates real events into them in a documentary-like style and casts nonprofessional actors who reside in the places that she aims to portray. She also encourages these actors, whether they are teenagers living on the Pine Ridge Indian Reservation or adults who travel the country for work, to put as much of themselves into their roles as possible. Her approach adds powerful resonance to films that explore the highly personal experiences of place and home, and often the difficult decision to stay or leave.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "To summarize how Chloé Zhao's style of filmmaking changed over the course of her career",
+          "B": "To discuss how Chloé Zhao's background in documentary filmmaking has influenced her storytelling style in films",
+          "C": "To argue that Chloé Zhao's films are best understood as documentaries",
+          "D": "To emphasize that Chloé Zhao's decisions during the filmmaking process reinforce the themes of her films"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "While many initiatives aimed at limiting atmospheric warming focus on curbing emissions of methane (CH4), a greenhouse gas that is typically generated by microbially mediated processes, Lisa Y. Stein and Mary E. Lidstrom caution that under certain circumstances, such efforts cause microbial communities to accelerate production of nitrous oxide (N2O), another potent greenhouse gas, thus offsetting the impact of CH4 reduction. Researchers, therefore, need to take such biological interactions into account to ensure that any CH4 mitigation strategy has an overall positive climate effect.",
+        "text": "Which choice best describes the overall structure of the text?",
+        "choices": {
+          "A": "It presents an ongoing environmental challenge, demonstrates why the impact of that challenge may intensify over time, and then criticizes a misguidedly narrow attempt to address that impact.",
+          "B": "It describes a widely accepted approach to addressing an environmental issue caused by a type of chemical emissions, indicates a potential disadvantage of that approach, and then discusses an implication of that disadvantage.",
+          "C": "It reports on a predicament resulting from emissions of a particular greenhouse gas, outlines a strategy aimed at solving that predicament, and then admonishes those who utilize that strategy without fully comprehending its ramifications.",
+          "D": "It introduces a common strategy for mitigating emissions of one greenhouse gas, explains how that strategy could inadvertently increase emissions of another greenhouse gas, and then calls for a more comprehensive approach that accounts for such interactions."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "A debut novel is the first book that an author has published. An example of a debut novel is Freak the Mighty by Rodman Philbrick. It was published in 1993. Debut novels are especially interesting to literary critics and readers because these books offer a look at new voices in the literary world.",
+        "text": "Which choice best states the main topic of the text?",
+        "choices": {
+          "A": "Debut novels",
+          "B": "Famous literary critics",
+          "C": "The benefits of reading",
+          "D": "Careers in the publishing industry"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "Seventeenth-century Flemish artist Clara Peeters played a crucial role in the history of still-life painting. At a time when historical paintings were the preferred genre—indeed, at a time when there wasn't even a term for still-life painting in Peeters's language—Peeters painted food, flowers, fish, and game. Her influence spread throughout Western Europe and she became so strongly associated with the genre that painters who took up similar subjects were sometimes described as belonging to the \"circle of Peeters.\"",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "Clara Peeters was an important figure in the development of still-life painting.",
+          "B": "Clara Peeters made significant contributions to multiple genres of painting.",
+          "C": "Clara Peeters introduced the term \"still-life painting\" to Western Europe.",
+          "D": "Some paintings attributed to Clara Peeters may have been painted by other artists in her circle."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "Great Expectations is an 1861 novel by Charles Dickens. The narrator describes his uncle, Joe Gargery, as being both powerful and tender: ______",
+        "text": "Which quotation from Great Expectations most effectively illustrates the claim?",
+        "choices": {
+          "A": "\"In his working-clothes, Joe was a well-knit characteristic-looking blacksmith; in his holiday clothes, he was more like a scarecrow in good circumstances, than anything else.\"",
+          "B": "\"When I looked back at Joe in the long passage, he was still weighing his hat with the greatest care, and was coming after us in long strides on the tips of his toes.\"",
+          "C": "\"There I stood, for minutes, looking at Joe, already at work with a glow of health and strength upon his face that made it show as if the bright sun of the life in store for him were shining on it.\"",
+          "D": "\"Joe laid his hand upon my shoulder with the touch of a woman. I have often thought him since, like the steam-hammer that can crush a man or pat an egg-shell, in his combination of strength with gentleness.\""
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "Lin-Tai Ho and colleagues monitored fish populations in a tide pool in Taiwan. They found that some species were entirely absent from the tide pool at particular times of the year; for example, they did not observe even one ______",
+        "text": "Which choice most effectively uses data from the graph to complete the example?",
+        "choices": {
+          "A": "barred flagtail in January of 2001.",
+          "B": "striated rockskipper in January and April of 2001.",
+          "C": "barred flagtail in October of 2001.",
+          "D": "combtooth blenny in January of 2001."
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/eng1-q12-fish.svg"
+      },
+      "13": {
+        "stimulus": "Researchers have identified over eighty gestures made by nonhuman great apes, such as raising an arm and rocking from side to side, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. Though participants achieved some success, it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings.",
+        "text": "Which statement, if true, would most strongly support the underlined claim?",
+        "choices": {
+          "A": "When apes made mouth-touching gestures, which participants tended to correctly interpret as requests for food, the food was visible in the videos.",
+          "B": "Participants correctly identified gestures at the same rate for videos in which the apes made sounds in addition to gestures and videos in which the apes were silent.",
+          "C": "Participants correctly interpreted ape gestures more than 50 percent of the time, whereas they would have only identified gestures correctly 25 percent of the time if they had been guessing.",
+          "D": "Participants correctly interpreted gestures even when the videos were muted and the ape's surroundings were blurred, leaving only the gesture itself visible."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks batata vada and sabudana vada, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food's fat content. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. Therefore, the more moisture a food loses during frying, ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the lower the temperature must be to fry the food.",
+          "B": "the softer the crust will be when frying is completed.",
+          "C": "the higher the fat content will be when frying is completed.",
+          "D": "the quicker the crust will lose its permeability."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "The kawau tree is one of many forest plant species native to Oahu (a Hawaiian island) that are at risk of extinction in the wild. Ecologists say that fruit-eating birds help support these species' population numbers by dropping seeds from the plants' fruits to different spots where new plants can grow. The birds native to Oahu that used to do this have all gone extinct over time. However, the common waxbill and other fruit-eating bird species brought to the island in the last 150 years have been found to spread plant seeds. Based on this finding, some ecologists suggest that kawau trees and other forest plants native to Oahu ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "were likely already close to extinction long before non-native birds arrived on the island.",
+          "B": "probably established themselves on the island at about the same time as common waxbills and other fruit-eating birds did.",
+          "C": "seem to produce fewer fruits per plant now than they did when fruit-eating birds native to the island were still present.",
+          "D": "may now depend on non-native birds, such as the common waxbill, to help maintain and increase their populations on the island."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Though they are in different countries, the towns of Entebbe, Uganda, and Booue, Gabon, ______ They are among the rare places that sit almost directly on the equator.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "do have something in common?",
+          "B": "do they have something in common.",
+          "C": "do they have something in common?",
+          "D": "do have something in common."
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Pumpkins were among the many plant species from the Western Hemisphere introduced into the Eastern Hemisphere in the years following Christopher Columbus's first transatlantic voyage in 1492. This ongoing transfer of species between hemispheres ______ now known as the Columbian Exchange.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "being",
+          "B": "are",
+          "C": "is",
+          "D": "were"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Among several noun cases used in Sanskrit and other Indo-Aryan languages ______ the locative case, used to indicate that an action is occurring in, at, on, or near a particular noun.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "have been",
+          "B": "are",
+          "C": "is",
+          "D": "were"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "It was long thought that maize was domesticated solely from parviglumis — a subspecies of teosinte, a wild grass — in Mexico's lowlands about 9,000 years ago. However, a 2024 analysis has revealed that between 15 and 25 percent of maize's genes can be traced to a second ______ highland subspecies of teosinte that was hybridized with maize around 4,000 years after the initial domestication.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "ancestor; mexicana, a",
+          "B": "ancestor: mexicana, a",
+          "C": "ancestor mexicana a",
+          "D": "ancestor, mexicana. A"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "Hummingbird flower mites use electroreception to detect electric fields created by flapping hummingbird wings, allowing mites to travel from flower to flower in hummingbird beaks. Both host detection and transportation are electrically ______ when mites move their legs toward the arriving hummingbird, they are pulled by electrostatic force to the bird's modulated electric fields—a process that occurs in milliseconds.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "mediated,",
+          "B": "mediated",
+          "C": "mediated:",
+          "D": "mediated and"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Germany, in 2006. The event, which is held every four years, used to be much smaller and more limited geographically. ______ the 1930 World Cup in Uruguay included only 13 teams, all from Europe and the Americas.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In addition,",
+          "B": "At last,",
+          "C": "For example,",
+          "D": "However,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "Karel Čapek's 1920 play R.U.R. (Rossum's Universal Robots), in which artificial workers overthrow their masters, left an indelible mark on the science fiction genre, and the English language, by introducing the term \"robot\" (derived from the Czech word robota, meaning \"indentured labor\" or \"drudgery\"). ______ Čapek's play also contributed to a venerable literary and mythological tradition: using artificial beings as mirrors and foils for humanity.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "By achieving such a lofty goal,",
+          "B": "Beyond the simple coining of a term,",
+          "C": "Despite its creation of such an iconic trope,",
+          "D": "Ultimately limited in its lasting influence,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Letters from a Peruvian Woman (1747) is an epistolary novel by French author Françoise de Graffigny.\n• Epistolary novels are novels written primarily as a series of fictional documents.\n• These documents can be letters, journal entries, newspaper clippings, and more.\n• Letters from a Peruvian Woman consists primarily of letters.\n• The letters are sent between a captured Incan princess and her fiancé.",
+        "text": "The student wants to define the term \"epistolary novel.\" Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Published in 1747, Letters from a Peruvian Woman is an epistolary novel by French author Françoise de Graffigny.",
+          "B": "Françoise de Graffigny's novel Letters from a Peruvian Woman was published in 1747 and consists primarily of letters sent between a captured Incan princess and her fiancé.",
+          "C": "Consisting primarily of letters sent between a captured Incan princess and her fiancé, Françoise de Graffigny's Letters from a Peruvian Woman is an epistolary novel.",
+          "D": "An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings."
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The human tongue contains taste receptors for a rich, savory flavor called umami.\n• Umami is triggered by the compounds in a variety of foods, including sardines and mushrooms.\n• Participants in a study tasted a sample of wakame, a type of brown seaweed.\n• They rated its umami intensity as moderate.\n• The participants tasted a sample of ma-konbu, another type of brown seaweed.\n• They rated its umami intensity as high.",
+        "text": "The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "While wakame and ma-konbu contain umami flavor, umami can also be found in sardines and mushrooms.",
+          "B": "After tasting two types of brown seaweed, wakame and ma-konbu, participants in a study found ma-konbu's umami flavor to be the more intense of the two.",
+          "C": "Wakame is a type of brown seaweed, but so is ma-konbu.",
+          "D": "Some types of brown seaweed, like wakame and ma-konbu, trigger umami flavor in human taste buds."
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.\n• It is also known as a land bridge.\n• The Isthmus of Tehuantepec is located in Mexico.\n• It connects the southern tip of Mexico to the northern part of Mexico.",
+        "text": "The student wants to provide a specific example of an isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "There is a land bridge in Mexico.",
+          "B": "One example of an isthmus is the Isthmus of Tehuantepec in Mexico.",
+          "C": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water.",
+          "D": "In Mexico, the southern tip of Mexico is connected to the northern part of Mexico."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Albert Einstein's theory of general relativity allows for potential shortcuts through spacetime.\n• These hypothetical spacetime tunnels are known as wormholes.\n• For matter to travel through a wormhole, it would need to have negative energy density.\n• Negative energy density means that the matter would have less energy than empty space.\n• Such matter has not been shown to exist.",
+        "text": "The student wants to acknowledge a complication affecting travel through wormholes. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The hypothetical tunnels known as wormholes would be potential shortcuts through spacetime were it not for one complication: they have less energy than empty space.",
+          "B": "Einstein's theory of general relativity allows for potential spacetime shortcuts called wormholes but does not explain how matter with negative energy density could travel through them.",
+          "C": "For matter to travel through a wormhole, the matter would need to have less energy than empty space; such matter has not been shown to exist.",
+          "D": "Wormholes are hypothetical tunnels in spacetime that could allow for shortcuts, but no matter has yet been found that can travel through them without being destroyed."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Shanawdithit (1801-1829) was a Beothuk cartographer (mapmaker).\n• Her maps of Newfoundland's Beothuk Lake outline both the lake and various points around the lake where encounters between the Indigenous Beothuk people and British colonists occurred.\n• Her maps are notable for depicting the experiences the Beothuk had within the landscape.\n• Contemporary Potawatomi cartographer Margaret Pearce: Indigenous cartography emphasizes \"experienced space, or place, as opposed to the Western convention of depicting space as universal, homogenized, and devoid of human experience.\"\n• Pearce: \"Indigenous cartographies are as diverse as Indigenous cultures, from Hawaiian performative cartographies to Navajo verbal maps and sand paintings.\"",
+        "text": "The student wants to describe Shanawdithit's approach and explain its significance. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Shanawdithit's maps are part of a broader tradition of Indigenous cartography that, according to Pearce, ranges from \"Hawaiian performative cartographies to Navajo verbal maps and sand paintings.\"",
+          "B": "Shanawdithit mapped Beothuk Lake through significant encounters that occurred there, an approach that Pearce describes as \"depicting space as universal [and] homogenized.\"",
+          "C": "By depicting experiences of the Beothuk that occurred around Beothuk Lake, Shanawdithit's maps reflect Indigenous cartography's emphasis on \"experienced space, or place\" rather than the landscape alone.",
+          "D": "Shanawdithit's maps of Beothuk Lake were created in the early nineteenth century, making them among the earliest known examples of Indigenous cartography in Newfoundland."
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "Although more documentaries are being made than ever before, too many seem _______, offering stories without any depth. In a refreshing contrast, Ahmir \"Questlove\" Thompson's 2021 documentary Summer of Soul (...or, When the Revolution Could Not Be Televised) draws from present-day interviews to supply compelling historical and social context for footage of the 1969 Harlem Cultural Festival.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "cryptic",
+          "B": "inaccessible",
+          "C": "haughty",
+          "D": "perfunctory"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Among saltwater fish species, there is a clear association between habitat latitude and morphological variety. While tropical species are _______ deep-bodied physical forms (body shapes that are laterally compressed but vertically extended), polar and temperate species are highly dispersed across the morphological spectrum.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "authenticated by",
+          "B": "concentrated among",
+          "C": "habituated to",
+          "D": "contemporary with"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her reserve; I merely felt in her an insurmountable reluctance to speak of him.",
+        "text": "As used in the text, what does the word \"reserve\" most nearly mean?",
+        "choices": {
+          "A": "Misgiving",
+          "B": "Constraint",
+          "C": "Composure",
+          "D": "Modesty"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "The work of Tobias Gerstenberg et al. on tracking eye movements supports a theory that people envision _______ scenarios when making causal judgments: when subjects were asked to look at two colliding billiard balls and judge whether one caused or prevented the other's movement through a gate, their eyes looked at where the target ball would have gone if the ball that altered its path did not exist.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "ambivalent",
+          "B": "retrospective",
+          "C": "counterfactual",
+          "D": "analogical"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Paul Linebarger is often recognized as an influential science fiction writer (under the pen name Cordwainer Smith), but his most significant work was a 1940s classified US Army guide exploring the role of propaganda in times of war. Citing the uniquely absorbing nature of motion pictures, he contended that US propaganda should equal popular films in its appeal, entertaining audiences while engendering views of the nation as an ally. Linebarger's work shaped the distinctive US approach to promoting national interests, one that continues to draw inspiration from elements of pop culture.",
+        "text": "Which choice best describes the overall structure of the text?",
+        "choices": {
+          "A": "It distinguishes a work from others in its genre, outlines the central objective of that work, and then addresses a recent resurgence of interest in that work.",
+          "B": "It sketches the development of a prominent work, familiarizes readers with an argument in that work, and then suggests that the work has had repercussions in other fields.",
+          "C": "It characterizes a work as having been underappreciated, describes a core concept in that work, and then argues that the influence of that concept is recognizable in other works.",
+          "D": "It introduces a significant work, summarizes a noteworthy idea in that work, and then places that idea into a context that demonstrates its broader implications."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "Text 1\nIn separate studies, Lingbo Meng and colleagues and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meng and colleagues excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.\n\nText 2\nMeng and colleagues took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.",
+        "text": "Based on the texts, how would the author of Text 2 most likely respond to the characterization of Meng and colleagues' study in Text 1?",
+        "choices": {
+          "A": "By asserting that the author of Text 1 has overstated the effectiveness of the method that Meng and colleagues used",
+          "B": "By pointing out that the author of Text 1 has overlooked studies that reported results that contradict those reported by Meng and colleagues",
+          "C": "By claiming that the author of Text 1 has misrepresented what Meng and colleagues were trying to achieve with their experimental design",
+          "D": "By arguing that the author of Text 1 has conflated the method used by Meng and colleagues with that used by He and colleagues"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "The fifteenth-century English Heege Manuscript is unusual among collections of its kind and time given its focus on fantasy tales over more acclaimed works by celebrated medieval authors like Hoccleve. But according to professor James Wade, even more unusually, the three texts in the manuscript's first booklet were likely copied by Richard Heege from a traveling minstrel's repertoire book. The evidence includes performative elements such as the narrator politely addressing the audience, joking about peasants and royalty, and making jokes that could be modified to refer to the town of Radford when in nearby Brackonwet to avoid giving offense.",
+        "text": "As presented in the text, Wade would most likely agree with which statement about the first booklet of the Heege Manuscript?",
+        "choices": {
+          "A": "It was likely a copy Heege intended to give to a traveling minstrel working in the area around Radford and Brackonwet.",
+          "B": "The texts it includes were based on stories about the area around Radford and Brackonwet, but these names were later removed.",
+          "C": "It was copied from a text that originated from a traveling minstrel who worked in the area around Radford and Brackonwet.",
+          "D": "It was written down by Heege from memory based on a performance by a traveling minstrel who worked in the area around Radford and Brackonwet."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Within higher education, studying philosophy requires that students be conversant with the field's foundational texts and historical figures. By contrast, doing philosophy within or beyond the academy demands the creative, self-directed application of acquired expertise to enduring questions about the nature of existence and knowledge. While both approaches engage with influential figures, those who do philosophy treat such figures as vital interlocutors who facilitate new insights rather than as ossified authorities who, though relevant to the present, primarily represent the discipline's past.",
+        "text": "Based on the text, which choice best describes the relationship between doing philosophy and studying philosophy?",
+        "choices": {
+          "A": "Doing philosophy involves developing novel ideas through imagined dialogue with past philosophers based on knowledge of those philosophers' views acquired by studying philosophy.",
+          "B": "Doing philosophy helps students formulate concrete solutions to practical issues, whereas studying philosophy prioritizes engagement with historical arguments in the field.",
+          "C": "Doing philosophy represents a departure from the norms that govern scholarly inquiry, whereas studying philosophy requires conformation to these norms.",
+          "D": "Doing philosophy requires students to challenge the ideas articulated by past philosophers, especially when these ideas are broadly accepted by other people studying philosophy."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Archaeologist Weiwei Wang and her colleagues analyzed footed grinding slabs and other food-preparation tools excavated from OC Eo, a Southeast Asian port city that flourished between the first and sixth centuries CE. Wang and colleagues recovered microscopic remnants of turmeric and other spices from the surfaces of the tools. Turmeric is native to South Asia, more than a thousand miles west of OC Eo, and the researchers showed that the footed grinding slabs at OC Eo are very similar to footed grinding slabs common throughout South Asia from around 500 BCE to 300 CE. Wang and colleagues' findings therefore indicate that there must have been a trade link, whether direct or indirect, between the two regions.",
+        "text": "Which finding, if true, would directly weaken the conclusion about Wang and her colleagues' findings that is presented in the text?",
+        "choices": {
+          "A": "Other types of artifacts originating in South Asia and dating to the first through sixth centuries CE have been found throughout Southeast Asia.",
+          "B": "In the first through third centuries CE, there was a significant migration of people from South Asia to Southeast Asia.",
+          "C": "The people of OC Eo and several communities in South Asia regularly traded with people in the region that is now the Southeast Asian country of Malaysia no later than the first century CE.",
+          "D": "Some of the spices recovered from OC Eo are native to the Maluku Islands, which are located approximately 2,000 miles southeast of OC Eo."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "The late Hemphillian (Hh) North American Land Mammal Age includes the subdivisions Hh3, 6.8 million years ago (Ma) to 6 Ma, and Hh4, 6 Ma to 4.75 Ma. While mammalian fossils have indicated that Florida's Montbrook Fossil Site (MFS) and Palmetto Fauna of the Bone Valley Region (PFBV) date to Hh4, a more precise determination of the sites' ages has proved challenging. Stephanie R. Killingsworth et al. compared average ratios of strontium-87 to strontium-86 (87Sr/86Sr) in fossil shark teeth from MFS and PFBV — 0.709000 and 0.709028, respectively — to 87Sr/86Sr ratios in the global strontium seawater curve, a record that shows how 87Sr/86Sr ratios in seawater correspond to numerical ages and that is used to date fossils and, by extension, fossil sites. The researchers concluded that _______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "mammalian fossil evidence offers less dating precision than do 87Sr/86Sr ratios in fossil shark teeth and that PFBV likely was deposited closer to the Hh3-Hh4 boundary than was MFS.",
+          "B": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV resolve previous uncertainty about the sites' relative ages by indicating that both sites were deposited contemporaneously during the late Hh.",
+          "C": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV only partially support the site age estimates previously established through mammalian fossil evidence.",
+          "D": "the average 87Sr/86Sr ratios in the fossil shark teeth from MFS and PFBV corroborate that both MFS and PFBV fall within Hh4 but suggest that PFBV was likely deposited more recently than MFS."
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/eng2-q10-strontium.svg"
+      },
+      "11": {
+        "stimulus": "Researchers used anonymized location data from the US and Côte d'Ivoire to document people's daily patterns of mobility, using these results to test the efficacy of the researchers' predictive computer model. In each country, unidirectional cycles among two, three, or four locations were empirically the most common pattern types; the graph shows each of these pattern types as a proportion of all pattern instances found for that country (e.g., the measured value for CI 3 in the graph, 0.12, indicates that the three-location pattern constituted 12% of all pattern instances in the Côte d'Ivoire data). The researchers ran their model twice under different assumptions, concluding that emphasizing the salience of local population density over personal preferences generally yielded the best results.",
+        "text": "Which choice most effectively uses data from the graph to illustrate the researchers' conclusion?",
+        "choices": {
+          "A": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be approximately 0.45 and 0.35, respectively, both below the measured values, whereas under the other assumption, the model overestimated the proportion for US 2 and overestimated that for CI 2.",
+          "B": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be in the range of 0.3 to 0.5, placing them farther from the measured values than were those predicted under the other assumption.",
+          "C": "Under the assumption that density is more salient than preferences, the US 2 and CI 2 proportions are approximately 0.65 and 0.85, respectively significantly higher than the values predicted under the other assumption and thus farther than those predictions from the measured values.",
+          "D": "Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and CI 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption."
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/eng2-q11-mobility.svg"
+      },
+      "12": {
+        "stimulus": "Last-mile delivery refers to the final step in delivering packages to customers—and this final step can be very difficult. Delivery companies are contending with the increasing popularity of next-day delivery and with the increasing volume of parcels to be delivered, resulting in a growing bottleneck of packages in the last-mile delivery stage. These companies have been experimenting with innovative solutions in last-mile delivery, including self-service lockers (containers where consumers can pick up their parcels using a unique code). Unfortunately, many of these innovations create new obstacles (e.g., convenient placement of self-service lockers is challenging) and are not ready for full-scale implementation. As a result, delivery companies will likely _______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "encourage consumers to expect next-day delivery only for products that are widely available.",
+          "B": "continue to struggle with last-mile delivery operations until viable solutions become available.",
+          "C": "be able to meet consumer's expectations for next-day delivery in many areas but not in all regions.",
+          "D": "have little incentive to find a solution to last-mile delivery challenges."
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "Across brown bears—omnivores with high dietary plasticity—there is wide variety in dietary mix, which may reflect genetics, local resource availability, or social learning (cubs stay with their mothers for two years or more). Evaluating these possibilities, Anne Hertel et al. analyzed 30 years of data on trophic position (indicative of dietary mix) for female brown bears. After separation, daughters, who tended to settle near their mothers, occupied the same trophic positions as their mothers for two years, but the correlation disappeared by year five. Trophic correlation with unrelated individuals in similar habitats was modest, while habitat-independent correlation with nonmaternal relatives (e.g., cousins) was no different than with unrelated individuals. These findings suggest that _______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "social learning and resource fluctuations may both play a role in dietary mix among females, at least temporarily, though genetic factors appear to make a significant contribution as well.",
+          "B": "female dietary mix is best understood as changeable and contingent on fluctuating environmental conditions rather than as the result of social learning or genetic factors.",
+          "C": "dietary mix among females may reflect a social learning effect that eventually diminishes, though environmental constraints cannot be ruled out as a contributing factor.",
+          "D": "dietary similarity among female brown bears is likely driven primarily by social learning during early independence but fades quickly as individual foraging habits develop."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "The parks of Los Angeles, California, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was created and _______ contents analyzed geotagged social media posts from Los Angeles. They found that posts from the city's parks contained more words associated with happiness than other posts did.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "they're",
+          "B": "it's",
+          "C": "their",
+          "D": "its"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "On April 12, 1985, the space shuttle Discovery blasted off into space, commencing Mission _______ six days and twenty-three hours, the mission ended when the shuttle landed at Kennedy Space Center in Florida.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "STS-51-D, it lasted",
+          "B": "STS-51-D, lasting",
+          "C": "STS-51-D lasting",
+          "D": "STS-51-D. Lasting"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Now seen as a mechanical precursor to the e-reader, Spanish educator and inventor Ángela Ruiz Robles's Enciclopedia Mecánica eschewed pages in favor of three horizontal paper scrolls that could be easily swapped out to accommodate a range of subjects. Though Ruiz Robles's prototype had limited functionality, interactive features described in her 1949 patent—such as a button labeled \"verb\" that would illuminate relevant text when pressed—_______ an impressive early vision of hypertext.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "revealing",
+          "B": "reveal",
+          "C": "reveals",
+          "D": "has revealed"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Jane Austen's Northanger Abbey (1818) is considered a satire of another novel popular at the time: Ann Radcliffe's The Mysteries of Udolpho (1794), which Austen's heroine, Catherine Morland, is depicted reading. However, the similarity of the _______ experiences—the predicaments of both Catherine and Radcliffe's Emily St. Aubert result from men's greed—suggests that underlying the satire is a social critique.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "novel's protagonists'",
+          "B": "novels' protagonists",
+          "C": "novels' protagonists'",
+          "D": "novel's protagonist's"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Roger Angell's reputation as one of the greatest baseball writers of all ______ bolstered by dozens of New Yorker essays in which he demonstrated a deep affection for and knowledge of the game, has perhaps overshadowed his remarkable career as a fiction editor: during his decades-long tenure at the New Yorker, Angell helped shape the work of John Updike, Ann Beattie, and other contributors of note.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "time was",
+          "B": "time,",
+          "C": "time had been",
+          "D": "time, was"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Before the ratification of the 19th Amendment in 1920, many US territories extended voting rights to women, in part to spur westward migration that would help these territories meet population thresholds for statehood. The Territory of Wyoming approved women's suffrage in 1869 before attaining statehood in _______ while eastern states, lacking the same incentive, did not follow suit until after the turn of the century.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "1890, for example;",
+          "B": "1890, for example,",
+          "C": "1890; for example,",
+          "D": "1890, for example:"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Panama, one of many places that reveal their imperial history in their language. Contrast Panama with the Netherlands, which ceased to be part of the empire in _______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "1648 and",
+          "B": "1648:",
+          "C": "1648,",
+          "D": "1,648"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "To determine the approximate age of stone tools excavated from ancient lake beds in Saudi Arabia, archaeologist Eleanor Scerri and colleagues collected samples of sediments surrounding the tools; these samples were then analyzed using a method known as optically stimulated luminescence (OSL) dating. _______ OSL dating indicated that the tools were around 400,000 years old.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In addition,",
+          "B": "By comparison,",
+          "C": "Similarly,",
+          "D": "Ultimately,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "The moon Lysithea orbits Jupiter in the same direction that the planet rotates. _______ Lysithea's orbit is described as prograde. Mneme, another of Jupiter's moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Likewise,",
+          "B": "Next,",
+          "C": "Thus,",
+          "D": "However,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "Macarena Garcia Marin is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Garcia Marin's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. _______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Similarly,",
+          "B": "Secondly,",
+          "C": "By contrast,",
+          "D": "Therefore,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "The Austronesian language of Nauruan has only about 10,300 living speakers. Although most Nauruan speakers live in Nauru, where the language originated, Nauruan is also spoken in New York City. _______ the New York-based Endangered Language Alliance has identified a group of Nauruan speakers in the city's Murray Hill neighborhood, in the borough of Manhattan.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Nonetheless,",
+          "B": "In addition,",
+          "C": "Meanwhile,",
+          "D": "Specifically,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "Nineteenth-century Modernista architects championed nature in their designs. Granted, the wavy stone façade and ornate floral tilework of Casa Batlló, a Modernista private home designed by Antoni Gaudí, couldn't exactly grow in a forest. _______ one sees natural influences in Gaudí's penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Furthermore,",
+          "B": "Similarly,",
+          "C": "Still,",
+          "D": "In other words,"
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).\n• The ACM gives the award for \"major contributions of lasting importance to computing.\"\n• It is named after groundbreaking British mathematician Alan Turing.\n• Barbara Liskov won the award in 2008.",
+        "text": "The student wants to explain whom the award is named for and identify one recipient of it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "In 2008, Barbara Liskov won the A.M. Turing Award, which is given for \"major contributions of lasting importance to computing.\"",
+          "B": "The A.M. Turing Award, which is named for British mathematician Alan Turing, was given to Barbara Liskov in 2008.",
+          "C": "The A.M. Turing Award is given for \"major contributions of lasting importance to computing.\"",
+          "D": "It was in 2008 that Barbara Liskov won the A.M. Turing Award."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• When the electrons of a chemical element change energy states, certain wavelengths of light are released.\n• This unique collection of wavelengths is known as the emission spectrum of the element.\n• Titanium's emission spectrum includes the 430.5 nanometer (nm) wavelength.\n• Krypton's emission spectrum includes the 583.2 nm wavelength.\n• The violet portion of the visible spectrum is made up of light with wavelengths of 380–450 nm.",
+        "text": "The student wants to identify an emission spectrum that includes a wavelength in the violet portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The 583.2 nm wavelength, which is in the violet portion of the visible spectrum, is one wavelength in the emission spectrum of krypton.",
+          "B": "Since the 430.5 nm wavelength of light is within the 380–450 nm range, it is part of the violet portion of the visible spectrum.",
+          "C": "Containing the 430.5 nm and 583.2 nm wavelengths, respectively, both titanium's and krypton's emission spectra include wavelengths in the violet portion of the visible spectrum.",
+          "D": "Titanium's emission spectrum includes the 430.5 nm wavelength, which is in the violet portion of the visible spectrum."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": null,
+        "text": "A cube has an edge length of 7 inches. What is the volume, in cubic inches, of the cube?",
+        "choices": {
+          "A": "28",
+          "B": "49",
+          "C": "294",
+          "D": "343"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "y < x\nx < 31",
+        "text": "For which of the following tables are all the values of x and their corresponding values of y solutions to the given system of inequalities?",
+        "choices": {
+          "A": "x: 28, 29, 30; y: 27, 28, 29",
+          "B": "x: 28, 29, 30; y: 29, 30, 31",
+          "C": "x: 32, 33, 34; y: 31, 32, 33",
+          "D": "x: 32, 29, 30; y: 33, 30, 31"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math1-q02-tables.svg"
+      },
+      "3": {
+        "stimulus": null,
+        "text": "For the linear function f, f(4) = 17 and f(8) = 1. Which equation defines f?",
+        "choices": {
+          "A": "f(x) = -(1/4)x + 18",
+          "B": "f(x) = (1/4)x - 1",
+          "C": "f(x) = -4x + 21",
+          "D": "f(x) = -4x + 33"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "Data set X: 13, 15, 17, 20, 23, 24, 24, 25, 37\nData set Y: 13, 15, 17, 20, 23, 24, 24, 25, 32\nData set Y is created by replacing the number 37 in data set X with the number 32. Which of the following statements is true about the means and medians of data set X and data set Y?",
+        "choices": {
+          "A": "The mean of data set X is greater than the mean of data set Y, and the median of data set X equals the median of data set Y.",
+          "B": "The mean of data set X is greater than the mean of data set Y, and the median of data set X is greater than the median of data set Y.",
+          "C": "The mean of data set X equals the mean of data set Y, and the median of data set X equals the median of data set Y.",
+          "D": "The mean of data set X is less than the mean of data set Y, and the median of data set X is greater than the median of data set Y."
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "If x + 4y = 34 and 9x - 20y = -86, what is the value of y?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "y = 9(x - 3)\ny = (x - 3)^2",
+        "text": "Which ordered pair x, y is a solution to the given system of equations?",
+        "choices": {
+          "A": "6, -9",
+          "B": "3, 12",
+          "C": "12, 81",
+          "D": "12, -9"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "An entomologist placed an initial population of 20 Tenebrio molitor, a type of beetle, into a habitat and monitored the population over time. When the number of Tenebrio molitor in the habitat reached 180% of the initial population, the entomologist moved 75% of the Tenebrio molitor to a second habitat. How many Tenebrio molitor did the entomologist move to the second habitat at this time?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "For the polynomial function f, the graph of y = f(x) in the xy-plane passes through the points (-3, 0), (1, 0), and (7, 0). Which of the following must be a factor of f(x)?",
+        "choices": {
+          "A": "x + 1",
+          "B": "x + 7",
+          "C": "x - 1",
+          "D": "x - 3"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "The expression (6x^22)/(18x^b) is equivalent to (1/3)x^5, where b is a constant and x > 0. What is the value of b?",
+        "choices": {
+          "A": "5/22",
+          "B": "22/5",
+          "C": "17",
+          "D": "27"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "C(t) = 220 · 2^((t - 12)/51) + 8",
+        "text": "The function C gives the estimated number of cephalopods, a class of marine animal, in a certain area, where t is the number of months since a study began. How many months after the study began was the number of cephalopods in the area estimated to be 228?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "In the figure shown, d, e, and f are constants and the value of k is 3. If the measure of angles D, E, and F are 30°, x°, and (2x + 6)°, respectively, what is the measure, in degrees, of angle S?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math1-q11-triangles.svg"
+      },
+      "12": {
+        "stimulus": null,
+        "text": "During a physics experiment, the speed of an object was determined to be 145.0 inches per second. What is this speed in feet per second? (12 inches = 1 foot)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "Line k is shown in the xy-plane. Line j (not shown) is perpendicular to line k and passes through the point (16, 22). What is the y-coordinate of the y-intercept of line j?",
+        "choices": {
+          "A": "-23/2",
+          "B": "-1/2",
+          "C": "4/5",
+          "D": "46/5"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math1-q13-line-k.svg"
+      },
+      "14": {
+        "stimulus": null,
+        "text": "The graph of y = f(x) + 2 is shown, where f is defined by an equation of the form f(x) = ab^x + c. If a, b, and c are integer constants and c ≤ 0, which equation could define f?",
+        "choices": {
+          "A": "f(x) = -6(2^x)",
+          "B": "f(x) = -6(2^x) - 2",
+          "C": "f(x) = -6(2^x) - 4",
+          "D": "f(x) = -6(2^x) - 6"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math1-q14-exponential.svg"
+      },
+      "15": {
+        "stimulus": null,
+        "text": "One gallon of sealant costs $17 and will cover 450 square feet of a surface. A deck has a total surface area of d square feet. Which equation represents the cost c, in dollars, of the sealant needed to cover the deck twice?",
+        "choices": {
+          "A": "c = 450d/17",
+          "B": "c = 900d/17",
+          "C": "c = 17(d/225)",
+          "D": "c = 17(d/450)"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "A bag contains only yellow marbles and red marbles. The probability of selecting a yellow marble from the bag at random is 5/19. What is the probability of selecting a red marble from the bag at random?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "What is 5% of 580?",
+        "choices": {
+          "A": "575",
+          "B": "290",
+          "C": "116",
+          "D": "29"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 128x. What is the value of f(x) when x = 3?",
+        "choices": {
+          "A": "64",
+          "B": "128",
+          "C": "256",
+          "D": "384"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "A manager is responsible for ordering supplies for a coffee shop. The shop's inventory starts with 6,600 disposable cups, and the manager estimates that 110 of these cups are used each day. Based on this estimate, in how many days will the inventory of disposable cups reach 1,100?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "The graph of the linear function f is shown, where y = f(x). Which equation defines function f?",
+        "choices": {
+          "A": "f(x) = -2x + 4",
+          "B": "f(x) = -2x - 4",
+          "C": "f(x) = 2x + 4",
+          "D": "f(x) = 2x - 4"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math1-q20-line.svg"
+      },
+      "21": {
+        "stimulus": "x^2 - 40x = 0",
+        "text": "Which of the following is a solution to the given equation?",
+        "choices": {
+          "A": "80",
+          "B": "40",
+          "C": "20",
+          "D": "√40"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "If 4(x - 9) - 4 = 7(x - 9) + 4, what is the value of x - 9?",
+        "choices": {
+          "A": "-8/3",
+          "B": "-3/8",
+          "C": "4/7",
+          "D": "8/11"
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "The product of a positive number x and the number that is 5 less than x is equal to 104. What is the value of x?",
+        "choices": {
+          "A": "2.5",
+          "B": "13",
+          "C": "99",
+          "D": "109"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "What is an equation of the graph shown?",
+        "choices": {
+          "A": "y = 3^(−x) + 11",
+          "B": "y = 3^x + 11",
+          "C": "y = 3^(−x) + 10",
+          "D": "y = 3^x + 10"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math2-q02-exponential.svg"
+      },
+      "3": {
+        "stimulus": null,
+        "text": "Triangle ABC is similar to triangle XYZ, such that A, B, and C correspond to X, Y, and Z, respectively. The length of each side of triangle XYZ is 2 times the length of its corresponding side in triangle ABC. The measure of angle B is 17°. What is the measure of angle Y, in degrees?",
+        "choices": {
+          "A": "15",
+          "B": "17",
+          "C": "19",
+          "D": "34"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "The measure of angle R is 2π/3 radians. The measure of angle T is 23π/18 radians greater than the measure of angle R. What is the measure of angle T, in degrees?",
+        "choices": {
+          "A": "120",
+          "B": "230",
+          "C": "350",
+          "D": "700"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "A total of 255 people registered for a city's annual race as either a runner or a walker. 210 people registered as a runner. How many people registered as a walker?",
+        "choices": {
+          "A": "510",
+          "B": "255",
+          "C": "210",
+          "D": "45"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "The scatterplot shows the temperature, in degrees Fahrenheit °F, and the elevation, in feet, measured at 6 locations on a mountain. A line of best fit is also shown. At an elevation of 4,000 feet, what is the temperature, in °F, predicted by the line of best fit?",
+        "choices": {
+          "A": "54",
+          "B": "30",
+          "C": "15",
+          "D": "0"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math2-q06-scatter.svg"
+      },
+      "7": {
+        "stimulus": null,
+        "text": "The graph of a system of a linear equation and a quadratic equation is shown. What is the solution x, y to this system?",
+        "choices": {
+          "A": "0 2",
+          "B": "0 3",
+          "C": "−3 2",
+          "D": "3 −2"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math2-q07-line-parabola.svg"
+      },
+      "8": {
+        "stimulus": "5x = 35",
+        "text": "What is the positive solution to the given equation?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "During an experiment, a particle's speed was 41 feet per second. What is this speed in feet per minute?",
+        "choices": {
+          "A": "71",
+          "B": "101",
+          "C": "1,230",
+          "D": "2,460"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "A rectangle has a length of 100 centimeters and a width of 400 centimeters. What is the area, in square centimeters, of the rectangle?",
+        "choices": {
+          "A": "100",
+          "B": "500",
+          "C": "40,000",
+          "D": "40,400"
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = x^2 + 79. What is the value of f(x) when x = 10?",
+        "choices": {
+          "A": "−179",
+          "B": "−21",
+          "C": "21",
+          "D": "179"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "What is the x-intercept of the graph of y = (45 − x)/(ax + b) in the xy-plane, where a and b are positive constants?",
+        "choices": {
+          "A": "(−b/a, 0)",
+          "B": "(0, 45/b)",
+          "C": "(0, −45)",
+          "D": "(45, 0)"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "Kayra spent $74 at a book sale and bought a total of 22 books. She bought h hardcover books for $4 each and p paperback books for $3 each. Which system of equations represents this situation?",
+        "choices": {
+          "A": "h + p = 22\n3h + 4p = 74",
+          "B": "h + p = 22\n4h + 3p = 74",
+          "C": "h + p = 74\n3h + 4p = 22",
+          "D": "h + p = 74\n4h + 3p = 22"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "2x + 7y = 58\ny = 6",
+        "text": "The solution to the given system of equations is (x, y). What is the value of x?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "The table summarizes the distribution of average pitching speed, in miles per hour (mph), for a sample of 24 pitchers in a youth softball league. According to the table, how many pitchers in the sample have an average pitching speed of at least 30 mph but less than 35 mph?",
+        "choices": {
+          "A": "12",
+          "B": "7",
+          "C": "4",
+          "D": "1"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math2-q15-pitching.svg"
+      },
+      "16": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to 18x^2 + 9x + 9?",
+        "choices": {
+          "A": "2x^2 + 9x + 9",
+          "B": "18x(x + 1)",
+          "C": "9(2x^2 + x + 1)",
+          "D": "36x^2 + x + 1"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "The price of an item increased by p% from $90 to $93. What is the value of p?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "If 6x = 9, what is the value of 48x?",
+        "choices": {
+          "A": "1",
+          "B": "17",
+          "C": "62",
+          "D": "72"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "The number of cells of the bacteria Bacillus megaterium doubles every 25 minutes during its growth period when placed in a medium of sucrose-salts in a controlled laboratory environment. If a sample of 530 cells of Bacillus megaterium is placed in sucrose-salts in a controlled laboratory environment, which function f best represents the number of cells of the bacteria x minutes after the growth period begins, where x is less than the number of minutes in the growth period?",
+        "choices": {
+          "A": "f(x) = 530(1/3)^(x/25)",
+          "B": "f(x) = 530(1/2)^(x/25)",
+          "C": "f(x) = 530(2)^(x/25)",
+          "D": "f(x) = 530(3)^(x/25)"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "p(x) = x^3 + 4x^2 + 9x + 12",
+        "text": "When the given function p is graphed in the xy-plane, where y = p(x), the y-intercept of the graph is (0, y). What is the value of y?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "For the function h, the table gives three values of x and their corresponding values of h(x). Which equation could define h?",
+        "choices": {
+          "A": "h(x) = 2^x + 14",
+          "B": "h(x) = 2^x + 13",
+          "C": "h(x) = 2^x + 2",
+          "D": "h(x) = 2^x"
+        },
+        "imageUrl": "/mocks/2026-march-int-c/figures/math2-q21-hx.svg"
+      },
+      "22": {
+        "stimulus": null,
+        "text": "For the linear function f, the graph of y = f(x) in the xy-plane has a slope of −5 and passes through the point (2, −4). Which equation defines f?",
+        "choices": {
+          "A": "f(x) = 2x − 4",
+          "B": "f(x) = −5x − 4",
+          "C": "f(x) = −5x − 5",
+          "D": "f(x) = −5x + 6"
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

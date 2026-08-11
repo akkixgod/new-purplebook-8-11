@@ -1,0 +1,34 @@
+{
+  "slug": "2026-march-int-c",
+  "title": "2026 March Digital",
+  "year": 2026,
+  "month": 3,
+  "version": "International Form C",
+  "pageMap": {
+    "ENGLISH": { "1": "pages 1-27 (one Q per page)", "2": "pages 28-54" },
+    "MATH": { "1": "pages 55-76", "2": "pages 77-98" },
+    "answerKey": "page 99"
+  },
+  "modules": {
+    "ENGLISH": {
+      "1": {
+        "timeLimit": 1920,
+        "answers": ["C","D","B","A","C","D","D","B","A","A","D","B","A","C","D","D","C","C","B","C","C","B","D","B","B","C","C"]
+      },
+      "2": {
+        "timeLimit": 1920,
+        "answers": ["D","B","B","C","D","A","C","A","B","D","B","B","C","D","D","B","C","B","B","B","D","C","C","D","C","B","D"]
+      }
+    },
+    "MATH": {
+      "1": {
+        "timeLimit": 2100,
+        "answers": ["D","A","D","A","7","C","27","C","C","12","102","12.08","D","A","C","0.737","D","D","50","A","B","A"]
+      },
+      "2": {
+        "timeLimit": 2100,
+        "answers": ["B","D","B","C","D","B","C","7","D","C","D","D","B","8","A","C","10/3","D","C","12","A","D"]
+      }
+    }
+  }
+}

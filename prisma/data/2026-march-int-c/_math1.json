@@ -1,0 +1,223 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "A cube has an edge length of 7 inches. What is the volume, in cubic inches, of the cube?",
+    "choices": {
+      "A": "28",
+      "B": "49",
+      "C": "294",
+      "D": "343"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "y < x\nx < 31",
+    "text": "For which of the following tables are all the values of x and their corresponding values of y solutions to the given system of inequalities?",
+    "choices": {
+      "A": "x: 28, 29, 30; y: 27, 28, 29",
+      "B": "x: 28, 29, 30; y: 29, 30, 31",
+      "C": "x: 32, 33, 34; y: 31, 32, 33",
+      "D": "x: 32, 29, 30; y: 33, 30, 31"
+    },
+    "imageUrl": "NEEDS_SVG:Four 2-column choice tables (headers x | y), arranged as A/B then C/D; A: 28|27, 29|28, 30|29; B: 28|29, 29|30, 30|31; C: 32|31, 33|32, 34|33; D: 32|33, 29|30, 30|31; thin black borders, centered cells"
+  },
+  "3": {
+    "stimulus": null,
+    "text": "For the linear function f, f(4) = 17 and f(8) = 1. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = -(1/4)x + 18",
+      "B": "f(x) = (1/4)x - 1",
+      "C": "f(x) = -4x + 21",
+      "D": "f(x) = -4x + 33"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "Data set X: 13, 15, 17, 20, 23, 24, 24, 25, 37\nData set Y: 13, 15, 17, 20, 23, 24, 24, 25, 32\nData set Y is created by replacing the number 37 in data set X with the number 32. Which of the following statements is true about the means and medians of data set X and data set Y?",
+    "choices": {
+      "A": "The mean of data set X is greater than the mean of data set Y, and the median of data set X equals the median of data set Y.",
+      "B": "The mean of data set X is greater than the mean of data set Y, and the median of data set X is greater than the median of data set Y.",
+      "C": "The mean of data set X equals the mean of data set Y, and the median of data set X equals the median of data set Y.",
+      "D": "The mean of data set X is less than the mean of data set Y, and the median of data set X is greater than the median of data set Y."
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "If x + 4y = 34 and 9x - 20y = -86, what is the value of y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "y = 9(x - 3)\ny = (x - 3)^2",
+    "text": "Which ordered pair x, y is a solution to the given system of equations?",
+    "choices": {
+      "A": "6, -9",
+      "B": "3, 12",
+      "C": "12, 81",
+      "D": "12, -9"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "An entomologist placed an initial population of 20 Tenebrio molitor, a type of beetle, into a habitat and monitored the population over time. When the number of Tenebrio molitor in the habitat reached 180% of the initial population, the entomologist moved 75% of the Tenebrio molitor to a second habitat. How many Tenebrio molitor did the entomologist move to the second habitat at this time?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "For the polynomial function f, the graph of y = f(x) in the xy-plane passes through the points (-3, 0), (1, 0), and (7, 0). Which of the following must be a factor of f(x)?",
+    "choices": {
+      "A": "x + 1",
+      "B": "x + 7",
+      "C": "x - 1",
+      "D": "x - 3"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The expression (6x^22)/(18x^b) is equivalent to (1/3)x^5, where b is a constant and x > 0. What is the value of b?",
+    "choices": {
+      "A": "5/22",
+      "B": "22/5",
+      "C": "17",
+      "D": "27"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "C(t) = 220 · 2^((t - 12)/51) + 8",
+    "text": "The function C gives the estimated number of cephalopods, a class of marine animal, in a certain area, where t is the number of months since a study began. How many months after the study began was the number of cephalopods in the area estimated to be 228?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "In the figure shown, d, e, and f are constants and the value of k is 3. If the measure of angles D, E, and F are 30°, x°, and (2x + 6)°, respectively, what is the measure, in degrees, of angle S?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "NEEDS_SVG:Two similar triangles side-by-side; left smaller triangle DEF with D bottom-left, E top, F bottom-right; sides DE=f, EF=d, DF=e; right larger triangle QRS with Q bottom-left, R top, S bottom-right; sides QR=kf, RS=kd, QS=ke; below: Note: Figure not drawn to scale."
+  },
+  "12": {
+    "stimulus": null,
+    "text": "During a physics experiment, the speed of an object was determined to be 145.0 inches per second. What is this speed in feet per second? (12 inches = 1 foot)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "Line k is shown in the xy-plane. Line j (not shown) is perpendicular to line k and passes through the point (16, 22). What is the y-coordinate of the y-intercept of line j?",
+    "choices": {
+      "A": "-23/2",
+      "B": "-1/2",
+      "C": "4/5",
+      "D": "46/5"
+    },
+    "imageUrl": "NEEDS_SVG:xy-plane grid; axes about -11 to 11 with arrows and labels x, y; unit grid; numeric labels every 2 from -10 to 10; origin O; solid line k with slope -5/4 through marked filled points (-2, 2) and (2, -3), also through (0, -1/2), (-6, 7), (6, -8), etc."
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The graph of y = f(x) + 2 is shown, where f is defined by an equation of the form f(x) = ab^x + c. If a, b, and c are integer constants and c ≤ 0, which equation could define f?",
+    "choices": {
+      "A": "f(x) = -6(2^x)",
+      "B": "f(x) = -6(2^x) - 2",
+      "C": "f(x) = -6(2^x) - 4",
+      "D": "f(x) = -6(2^x) - 6"
+    },
+    "imageUrl": "NEEDS_SVG:xy-plane graph of decreasing exponential y=f(x)+2; x-axis -6 to 6 labeled each integer with arrows and label x; y-axis -10 to 4 with labels at even integers and label y; origin O; light unit grid; horizontal asymptote y=2 as x→-∞; curve near y=2 for x≤-4, through approx (-2,0.5), (-1,-1), (0,-4), (1,-10)"
+  },
+  "15": {
+    "stimulus": null,
+    "text": "One gallon of sealant costs $17 and will cover 450 square feet of a surface. A deck has a total surface area of d square feet. Which equation represents the cost c, in dollars, of the sealant needed to cover the deck twice?",
+    "choices": {
+      "A": "c = 450d/17",
+      "B": "c = 900d/17",
+      "C": "c = 17(d/225)",
+      "D": "c = 17(d/450)"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "A bag contains only yellow marbles and red marbles. The probability of selecting a yellow marble from the bag at random is 5/19. What is the probability of selecting a red marble from the bag at random?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "What is 5% of 580?",
+    "choices": {
+      "A": "575",
+      "B": "290",
+      "C": "116",
+      "D": "29"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 128x. What is the value of f(x) when x = 3?",
+    "choices": {
+      "A": "64",
+      "B": "128",
+      "C": "256",
+      "D": "384"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "A manager is responsible for ordering supplies for a coffee shop. The shop's inventory starts with 6,600 disposable cups, and the manager estimates that 110 of these cups are used each day. Based on this estimate, in how many days will the inventory of disposable cups reach 1,100?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The graph of the linear function f is shown, where y = f(x). Which equation defines function f?",
+    "choices": {
+      "A": "f(x) = -2x + 4",
+      "B": "f(x) = -2x - 4",
+      "C": "f(x) = 2x + 4",
+      "D": "f(x) = 2x - 4"
+    },
+    "imageUrl": "NEEDS_SVG:xy-plane graph of line; x-axis about -6 to 11 labeled every 2 (-6…10) with label x; y-axis about -7 to 11 labeled every 2 (-6…10) with label y; origin O; light unit grid; solid line through (0,4) and (2,0), slope -2, also through (-1,6), (1,2), (3,-2), (4,-4), (5,-6)"
+  },
+  "21": {
+    "stimulus": "x^2 - 40x = 0",
+    "text": "Which of the following is a solution to the given equation?",
+    "choices": {
+      "A": "80",
+      "B": "40",
+      "C": "20",
+      "D": "√40"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "If 4(x - 9) - 4 = 7(x - 9) + 4, what is the value of x - 9?",
+    "choices": {
+      "A": "-8/3",
+      "B": "-3/8",
+      "C": "4/7",
+      "D": "8/11"
+    },
+    "imageUrl": null
+  }
+}

@@ -1,0 +1,299 @@
+﻿{
+  "1": {
+    "stimulus": "Recitals by Catherine Kautsky, known for her virtuosity on the piano, are rightly described as _______ given that they can feature not just the performance of a musical piece but also a lecture on the piece's composer and a slideshow contextualizing the time in which it was composed.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "circumscribed",
+      "B": "multifaceted",
+      "C": "undiscerning",
+      "D": "exuberant"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Among saltwater fish species, there is a clear association between habitat latitude and morphological variety. While tropical species are _______ deep-bodied physical forms (body shapes that are laterally compressed but vertically extended), polar and temperate species are highly dispersed across the morphological spectrum.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "habituated to",
+      "B": "authenticated by",
+      "C": "concentrated among",
+      "D": "contemporary with"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "The following text is adapted from Edith Wharton's 1911 novella Ethan Frome. The narrator has asked the woman he rents a room from about Ethan Frome, a town resident he encountered recently.\n\nHer mind was a store-house of innocuous anecdote and any question about her acquaintances brought forth a volume of detail; but on the subject of Ethan Frome I found her unexpectedly reticent. There was no hint of disapproval in her reserve; I merely felt in her an insurmountable reluctance to speak of him.",
+    "text": "As used in the text, what does the word \"reserve\" most nearly mean?",
+    "choices": {
+      "A": "Constraint",
+      "B": "Modesty",
+      "C": "Composure",
+      "D": "Misgiving"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "The work of Tobias Gerstenberg et al. on tracking eye movements supports a theory that people envision _______ scenarios when making causal judgments: when subjects were asked to look at two colliding billiard balls and judge whether one caused or prevented the other's movement through a gate, their eyes looked at where the target ball would have gone if the ball that altered its path did not exist.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "analogical",
+      "B": "counterfactual",
+      "C": "retrospective",
+      "D": "ambivalent"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "On receiving good news, people's first instinct might be to immediately share it, but a recent experiment suggests that keeping it a secret can be psychologically beneficial. Study participants were randomly assigned to reflect on an experience in which they either shared good news or kept it to themselves. On average, those who kept good news secret reported feeling more energized by the experience than participants who shared did, perhaps, as the researchers suggest, because the choice to savor good news is usually a personal one and autonomous motivation is linked with feelings of vitality.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It indicates a reason why skepticism about the conclusions of the psychological study mentioned in the text is likely warranted.",
+      "B": "It reports the main conclusion of a study into a social phenomenon whose methodology is critiqued in the text.",
+      "C": "It presents a scenario whose psychological impact was investigated in the study summarized in the text.",
+      "D": "It provides an observation about human behavior that was validated by the experiment summarized in the text."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Text 1\nFor decades, ornithologists assumed that if they saw a singing winter wren—a bird species found in temperate North America—they must be observing a male trying to attract a mate or claim territory. As Peter J.B. Slater and Nigel I. Mann have emphasized, however, a similar assumption can't be made about birds in the tropics, where females sing as often as males do. Slater and Mann call for more research on this discrepancy between tropical and temperate female birdsong.\n\nText 2\nRecent evidence shows that a female winter wren is as capable of song as a male is. In fact, female birdsong is more common among temperate species than currently assumed, claim Evangeline Rose and colleagues. These female songbirds sing less frequently than males do, and in duller tones, making it \"easy for researchers to miss the quiet and hidden females and focus on the loud and colorful males,\" says Rose.",
+    "text": "Based on the texts, how would Rose and colleagues (Text 2) most likely respond to the assertion by Slater and Mann (Text 1) about the different prevalence of female birdsong in temperate and tropical areas?",
+    "choices": {
+      "A": "They would concede that the geographic difference in prevalence is real but argue that the frequency with which male tropical birds sing has been overstated by previous researchers.",
+      "B": "They would caution that the seeming difference in prevalence may be an artifact of researchers' tendency to study birdsong among temperate species more frequently than among tropical species.",
+      "C": "They would raise the possibility that the difference in prevalence may be due to differences in the timing of the mating season among temperate and tropical bird species.",
+      "D": "They would argue that the apparent difference in prevalence may partly reflect a difference in the ease with which female birdsong and male birdsong can be detected."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Text 1\nIn separate studies, Yanbo Xiao and colleagues and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Xiao and colleagues excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.\n\nText 2\nXiao and colleagues took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.",
+    "text": "Based on the texts, how would the author of Text 2 most likely respond to the characterization of Xiao and colleagues' study in Text 1?",
+    "choices": {
+      "A": "By arguing that the author of Text 1 has conflated the method used by Xiao and colleagues with that used by He and colleagues",
+      "B": "By claiming that the author of Text 1 has misrepresented what Xiao and colleagues were trying to achieve with their experimental design",
+      "C": "By asserting that the author of Text 1 has overstated the effectiveness of the method that Xiao and colleagues used",
+      "D": "By pointing out that the author of Text 1 has overlooked studies that reported results that contradict those reported by xiao and colleagues"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Since 2012, a consortium of research institutions has released an annual report that ranks countries by their populations' well-being, which the authors of the report derive using data from a globally administered survey of respondents' self-assessed levels of happiness. However, some other scholars caution that this approach reflects a tendentious understanding of the relationship between these two metrics. For example, studies have revealed a tendency among people in some non-Western countries to regard individual happiness as less important to their well-being than other ideals (e.g., a sense of harmony or balance).",
+    "text": "Based on the text, what is a potential weakness of the annual report issued by the consortium of research institutions?",
+    "choices": {
+      "A": "It may not adequately account for cultural variations in the value attached to a particular concept.",
+      "B": "It relies on survey responses from participants who may not be representative of their countries' cultural norms.",
+      "C": "It overlooks how philosophies regarding a particular concept have evolved over time.",
+      "D": "It includes survey data from a wide range of Western countries but only from a narrow set of non-Western countries."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "While no one doubts that politicians are influenced by a variety of incentives, it is generally agreed that they seek to support policies their constituents favor—after all, they risk losing office if they do not. Direct contact with constituents via such means as public events and emails from voters is a major source of politicians' beliefs about their constituents' views, but it is susceptible to a selection effect. There is little reason to presume that individuals with the time, resources, and strength of feeling to directly engage with their representatives are themselves broadly representative.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Politicians aim to advocate for their constituents' policy preferences, but politicians' understanding of those preferences may be skewed.",
+      "B": "People who are likely to contact their elected representatives do not tend to be representative of politicians' constituents generally.",
+      "C": "Direct contact with constituents shapes politicians' beliefs about policies their constituents favor, and they try to act in accordance with those beliefs.",
+      "D": "Although politicians have an incentive to act in accordance with their constituents' views, that is not the only incentive shaping their actions."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "Within higher education, studying philosophy requires that students be conversant with the field's foundational texts and historical figures. By contrast, doing philosophy within or beyond the academy demands the creative, self-directed application of acquired expertise to enduring questions about the nature of existence and knowledge. While both approaches engage with influential figures, those who do philosophy treat such figures as vital interlocutors who facilitate new insights rather than as ossified authorities who, though relevant to the present, primarily represent the discipline's past.",
+    "text": "Based on the text, which choice best describes the relationship between doing philosophy and studying philosophy?",
+    "choices": {
+      "A": "Doing philosophy represents a departure from the norms that govern scholarly inquiry, whereas studying philosophy requires conformation to these norms.",
+      "B": "Doing philosophy involves developing novel ideas through imagined dialogue with past philosophers based on knowledge of those philosophers' views acquired by studying philosophy.",
+      "C": "Doing philosophy helps students formulate concrete solutions to practical issues, whereas studying philosophy prioritizes engagement with historical arguments in the field.",
+      "D": "Doing philosophy requires students to challenge the ideas articulated by past philosophers, especially when these ideas are broadly accepted by other people studying philosophy."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Researchers have identified over eighty gestures made by nonhuman great apes, such as clapping and rocking from side to side, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. Though participants achieved some success, it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings.",
+    "text": "Which statement, if true, would most strongly support the underlined claim?",
+    "choices": {
+      "A": "Participants correctly identified gestures at the same rate for videos in which the apes made sounds in addition to gestures and videos in which the apes were silent.",
+      "B": "When apes made mouth-touching gestures, which participants tended to correctly interpret as requests for food, the food was visible in the videos.",
+      "C": "Participants were more readily able to identify an ape gesture when it meant \"climb on my back\" than when it meant \"let's be friendly.\"",
+      "D": "Participants correctly interpreted ape gestures more than 50 percent of the time, whereas they would have only identified gestures correctly 25 percent of the time if they had been guessing."
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "Researchers used anonymized location data from the US and Cote d'Ivoire to document people's daily patterns of mobility, using these results to test the efficacy of the researchers' predictive computer model. In each country, unidirectional cycles among two, three, or four locations were empirically the most common pattern types; the graph shows each of these pattern types as a proportion of all pattern instances found for that country (e.g., the measured value for CI 3 in the graph, 0.12, indicates that the three-location pattern constituted 12% of all pattern instances in the Cote d'Ivoire data). The researchers ran their model twice under different assumptions, concluding that emphasizing the salience of local population density over personal preferences generally yielded the best results.",
+    "text": "Which choice most effectively uses data from the graph to illustrate the researchers' conclusion?",
+    "choices": {
+      "A": "Under the assumption that density is more salient than preferences, the US 2 and CI 2 proportions are approximately 0.65 and 0.85, respectively significantly higher than the values predicted under the other assumption and thus farther than those predictions from the measured values.",
+      "B": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be approximately 0.45 and .35, respectively, both below the measured values, whereas under the other assumption, the model overestimated the proportion for US 2 and overestimated that for CI 2.",
+      "C": "Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and CI 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption.",
+      "D": "Under the assumption that preferences are more salient than density, the US 2 and CI 2 proportions were predicted to be in the range of 0.3 to 0.5, placing them farther from the measured values than were those predicted under the other assumption."
+    },
+    "imageUrl": "NEEDS_SVG:Grouped bar chart titled \"Proportion of the Three Most Commonly Exhibited Mobility Patterns, in the US and Cote d'Ivoire\". Y-axis: Proportion (0–1). X-axis: Mobility pattern by country — US 2, US 3, US 4, CI 2, CI 3, CI 4. Three series per category: measured (dark gray), model: emphasis density (light gray), model: emphasis preferences (black). Approx values — US2: ~0.76 / ~0.68 / ~0.47; US3: ~0.12 / ~0.19 / ~0.18; US4: ~0.05 / ~0.07 / ~0.09; CI2: ~0.79 / ~0.85 / ~0.35; CI3: ~0.12 / ~0.14 / ~0.21; CI4: ~0.04 / ~0.03 / ~0.11."
+  },
+  "13": {
+    "stimulus": "Across brown bears—omnivores with high dietary plasticity—there is wide variety in dietary mix, which may reflect genetics, local resource availability, or social learning (cubs stay with their mothers for two years or more). Evaluating these possibilities, Anne Hertel et al. analyzed 30 years of data on trophic position (indicative of dietary mix) for female brown bears. After separation, daughters, who tended to settle near their mothers, occupied the same trophic positions as their mothers for two years, but the correlation disappeared by year five. Trophic correlation with unrelated individuals in similar habitats was modest, while habitat-independent correlation with nonmaternal relatives (e.g., cousins) was no different than with unrelated individuals. These findings suggest that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "social learning and resource fluctuations may both play a role in dietary mix among females, at least temporarily, though genetic factors appear to make a significant contribution as well.",
+      "B": "female dietary mix is best understood as changeable and contingent on fluctuating environmental conditions rather than as the result of social learning or genetic factors.",
+      "C": "dietary mix among females may reflect a social learning effect that eventually diminishes, though environmental constraints cannot be ruled out as a contributing factor.",
+      "D": "growing dissimilarity between mothers and their daughters with regard to dietary mix may reflect changes in the resources available in maternal habitats, though social learning could also contribute to the trend."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) and toward the streaming services YouTube Music and Jango, among others. Datta et al. studied the impact of this change on the variety of music that listeners consume. The researchers reasoned that the ownership model of music assigns a cost per song to acquiring a variety of music, while streaming services typically charge a flat fee for access to an entire music catalog, making variety free, which suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "listeners who use streaming services would be more likely to give physical copies of music as gifts to others than to purchase physical copies for themselves.",
+      "B": "music publishers who choose to forgo releasing music on physical media are likely to see no change in revenue.",
+      "C": "the music choices of listeners who use streaming services would likely be more varied than those of listeners who do not use streaming services.",
+      "D": "listeners who prefer to purchase compact discs rather than use a service such as YouTube Music or Jango would tend to listen to older music."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Some farms are expanding their mix of crop species in an effort to reduce nonagricultural biodiversity loss caused by increasing agricultural specialization, in which farmers focus on a limited range of crops or livestock species to improve yields and, thus, their revenues. To study the joint environmental and economic effects of diversification practices (which can encompass improved soil and water management as well as increased variety in crops and livestock), Laura Vang Rasmussen and team analyzed data from 2,655 farms in eleven countries. They found that using multiple diversification practices concurrently had greater potential for improving both nonagricultural biodiversity and yields than using a single strategy did. Their finding suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "farmers who are reluctant to switch from specializing in a single crop to cultivating a variety of crops incorrectly assume that any improvements in yields will be insufficient to offset the costs associated with making that transition.",
+      "B": "farmers who focus primarily on increasing crop variety without engaging in other diversification practices will likely help reverse nonagricultural biodiversity loss, but their farms will produce smaller yields than if they had continued to focus on developing a single crop.",
+      "C": "agricultural diversification doesn't inherently involve a trade-off between environmental and economic considerations, but farmers' chances of avoiding that outcome may be diminished if they focus on crop variety to the exclusion of other diversification practices.",
+      "D": "it is more expensive to increase crop variety while simultaneously implementing other diversification practices than it is to increase crop variety and then subsequently implement other diversification practices."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "A bias toward studying birds and mammals over fish was one of the many shortcomings researcher Sonia Llorente-Culebras and her team _______ analyzing nearly 400 biodiversity studies from around the globe.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "discovered. While",
+      "B": "discovered, while",
+      "C": "discovered while",
+      "D": "discovered: while"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Jane Austen's Northanger Abbey (1818) is considered a satire of another novel popular at the time: Ann Radcliffe's The Mysteries of Udolpho (1794), which Austen's heroine, Catherine Morland, is depicted reading. However, the similarity of the _______ experiences—the predicaments of both Catherine and Radcliffe's Emily St. Aubert result from men's greed—suggests that underlying the satire is a social critique.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "novel's protagonist's",
+      "B": "novels' protagonists",
+      "C": "novels' protagonists'",
+      "D": "novel's protagonists'"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "As part of his effort to identify Bronze Age pathways across Sicily, archaeologist Dario Calderone created three-dimensional digital models of the terrain via aerial photogrammetry. The drone _______ the landscape, which included archaeological sites from as far back as the Early Neolithic Period, flew in a pattern that ensured 60 percent forward overlap and 20 percent side overlap between individual images.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "photographs",
+      "B": "photographing",
+      "C": "was photographing",
+      "D": "photographed"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Before the ratification of the 19th Amendment in 1920, many US territories extended voting rights to women, in part to spur westward migration that would help these territories meet population thresholds for statehood. The Territory of Wyoming approved women's suffrage in 1869 before attaining statehood in _______ while eastern states, lacking the same incentive, did not follow suit until after the turn of the century.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "1890, for example,",
+      "B": "1890, for example:",
+      "C": "1890, for example;",
+      "D": "1890; for example,"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "In economics, soybeans are considered a commodity because they are essentially interchangeable, \"essentially\" being a word that admits a degree of latitude. In 2021, researchers J. Shorish, M. Stephenson, and M. Zargham devised a mathematical model of fungibility (interchangeability) that would account for such variation. Distinguishing \"exactly the same\" and \"nearly the same\" commodities—whether crops, lumber, or precious metals—_______ among their primary aims.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "was",
+      "B": "were",
+      "C": "having been",
+      "D": "being"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Uruguay, one of many places that reveal their imperial history in their language. Contrast Uruguay with Belgium, which ceased to be part of the empire in _______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "1714 and",
+      "B": "1714",
+      "C": "1714,",
+      "D": "1714;"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "To determine the approximate age of sand engravings excavated from a coastal site in South Africa, archaeologist Charles Helm and colleagues collected samples of sediments surrounding the engravings; these samples were then analyzed using a method known as optically stimulated luminescence (OSL) dating. _______ OSL dating indicated that the engravings were between 129,000 and 149,000 years old.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Ultimately,",
+      "C": "By comparison,",
+      "D": "In addition,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. _______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Lake Buena Vista, Florida, to the Funkturm Berlin in Berlin, Germany.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Ultimately,",
+      "B": "For example,",
+      "C": "Thus,",
+      "D": "Similarly,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "Luminata Ilinca Ignat is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Ilinca Ignat's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. _______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "By contrast,",
+      "B": "Secondly,",
+      "C": "Similarly,",
+      "D": "Therefore,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "In a given rock formation, Rhaetian rock from 208.5 million years ago might directly abut Lochkovian rock from 419.2 million years ago, with millions of years of material missing in between. _______ time did not stand still during these intervening years; the unaccounted-for sedimentary material was likely removed from the stratigraphic record via erosion and weathering.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "In particular,",
+      "C": "Of course,",
+      "D": "On the contrary,"
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "The Sino-Tibetan language of Loke has only about 7,500 living speakers. Although most Loke speakers live in Nepal, where the language originated, Loke is also spoken in New York City. _______ the New York-based Endangered Language Alliance has identified a group of Loke speakers in the city's Allerton neighborhood, in the borough of the Bronx.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "Nonetheless,",
+      "C": "Specifically,",
+      "D": "Meanwhile,"
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Shanawdithit (1801–1829) was a Beothuk cartographer (mapmaker).\n• Her maps of Newfoundland's Beothuk Lake outline both the lake and various points around the lake where encounters between the Indigenous Beothuk people and British colonists occurred.\n• Her maps are notable for depicting the experiences the Beothuk had within the landscape.\n• Contemporary Potawatomi cartographer Margaret Pearce: Indigenous cartography emphasizes \"experienced space, or place, as opposed to the Western convention of depicting space as universal, homogenized, and devoid of human experience.\"\n• Pearce: \"Indigenous cartographies are as diverse as Indigenous cultures, from Hawaiian performative cartographies to Navajo verbal maps and sand paintings.\"",
+    "text": "The student wants to describe Shanawdithit's approach and explain its significance. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "By depicting experiences of the Beothuk that occurred around Beothuk Lake, Shanawdithit's maps reflect Indigenous cartography's emphasis on \"experienced space, or place\" rather than the landscape alone.",
+      "B": "According to Pearce, Indigenous cartography, such as Shanawdithit's maps of Beothuk Lake, emphasizes \"experienced space, or place,\" with a variety of approaches that reflect the diversity of Indigenous cultures.",
+      "C": "Shanawdithit mapped Beothuk Lake through significant encounters that occurred there, an approach that Pearce describes as \"depicting space as universal [and] homogenized.\"",
+      "D": "Shanawdithit's maps are part of a broader tradition of Indigenous cartography that, according to Pearce, ranges from \"Hawaiian performative cartographies to Navajo verbal maps and sand paintings.\""
+    },
+    "imageUrl": null
+  }
+}
