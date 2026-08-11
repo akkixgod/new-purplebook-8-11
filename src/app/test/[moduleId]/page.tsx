@@ -320,7 +320,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               type="button"
               onClick={() => {
                 setHighlightMode((p) => {
-                  if (!p) setCrossOutMode(false);
                   return !p;
                 });
               }}
