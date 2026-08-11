@@ -110,7 +110,7 @@
     "imageUrl": null
   },
   "11": {
-    "stimulus": "People tend to assume that being happy is the ideal emotional state and should be an ongoing aspiration; recently, however, research has suggested that it is at times beneficial to embrace negative emotions. To test whether anger can contribute to problem-solving abilities, researcher Heather Lench led an experiment in which participants were randomly assigned to view images designed to create an emotional condition—either neutral or one of anger, amusement, desire, or sadness. When asked to then solve a series of challenging puzzles, the participants in the anger condition had greater success than those in the other conditions.",
+    "stimulus": "_People tend to assume that being happy is the ideal emotional state and should be an ongoing aspiration;_ recently, however, research has suggested that it is at times beneficial to embrace negative emotions. To test whether anger can contribute to problem-solving abilities, researcher Heather Lench led an experiment in which participants were randomly assigned to view images designed to create an emotional condition—either neutral or one of anger, amusement, desire, or sadness. When asked to then solve a series of challenging puzzles, the participants in the anger condition had greater success than those in the other conditions.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It describes a general psychological tendency that the study discussed in the text was designed to explain.",
@@ -151,7 +151,7 @@
       "C": "Acropora echinata and Danafungia scruposa.",
       "D": "Danafungia scruposa and Scolymia lacera."
     },
-    "imageUrl": "NEEDS_SVG: Table titled \"Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters\" with three columns: Species, Minimum depth (meters), Maximum depth (meters). Rows: Acropora echinata / 8 / 25; Danafungia scruposa / 1 / 27; Astreopora expansa / 5 / 15; Scolymia lacera / 10 / 80. Species names italicized. Clean SAT-style table with header row and horizontal rules."
+    "imageUrl": "/mocks/2026-march-us-a/figures/eng1-q14-corals.svg"
   },
   "15": {
     "stimulus": "On April 12, 1985, the space shuttle Discovery blasted off into space, commencing Mission ______ six days and twenty-three hours, the mission ended when the shuttle landed at Kennedy Space Center in Florida.",

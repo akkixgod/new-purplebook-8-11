@@ -74,7 +74,7 @@
       "C": "0.6.",
       "D": "4.6."
     },
-    "imageUrl": "NEEDS_SVG: Table titled \"Percentage of City's Commuters Regularly Biking to Work in 2016\". Two columns: City | % of commuters. Four data rows: Albuquerque, New Mexico | 1.6; Berkeley, California | 9.0; Washington, DC | 4.6; Phoenix, Arizona | 0.6. Thin black grid borders."
+    "imageUrl": "/mocks/2026-march-us-a/figures/eng2-q07-biking.svg"
   },
   "8": {
     "stimulus": "Native to the Yangtze River in China, the Chinese river dolphin is one of many species to have recently gone extinct in what some are calling \"the sixth great mass extinction\" in Earth's history. Far from being caused by humans, though, the five prior such events—the Ordovician-Silurian (440 million years ago, or mya), the Devonian (365 mya), the Permian-Triassic (250 mya), the Triassic-Jurassic (201 mya), and the Cretaceous-Tertiary _______ all predate us.",
@@ -110,7 +110,7 @@
     "imageUrl": null
   },
   "11": {
-    "stimulus": "Insects like ground beetles, crustaceans like calico crabs, and many other animals without spines are known as arthropods. Their nervous systems are made up of a brain and different nerves. Javier Ortega-Hernández, James Weaver, and team studied two fossils of the extinct arthropod Mollisonia symmetrica and identified parts of the species' nervous system. The researchers spotted evidence of nerves extending into the animal's body parts and may have also found rare signs of a synganglion, a brain-like mass of nerves in the head.",
+    "stimulus": "Insects like ground beetles, crustaceans like calico crabs, and many other animals without spines are known as arthropods. Their nervous systems are made up of a brain and different nerves. Javier Ortega-Hernández, James Weaver, and team studied two fossils of the extinct arthropod Mollisonia symmetrica and identified parts of the species' nervous system. The researchers spotted evidence of _nerves extending into the animal's body parts_ and may have also found rare signs of a synganglion, a brain-like mass of nerves in the head.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It describes a feature that was missing from both fossils.",
@@ -151,7 +151,7 @@
       "C": "mathematics.",
       "D": "reference."
     },
-    "imageUrl": "NEEDS_SVG: Table titled \"Average Paperback Prices, 2016–19\". Columns: Genre | 2016 | 2017 | 2018 | 2019. Rows: Young adult | $25.49 | $18.40 | $18.02 | $18.40; Mathematics | $97.31 | $78.54 | $106.69 | $76.99; Comics and graphic novels | $18.60 | $18.49 | $19.12 | $20.60; Reference | $156.03 | $189.53 | $186.25 | $148.88. Thin black grid borders."
+    "imageUrl": "/mocks/2026-march-us-a/figures/eng2-q14-prices.svg"
   },
   "15": {
     "stimulus": "Pacific hermit crabs live in shells that they either find empty or take from another hermit crab. Biologists Louise Roberts and Mark Laidre noticed that hermit crabs sometimes vibrate their shells and wondered if they do this to scare away other crabs. The researchers put a shell on a beach and set it up to remain still, gently vibrate, or strongly vibrate when another hermit crab approached it. They recorded how many of those crabs tried to flip the shell over, which is the first step in trying to take a shell from another crab.",
@@ -162,7 +162,7 @@
       "C": "19%",
       "D": "70%"
     },
-    "imageUrl": "NEEDS_SVG: Table titled \"Hermit Crab Reactions to a Shell on a Beach\". Two columns: Level of shell vibration | Percentage of crabs that tried to flip the shell over. Three data rows: None | 70%; Gentle vibration | 19%; Strong vibration | 0%. Thin black grid borders."
+    "imageUrl": "/mocks/2026-march-us-a/figures/eng2-q15-crabs.svg"
   },
   "16": {
     "stimulus": "Scott Parazynski, a former US astronaut, has gone on seven spacewalks. During _______ spacewalks, Parazynski performed important tasks outside the spacecraft, such as installing new equipment.",

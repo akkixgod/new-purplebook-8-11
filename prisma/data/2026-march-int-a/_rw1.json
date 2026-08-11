@@ -132,7 +132,7 @@
     "imageUrl": "/mocks/2026-march-int-a/figures/eng1-q12-fish.svg"
   },
   "13": {
-    "stimulus": "In the early 1970s, art historian Michael Baxandall created an approach to viewing art called the \"period eye,\" which explains how to look at art through the lens of its historical period. Baxandall argued that it is critical that art historians understand and communicate the original social and cultural contexts of older works of art so that it is clear what the artists intended and how the pieces would have been understood by their original viewers. Since it was first introduced, Baxandall's period eye has significantly influenced the practice of art history.",
+    "stimulus": "In the early 1970s, art historian Michael Baxandall created an approach to viewing art called the \"period eye,\" which explains how to look at art through the lens of its historical period. Baxandall argued that it is critical that art historians understand and communicate the original social and cultural contexts of older works of art so that it is clear what the artists intended and how the pieces would have been understood by their original viewers. _Since it was first introduced, Baxandall's period eye has significantly influenced the practice of art history._",
     "text": "Which statement, if true, would most strongly support the claim in the underlined sentence?",
     "choices": {
       "A": "Many art historians working before the 1970s produced detailed analyses of the social and cultural contexts of older artworks, though few extended that approach to artworks produced in their own lifetimes",

@@ -44,7 +44,7 @@
     "imageUrl": null
   },
   "5": {
-    "stimulus": "On receiving good news, people's first instinct might be to immediately share it, but a recent experiment suggests that keeping it a secret can be psychologically beneficial. Study participants were randomly assigned to reflect on an experience in which they either shared good news or kept it to themselves. On average, those who kept good news secret reported feeling more energized by the experience than participants who shared did, perhaps, as the researchers suggest, because the choice to savor good news is usually a personal one and autonomous motivation is linked with feelings of vitality.",
+    "stimulus": "_On receiving good news, people's first instinct might be to immediately share it,_ but a recent experiment suggests that keeping it a secret can be psychologically beneficial. Study participants were randomly assigned to reflect on an experience in which they either shared good news or kept it to themselves. On average, those who kept good news secret reported feeling more energized by the experience than participants who shared did, perhaps, as the researchers suggest, because the choice to savor good news is usually a personal one and autonomous motivation is linked with feelings of vitality.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It indicates a reason why skepticism about the conclusions of the psychological study mentioned in the text is likely warranted.",
@@ -110,7 +110,7 @@
     "imageUrl": null
   },
   "11": {
-    "stimulus": "Researchers have identified over eighty gestures made by nonhuman great apes, such as clapping and rocking from side to side, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. Though participants achieved some success, it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings.",
+    "stimulus": "Researchers have identified over eighty gestures made by nonhuman great apes, such as clapping and rocking from side to side, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. Though participants achieved some success, _it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings._",
     "text": "Which statement, if true, would most strongly support the underlined claim?",
     "choices": {
       "A": "Participants correctly identified gestures at the same rate for videos in which the apes made sounds in addition to gestures and videos in which the apes were silent.",
