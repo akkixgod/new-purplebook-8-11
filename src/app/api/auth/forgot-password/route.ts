@@ -24,7 +24,7 @@ export async function POST(req: NextRequest) {
 
     const user = await findUserByEmail(email);
 
-    // Always return the same message to avoid account enumeration.
+    // Always return the same message when no account exists (anti-enumeration).
     if (!user) {
       return NextResponse.json({ message: GENERIC_OK });
     }
@@ -43,21 +43,23 @@ export async function POST(req: NextRequest) {
 
     const resetUrl = buildPasswordResetUrl(rawToken);
     const content = passwordResetEmailContent(resetUrl);
+    const result = await sendEmail({ to: email, ...content });
 
-    try {
-      await sendEmail({ to: email, ...content });
-    } catch (err) {
-      console.error("Forgot-password email failed:", err);
-      // Clear token if email could not be sent so the user can retry cleanly.
-      await prisma.user.update({
-        where: { id: user.id },
-        data: {
-          passwordResetToken: null,
-          passwordResetTokenExpiry: null,
-        },
-      });
+    if (!result.ok) {
+      console.error("[forgot-password] email not delivered:", result.reason, result.detail);
+      console.info("[forgot-password] DEV/FALLBACK reset link (copy from server logs):", resetUrl);
+
+      // Keep token so the logged link still works in local/dev testing.
+      // Client gets an explicit error (no false "Sent" success).
+      const isDev = process.env.NODE_ENV !== "production";
       return NextResponse.json(
-        { error: "Could not send reset email. Please try again later." },
+        {
+          error:
+            result.reason === "not_configured"
+              ? "Email is not configured. Set RESEND_API_KEY (and EMAIL_FROM) on the server, or use the reset link from the server console / local test link below."
+              : "Could not send reset email. Please try again later.",
+          ...(isDev ? { devResetUrl: resetUrl } : {}),
+        },
         { status: 502 }
       );
     }

@@ -7,6 +7,28 @@ import Link from "next/link";
 const inputClass =
   "w-full px-4 py-2.5 rounded-lg border border-gray-200 bg-white text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#7c3aed] focus:border-transparent text-sm transition-colors";
 
+const AUTH_BACKUP_STORAGE_PREFIX = "purplebook_auth_backup_v1:";
+
+function backupStorageKey(email: string) {
+  return `${AUTH_BACKUP_STORAGE_PREFIX}${email.trim().toLowerCase()}`;
+}
+
+function readStoredBackup(email: string): string {
+  try {
+    return localStorage.getItem(backupStorageKey(email)) ?? "";
+  } catch {
+    return "";
+  }
+}
+
+function writeStoredBackup(email: string, token: string) {
+  try {
+    localStorage.setItem(backupStorageKey(email), token);
+  } catch {
+    /* private mode / quota */
+  }
+}
+
 export default function SignInPage() {
   const [mode, setMode] = useState<"signin" | "register">("signin");
   const [name, setName] = useState("");
@@ -20,6 +42,7 @@ export default function SignInPage() {
   const [forgotLoading, setForgotLoading] = useState(false);
   const [forgotError, setForgotError] = useState("");
   const [forgotMessage, setForgotMessage] = useState("");
+  const [forgotDevLink, setForgotDevLink] = useState("");
 
   useEffect(() => {
     getProviders().then((providers) => {
@@ -54,18 +77,25 @@ export default function SignInPage() {
           setLoading(false);
           return;
         }
+        if (typeof data.authBackup === "string" && data.authBackup) {
+          writeStoredBackup(normalizedEmail, data.authBackup);
+        }
       }
 
+      const backup = readStoredBackup(normalizedEmail);
       const result = await signIn("credentials", {
         email: normalizedEmail,
         password,
+        backup,
         redirect: false,
       });
 
       if (result?.error) {
         const code = (result as { code?: string }).code ?? "";
         if (mode === "register") {
-          setError("Account created, but sign-in failed. Try signing in.");
+          setError(
+            "Account was saved, but automatic sign-in failed. Try signing in again with the same email and password."
+          );
         } else if (code === "service_error" || result.error === "Configuration") {
           setError("Sign-in temporarily unavailable. Please try again in a moment.");
         } else if (code === "no_password") {
@@ -77,6 +107,23 @@ export default function SignInPage() {
         }
         setLoading(false);
         return;
+      }
+
+      // Refresh / mint signed backup so later logins survive serverless SQLite resets.
+      if (!backup) {
+        try {
+          const br = await fetch("/api/auth/issue-backup", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ email: normalizedEmail, password }),
+          });
+          const bj = await br.json().catch(() => ({}));
+          if (br.ok && typeof bj.authBackup === "string") {
+            writeStoredBackup(normalizedEmail, bj.authBackup);
+          }
+        } catch {
+          /* non-fatal */
+        }
       }
 
       // Full navigation so the session cookie is picked up reliably
@@ -165,6 +212,7 @@ export default function SignInPage() {
                       setForgotEmail(email.trim().toLowerCase());
                       setForgotError("");
                       setForgotMessage("");
+                      setForgotDevLink("");
                     }}
                     className="text-xs font-medium text-[#7c3aed] hover:underline"
                   >
@@ -240,6 +288,7 @@ export default function SignInPage() {
                   e.preventDefault();
                   setForgotError("");
                   setForgotMessage("");
+                  setForgotDevLink("");
                   setForgotLoading(true);
                   try {
                     const res = await fetch("/api/auth/forgot-password", {
@@ -250,6 +299,9 @@ export default function SignInPage() {
                     const data = await res.json().catch(() => ({}));
                     if (!res.ok) {
                       setForgotError(data.error ?? "Request failed");
+                      if (typeof data.devResetUrl === "string" && data.devResetUrl) {
+                        setForgotDevLink(data.devResetUrl);
+                      }
                     } else {
                       setForgotMessage(
                         data.message ??
@@ -279,8 +331,16 @@ export default function SignInPage() {
                 </div>
 
                 {forgotError && (
-                  <div className="px-3 py-2 rounded-lg bg-red-50 border border-red-200">
+                  <div className="px-3 py-2 rounded-lg bg-red-50 border border-red-200 space-y-2">
                     <p className="text-red-600 text-sm">{forgotError}</p>
+                    {forgotDevLink && (
+                      <p className="text-xs text-gray-700 break-all">
+                        Local test link:{" "}
+                        <a href={forgotDevLink} className="text-[#7c3aed] underline font-medium">
+                          Open reset page
+                        </a>
+                      </p>
+                    )}
                   </div>
                 )}
                 {forgotMessage && (
