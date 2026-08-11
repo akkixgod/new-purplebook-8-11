@@ -9,15 +9,15 @@ import {
 } from "react";
 import {
   loadDesmos,
-  type DesmosAPI,
+  waitForSize,
   type DesmosCalculatorInstance,
 } from "@/lib/load-desmos";
 
 const DEFAULT_W = 480;
-const MIN_W = 340;
-const MIN_H = 360;
-const HEADER_H = 56; // below exam top bar
-const BOTTOM_GAP = 56; // above bottom nav
+const MIN_W = 360;
+const MIN_H = 380;
+const HEADER_H = 56;
+const BOTTOM_GAP = 56;
 
 type CalcMode = "graphing" | "scientific";
 
@@ -37,6 +37,7 @@ const GRAPHING_OPTS = {
   zoomButtons: true,
   keypad: true,
   border: false,
+  autosize: true,
 } as const;
 
 const SCIENTIFIC_OPTS = {
@@ -52,19 +53,22 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
   const sciHostRef = useRef<HTMLDivElement>(null);
   const graphCalcRef = useRef<DesmosCalculatorInstance | null>(null);
   const sciCalcRef = useRef<DesmosCalculatorInstance | null>(null);
-  const desmosApiRef = useRef<DesmosAPI | null>(null);
+  const graphInitingRef = useRef(false);
+  const sciInitingRef = useRef(false);
   const dragRef = useRef<{ ox: number; oy: number; x: number; y: number } | null>(null);
   const resizeRef = useRef<{ ox: number; oy: number; w: number; h: number } | null>(null);
 
   const [mode, setMode] = useState<CalcMode>("graphing");
   const [pos, setPos] = useState({ x: 12, y: HEADER_H });
-  const [size, setSize] = useState({ w: DEFAULT_W, h: 500 });
+  const [size, setSize] = useState({ w: DEFAULT_W, h: 520 });
   const [readyGraph, setReadyGraph] = useState(false);
   const [readySci, setReadySci] = useState(false);
+  const [graphFallback, setGraphFallback] = useState(false);
+  const [sciFallback, setSciFallback] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [placed, setPlaced] = useState(false);
 
-  // Left-docked: ~480px wide, ~80% viewport height
+  // Left-docked Bluebook size
   useEffect(() => {
     if (placed || typeof window === "undefined") return;
     const w = Math.min(DEFAULT_W, Math.max(MIN_W, Math.floor(window.innerWidth * 0.42)));
@@ -77,64 +81,131 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
     setPlaced(true);
   }, [placed]);
 
-  const ensureGraphing = useCallback(async (api: DesmosAPI) => {
-    if (graphCalcRef.current || !graphHostRef.current) return;
-    graphHostRef.current.innerHTML = "";
-    graphCalcRef.current = api.GraphingCalculator(graphHostRef.current, { ...GRAPHING_OPTS });
-    setReadyGraph(true);
-  }, []);
-
-  const ensureScientific = useCallback(async (api: DesmosAPI) => {
-    if (sciCalcRef.current || !sciHostRef.current) return;
-    sciHostRef.current.innerHTML = "";
-    sciCalcRef.current = api.ScientificCalculator(sciHostRef.current, { ...SCIENTIFIC_OPTS });
-    setReadySci(true);
-  }, []);
-
-  // Load API + init graphing (default). Keep both instances alive for the module.
+  // Init graphing once the modal is open and the host has real size
   useEffect(() => {
+    if (!open) return;
+    if (graphCalcRef.current || graphFallback) {
+      graphCalcRef.current?.resize();
+      return;
+    }
+    if (graphInitingRef.current) return;
+
     let cancelled = false;
-    loadDesmos()
-      .then(async (Desmos) => {
+    graphInitingRef.current = true;
+
+    (async () => {
+      let calc: DesmosCalculatorInstance | null = null;
+      try {
+        const host = graphHostRef.current;
+        if (!host) throw new Error("Missing graph host");
+        await waitForSize(host);
         if (cancelled) return;
-        desmosApiRef.current = Desmos;
-        await ensureGraphing(Desmos);
-      })
-      .catch((e: Error) => {
-        if (!cancelled) setError(e.message || "Failed to load calculator");
-      });
+
+        const Desmos = await loadDesmos();
+        if (cancelled || !graphHostRef.current) return;
+
+        graphHostRef.current.innerHTML = "";
+        calc = Desmos.GraphingCalculator(graphHostRef.current, { ...GRAPHING_OPTS });
+        if (cancelled) {
+          calc.destroy();
+          return;
+        }
+        graphCalcRef.current = calc;
+        setReadyGraph(true);
+        setError(null);
+        requestAnimationFrame(() => calc?.resize());
+      } catch (e) {
+        console.error("Desmos graphing init failed, using embed fallback:", e);
+        if (!cancelled) {
+          setGraphFallback(true);
+          setReadyGraph(true);
+          setError(null);
+        }
+      } finally {
+        graphInitingRef.current = false;
+      }
+    })();
 
     return () => {
       cancelled = true;
-      graphCalcRef.current?.destroy();
-      sciCalcRef.current?.destroy();
+      graphInitingRef.current = false;
+    };
+  }, [open, graphFallback]);
+
+  // Init scientific on first visit to that tab
+  useEffect(() => {
+    if (!open || mode !== "scientific") return;
+    if (sciCalcRef.current || sciFallback) {
+      sciCalcRef.current?.resize();
+      return;
+    }
+    if (sciInitingRef.current) return;
+
+    let cancelled = false;
+    sciInitingRef.current = true;
+
+    (async () => {
+      let calc: DesmosCalculatorInstance | null = null;
+      try {
+        const host = sciHostRef.current;
+        if (!host) throw new Error("Missing scientific host");
+        await waitForSize(host);
+        if (cancelled) return;
+
+        const Desmos = await loadDesmos();
+        if (!Desmos.ScientificCalculator) {
+          throw new Error("ScientificCalculator not enabled for this API key");
+        }
+        if (cancelled || !sciHostRef.current) return;
+
+        sciHostRef.current.innerHTML = "";
+        calc = Desmos.ScientificCalculator(sciHostRef.current, { ...SCIENTIFIC_OPTS });
+        if (cancelled) {
+          calc.destroy();
+          return;
+        }
+        sciCalcRef.current = calc;
+        setReadySci(true);
+        requestAnimationFrame(() => calc?.resize());
+      } catch (e) {
+        console.error("Desmos scientific init failed, using embed fallback:", e);
+        if (!cancelled) {
+          setSciFallback(true);
+          setReadySci(true);
+        }
+      } finally {
+        sciInitingRef.current = false;
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+      sciInitingRef.current = false;
+    };
+  }, [open, mode, sciFallback]);
+
+  // Destroy on full unmount (leaving module)
+  useEffect(() => {
+    return () => {
+      try {
+        graphCalcRef.current?.destroy();
+        sciCalcRef.current?.destroy();
+      } catch {
+        /* ignore */
+      }
       graphCalcRef.current = null;
       sciCalcRef.current = null;
     };
-  }, [ensureGraphing]);
+  }, []);
 
-  // Lazy-create scientific when first selected; never destroy on tab switch
-  useEffect(() => {
-    if (mode !== "scientific" || !desmosApiRef.current) return;
-    ensureScientific(desmosApiRef.current).catch((e: Error) =>
-      setError(e.message || "Failed to load scientific calculator")
-    );
-  }, [mode, ensureScientific]);
-
-  const activeCalc = () =>
-    mode === "graphing" ? graphCalcRef.current : sciCalcRef.current;
-
-  // Resize active calculator when shown / sized / tabbed
+  // Resize when shown / resized / tabbed
   useEffect(() => {
     if (!open) return;
-    const id = requestAnimationFrame(() => {
-      activeCalc()?.resize();
-      // Also resize the hidden one so it paints correctly when switched
+    const id = window.setTimeout(() => {
       graphCalcRef.current?.resize();
       sciCalcRef.current?.resize();
-    });
-    return () => cancelAnimationFrame(id);
-    // eslint-disable-next-line react-hooks/exhaustive-deps -- active mode drives which instance is focused
+    }, 50);
+    return () => clearTimeout(id);
   }, [open, mode, size.w, size.h, readyGraph, readySci]);
 
   const clampPos = useCallback((x: number, y: number, w: number, h: number) => {
@@ -155,9 +226,14 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
 
   const onDragPointerMove = (e: ReactPointerEvent) => {
     if (!dragRef.current) return;
-    const dx = e.clientX - dragRef.current.ox;
-    const dy = e.clientY - dragRef.current.oy;
-    setPos(clampPos(dragRef.current.x + dx, dragRef.current.y + dy, size.w, size.h));
+    setPos(
+      clampPos(
+        dragRef.current.x + (e.clientX - dragRef.current.ox),
+        dragRef.current.y + (e.clientY - dragRef.current.oy),
+        size.w,
+        size.h
+      )
+    );
   };
 
   const onDragPointerUp = (e: ReactPointerEvent) => {
@@ -178,11 +254,12 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
 
   const onResizePointerMove = (e: ReactPointerEvent) => {
     if (!resizeRef.current) return;
-    const dw = e.clientX - resizeRef.current.ox;
-    const dh = e.clientY - resizeRef.current.oy;
-    const w = Math.min(Math.max(MIN_W, resizeRef.current.w + dw), window.innerWidth - 16);
+    const w = Math.min(
+      Math.max(MIN_W, resizeRef.current.w + (e.clientX - resizeRef.current.ox)),
+      window.innerWidth - 16
+    );
     const h = Math.min(
-      Math.max(MIN_H, resizeRef.current.h + dh),
+      Math.max(MIN_H, resizeRef.current.h + (e.clientY - resizeRef.current.oy)),
       window.innerHeight - HEADER_H - 8
     );
     setSize({ w, h });
@@ -197,11 +274,6 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
     }
     graphCalcRef.current?.resize();
     sciCalcRef.current?.resize();
-  };
-
-  const switchMode = (next: CalcMode) => {
-    if (next === mode) return;
-    setMode(next);
   };
 
   const loading =
@@ -220,11 +292,11 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
         top: pos.y,
         width: size.w,
         height: size.h,
+        // Keep mounted when closed so calculator state persists
         visibility: open ? "visible" : "hidden",
         pointerEvents: open ? "auto" : "none",
       }}
     >
-      {/* Dark Bluebook header with Graphing / Scientific tabs */}
       <div
         className="flex h-11 flex-shrink-0 cursor-grab items-center gap-2 bg-[#2d2d2d] px-2 active:cursor-grabbing select-none"
         onPointerDown={onDragPointerDown}
@@ -237,7 +309,7 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
             type="button"
             role="tab"
             aria-selected={mode === "graphing"}
-            onClick={() => switchMode("graphing")}
+            onClick={() => setMode("graphing")}
             className={`flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-semibold transition-colors ${
               mode === "graphing"
                 ? "bg-white text-gray-900"
@@ -254,7 +326,7 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
             type="button"
             role="tab"
             aria-selected={mode === "scientific"}
-            onClick={() => switchMode("scientific")}
+            onClick={() => setMode("scientific")}
             className={`flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-semibold transition-colors ${
               mode === "scientific"
                 ? "bg-white text-gray-900"
@@ -262,26 +334,24 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
             }`}
           >
             <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden>
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v3M9 7h6M8 12h2l2 5 2-8 2 3h2" />
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M4 20V10m4 10V4m4 16v-6m4 6V8m4 12V12"
+              />
             </svg>
             Scientific
           </button>
         </div>
 
-        {/* Drag affordance (six-dot grip) */}
         <div className="ml-1 flex flex-col gap-0.5 opacity-50" aria-hidden>
-          <span className="flex gap-0.5">
-            <span className="h-1 w-1 rounded-full bg-white" />
-            <span className="h-1 w-1 rounded-full bg-white" />
-          </span>
-          <span className="flex gap-0.5">
-            <span className="h-1 w-1 rounded-full bg-white" />
-            <span className="h-1 w-1 rounded-full bg-white" />
-          </span>
-          <span className="flex gap-0.5">
-            <span className="h-1 w-1 rounded-full bg-white" />
-            <span className="h-1 w-1 rounded-full bg-white" />
-          </span>
+          {[0, 1, 2].map((r) => (
+            <span key={r} className="flex gap-0.5">
+              <span className="h-1 w-1 rounded-full bg-white" />
+              <span className="h-1 w-1 rounded-full bg-white" />
+            </span>
+          ))}
         </div>
 
         <div className="flex-1" />
@@ -298,7 +368,6 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
         </button>
       </div>
 
-      {/* Calculator hosts — both kept mounted for state preservation */}
       <div className="relative min-h-0 flex-1 bg-white">
         {loading && (
           <div className="absolute inset-0 z-10 flex items-center justify-center bg-white text-sm text-gray-500">
@@ -310,9 +379,9 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
             {error}
           </div>
         )}
-        {/* Keep both sized (not display:none) so Desmos layout persists */}
+
+        {/* Graphing pane */}
         <div
-          ref={graphHostRef}
           className="absolute inset-0"
           style={{
             visibility: mode === "graphing" ? "visible" : "hidden",
@@ -320,9 +389,21 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
             zIndex: mode === "graphing" ? 1 : 0,
           }}
           aria-hidden={mode !== "graphing"}
-        />
+        >
+          {graphFallback ? (
+            <iframe
+              title="Desmos Graphing Calculator"
+              src="https://www.desmos.com/calculator"
+              className="h-full w-full border-0"
+              allow="clipboard-write"
+            />
+          ) : (
+            <div ref={graphHostRef} className="h-full w-full" />
+          )}
+        </div>
+
+        {/* Scientific pane */}
         <div
-          ref={sciHostRef}
           className="absolute inset-0"
           style={{
             visibility: mode === "scientific" ? "visible" : "hidden",
@@ -330,10 +411,20 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
             zIndex: mode === "scientific" ? 1 : 0,
           }}
           aria-hidden={mode !== "scientific"}
-        />
+        >
+          {sciFallback ? (
+            <iframe
+              title="Desmos Scientific Calculator"
+              src="https://www.desmos.com/scientific"
+              className="h-full w-full border-0"
+              allow="clipboard-write"
+            />
+          ) : (
+            <div ref={sciHostRef} className="h-full w-full" />
+          )}
+        </div>
       </div>
 
-      {/* Bluebook-style expand resize handle (bottom-right) */}
       <div
         className="absolute bottom-0 right-0 z-20 flex h-6 w-6 cursor-nwse-resize items-end justify-end p-1"
         onPointerDown={onResizePointerDown}

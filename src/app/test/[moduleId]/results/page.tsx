@@ -1,33 +1,87 @@
 "use client";
 
 import { useEffect, useState, use } from "react";
-import { useSearchParams, useRouter } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 
 interface AttemptData {
   id: string;
-  score: number;
-  totalQuestions: number;
+  score: number | null;
+  totalQuestions: number | null;
   timeSpent: number | null;
-  module: {
+  module?: {
     number: number;
-    test: { title: string; section: string };
-  };
+    test?: { title: string; section: string };
+  } | null;
+  error?: string;
 }
 
 export default function ResultsPage({ params }: { params: Promise<{ moduleId: string }> }) {
-  use(params); // consume params (not needed directly)
+  const { moduleId } = use(params);
   const searchParams = useSearchParams();
-  const router = useRouter();
   const attemptId = searchParams.get("attemptId") ?? "";
   const [data, setData] = useState<AttemptData | null>(null);
+  const [loadError, setLoadError] = useState<string | null>(null);
 
   useEffect(() => {
-    if (!attemptId) return;
+    if (!attemptId) {
+      setLoadError("Missing attempt id. Return home and retake the module.");
+      return;
+    }
+
+    let cancelled = false;
     fetch(`/api/attempts/${attemptId}`)
-      .then((r) => r.json())
-      .then(setData);
+      .then(async (r) => {
+        const json = (await r.json()) as AttemptData;
+        if (!r.ok) {
+          throw new Error(json.error || `Failed to load results (${r.status})`);
+        }
+        if (!json.module?.test) {
+          throw new Error("Incomplete attempt data (missing module/test).");
+        }
+        return json;
+      })
+      .then((json) => {
+        if (!cancelled) setData(json);
+      })
+      .catch((error: unknown) => {
+        console.error("Results page error:", error);
+        if (!cancelled) {
+          setLoadError(
+            error instanceof Error ? error.message : "Failed to load results."
+          );
+        }
+      });
+
+    return () => {
+      cancelled = true;
+    };
   }, [attemptId]);
+
+  if (loadError) {
+    return (
+      <div className="min-h-screen bg-white flex flex-col items-center justify-center px-4 py-12">
+        <div className="w-full max-w-md text-center">
+          <h1 className="text-xl font-bold text-gray-900 mb-2">Couldn’t load results</h1>
+          <p className="text-sm text-gray-500 mb-6">{loadError}</p>
+          <div className="flex gap-3 justify-center">
+            <Link
+              href={`/test/${moduleId}${attemptId ? `?attemptId=${attemptId}` : ""}`}
+              className="px-4 py-2.5 text-sm font-semibold rounded-xl border border-gray-200 text-gray-800 hover:bg-gray-50"
+            >
+              Back to module
+            </Link>
+            <Link
+              href="/"
+              className="px-4 py-2.5 text-sm font-semibold rounded-xl bg-[#7c3aed] text-white hover:bg-[#6d28d9]"
+            >
+              Home
+            </Link>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   if (!data) {
     return (
@@ -37,34 +91,36 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
     );
   }
 
-  const pct = data.totalQuestions > 0 ? Math.round((data.score / data.totalQuestions) * 100) : 0;
-  const incorrect = data.totalQuestions - data.score;
-  const mins = data.timeSpent ? Math.floor(data.timeSpent / 60) : null;
-  const secs = data.timeSpent ? (data.timeSpent % 60).toString().padStart(2, "0") : null;
+  const score = data.score ?? 0;
+  const totalQuestions = data.totalQuestions ?? 0;
+  const pct = totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0;
+  const incorrect = Math.max(0, totalQuestions - score);
+  const mins = data.timeSpent != null ? Math.floor(data.timeSpent / 60) : null;
+  const secs =
+    data.timeSpent != null ? (data.timeSpent % 60).toString().padStart(2, "0") : null;
+  const title = data.module?.test?.title ?? "Practice module";
+  const moduleNumber = data.module?.number ?? 1;
 
   return (
     <div className="min-h-screen bg-white flex flex-col items-center justify-center px-4 py-12">
       <div className="w-full max-w-md">
-        {/* Celebration header */}
         <div className="text-center mb-8">
           <div className="text-5xl mb-3">{pct >= 80 ? "🎉" : pct >= 60 ? "👍" : "📚"}</div>
           <h1 className="text-2xl font-bold text-gray-900">Module Complete!</h1>
           <p className="text-gray-500 text-sm mt-1">
-            {data.module.test.title} — Module {data.module.number}
+            {title} — Module {moduleNumber}
           </p>
         </div>
 
-        {/* Score card */}
         <div className="bg-white rounded-2xl border border-gray-200 p-6 mb-4">
-          {/* Big score */}
           <div className="flex justify-around mb-6">
             <div className="text-center">
-              <div className="text-4xl font-bold text-[#7c3aed]">{data.score}</div>
+              <div className="text-4xl font-bold text-[#7c3aed]">{score}</div>
               <div className="text-xs text-gray-500 mt-1">Correct</div>
             </div>
             <div className="w-px bg-gray-200" />
             <div className="text-center">
-              <div className="text-4xl font-bold text-gray-900">{data.totalQuestions}</div>
+              <div className="text-4xl font-bold text-gray-900">{totalQuestions}</div>
               <div className="text-xs text-gray-500 mt-1">Total</div>
             </div>
             <div className="w-px bg-gray-200" />
@@ -74,7 +130,6 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
             </div>
           </div>
 
-          {/* Progress bar */}
           <div className="h-3 bg-gray-100 rounded-full overflow-hidden">
             <div
               className="h-full bg-[#7c3aed] rounded-full transition-all"
@@ -84,11 +139,12 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
           <p className="text-center text-sm font-semibold text-[#7c3aed] mt-2">{pct}%</p>
 
           {mins !== null && (
-            <p className="text-center text-xs text-gray-500 mt-2">Time: {mins}:{secs}</p>
+            <p className="text-center text-xs text-gray-500 mt-2">
+              Time: {mins}:{secs}
+            </p>
           )}
         </div>
 
-        {/* Actions */}
         <div className="flex gap-3">
           <Link
             href={`/review/${attemptId}`}

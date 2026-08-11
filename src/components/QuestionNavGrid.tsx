@@ -49,6 +49,9 @@ export function QuestionNavGrid({
   const answeredCount = questions.filter((q) => isAnswered(answers[q.id])).length;
   const flaggedCount = questions.filter((q) => markedForReview.has(q.id)).length;
   const unansweredCount = questions.length - answeredCount;
+  const flaggedQuestions = questions
+    .map((q, i) => ({ q, i }))
+    .filter(({ q }) => markedForReview.has(q.id));
 
   return (
     <div
@@ -112,7 +115,7 @@ export function QuestionNavGrid({
         </div>
 
         <div
-          className="grid max-h-[min(50vh,320px)] grid-cols-6 gap-2 overflow-y-auto p-4 sm:grid-cols-7"
+          className="grid max-h-[min(40vh,280px)] grid-cols-6 gap-2 overflow-y-auto p-4 sm:grid-cols-7"
           role="listbox"
           aria-label={`Questions in module ${moduleNumber}`}
         >
@@ -158,6 +161,37 @@ export function QuestionNavGrid({
             );
           })}
         </div>
+
+        {/* Flagged jump list */}
+        {flaggedQuestions.length > 0 && (
+          <div className="border-t border-gray-100 px-4 py-3">
+            <h3 className="mb-2 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-gray-500">
+              <svg className="h-3.5 w-3.5 text-orange-500" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                <path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
+              </svg>
+              Flagged ({flaggedQuestions.length})
+            </h3>
+            <div className="flex flex-wrap gap-1.5">
+              {flaggedQuestions.map(({ q, i }) => (
+                <button
+                  key={q.id}
+                  type="button"
+                  onClick={() => {
+                    onNavigate(i);
+                    onClose();
+                  }}
+                  className="inline-flex items-center gap-1 rounded-md border border-orange-200 bg-orange-50 px-2 py-1 text-xs font-semibold text-orange-800 hover:bg-orange-100"
+                  aria-label={`Jump to flagged question ${q.order || i + 1}`}
+                >
+                  <svg className="h-3 w-3 text-orange-500" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
+                  </svg>
+                  Q{q.order || i + 1}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

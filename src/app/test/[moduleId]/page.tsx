@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback, use, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { DesmosCalculatorModal } from "@/components/DesmosCalculatorModal";
 import { MathReferenceSheet } from "@/components/MathReferenceSheet";
+import { ModuleReviewModal } from "@/components/ModuleReviewModal";
 import { QuestionNavGrid } from "@/components/QuestionNavGrid";
 
 interface Question {
@@ -63,8 +64,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [showReference, setShowReference] = useState(false);
   const [showDirections, setShowDirections] = useState(false);
   const [showQuestionGrid, setShowQuestionGrid] = useState(false);
+  const [showReviewModal, setShowReviewModal] = useState(false);
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
+  const currentQuestionIdRef = useRef<string>("");
 
   const openCalculator = useCallback(() => {
     setDesmosMounted(true);
@@ -169,6 +172,29 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     return () => window.removeEventListener("keydown", onKey);
   }, [toggleCrossOutMode]);
 
+  const toggleMark = useCallback((qId: string) => {
+    setMarkedForReview((prev) => {
+      const next = new Set(prev);
+      if (next.has(qId)) next.delete(qId);
+      else next.add(qId);
+      return next;
+    });
+  }, []);
+
+  // Alt+K / Option+K — toggle Mark for Review on current question
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (!e.altKey) return;
+      if (e.key !== "k" && e.key !== "K") return;
+      const qId = currentQuestionIdRef.current;
+      if (!qId) return;
+      e.preventDefault();
+      toggleMark(qId);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [toggleMark]);
+
   // Highlight: wrap selected text in <mark> on mouseup
   const handleMouseUp = useCallback(() => {
     if (!highlightMode) return;
@@ -191,15 +217,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       if (qId) setHighlights((prev) => ({ ...prev, [qId]: passageRef.current!.innerHTML }));
     }
   }, [highlightMode]);
-
-  const toggleMark = (qId: string) => {
-    setMarkedForReview((prev) => {
-      const next = new Set(prev);
-      if (next.has(qId)) next.delete(qId);
-      else next.add(qId);
-      return next;
-    });
-  };
 
   const toggleCrossedLetter = useCallback((qId: string, letter: ChoiceLetter) => {
     setCrossedOut((prev) => {
@@ -243,6 +260,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
   const questions = moduleData.questions;
   const q = questions[current];
+  currentQuestionIdRef.current = q.id;
+  const isFlagged = markedForReview.has(q.id);
   const choices: Record<string, string | boolean> = JSON.parse(q.choices);
   const isMath = moduleData.test.section === "MATH";
   const mins = Math.floor((timeLeft ?? 0) / 60);
@@ -374,7 +393,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             )}
 
             <button
-              onClick={handleSubmit}
+              onClick={() => {
+                setShowQuestionGrid(false);
+                setShowReviewModal(true);
+              }}
               disabled={submitting}
               className="px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-60"
             >
@@ -424,28 +446,30 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         {/* Right panel */}
         <div className="w-1/2 overflow-y-auto p-6 lg:p-10">
           {/* Question number + mark for review */}
-          <div className="flex items-center gap-3 mb-5">
+          <div className="flex items-center gap-2 mb-5">
             <span className="w-8 h-8 rounded flex items-center justify-center bg-gray-900 text-white text-sm font-bold flex-shrink-0">
               {current + 1}
             </span>
             <button
               type="button"
               onClick={() => toggleMark(q.id)}
-              aria-pressed={markedForReview.has(q.id)}
-              className={`flex items-center gap-1.5 text-xs font-medium transition-colors ${
-                markedForReview.has(q.id)
-                  ? "text-orange-500"
-                  : "text-gray-400 hover:text-gray-700"
+              aria-pressed={isFlagged}
+              title={isFlagged ? "Remove mark for review (Alt+K)" : "Mark for review (Alt+K)"}
+              className={`flex items-center gap-1.5 rounded-lg border px-2.5 py-1.5 text-xs font-medium transition-colors ${
+                isFlagged
+                  ? "border-orange-400 bg-orange-50 text-orange-700 shadow-sm"
+                  : "border-transparent text-gray-500 hover:border-gray-200 hover:bg-gray-50 hover:text-gray-800"
               }`}
             >
               <svg
                 className="w-4 h-4"
-                fill={markedForReview.has(q.id) ? "currentColor" : "none"}
+                fill={isFlagged ? "currentColor" : "none"}
                 viewBox="0 0 24 24"
                 stroke="currentColor"
+                strokeWidth={isFlagged ? 1.5 : 2}
                 aria-hidden
               >
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
+                <path strokeLinecap="round" strokeLinejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
               </svg>
               Mark for Review
             </button>
@@ -616,7 +640,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         ) : (
           <button
             type="button"
-            onClick={handleSubmit}
+            onClick={() => {
+              setShowQuestionGrid(false);
+              setShowReviewModal(true);
+            }}
             disabled={submitting}
             className="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg bg-green-600 text-white hover:bg-green-700 transition-colors disabled:opacity-60 flex-shrink-0"
           >
@@ -640,6 +667,18 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           onNavigate={setCurrent}
         />
       </div>
+
+      <ModuleReviewModal
+        open={showReviewModal}
+        onClose={() => setShowReviewModal(false)}
+        onConfirmSubmit={handleSubmit}
+        submitting={submitting}
+        moduleNumber={moduleData.number}
+        questions={questions}
+        answers={answers}
+        markedForReview={markedForReview}
+        onNavigate={setCurrent}
+      />
 
       {/* ── Pause overlay ── */}
       {paused && (

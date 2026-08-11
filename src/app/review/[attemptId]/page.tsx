@@ -42,21 +42,40 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
 
   useEffect(() => {
     fetch(`/api/attempts/${attemptId}`)
-      .then((r) => r.json())
-      .then(setData);
+      .then(async (r) => {
+        const json = await r.json();
+        if (!r.ok) throw new Error(json.error || `Failed to load review (${r.status})`);
+        if (!json.module?.test || !Array.isArray(json.module?.questions)) {
+          throw new Error("Incomplete attempt data");
+        }
+        return json as AttemptDetail;
+      })
+      .then(setData)
+      .catch((error: unknown) => {
+        console.error("Results page error:", error);
+        setData(null);
+      });
   }, [attemptId]);
 
   if (!data) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-white">
-        <div className="w-8 h-8 border-2 border-[#7c3aed] border-t-transparent rounded-full animate-spin" />
+      <div className="min-h-screen flex flex-col items-center justify-center bg-white px-4">
+        <div className="w-8 h-8 border-2 border-[#7c3aed] border-t-transparent rounded-full animate-spin mb-4" />
+        <p className="text-sm text-gray-500">Loading review…</p>
+        <Link href="/" className="mt-4 text-sm text-[#7c3aed] hover:underline">
+          Back to Home
+        </Link>
       </div>
     );
   }
 
-  const answerByQuestion = new Map(data.answers.map((a) => [a.questionId, a]));
-  const incorrect = data.totalQuestions - data.score;
-  const wrongNums = data.module.questions
+  const answers = data.answers ?? [];
+  const questions = data.module?.questions ?? [];
+  const score = data.score ?? 0;
+  const totalQuestions = data.totalQuestions ?? questions.length;
+  const answerByQuestion = new Map(answers.map((a) => [a.questionId, a]));
+  const incorrect = Math.max(0, totalQuestions - score);
+  const wrongNums = questions
     .filter((q) => {
       const a = answerByQuestion.get(q.id);
       return a && !a.isCorrect;
@@ -91,13 +110,13 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
               <svg className="w-4 h-4 text-[#7c3aed]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-              {data.module.test.title} Module {data.module.number}
+              {data.module?.test?.title ?? "Practice"} Module {data.module?.number ?? 1}
             </p>
             <p className="flex items-center gap-2">
               <svg className="w-4 h-4 text-[#7c3aed]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
               </svg>
-              {data.module.test.section === "MATH" ? "Math" : "Reading and Writing"}
+              {data.module?.test?.section === "MATH" ? "Math" : "Reading and Writing"}
             </p>
             {finishedDate && (
               <p className="flex items-center gap-2">
@@ -129,8 +148,8 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
         {/* Stats */}
         <div className="grid grid-cols-3 gap-4 mb-8">
           {[
-            { label: "Total Questions", value: data.totalQuestions, color: "text-gray-900" },
-            { label: "Correct Answers", value: data.score, color: "text-[#7c3aed]" },
+            { label: "Total Questions", value: totalQuestions, color: "text-gray-900" },
+            { label: "Correct Answers", value: score, color: "text-[#7c3aed]" },
             { label: "Incorrect Answers", value: incorrect, color: "text-red-500" },
           ].map((s) => (
             <div key={s.label} className="bg-white rounded-xl border border-gray-200 p-4 text-center">
@@ -142,7 +161,7 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
 
         {/* Questions table */}
         <div className="space-y-3">
-          {data.module.questions.map((q, i) => {
+          {questions.map((q, i) => {
             const answer = answerByQuestion.get(q.id);
             const isCorrect = answer?.isCorrect ?? false;
             const choices: Record<string, string> = JSON.parse(q.choices);

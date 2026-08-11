@@ -7,29 +7,71 @@ export async function GET(
   _req: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
-  const session = await auth();
-  if (!session?.user?.id) {
-    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  }
+  try {
+    const session = await auth();
+    if (!session?.user?.id) {
+      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    }
 
-  const { id } = await params;
+    const { id } = await params;
+    if (!id) {
+      return NextResponse.json({ error: "Missing attempt id" }, { status: 400 });
+    }
 
-  const attempt = await prisma.attempt.findUnique({
-    where: { id },
-    include: {
-      module: {
-        include: {
-          test: { select: { title: true, section: true, year: true, month: true } },
-          questions: { orderBy: { order: "asc" } },
+    const attempt = await prisma.attempt.findUnique({
+      where: { id },
+      include: {
+        module: {
+          include: {
+            test: { select: { title: true, section: true, year: true, month: true } },
+            questions: { orderBy: { order: "asc" } },
+          },
         },
+        answers: true,
       },
-      answers: true,
-    },
-  });
+    });
 
-  if (!attempt || attempt.userId !== session.user.id) {
-    return NextResponse.json({ error: "Not found" }, { status: 404 });
+    if (!attempt || attempt.userId !== session.user.id) {
+      return NextResponse.json({ error: "Not found" }, { status: 404 });
+    }
+
+    if (!attempt.module) {
+      console.error("Results page error: attempt missing module relation", { attemptId: id });
+      return NextResponse.json({ error: "Attempt module missing" }, { status: 500 });
+    }
+
+    if (!attempt.module.test) {
+      console.error("Results page error: module missing test relation", {
+        attemptId: id,
+        moduleId: attempt.moduleId,
+      });
+      return NextResponse.json({ error: "Attempt test missing" }, { status: 500 });
+    }
+
+    const questions = attempt.module.questions ?? [];
+    const answers = attempt.answers ?? [];
+    const totalQuestions =
+      attempt.totalQuestions != null && attempt.totalQuestions > 0
+        ? attempt.totalQuestions
+        : questions.length;
+    const score = attempt.score ?? 0;
+
+    return NextResponse.json({
+      ...attempt,
+      score,
+      totalQuestions,
+      answers,
+      module: {
+        ...attempt.module,
+        questions,
+        test: attempt.module.test,
+      },
+    });
+  } catch (error) {
+    console.error("Results page error:", error);
+    return NextResponse.json(
+      { error: "Failed to load attempt" },
+      { status: 500 }
+    );
   }
-
-  return NextResponse.json(attempt);
 }
