@@ -170,7 +170,11 @@ export function ModuleReviewModal({
             disabled={submitting}
             className="rounded-lg bg-green-600 px-4 py-2.5 text-sm font-semibold text-white hover:bg-green-700 disabled:opacity-60"
           >
-            {submitting ? "Submitting…" : submitError ? "Retry Submission" : "Submit module"}
+            {submitting
+              ? "Saving to your account..."
+              : submitError
+                ? "Retry Saving"
+                : "Submit module"}
           </button>
         </div>
       </div>

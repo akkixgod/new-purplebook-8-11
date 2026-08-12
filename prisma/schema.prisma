@@ -98,6 +98,8 @@ model Question {
 }
 
 model Attempt {
+  // Client-generated UUID is stored as id (PK ⇒ unique). Default cuid() only for legacy start-route rows.
+  // Spec "attemptId String @unique" is satisfied by this primary key — a second column would be redundant.
   id              String    @id @default(cuid())
   userId          String?
   moduleId        String
@@ -127,6 +129,7 @@ model Answer {
   attempt     Attempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
   question    Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
 
+  @@unique([attemptId, questionId])
   @@index([attemptId])
   @@index([questionId])
 }

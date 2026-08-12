@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { auth } from "@/lib/auth";
-import { resolveSessionUserId } from "@/lib/resolve-session-user";
+import { requireSessionUserId, UnauthenticatedError } from "@/lib/require-session-user";
 
 // POST /api/attempts/[id]/submit
 // Body: { answers: { questionId: string, selected: string | null }[], timeSpent: number }
@@ -10,10 +9,19 @@ export async function POST(
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const session = await auth();
-    if (!session?.user?.id) {
-      console.warn("[attempts/submit] unauthorized — no session");
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    let userId: string;
+    try {
+      userId = await requireSessionUserId();
+    } catch (error) {
+      if (error instanceof UnauthenticatedError) {
+        console.warn("[attempts/submit] unauthorized — no session");
+        return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+      }
+      console.error("[attempts/submit] resolveSessionUserId failed", error);
+      return NextResponse.json(
+        { error: "Session expired. Sign in again, then retry submission." },
+        { status: 401 }
+      );
     }
 
     const { id } = await params;
@@ -23,22 +31,6 @@ export async function POST(
 
     if (!Array.isArray(answers)) {
       return NextResponse.json({ error: "Invalid answers payload" }, { status: 400 });
-    }
-
-    let userId: string;
-    try {
-      userId = await resolveSessionUserId({
-        id: session.user.id,
-        email: session.user.email,
-        name: session.user.name,
-        image: session.user.image,
-      });
-    } catch (error) {
-      console.error("[attempts/submit] resolveSessionUserId failed", error);
-      return NextResponse.json(
-        { error: "Session expired. Sign in again, then retry submission." },
-        { status: 401 }
-      );
     }
 
     const attempt = await prisma.attempt.findUnique({
@@ -56,16 +48,14 @@ export async function POST(
     }
 
     if (attempt.finishedAt) {
-      return NextResponse.json(
-        {
-          error: "Already submitted",
-          score: attempt.score,
-          total: attempt.totalQuestions,
-          persisted: true,
-          userId: attempt.userId,
-        },
-        { status: 409 }
-      );
+      return NextResponse.json({
+        score: attempt.score,
+        total: attempt.totalQuestions,
+        persisted: true,
+        idempotent: true,
+        userId: attempt.userId,
+        attemptId: id,
+      });
     }
 
     if (!attempt.module) {
@@ -94,9 +84,12 @@ export async function POST(
     const total = questions.length;
 
     try {
-      await prisma.$transaction([
-        prisma.answer.createMany({ data: answerData }),
-        prisma.attempt.update({
+      await prisma.$transaction(async (tx) => {
+        await tx.answer.deleteMany({ where: { attemptId: id } });
+        if (answerData.length > 0) {
+          await tx.answer.createMany({ data: answerData });
+        }
+        await tx.attempt.update({
           where: { id },
           data: {
             finishedAt: new Date(),
@@ -104,8 +97,8 @@ export async function POST(
             totalQuestions: total,
             timeSpent: typeof timeSpent === "number" ? timeSpent : null,
           },
-        }),
-      ]);
+        });
+      });
     } catch (dbError) {
       console.error("[attempts/submit] database write failed", {
         attemptId: id,
@@ -119,7 +112,14 @@ export async function POST(
     }
 
     console.info("[attempts/submit] persisted", { attemptId: id, userId, score, total });
-    return NextResponse.json({ score, total, persisted: true, userId, attemptId: id });
+    return NextResponse.json({
+      score,
+      total,
+      persisted: true,
+      idempotent: false,
+      userId,
+      attemptId: id,
+    });
   } catch (error) {
     console.error("[attempts/submit] unexpected error", error);
     return NextResponse.json({ error: "Failed to submit attempt" }, { status: 500 });

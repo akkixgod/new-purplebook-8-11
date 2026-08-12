@@ -1,20 +1,23 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { auth } from "@/lib/auth";
-import { resolveSessionUserId } from "@/lib/resolve-session-user";
+import { requireSessionUserId, UnauthenticatedError } from "@/lib/require-session-user";
+
 /** GET /api/account/attempts — completed practice history for the signed-in user */
 export async function GET() {
   try {
-    const session = await auth();
-    if (!session?.user?.id) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    let userId: string;
+    try {
+      userId = await requireSessionUserId();
+    } catch (error) {
+      if (error instanceof UnauthenticatedError) {
+        return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+      }
+      throw error;
     }
 
-    const userId = await resolveSessionUserId({
-      id: session.user.id,
-      email: session.user.email,
-      name: session.user.name,
-      image: session.user.image,
+    const user = await prisma.user.findUnique({
+      where: { id: userId },
+      select: { id: true, email: true, name: true },
     });
 
     const attempts = await prisma.attempt.findMany({
@@ -75,14 +78,21 @@ export async function GET() {
       count: items.length,
     });
 
-    return NextResponse.json({
-      user: {
-        id: userId,
-        email: session.user.email ?? null,
-        name: session.user.name ?? null,
+    return NextResponse.json(
+      {
+        user: {
+          id: userId,
+          email: user?.email ?? null,
+          name: user?.name ?? null,
+        },
+        attempts: items,
       },
-      attempts: items,
-    });
+      {
+        headers: {
+          "Cache-Control": "no-store, max-age=0",
+        },
+      }
+    );
   } catch (error) {
     console.error("[account/attempts] unexpected error", error);
     return NextResponse.json({ error: "Failed to load history" }, { status: 500 });

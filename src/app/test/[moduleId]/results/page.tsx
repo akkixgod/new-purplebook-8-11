@@ -19,22 +19,21 @@ interface AttemptData {
 }
 
 async function loadAttempt(attemptId: string): Promise<AttemptData> {
+  const r = await fetch(`/api/attempts/${attemptId}`, {
+    credentials: "include",
+    cache: "no-store",
+  });
+  const json = (await r.json()) as AttemptData;
+  if (r.ok && json.module?.test) {
+    return json;
+  }
+
   const cached = readAttemptCache(attemptId);
   if (cached?.module?.test) {
     return cached;
   }
 
-  const r = await fetch(`/api/attempts/${attemptId}`, { credentials: "include" });
-  const json = (await r.json()) as AttemptData;
-  if (!r.ok) {
-    const cachedAfterFail = readAttemptCache(attemptId);
-    if (cachedAfterFail?.module?.test) return cachedAfterFail;
-    throw new Error(json.error || `Failed to load results (${r.status})`);
-  }
-  if (!json.module?.test) {
-    throw new Error("Incomplete attempt data (missing module/test).");
-  }
-  return json;
+  throw new Error(json.error || `Failed to load results (${r.status})`);
 }
 
 function ModuleBreakdown({

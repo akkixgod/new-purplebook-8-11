@@ -46,31 +46,28 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
 
     const load = async () => {
       try {
+        const r = await fetch(`/api/attempts/${attemptId}`, {
+          credentials: "include",
+          cache: "no-store",
+        });
+        const json = await r.json();
+        if (r.ok && json.module?.test && Array.isArray(json.module?.questions)) {
+          setData(json as AttemptDetail);
+          return;
+        }
+
         const cached = readAttemptCache(attemptId);
         if (cached?.module?.test && Array.isArray(cached.module.questions)) {
           setData(cached as AttemptDetail);
           return;
         }
 
-        const r = await fetch(`/api/attempts/${attemptId}`, { credentials: "include" });
-        const json = await r.json();
-        if (!r.ok) {
-          const cachedAfterFail = readAttemptCache(attemptId);
-          if (cachedAfterFail?.module?.test && Array.isArray(cachedAfterFail.module.questions)) {
-            setData(cachedAfterFail as AttemptDetail);
-            return;
-          }
-          if (r.status === 404 && !didRetry) {
-            didRetry = true;
-            await new Promise((res) => setTimeout(res, 350));
-            return load();
-          }
-          throw new Error(json.error || `Failed to load review (${r.status})`);
+        if (r.status === 404 && !didRetry) {
+          didRetry = true;
+          await new Promise((res) => setTimeout(res, 350));
+          return load();
         }
-        if (!json.module?.test || !Array.isArray(json.module?.questions)) {
-          throw new Error("Incomplete attempt data");
-        }
-        setData(json as AttemptDetail);
+        throw new Error(json.error || `Failed to load review (${r.status})`);
       } catch (error: unknown) {
         console.error("Results page error:", error);
         setData(null);

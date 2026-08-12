@@ -62,6 +62,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const [timerHideLocked, setTimerHideLocked] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
+  const [saveStatus, setSaveStatus] = useState<"idle" | "saving" | "saved" | "error">("idle");
   const [loading, setLoading] = useState(true);
   const [markedForReview, setMarkedForReview] = useState<Set<string>>(new Set());
   const [highlightMode, setHighlightMode] = useState(false);
@@ -146,11 +147,13 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     setSubmitError(null);
 
     if (authStatus !== "authenticated") {
+      setSaveStatus("error");
       setSubmitError("Sign in required to save your practice attempt to your account.");
       return;
     }
 
     setSubmitting(true);
+    setSaveStatus("saving");
 
     const startTime = parseInt(localStorage.getItem(STORAGE_TIME_KEY(attemptId)) ?? "0");
     const timeSpent = startTime ? Math.floor((Date.now() - startTime) / 1000) : null;
@@ -159,7 +162,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       selected: answers[q.id] ?? null,
     }));
 
-    // Local retry buffer only — history is always read from the database after a successful write.
+    // Draft / retry buffer only — history is always read from the database after a successful write.
     savePendingSubmission({
       moduleId,
       attemptId,
@@ -170,7 +173,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     localStorage.setItem(STORAGE_KEY(attemptId), JSON.stringify(answers));
 
     const maxAttempts = 3;
-    let lastError = "Failed to submit attempt";
+    let lastError = "Couldn't save your attempt.";
 
     for (let i = 0; i < maxAttempts; i++) {
       try {
@@ -181,7 +184,12 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           headers: { "Content-Type": "application/json" },
           credentials: "include",
           signal: controller.signal,
-          body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent }),
+          body: JSON.stringify({
+            attemptId,
+            moduleId,
+            answers: answerPayload,
+            timeSpent,
+          }),
         });
         clearTimeout(timeout);
 
@@ -197,6 +205,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         if (!r.ok) {
           lastError = json?.error ?? `Submit failed (${r.status})`;
           if (r.status === 401) {
+            setSaveStatus("error");
             setSubmitError(
               json?.error ?? "Sign in required to save your practice attempt to your account."
             );
@@ -212,10 +221,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
         const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
 
-        // Must be permanently bound to the signed-in account in the database.
-        if (!json?.persisted || !json?.userId) {
+        if (!json?.persisted || !json?.userId || serverAttemptId !== attemptId) {
           lastError =
-            "Your score was not saved to your account. Sign in again, then retry submission.";
+            "Your score was not saved to your account. Sign in again, then retry saving.";
           if (i < maxAttempts - 1) {
             await new Promise((res) => setTimeout(res, 400 * 2 ** i));
             continue;
@@ -234,6 +242,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         localStorage.removeItem(STORAGE_HIDE_TIMER_KEY(attemptId));
         setShowReviewModal(false);
         setSubmittedAttemptId(serverAttemptId);
+        setSaveStatus("saved");
 
         // Module 1: choose finish vs continue (no Telegram until Finish is chosen).
         if (moduleData.number === 1) {
@@ -310,19 +319,30 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       } catch (err) {
         lastError =
           err instanceof DOMException && err.name === "AbortError"
-            ? "Submit timed out. Your answers are saved — retry submission."
-            : "Network error. Your answers are saved — retry submission.";
+            ? "Save timed out. Your answers are still on this device — retry saving."
+            : "Network error. Your answers are still on this device — retry saving.";
         if (i < maxAttempts - 1) {
           await new Promise((res) => setTimeout(res, 400 * 2 ** i));
         }
       }
     }
 
+    setSaveStatus("error");
     setSubmitError(lastError);
     setSubmitting(false);
   }, [submitting, moduleData, attemptId, answers, moduleId, router, authStatus]);
 
   useEffect(() => { handleSubmitRef.current = handleSubmit; }, [handleSubmit]);
+
+  useEffect(() => {
+    if (saveStatus !== "error" && saveStatus !== "saving") return;
+    const onBeforeUnload = (e: BeforeUnloadEvent) => {
+      e.preventDefault();
+      e.returnValue = "";
+    };
+    window.addEventListener("beforeunload", onBeforeUnload);
+    return () => window.removeEventListener("beforeunload", onBeforeUnload);
+  }, [saveStatus]);
 
   useEffect(() => {
     if (timeLeft === null || paused) return;
@@ -624,17 +644,29 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               disabled={submitting}
               className="px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-60"
             >
-              {submitting ? "Submitting…" : "Submit"}
+              {saveStatus === "saving" ? "Saving…" : submitting ? "Submitting…" : "Submit"}
             </button>
           </div>
         </div>
-        {submitError && (
-          <div className="border-t border-red-100 bg-red-50 px-4 py-2 flex flex-wrap items-center justify-center gap-3">
-            <p className="text-xs text-red-700">{submitError}</p>
+        {saveStatus === "saving" && (
+          <div className="border-t border-violet-100 bg-violet-50 px-4 py-2 text-center">
+            <p className="text-xs font-medium text-[#7c3aed]">Saving to your account...</p>
+          </div>
+        )}
+        {saveStatus === "saved" && (
+          <div className="border-t border-emerald-100 bg-emerald-50 px-4 py-2 text-center">
+            <p className="text-xs font-medium text-emerald-700">✓ Saved to Account</p>
+          </div>
+        )}
+        {(saveStatus === "error" || submitError) && (
+          <div className="border-t border-red-200 bg-red-50 px-4 py-2.5 flex flex-wrap items-center justify-center gap-3">
+            <p className="text-sm font-semibold text-red-800">
+              ⚠ Couldn&apos;t save your attempt{submitError ? ` — ${submitError}` : ""}
+            </p>
             {authStatus !== "authenticated" ? (
               <a
                 href={`/auth/signin?callbackUrl=${encodeURIComponent(`/test/${moduleId}?attemptId=${attemptId}`)}`}
-                className="px-3 py-1 text-xs font-semibold rounded-lg bg-[#7c3aed] text-white hover:bg-[#6d28d9]"
+                className="px-3 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] text-white hover:bg-[#6d28d9]"
               >
                 Sign In to Save
               </a>
@@ -643,9 +675,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                 type="button"
                 onClick={() => void handleSubmit()}
                 disabled={submitting}
-                className="px-3 py-1 text-xs font-semibold rounded-lg bg-red-600 text-white hover:bg-red-700 disabled:opacity-60"
+                className="px-3 py-1.5 text-xs font-semibold rounded-lg bg-red-600 text-white hover:bg-red-700 disabled:opacity-60"
               >
-                Retry Submission
+                Retry Saving
               </button>
             )}
           </div>

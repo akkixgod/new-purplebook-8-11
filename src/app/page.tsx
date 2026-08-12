@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
+import { useSession } from "next-auth/react";
 import { Header } from "@/components/Header";
 import { HeroPromoBanner } from "@/components/HeroPromoBanner";
 import { TestCard } from "@/components/TestCard";
@@ -45,31 +46,45 @@ function groupButtonClass(active: boolean, mobilePill: boolean) {
 }
 
 export default function HomePage() {
+  const { data: session, status } = useSession();
+  const userId = session?.user?.id ?? null;
   const [section, setSection] = useState<Section>("MATH");
   const [tests, setTests] = useState<Test[]>([]);
   const [attemptMap, setAttemptMap] = useState<Record<string, AttemptInfo>>({});
   const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
 
-  async function fetchTests() {
+  const fetchTests = useCallback(async (signal: AbortSignal) => {
     setLoading(true);
     try {
       await syncAccountAttempts();
     } catch {
       /* non-fatal — still load catalog */
     }
+    if (signal.aborted) return;
     const params = new URLSearchParams({ section });
-    const res = await fetch(`/api/tests?${params}`, { credentials: "include" });
+    const res = await fetch(`/api/tests?${params}`, {
+      credentials: "include",
+      cache: "no-store",
+      signal,
+    });
     const data = await res.json();
+    if (signal.aborted) return;
     setTests(data.tests ?? []);
     setAttemptMap(data.attemptMap ?? {});
     setSelectedGroup(null);
     setLoading(false);
-  }
+  }, [section]);
 
   useEffect(() => {
-    fetchTests();
-  }, [section]);
+    setAttemptMap({});
+    const controller = new AbortController();
+    void fetchTests(controller.signal).catch((err) => {
+      if (err instanceof DOMException && err.name === "AbortError") return;
+      setLoading(false);
+    });
+    return () => controller.abort();
+  }, [section, userId, status, fetchTests]);
 
   const groupEntries = buildTestGroups(tests);
 

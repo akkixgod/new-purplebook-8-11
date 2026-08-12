@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { auth } from "@/lib/auth";
-import { resolveSessionUserId } from "@/lib/resolve-session-user";
+import { requireSessionUserId, UnauthenticatedError } from "@/lib/require-session-user";
 
 type ClaimItem = { attemptId?: string; claimToken?: string };
 
@@ -12,9 +11,14 @@ type ClaimItem = { attemptId?: string; claimToken?: string };
  */
 export async function POST(req: NextRequest) {
   try {
-    const session = await auth();
-    if (!session?.user?.id) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    let userId: string;
+    try {
+      userId = await requireSessionUserId();
+    } catch (error) {
+      if (error instanceof UnauthenticatedError) {
+        return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+      }
+      throw error;
     }
 
     const body = await req.json().catch(() => null);
@@ -22,13 +26,6 @@ export async function POST(req: NextRequest) {
     if (claims.length === 0) {
       return NextResponse.json({ claimed: 0, attemptIds: [] });
     }
-
-    const userId = await resolveSessionUserId({
-      id: session.user.id,
-      email: session.user.email,
-      name: session.user.name,
-      image: session.user.image,
-    });
 
     const claimed: string[] = [];
     for (const item of claims.slice(0, 40)) {

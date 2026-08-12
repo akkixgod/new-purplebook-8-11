@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { auth } from "@/lib/auth";
-import { resolveSessionUserId } from "@/lib/resolve-session-user";
+import { requireSessionUserId, UnauthenticatedError } from "@/lib/require-session-user";
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
@@ -24,22 +23,10 @@ export async function GET(req: NextRequest) {
     orderBy: [{ year: "desc" }, { month: "desc" }],
   });
 
-  const session = await auth();
   let attemptMap: Record<string, { score: number; totalQuestions: number; id: string }> = {};
 
-  if (session?.user?.id) {
-    let userId = session.user.id;
-    try {
-      userId = await resolveSessionUserId({
-        id: session.user.id,
-        email: session.user.email,
-        name: session.user.name,
-        image: session.user.image,
-      });
-    } catch {
-      /* fall back to JWT id */
-    }
-
+  try {
+    const userId = await requireSessionUserId();
     const moduleIds = tests.flatMap((t) => t.modules.map((m) => m.id));
     const attempts = await prisma.attempt.findMany({
       where: {
@@ -65,7 +52,14 @@ export async function GET(req: NextRequest) {
         };
       }
     }
+  } catch (error) {
+    if (!(error instanceof UnauthenticatedError)) {
+      console.warn("[tests] skipped attemptMap — session resolve failed", error);
+    }
   }
 
-  return NextResponse.json({ tests, attemptMap });
+  return NextResponse.json(
+    { tests, attemptMap },
+    { headers: { "Cache-Control": "no-store, max-age=0" } }
+  );
 }

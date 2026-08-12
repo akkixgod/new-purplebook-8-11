@@ -61,6 +61,7 @@ export async function syncAccountAttempts(): Promise<AccountSyncResult> {
         credentials: "include",
         body: JSON.stringify({
           moduleId: p.moduleId,
+          attemptId: p.attemptId,
           answers: p.answers,
           timeSpent: p.timeSpent,
         }),

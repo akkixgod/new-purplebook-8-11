@@ -5,22 +5,23 @@ import { SessionProvider, useSession } from "next-auth/react";
 import { syncAccountAttempts } from "@/lib/sync-account-attempts";
 
 function AccountAttemptSync() {
-  const { status } = useSession();
-  const ranForSession = useRef(false);
+  const { data: session, status } = useSession();
+  const ranForUser = useRef<string | null>(null);
+  const userId = session?.user?.id ?? null;
 
   useEffect(() => {
-    if (status !== "authenticated") {
-      ranForSession.current = false;
+    if (status !== "authenticated" || !userId) {
+      ranForUser.current = null;
       return;
     }
-    if (ranForSession.current) return;
-    ranForSession.current = true;
+    if (ranForUser.current === userId) return;
+    ranForUser.current = userId;
     void syncAccountAttempts().then((r) => {
       if (r.claimed || r.flushed) {
         console.info("[AccountAttemptSync]", r);
       }
     });
-  }, [status]);
+  }, [status, userId]);
 
   return null;
 }

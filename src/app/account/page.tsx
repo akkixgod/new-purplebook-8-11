@@ -58,29 +58,38 @@ export default function AccountPage() {
   const [error, setError] = useState<string | null>(null);
   const [deletingId, setDeletingId] = useState<string | null>(null);
 
+  const userId = session?.user?.id ?? null;
+
   useEffect(() => {
     if (status === "unauthenticated") {
+      setAttempts([]);
       router.replace("/auth/signin?callbackUrl=/account");
       return;
     }
-    if (status !== "authenticated") return;
+    if (status !== "authenticated" || !userId) return;
 
     let cancelled = false;
+    setAttempts([]);
+    setLoading(true);
+    setError(null);
     (async () => {
-      setLoading(true);
-      setError(null);
       try {
-        // Claim guest / pending attempts before reading history so new scores appear immediately.
         await syncAccountAttempts();
         if (cancelled) return;
 
-        const res = await fetch("/api/account/attempts", { credentials: "include" });
+        const res = await fetch("/api/account/attempts", {
+          credentials: "include",
+          cache: "no-store",
+        });
         const data = await res.json().catch(() => ({}));
         if (!res.ok) {
           if (!cancelled) setError(data.error ?? "Failed to load history");
           return;
         }
-        if (!cancelled) setAttempts(Array.isArray(data.attempts) ? data.attempts : []);
+        if (!cancelled) {
+          if (data.user?.id && data.user.id !== userId) return;
+          setAttempts(Array.isArray(data.attempts) ? data.attempts : []);
+        }
       } catch {
         if (!cancelled) setError("Failed to load history");
       } finally {
@@ -91,7 +100,7 @@ export default function AccountPage() {
     return () => {
       cancelled = true;
     };
-  }, [status, router]);
+  }, [status, userId, router]);
 
   async function deleteAttempt(id: string) {
     if (deletingId) return;
