@@ -5,7 +5,6 @@ import {
   clearPendingSubmission,
   listAllPendingSubmissions,
   listClaimableAttempts,
-  saveClaimableAttempt,
 } from "@/lib/attempt-cache";
 
 export type AccountSyncResult = {
@@ -14,13 +13,14 @@ export type AccountSyncResult = {
 };
 
 /**
- * Bind guest completions + flush pending submits to the signed-in account.
- * Safe to call repeatedly; returns counts for UI/debug.
+ * Flush locally buffered failed submits + claim any legacy guest rows onto the signed-in account.
+ * Practice history itself is always read from the database — never from localStorage.
  */
 export async function syncAccountAttempts(): Promise<AccountSyncResult> {
   let claimed = 0;
   let flushed = 0;
 
+  // Legacy guest completions (from older builds) still sitting in localStorage.
   const claims = listClaimableAttempts();
   if (claims.length > 0) {
     try {
@@ -51,6 +51,7 @@ export async function syncAccountAttempts(): Promise<AccountSyncResult> {
     }
   }
 
+  // Retry submits that failed mid-flight (answers buffered locally until the DB write succeeds).
   const pending = listAllPendingSubmissions();
   for (const p of pending) {
     try {
@@ -62,57 +63,22 @@ export async function syncAccountAttempts(): Promise<AccountSyncResult> {
           moduleId: p.moduleId,
           answers: p.answers,
           timeSpent: p.timeSpent,
-          bindToUser: true,
         }),
       });
       const json = (await res.json().catch(() => ({}))) as {
         attemptId?: string;
-        id?: string;
-        claimToken?: string;
         userId?: string | null;
+        persisted?: boolean;
         error?: string;
       };
-      if (res.ok) {
+      if (res.ok && json.persisted && json.userId) {
         clearPendingSubmission(p.attemptId);
         flushed += 1;
-        // Should be bound when authenticated; keep claim token only as fallback.
-        if (typeof json.claimToken === "string" && (json.attemptId || json.id) && !json.userId) {
-          saveClaimableAttempt(json.attemptId ?? json.id!, json.claimToken);
-        }
       } else {
         console.warn("[syncAccountAttempts] flush pending failed", res.status, json.error);
       }
     } catch (error) {
       console.warn("[syncAccountAttempts] flush network error", error);
-    }
-  }
-
-  // If flush created claimable rows while authenticated, claim them now.
-  const leftover = listClaimableAttempts();
-  if (leftover.length > 0) {
-    try {
-      const res = await fetch("/api/attempts/claim", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        credentials: "include",
-        body: JSON.stringify({
-          claims: leftover.map((c) => ({
-            attemptId: c.attemptId,
-            claimToken: c.claimToken,
-          })),
-        }),
-      });
-      if (res.ok) {
-        const data = (await res.json().catch(() => ({}))) as {
-          claimed?: number;
-          attemptIds?: string[];
-        };
-        claimed += typeof data.claimed === "number" ? data.claimed : 0;
-        const ids = Array.isArray(data.attemptIds) ? data.attemptIds : [];
-        clearClaimableAttempts(ids.length ? ids : undefined);
-      }
-    } catch {
-      /* keep for next sync */
     }
   }
 

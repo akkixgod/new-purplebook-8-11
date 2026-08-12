@@ -45,7 +45,7 @@ export function TestCard({ title, year, month, section, version, isFree, modules
     setStartingModuleId(moduleId);
     const attemptId = crypto.randomUUID();
     // Keep spinner until navigation unmounts the card — do not clear immediately.
-    // Guests can start; completed attempts are claimed onto the account after sign-in.
+    // Submitting requires sign-in so the Attempt row is bound to the account in the database.
     router.push(`/test/${moduleId}?attemptId=${attemptId}`);
   }
 

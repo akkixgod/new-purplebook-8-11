@@ -11,7 +11,7 @@ import {
   TelegramCommunityCheckModal,
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
-import { cacheAttempt, savePendingSubmission, clearPendingSubmission, saveClaimableAttempt, type CachedAttempt } from "@/lib/attempt-cache";
+import { cacheAttempt, savePendingSubmission, clearPendingSubmission, type CachedAttempt } from "@/lib/attempt-cache";
 import { saveModule1Journey, readModule1Journey } from "@/lib/test-journey";
 import { textToHtml } from "@/lib/text-to-html";
 import { applyTextHighlight } from "@/lib/text-highlight";
@@ -144,6 +144,12 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const handleSubmit = useCallback(async () => {
     if (submitting || !moduleData || !attemptId) return;
     setSubmitError(null);
+
+    if (authStatus !== "authenticated") {
+      setSubmitError("Sign in required to save your practice attempt to your account.");
+      return;
+    }
+
     setSubmitting(true);
 
     const startTime = parseInt(localStorage.getItem(STORAGE_TIME_KEY(attemptId)) ?? "0");
@@ -153,7 +159,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
       selected: answers[q.id] ?? null,
     }));
 
-    // Durable local copy so a dropped request never loses work.
+    // Local retry buffer only — history is always read from the database after a successful write.
     savePendingSubmission({
       moduleId,
       attemptId,
@@ -165,7 +171,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
     const maxAttempts = 3;
     let lastError = "Failed to submit attempt";
-    const bindToUser = authStatus === "authenticated";
 
     for (let i = 0; i < maxAttempts; i++) {
       try {
@@ -176,14 +181,13 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           headers: { "Content-Type": "application/json" },
           credentials: "include",
           signal: controller.signal,
-          body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent, bindToUser }),
+          body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent }),
         });
         clearTimeout(timeout);
 
         const json = (await r.json().catch(() => null)) as
           | (CachedAttempt & {
               attemptId?: string;
-              claimToken?: string;
               userId?: string | null;
               persisted?: boolean;
               error?: string;
@@ -193,7 +197,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         if (!r.ok) {
           lastError = json?.error ?? `Submit failed (${r.status})`;
           if (r.status === 401) {
-            setSubmitError("Session expired. Sign in again, then retry submission.");
+            setSubmitError(
+              json?.error ?? "Sign in required to save your practice attempt to your account."
+            );
             setSubmitting(false);
             return;
           }
@@ -206,8 +212,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
         const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
 
-        // Signed-in submits must land on the account — never accept a silent guest save.
-        if (bindToUser && !json?.userId) {
+        // Must be permanently bound to the signed-in account in the database.
+        if (!json?.persisted || !json?.userId) {
           lastError =
             "Your score was not saved to your account. Sign in again, then retry submission.";
           if (i < maxAttempts - 1) {
@@ -217,9 +223,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           break;
         }
 
-        if (typeof json?.claimToken === "string" && json.claimToken && !json.userId) {
-          saveClaimableAttempt(serverAttemptId, json.claimToken);
-        }
         if (json?.module?.test) {
           cacheAttempt({ ...json, id: serverAttemptId });
         }
@@ -628,14 +631,23 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         {submitError && (
           <div className="border-t border-red-100 bg-red-50 px-4 py-2 flex flex-wrap items-center justify-center gap-3">
             <p className="text-xs text-red-700">{submitError}</p>
-            <button
-              type="button"
-              onClick={() => void handleSubmit()}
-              disabled={submitting}
-              className="px-3 py-1 text-xs font-semibold rounded-lg bg-red-600 text-white hover:bg-red-700 disabled:opacity-60"
-            >
-              Retry Submission
-            </button>
+            {authStatus !== "authenticated" ? (
+              <a
+                href={`/auth/signin?callbackUrl=${encodeURIComponent(`/test/${moduleId}?attemptId=${attemptId}`)}`}
+                className="px-3 py-1 text-xs font-semibold rounded-lg bg-[#7c3aed] text-white hover:bg-[#6d28d9]"
+              >
+                Sign In to Save
+              </a>
+            ) : (
+              <button
+                type="button"
+                onClick={() => void handleSubmit()}
+                disabled={submitting}
+                className="px-3 py-1 text-xs font-semibold rounded-lg bg-red-600 text-white hover:bg-red-700 disabled:opacity-60"
+              >
+                Retry Submission
+              </button>
+            )}
           </div>
         )}
 

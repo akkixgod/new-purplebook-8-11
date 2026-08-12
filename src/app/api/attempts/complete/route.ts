@@ -1,18 +1,28 @@
 import { NextRequest, NextResponse } from "next/server";
-import { randomUUID } from "crypto";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
 import { resolveSessionUserId } from "@/lib/resolve-session-user";
 
-// POST /api/attempts/complete — create + grade + finish in one request (serverless-safe)
+/**
+ * POST /api/attempts/complete — create + grade + finish in one request.
+ * userId is taken only from the server session — never from the client body.
+ */
 export async function POST(req: NextRequest) {
   try {
     const session = await auth();
+    if (!session?.user?.id) {
+      console.warn("[attempts/complete] rejected unauthenticated submit");
+      return NextResponse.json(
+        { error: "Sign in required to save your practice attempt." },
+        { status: 401 }
+      );
+    }
+
+    // Ignore any client-supplied userId / claimToken — session is the only source of truth.
     const body = await req.json().catch(() => null);
     const moduleId = body?.moduleId as string | undefined;
     const answers = body?.answers;
     const timeSpent = body?.timeSpent;
-    const bindToUser = body?.bindToUser === true;
 
     if (!moduleId) {
       return NextResponse.json({ error: "Missing moduleId" }, { status: 400 });
@@ -21,45 +31,26 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Invalid answers payload" }, { status: 400 });
     }
 
-    let userId: string | null = null;
-    let claimToken: string | null = null;
-
-    if (session?.user?.id) {
-      try {
-        userId = await resolveSessionUserId({
-          id: session.user.id,
-          email: session.user.email,
-          name: session.user.name,
-          image: session.user.image,
-        });
-        console.info("[attempts/complete] authenticated submit", {
-          sessionUserId: session.user.id,
-          resolvedUserId: userId,
-          moduleId,
-          answerCount: answers.length,
-        });
-      } catch (error) {
-        console.error("[attempts/complete] resolveSessionUserId failed", error);
-        return NextResponse.json(
-          { error: "Session expired. Sign in again, then retry submission." },
-          { status: 401 }
-        );
-      }
-    } else if (bindToUser) {
-      // Client believed they were signed in — do not silently save as guest.
-      console.warn("[attempts/complete] bindToUser requested but no session", { moduleId });
+    let userId: string;
+    try {
+      userId = await resolveSessionUserId({
+        id: session.user.id,
+        email: session.user.email,
+        name: session.user.name,
+        image: session.user.image,
+      });
+      console.info("[attempts/complete] authenticated submit", {
+        sessionUserId: session.user.id,
+        resolvedUserId: userId,
+        moduleId,
+        answerCount: answers.length,
+      });
+    } catch (error) {
+      console.error("[attempts/complete] resolveSessionUserId failed", error);
       return NextResponse.json(
         { error: "Session expired. Sign in again, then retry submission." },
         { status: 401 }
       );
-    } else {
-      // Allow guest completion; bind to account later via claimToken.
-      claimToken = randomUUID();
-      console.info("[attempts/complete] guest submit", {
-        moduleId,
-        answerCount: answers.length,
-        claimToken,
-      });
     }
 
     const module = await prisma.module.findUnique({
@@ -135,7 +126,7 @@ export async function POST(req: NextRequest) {
           data: {
             userId,
             moduleId,
-            claimToken,
+            claimToken: null,
             finishedAt,
             score,
             totalQuestions: total,
@@ -166,30 +157,19 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Verify the row is readable and bound as expected.
     const verified = await prisma.attempt.findUnique({
       where: { id: attempt.id },
       select: { id: true, userId: true, finishedAt: true, score: true, totalQuestions: true },
     });
 
-    if (!verified?.finishedAt) {
-      console.error("[attempts/complete] verification failed — row missing finishedAt", {
+    if (!verified?.finishedAt || verified.userId !== userId) {
+      console.error("[attempts/complete] verification failed", {
         attemptId: attempt.id,
+        expectedUserId: userId,
+        verified,
       });
       return NextResponse.json(
-        { error: "Attempt did not persist. Please retry submission." },
-        { status: 500 }
-      );
-    }
-
-    if (userId && verified.userId !== userId) {
-      console.error("[attempts/complete] userId mismatch after write", {
-        attemptId: attempt.id,
-        expected: userId,
-        actual: verified.userId,
-      });
-      return NextResponse.json(
-        { error: "Attempt saved but not bound to your account. Please sign in and retry." },
+        { error: "Attempt did not persist to your account. Please retry submission." },
         { status: 500 }
       );
     }
@@ -199,7 +179,6 @@ export async function POST(req: NextRequest) {
       userId: verified.userId,
       score,
       total,
-      guest: !verified.userId,
     });
 
     const storedAnswers = answerRows.map((row, i) => ({
@@ -215,7 +194,6 @@ export async function POST(req: NextRequest) {
       attemptId: attempt.id,
       userId: verified.userId,
       persisted: true,
-      claimToken: claimToken ?? undefined,
       score,
       totalQuestions: total,
       timeSpent: attempt.timeSpent,
