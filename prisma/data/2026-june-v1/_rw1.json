@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "In passenger vehicle maintenance guides, brake pad replacement appears to be ______, but as professional technicians will attest, apparent simplicity can mask considerable complexity. Properly done, the procedure requires a detailed inspection of rotors, calipers, and brake lines, as well as detailed checks for fluid leaks and full mechanical operation.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "complimentary",
+      "B": "straightforward",
+      "C": "infrequent",
+      "D": "hazardous"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "The following text is adapted from the 1941 nonfiction book Let Us Now Praise Famous Men, with text by James Agee and photographs by Walker Evans. Agee recounts driving a car through an area of rural Alabama that he is unfamiliar with.\n\nOn which road the woods might give way to any extension of farm country there was no deducing: for we were somewhere toward the middle of one of the wider gaps on the road map, and had seen nothing but woods, and _infrequent_ woods farms, for a good while now.",
+    "text": "In the text, what does the word \"infrequent\" most likely indicate?",
+    "choices": {
+      "A": "That long stretches of time presumably intervened between the founding of different farms in the area",
+      "B": "That the farms give the appearance of neglect, with work having been done on them only intermittently",
+      "C": "That the farms that Agee passes by in this area aren't numerous or located close to one another",
+      "D": "That Agee is frustrated with the progress he is making through the large, wooded area"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "Despite the appearance of many more sophisticated tools in recent years, the ordinary pipe wrench remains ______ plumbers. Its combination of simplicity, durability, and easy adjustability has been impossible for toolmakers to match.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "indispensable to",
+      "B": "excessive for",
+      "C": "controversial among",
+      "D": "dependent on"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Astronomers analyzing the Sun have discovered an important ______ between magnetically active and quiet regions. In active regions, bursts of ultraviolet light typically precede significant decreases in magnetic energy, whereas in quiet regions, there is a continuous correlation between ultraviolet light intensity and magnetic energy without significant energy drops.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "disparity",
+      "B": "trade-off",
+      "C": "interaction",
+      "D": "analogy"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "From Earth, some stars in the night sky appear to form shapes with other stars. These shapes are called constellations. They are often named after the shapes people think the stars form. Some people have thought that one set of stars looks like a hunter. This constellation is named Orion, after a mythical Greek hunter. People have thought that another set of stars looks like a bear. This constellation is named Ursa Major, which means \"larger bear\" in Latin.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It identifies some scientific instruments and then explains how they are used.",
+      "B": "It describes how stars are born and then explains how they eventually die.",
+      "C": "It explains what constellations are and then gives examples of how some were named.",
+      "D": "It lists the names of some stars and then states how far away they are from Earth."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The moon jar first gained prominence in Korea in the late seventeenth century. Its shape is distinctive: it is a simple orb created by joining two wheel-spun bowl shapes together. Irregularity is an important feature of a moon jar, so it is traditionally finished with a smooth, milky white glaze that may include bits of debris or dashes of color. Modern ceramists continue to create their own versions of these iconic pieces. Los Angeles artist Raina Lee, for example, uses custom glazes to create thick, cratered surfaces on her moon jars.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To provide an overview of a type of traditional pottery",
+      "B": "To present a history of Korean pottery since the seventeenth century",
+      "C": "To discuss a collection of works by a contemporary artist",
+      "D": "To explain the philosophy that inspired an ancient artistic practice"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The following text is from Richard B. Sheridan's 1777 satirical play The School for Scandal. Maria, Lady Sneerwell, and Joseph Surface are discussing their mutual acquaintance Sir Benjamin Backbite.\n\nMARIA: [Sir Benjamin] has done nothing—but his conversation is a perpetual libel on all his acquaintance.\nSURFACE: Aye and the worst of it is there is no advantage in not knowing him, for he'll abuse a stranger just as soon as his best friend—and [his uncle] is as bad.\nSNEERWELL: Nay but we should make allowance. Sir Benjamin is a wit and a poet.\nMARIA: For my part—I own madam—wit loses its respect with me, when I see it in the company with malice. What do you think, Mr. Surface?\nSURFACE: _Certainly, madam, to smile at the jest which plants a thorn on another's breast is to become a principal in the mischief._",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It illustrates and expands on one character's definition of a term that was discussed earlier in the text.",
+      "B": "It contrasts the point of view of one character with that of another through the use of figurative language.",
+      "C": "It presents a position that seems to support the stance of one character and undermine that of another.",
+      "D": "It appears to offer an explanation for the behavior of the character who is the topic of conversation in the text."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Division of labor is a system of dividing the work of making a product among different people who specialize in specific tasks. Instead of each person making an entire product, workers focus on one step in the process. In a pencil factory, for instance, some workers might cut the wood, others insert the graphite, and still others attach the erasers. Workers become skilled at their specific tasks and save time because they're not switching between different activities. This system has been important for increasing the amount of goods that can be produced in modern economies.",
+    "text": "What is the main topic of the text?",
+    "choices": {
+      "A": "How factories train new workers for their jobs",
+      "B": "The future of the pencil industry",
+      "C": "How division of labor increases efficiency",
+      "D": "The invention of the pencil eraser"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Plants that are pollinated by hummingbirds commonly develop brightly colored flowers that attract these highly visual pollinators, increasing the likelihood of successful pollination. Hammer orchids, however, use a different strategy. These orchids facilitate pollination by deceiving their sole pollinator: thynnid wasps. The flower's structure mimics the appearance of thynnid wasps. When a wasp attempts to interact with what appears to be another wasp, it triggers a hinged part of the flower that flips the insect upside down, positioning it for optimal pollen transfer.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Attracting pollinators through deception is an effective strategy used by many types of flowering plants.",
+      "B": "Hammer orchids have developed a much better strategy for attracting pollinators than have other flowering plants.",
+      "C": "Hammer orchids have developed the ability to mimic the characteristics of thynnid wasps.",
+      "D": "Unlike species pollinated by hummingbirds, hammer orchids use deception to improve their chances of being pollinated."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "The following text is adapted from Kenneth Grahame's 1908 novel The Wind in the Willows. The Mole has been found by a friend after getting lost in the woods. It is beginning to snow.\n\nThe Mole saw the wood that had been so dreadful to him in quite a changed aspect. Holes, hollows, pools, pitfalls, and other menaces to the wayfarer were vanishing fast, and a gleaming carpet was springing up everywhere, that looked too delicate to be trodden upon by rough feet.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "The Mole feels sad that his adventure in the woods is over.",
+      "B": "After being found by his friend, the Mole is embarrassed about getting lost.",
+      "C": "As the landscape gets covered in snow, it no longer seems threatening to the Mole.",
+      "D": "The Mole prefers warm and dry weather to cold and snowy weather."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Poems of Experience is a 1910 collection of poetry by Ella Wheeler Wilcox. In one of her poems, the speaker encourages readers to persevere through difficulty, saying,______",
+    "text": "Which quotation from Poems of Experience most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"Is the heart heavy with hope long deferred,/ And with prayers that seem vain?\" (from \"Keep Going\")",
+      "B": "\"It is up to you, to be, and do, / What you look for in others. See?\" (from \"See?\")",
+      "C": "\"Over and over the task was set,/ Over and over I slighted the work.\" (from \"The Purpose\")",
+      "D": "\"Then gird up your courage, and say 'I am strong,' / And keep going.\" (from \"Keep Going\")"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______",
+    "text": "Which choice most effectively uses data from the table to complete the example?",
+    "choices": {
+      "A": "the populations of both Comoros and Burkina Faso in 2015 with their populations in 2010.",
+      "B": "Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/ square kilometer, with Comoros, which has a much lower population and a higher density.",
+      "C": "Equatorial Guinea, which has a low density, with Burkina Faso, which has a similar density despite both countries having different geographic sizes.",
+      "D": "the geographic size of Mali (1,240,000 square kilometers) with its relatively high population of 17,600,000 inhabitants."
+    },
+    "imageUrl": "/mocks/2026-june-v1/figures/eng1-q12-africa-population.svg"
+  },
+  "13": {
+    "stimulus": "The Exeter Book (ca.960-990 CE) is the sole manuscript source for the entire corpus of Old English riddles. The precise number of riddles is a matter of debate. Identification of consecutive riddles' boundaries based on content is difficult, given their purposely enigmatic nature, the challenges modern readers face in interpreting the archaic language of Old English, and damage to the manuscript. Moreover, the manuscript lacks any paratextual apparatus—titles, commentary, lists of solutions—to delimit riddles, and the appearance of a distinctive mark to signal the ends of some riddles may be an unreliable clue. For instance, some scholars claim that the use of this mark at the end of the single manuscript line containing the text conventionally known as Riddle 68 may be a scribal error.",
+    "text": "Which finding, if true, would most directly support the scholars' claim about Riddle 68?",
+    "choices": {
+      "A": "Many of the Exeter Book riddles employ the rhetorical device of prosopopoeia, a form of personification in which a nonhuman entity, usually the solution to a riddle, is represented as speaking, but neither Riddle 68 nor Riddle 69 uses this device.",
+      "B": "Although Riddle 68 opens with a phrase in Old English meaning \"I saw\" that likewise appears at the beginning of a large number of the Exeter Book riddles, neither it nor Riddle 69 concludes with any phrases that directly invite the audience to solve the riddle, which nearly half of the Exeter Book riddles do.",
+      "C": "Although Riddle 69 appears to be solvable when read on its own or in conjunction with Riddle 68, with \"iceberg\" or \"icicle\" having been presented as likely solutions, Riddle 68, whose imagery and sonic patterns are consistent with those of Riddle 69, has been deemed unsolvable given its overly generic clues, unless read in conjunction with Riddle 69.",
+      "D": "Circumstantial evidence, including the fact that most of Riddles 63-72, which appear consecutively in the manuscript, repeat solutions from riddles scattered throughout earlier pages of the manuscript, suggests that Riddles 68 and 69 may have originated from a single source whose author was influenced by those earlier riddles."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Shallow cumulus clouds are too small to be represented accurately in the standard global weather and climate models that weather forecasters use to make predictions. This affects the accuracy of weather forecasts. In 2023, scientists developed a model that predicts how clouds of different sizes interact as they form and change throughout the day. The scientists tested their model using data from a single day in the state of Oklahoma, and it successfully predicted how clouds merged together or split apart over time. Although the results were promising, they are limited in what they can tell us, since ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "predicting cloud mergers is more important than predicting cloud splits.",
+      "B": "a single day's worth of data from one location may not be representative.",
+      "C": "small clouds tend to have little effect on the accuracy of weather forecasts.",
+      "D": "existing forecasting systems already account for shallow cumulus clouds."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Antonia Olivia Dolan and colleagues conducted a study of the differences between musicians and nonmusicians in their preferred volume, in decibels (dB), for listening to various audio recordings including acoustic folk music, classic rock music, and nature sounds. The musicians, who reported much greater lifetime noise exposure than the nonmusicians did, tended to listen to the recordings at higher volumes than the nonmusicians did. The musicians and the nonmusicians had clinically comparable hearing, however, suggesting that while a musician's preferred volume for playing a favorite recording might be 90.8 dB and a nonmusician's might be 61.5 dB, this difference ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "cannot be explained as resulting from the musician's relatively greater musical expertise.",
+      "B": "indicates that the musician is unlikely to listen to a nonfavorite recording at a higher volume than the nonmusician would.",
+      "C": "does not arise from the musician having a clinically significant reduction in hearing ability as a result of lifetime noise exposure.",
+      "D": "shows that both the musician and the nonmusician have lower hearing ability than would be expected of clinically typical individuals with typical levels of lifetime noise exposure."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "The Billy Possum stuffed toy ______ a skeptical public when it was introduced in 1909 as a potential rival to the popular teddy bear. In fact, one reporter wrote that the toy's appearance was \"likely to give a baby [a] nightmare.\"",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is facing",
+      "B": "faced",
+      "C": "faces",
+      "D": "will face"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "The Trans Bhutan Trail once served as a vital artery connecting fortresses, monasteries, and markets across the country of Bhutan. After a 60-year hiatus, the historic trail has been restored, a project that employed many of the ______ including homestay owner Sangay Choden, who asserts that the trail's restoration has helped preserve her village's culture and tradition.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "countries residents',",
+      "B": "country's residents,",
+      "C": "countries' resident's,",
+      "D": "country's resident's,"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "While being interviewed for the book Latina Authors and Their Muses, poet Maria Gabriela Madrid revealed her favorite book about the craft of ______ Umberto Eco's Umberto Eco on Literature.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "writing: which was",
+      "B": "writing:",
+      "C": "writing, it was",
+      "D": "writing;"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Carnegie Hall's digital Timeline of African American Music reflects the contributions of many prominent scholars of Black history and music, including Jeff Todd Titon, a professor at Brown ______ and Marisa Parham, a professor at Amherst College.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "University; George Starks a professor at Drexel University;",
+      "B": "University, George Starks, a professor at Drexel University;",
+      "C": "University, George Starks a professor at Drexel University,",
+      "D": "University; George Starks, a professor at Drexel University;"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "According to historical accounts, medieval recreation—including chess, backgammon, and other board games enjoyed across royal courts and noble households—______ primarily focused on strategic gameplay that mirrored societal structures. Chess, with its hierarchical pieces representing different social classes, was particularly popular during this period.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "being",
+      "B": "were",
+      "C": "are",
+      "D": "was"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled red pavilion is built at a pavilion for birdwatching in Taiwan. ______ appearing as a set of red bamboo columns supporting the pavilion, it is cleverly placed into its environment, serving as an example of Konrads's approach.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For instance,",
+      "B": "However,",
+      "C": "There,",
+      "D": "Later,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "Early in the morning, when the temperature is still low, the spiny lizard will sit in sunny areas for warmth. ______ as the temperature rises, the spiny lizard will hide in shady spots and under rocks to keep from getting too hot.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "First,",
+      "C": "Later,",
+      "D": "Previously,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "A citizen of the Blackfeet Nation, Francis Guardipee was born on his tribe's reservation in Montana. After studying anthropology at the University of Washington, he returned home, where in 1916 he founded the first all-Native troop of the Boy Scouts. ______ Guardipee was one of the first Native people to become a park ranger at Montana's Glacier National Park in 1932.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Nevertheless,",
+      "B": "Specifically,",
+      "C": "In addition,",
+      "D": "Earlier,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "Under drought conditions, avocado plants produce smaller leaves, a common response to water scarcity that limits transpirational water loss and helps maintain osmotic balance. Sugarcane plants subjected to drought stress, ______ experience a marginal elongation of their leaves, as observed by Misra and colleagues in a recent study.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "moreover,",
+      "B": "specifically,",
+      "C": "by contrast,",
+      "D": "for instance,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• In Boston, Massachusetts, there is a true-to-scale model solar system called the Community Solar System Trail.\n• The scale model Earth is 3.2 cm in diameter.\n• The scale model Sun is 350 cm in diameter.\n• The actual Sun is roughly 1.39 million km in diameter.\n• The actual Earth is roughly 12,742 km in diameter.\n• The Sun is over 100 times bigger than Earth.",
+    "text": "The student wants to emphasize how much bigger the Sun is than Earth. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The actual Earth is far bigger than the model Earth, which is only 3.2 cm in diameter.",
+      "B": "At 1.39 million km in diameter, the Sun is over 100 times bigger than Earth.",
+      "C": "At the Community Solar System Trail in Boston, Massachusetts, the model Sun is 350 cm in diameter.",
+      "D": "The Community Solar System Trail in Boston, Massachusetts, is true to scale."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A nonnative species that causes environmental or economic harm when introduced to an ecosystem is considered invasive.\n• Quack grass is an invasive species of grass that crowds out crops and native plants.\n• It was first introduced to the US accidentally through seed contamination.\n• Giant reed is an invasive species of wetland plant that crowds out native plants and reduces wildlife habitat.\n• It was first introduced to the US to help control erosion.",
+    "text": "The student wants to emphasize a similarity between quack grass and giant reed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Quack grass is an invasive species of wetland plant, and giant reed was first introduced accidentally through seed contamination.",
+      "B": "Quack grass was first introduced accidentally through seed contamination, but it now crowds out crops and native plants.",
+      "C": "Giant reed is an invasive species that crowds out native plants and reduces wildlife habitat, causing environmental harm.",
+      "D": "The harm to ecosystems caused by giant reed and quack grass has led both species to be considered invasive in the US."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The GREEN SURGE project studied different types of urban natural areas in European cities.\n• Urban natural areas are city spaces that feature natural elements.\n• Ruderal areas are a type of urban natural area included in the study.\n• Ruderal areas are defined as vacant lots that are overrun with wild vegetation.\n• They can benefit cities by increasing plant species diversity.",
+    "text": "The student wants to provide a specific example of a type of urban natural area. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "GREEN SURGE studied different types of urban natural areas, which are city spaces that feature natural elements.",
+      "B": "Urban natural areas can benefit cities by increasing plant species diversity.",
+      "C": "One specific example of a type of urban natural area is ruderal areas, which are vacant lots that are overrun with wild vegetation.",
+      "D": "The spaces in European cities that feature natural elements are known as urban natural areas."
+    },
+    "imageUrl": null
+  }
+}

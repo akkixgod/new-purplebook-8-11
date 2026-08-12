@@ -51,11 +51,21 @@ export function Header() {
                   Admin
                 </Link>
               )}
-              <span className="text-sm text-gray-600 hidden lg:block max-w-[120px] truncate">
-                {session.user?.name ?? session.user?.email}
-              </span>
+              <Link
+                href="/account"
+                className="text-sm px-3 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors sm:hidden"
+              >
+                Account
+              </Link>
+              <Link
+                href="/account"
+                className="text-sm text-gray-600 hover:text-[#7c3aed] hidden sm:block max-w-[140px] truncate"
+                title={session.user?.email ?? "My Account"}
+              >
+                {session.user?.name ?? session.user?.email ?? "My Account"}
+              </Link>
               <button
-                onClick={() => signOut()}
+                onClick={() => signOut({ callbackUrl: "/" })}
                 className="text-sm px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors"
               >
                 Sign Out

@@ -14,8 +14,6 @@ model User {
   emailVerified            DateTime?
   image                    String?
   password                 String?
-  passwordResetToken       String?
-  passwordResetTokenExpiry DateTime?
   role                     String    @default("user")
   createdAt                DateTime  @default(now())
   accounts                 Account[]
@@ -101,14 +99,15 @@ model Question {
 
 model Attempt {
   id              String    @id @default(cuid())
-  userId          String
+  userId          String?
   moduleId        String
+  claimToken      String?
   startedAt       DateTime  @default(now())
   finishedAt      DateTime?
   score           Int?
   totalQuestions  Int?
   timeSpent       Int?      // seconds
-  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  user            User?     @relation(fields: [userId], references: [id], onDelete: Cascade)
   module          Module    @relation(fields: [moduleId], references: [id], onDelete: Cascade)
   answers         Answer[]
 
@@ -116,6 +115,7 @@ model Attempt {
   @@index([moduleId])
   @@index([userId, moduleId])
   @@index([finishedAt])
+  @@index([claimToken])
 }
 
 model Answer {

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="440" viewBox="0 0 520 440">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="260.0" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Participants' Openness to</text>
+  <text x="260.0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Marketing Message Content</text>
+  <line x1="70" y1="345.0" x2="490" y2="345.0" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="312.77777777777777" x2="490" y2="312.77777777777777" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="280.55555555555554" x2="490" y2="280.55555555555554" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="248.33333333333334" x2="490" y2="248.33333333333334" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="216.11111111111111" x2="490" y2="216.11111111111111" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="183.88888888888889" x2="490" y2="183.88888888888889" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="151.66666666666669" x2="490" y2="151.66666666666669" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="119.44444444444443" x2="490" y2="119.44444444444443" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="87.22222222222223" x2="490" y2="87.22222222222223" stroke="#e5e7eb" stroke-width="1"/><line x1="70" y1="55.0" x2="490" y2="55.0" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="62" y="349.0" text-anchor="end" font-family="Arial" font-size="12">0</text><text x="62" y="316.77777777777777" text-anchor="end" font-family="Arial" font-size="12">0.5</text><text x="62" y="284.55555555555554" text-anchor="end" font-family="Arial" font-size="12">1</text><text x="62" y="252.33333333333334" text-anchor="end" font-family="Arial" font-size="12">1.5</text><text x="62" y="220.11111111111111" text-anchor="end" font-family="Arial" font-size="12">2</text><text x="62" y="187.88888888888889" text-anchor="end" font-family="Arial" font-size="12">2.5</text><text x="62" y="155.66666666666669" text-anchor="end" font-family="Arial" font-size="12">3</text><text x="62" y="123.44444444444443" text-anchor="end" font-family="Arial" font-size="12">3.5</text><text x="62" y="91.22222222222223" text-anchor="end" font-family="Arial" font-size="12">4</text><text x="62" y="59.0" text-anchor="end" font-family="Arial" font-size="12">4.5</text>
+  <rect x="190.0" y="109.77777777777777" width="48" height="235.22222222222223" fill="#6b7280" stroke="#111" stroke-width="1.5"/><rect x="256.0" y="80.77777777777783" width="48" height="264.2222222222222" fill="#fff" stroke="#111" stroke-width="1.5"/><rect x="322.0" y="71.11111111111114" width="48" height="273.88888888888886" fill="#111" stroke="#111" stroke-width="1.5"/>
+  <line x1="70" y1="55" x2="70" y2="345" stroke="#111" stroke-width="1.5"/>
+  <line x1="70" y1="345" x2="490" y2="345" stroke="#111" stroke-width="1.5"/>
+  <text x="280.0" y="373" text-anchor="middle" font-family="Arial" font-size="13">Result by condition</text>
+  <text x="18" y="200.0" text-anchor="middle" font-family="Arial" font-size="13" transform="rotate(-90 18 200.0)">Average rating</text>
+  <rect x="110" y="402" width="14" height="14" fill="#6b7280" stroke="#111"/>
+  <text x="130" y="414" font-family="Arial" font-size="12">supplement</text>
+  <rect x="230" y="402" width="14" height="14" fill="#fff" stroke="#111"/>
+  <text x="250" y="414" font-family="Arial" font-size="12">substitute</text>
+  <rect x="350" y="402" width="14" height="14" fill="#111" stroke="#111"/>
+  <text x="370" y="414" font-family="Arial" font-size="12">control</text>
+</svg>

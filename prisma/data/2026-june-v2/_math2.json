@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "Which of the following is closest to the slope of this line of best fit?",
+    "choices": {
+      "A": "−7",
+      "B": "−0.7",
+      "C": "0.7",
+      "D": "7"
+    },
+    "imageUrl": "/mocks/2026-june-v2/figures/math2-q01-scatter.svg"
+  },
+  "2": {
+    "stimulus": null,
+    "text": "In the xy-plane, the graph of the equation (x − 6)^2 + (y − 7)^2 = 36 is a circle. The point (12, c), where c is a constant, lies on this circle. What is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "How many solutions does the equation 13x = 13x have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "To install flooring, a contractor charges $8.75 per square foot plus $100 for labor. If a kitchen floor is a square with the side length of 13 feet, what is the total, in dollars, that the contractor charges to install flooring in this kitchen?",
+    "choices": {
+      "A": "213.75",
+      "B": "277.75",
+      "C": "1,308.75",
+      "D": "1,578.75"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "In the relationship between x and y, each increase of 1 in the value of x decreases the value of y by 7/2. When x = −2, y = 5. Which equation represents this relationship?",
+    "choices": {
+      "A": "y = −(7/2)x − 2",
+      "B": "y = −(7/2)x + 2",
+      "C": "y = (7/2)x − 2",
+      "D": "y = (7/2)x + 2"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "The height of a right circular cylinder is 21 inches, and the circumference of its base is 210 inches. Which expression represents the total surface area, in square inches, of the cylinder?",
+    "choices": {
+      "A": "(21)(210) + 2π(105/π)^2",
+      "B": "(21)(210) + π(105/π)^2",
+      "C": "π(105/π)^2(21)",
+      "D": "(21)(210)"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 5(x + 8)/(x + 8)^2, where x > −8?",
+    "choices": {
+      "A": "5",
+      "B": "1/(x + 8)",
+      "C": "5/(x + 8)",
+      "D": "(5x + 40)/(x^2 + 64)"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "20(0.6r − 0.8s) = −1,160\n70(0.8r + 0.6s) = 7,420",
+    "text": "The solution to the given system of equations is (r, s). What is the value of r + s?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The line models the possible combinations of the number of boxes of cups, x, and the number of boxes of mugs, y, a company can purchase for a total price of $640. What is the price, in dollars, per box of cups?",
+    "choices": {
+      "A": "10",
+      "B": "20",
+      "C": "32",
+      "D": "64"
+    },
+    "imageUrl": "/mocks/2026-june-v2/figures/math2-q09-cups-mugs.svg"
+  },
+  "10": {
+    "stimulus": null,
+    "text": "When several resistors are connected in series in a circuit, the total resistance of the circuit is the sum of the resistances of these resistors. A certain circuit consists of 8 resistors connected in series, where the resistance of each resistor is positive. The total resistance of 3 resistors in this circuit is 70 ohms. Each of the other 5 resistors in this circuit has a resistance of at most 40 ohms. The total resistance of this circuit is x ohms. Which inequality best represents this situation?",
+    "choices": {
+      "A": "0 < x ≤ 270",
+      "B": "70 < x ≤ 200",
+      "C": "70 < x ≤ 270",
+      "D": "x ≥ 200"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "f(x) = 7((1/6)^x + 8)",
+    "text": "The function f is defined by the given equation. For all values of x, the value of f(x) is greater than k, where k is a constant. What is the greatest possible value of k?",
+    "choices": {
+      "A": "0",
+      "B": "8",
+      "C": "56",
+      "D": "336"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The table gives three values of x and their corresponding values of y, where k is a positive constant. There is a linear relationship between x and y. Which equation represents this relationship?",
+    "choices": {
+      "A": "2kx − 5y = 91 + 2k",
+      "B": "2kx − 5y = 455 + 10k",
+      "C": "2kx + 5y = 91 + 2k",
+      "D": "2kx + 5y = 455 + 10k"
+    },
+    "imageUrl": "/mocks/2026-june-v2/figures/math2-q12-xy-table.svg"
+  },
+  "13": {
+    "stimulus": "x − a = (x − a)(x − 31)",
+    "text": "Which of the following are solutions to the given equation, where a is a constant and a > 32?\nI. a\nII. 31\nIII. 32",
+    "choices": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II, and III"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 4x − 6. If f(a) + 1 = 3a, what is the value of a?",
+    "choices": {
+      "A": "7",
+      "B": "5",
+      "C": "1",
+      "D": "−1"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "An entomologist is studying the growth rate of various insect species in a controlled environment. For one particular species being studied in the controlled environment, an exponential model predicts that a population with an initial measurement of 8 organisms will increase by 150% every 19 days. Which equation represents this model, where y is the predicted number of organisms in the population x days since the initial measurement?",
+    "choices": {
+      "A": "y = 8(2.50)^(x/19)",
+      "B": "y = 8(1.50)^(x/19)",
+      "C": "y = 8(2.50)^(19x)",
+      "D": "y = 8(1.50)^(19x)"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The maximum temperature on April 1, in degrees Fahrenheit (°F), was recorded each year at a certain weather station for 11 years. The histogram summarizes the recorded data set.\n\nThe temperature of 77.8°F is removed from this data set to create a new data set of 10 temperatures. Which of the following statements must be true?\nI. The mean of the new data set is less than the mean of the original data set.\nII. The median of the new data set is less than the median of the original data set.",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/2026-june-v2/figures/math2-q16-histogram.svg"
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The positive number a is 2,314% of the sum of the positive numbers b and c, and b is 89% of c. What percent of b is a?",
+    "choices": {
+      "A": "24.03%",
+      "B": "49.14%",
+      "C": "2,403%",
+      "D": "4,914%"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "A marine biologist designed an aquarium for dolphins in the form of a right cylinder with a depth of 12 feet and a volume of 145,800 cubic feet. What is the volume of this aquarium, in cubic yards? (1 yard = 3 feet)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "A right square pyramid has a surface area of 16 + 8√965 square inches, which includes a base area of 16 square inches. What is the height, in inches, of this pyramid?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "In triangle XYZ, a/c = k and b/d = k. What is the value of k?",
+    "choices": {
+      "A": "4/7",
+      "B": "7/4",
+      "C": "7/11",
+      "D": "11/7"
+    },
+    "imageUrl": "/mocks/2026-june-v2/figures/math2-q20-triangle.svg"
+  },
+  "21": {
+    "stimulus": null,
+    "text": "In triangle XYZ, the measure of angle X is 90°. Point W lies on segment YZ, and segment WX is perpendicular to segment YZ. The length of segment WY is 588, and the length of segment WX is 441. What is the value of tan Z?",
+    "choices": {
+      "A": "3/5",
+      "B": "3/4",
+      "C": "4/5",
+      "D": "4/3"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A parabola in the xy-plane has a vertex of (1, 19). The equation y = −ax^2 + bx + c represents this parabola, where a, b, and c are positive integer constants. What is the greatest possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

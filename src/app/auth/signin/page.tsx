@@ -1,6 +1,6 @@
 "use client";
 
-import { FormEvent, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { signIn, getProviders } from "next-auth/react";
 import Link from "next/link";
 
@@ -37,17 +37,22 @@ export default function SignInPage() {
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
   const [googleEnabled, setGoogleEnabled] = useState(false);
-  const [forgotOpen, setForgotOpen] = useState(false);
-  const [forgotEmail, setForgotEmail] = useState("");
-  const [forgotLoading, setForgotLoading] = useState(false);
-  const [forgotError, setForgotError] = useState("");
-  const [forgotMessage, setForgotMessage] = useState("");
-  const [forgotDevLink, setForgotDevLink] = useState("");
+  const [callbackUrl, setCallbackUrl] = useState("/");
 
   useEffect(() => {
     getProviders().then((providers) => {
       setGoogleEnabled(Boolean(providers?.google));
     }).catch(() => setGoogleEnabled(false));
+
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const next = params.get("callbackUrl");
+      if (next && next.startsWith("/") && !next.startsWith("//")) {
+        setCallbackUrl(next);
+      }
+    } catch {
+      /* ignore */
+    }
   }, []);
 
   async function handleSubmit(e: React.FormEvent) {
@@ -100,7 +105,7 @@ export default function SignInPage() {
           setError("Sign-in temporarily unavailable. Please try again in a moment.");
         } else if (code === "no_password") {
           setError(
-            "This account has no password. Use Forgot password? to set one, or continue with Google if you used that before."
+            "This account has no password. Continue with Google if you used that before, or register a new account."
           );
         } else {
           setError("Invalid email or password");
@@ -127,7 +132,7 @@ export default function SignInPage() {
       }
 
       // Full navigation so the session cookie is picked up reliably
-      window.location.assign("/");
+      window.location.assign(callbackUrl || "/");
     } catch {
       setError("Something went wrong. Please try again.");
       setLoading(false);
@@ -203,23 +208,6 @@ export default function SignInPage() {
                 className={inputClass}
                 autoComplete={mode === "register" ? "new-password" : "current-password"}
               />
-              {mode === "signin" && (
-                <div className="mt-1.5 flex justify-end">
-                  <button
-                    type="button"
-                    onClick={() => {
-                      setForgotOpen(true);
-                      setForgotEmail(email.trim().toLowerCase());
-                      setForgotError("");
-                      setForgotMessage("");
-                      setForgotDevLink("");
-                    }}
-                    className="text-xs font-medium text-[#7c3aed] hover:underline"
-                  >
-                    Forgot password?
-                  </button>
-                </div>
-              )}
             </div>
 
             {error && (
@@ -250,7 +238,7 @@ export default function SignInPage() {
 
               <button
                 type="button"
-                onClick={() => signIn("google", { callbackUrl: "/" })}
+                onClick={() => signIn("google", { callbackUrl })}
                 className="w-full py-2.5 rounded-lg border border-gray-200 bg-white text-gray-700 text-sm font-medium hover:bg-gray-50 transition-colors flex items-center justify-center gap-2"
               >
                 <svg className="w-4 h-4" viewBox="0 0 24 24">
@@ -264,112 +252,6 @@ export default function SignInPage() {
             </>
           )}
         </div>
-
-        {forgotOpen && (
-          <div
-            className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 px-4"
-            role="dialog"
-            aria-modal="true"
-            aria-labelledby="forgot-password-title"
-            onClick={(e) => {
-              if (e.target === e.currentTarget && !forgotLoading) setForgotOpen(false);
-            }}
-          >
-            <div className="w-full max-w-md rounded-2xl bg-white border border-gray-200 shadow-xl p-6">
-              <h2 id="forgot-password-title" className="text-lg font-semibold text-gray-900">
-                Reset your password
-              </h2>
-              <p className="text-sm text-gray-500 mt-1 mb-4">
-                Enter your account email and we&apos;ll send a secure reset link.
-              </p>
-
-              <form
-                onSubmit={async (e: FormEvent) => {
-                  e.preventDefault();
-                  setForgotError("");
-                  setForgotMessage("");
-                  setForgotDevLink("");
-                  setForgotLoading(true);
-                  try {
-                    const res = await fetch("/api/auth/forgot-password", {
-                      method: "POST",
-                      headers: { "Content-Type": "application/json" },
-                      body: JSON.stringify({ email: forgotEmail.trim().toLowerCase() }),
-                    });
-                    const data = await res.json().catch(() => ({}));
-                    if (!res.ok) {
-                      setForgotError(data.error ?? "Request failed");
-                      if (typeof data.devResetUrl === "string" && data.devResetUrl) {
-                        setForgotDevLink(data.devResetUrl);
-                      }
-                    } else {
-                      setForgotMessage(
-                        data.message ??
-                          "If an account exists for that email, we sent a password reset link."
-                      );
-                    }
-                  } catch {
-                    setForgotError("Something went wrong. Please try again.");
-                  } finally {
-                    setForgotLoading(false);
-                  }
-                }}
-                className="space-y-4"
-              >
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-1.5">Email</label>
-                  <input
-                    type="email"
-                    value={forgotEmail}
-                    onChange={(e) => setForgotEmail(e.target.value)}
-                    placeholder="you@example.com"
-                    required
-                    className={inputClass}
-                    autoComplete="email"
-                    autoFocus
-                  />
-                </div>
-
-                {forgotError && (
-                  <div className="px-3 py-2 rounded-lg bg-red-50 border border-red-200 space-y-2">
-                    <p className="text-red-600 text-sm">{forgotError}</p>
-                    {forgotDevLink && (
-                      <p className="text-xs text-gray-700 break-all">
-                        Local test link:{" "}
-                        <a href={forgotDevLink} className="text-[#7c3aed] underline font-medium">
-                          Open reset page
-                        </a>
-                      </p>
-                    )}
-                  </div>
-                )}
-                {forgotMessage && (
-                  <div className="px-3 py-2 rounded-lg bg-emerald-50 border border-emerald-200">
-                    <p className="text-emerald-700 text-sm">{forgotMessage}</p>
-                  </div>
-                )}
-
-                <div className="flex gap-2 pt-1">
-                  <button
-                    type="button"
-                    disabled={forgotLoading}
-                    onClick={() => setForgotOpen(false)}
-                    className="flex-1 py-2.5 rounded-lg border border-gray-200 text-sm font-medium text-gray-700 hover:bg-gray-50 disabled:opacity-60"
-                  >
-                    Close
-                  </button>
-                  <button
-                    type="submit"
-                    disabled={forgotLoading || Boolean(forgotMessage)}
-                    className="flex-1 py-2.5 rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white text-sm font-medium disabled:opacity-60"
-                  >
-                    {forgotLoading ? "Sending…" : forgotMessage ? "Sent" : "Send reset link"}
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        )}
       </div>
     </div>
   );

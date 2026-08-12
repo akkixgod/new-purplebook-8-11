@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useSession } from "next-auth/react";
 import { useState, type MouseEvent } from "react";
 
 interface ModuleInfo {
@@ -37,20 +36,16 @@ const MONTH_NAMES = [
 
 export function TestCard({ title, year, month, section, version, isFree, modules, attemptMap }: Props) {
   const router = useRouter();
-  const { data: session } = useSession();
   const [startingModuleId, setStartingModuleId] = useState<string | null>(null);
 
   function startPractice(e: MouseEvent<HTMLButtonElement>, moduleId: string) {
     e.preventDefault();
     e.stopPropagation();
-    if (!session) {
-      router.push("/auth/signin");
-      return;
-    }
     if (startingModuleId) return;
     setStartingModuleId(moduleId);
     const attemptId = crypto.randomUUID();
     // Keep spinner until navigation unmounts the card — do not clear immediately.
+    // Guests can start; completed attempts are claimed onto the account after sign-in.
     router.push(`/test/${moduleId}?attemptId=${attemptId}`);
   }
 

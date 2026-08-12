@@ -1,0 +1,226 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The table summarizes members of a local organization by age and whether they live north or south of Center St. If a member of the organization is selected at random, what is the probability that the selected member is at least 45 years old?",
+    "choices": {
+      "A": "33/135",
+      "B": "35/135",
+      "C": "100/135",
+      "D": "102/135"
+    },
+    "imageUrl": "/mocks/2026-june-v1/figures/math1-q01-member-table.svg"
+  },
+  "2": {
+    "stimulus": null,
+    "text": "In triangle XYZ, the measure of angle X is 55° and the measure of angle Y is 81°. What is the measure of angle Z?",
+    "choices": {
+      "A": "26°",
+      "B": "44°",
+      "C": "136°",
+      "D": "226°"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "A chemist combines water and isopropanol to make a mixture with a volume of 31 milliliters (mL). The volume of isopropanol in the mixture is 10 mL. What is the volume of water, in mL, in the mixture? (Assume that the volume of the mixture is the sum of the volumes of water and isopropanol before they were mixed.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "A pet service that takes care of both cats and dogs can care for at most 31 animals. Which inequality represents this situation, where c is the number of cats and d is the number of dogs?",
+    "choices": {
+      "A": "c + d ≤ 31",
+      "B": "c + d ≥ 31",
+      "C": "c − d ≤ 31",
+      "D": "c − d ≥ 31"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "Line c is defined by y = 2x + 9. Line d is parallel to line c in the xy-plane. What is the slope of line d?",
+    "choices": {
+      "A": "2",
+      "B": "7",
+      "C": "9",
+      "D": "11"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "If 5x − 9 = 6, what is the value of 5x + 9?",
+    "choices": {
+      "A": "−3",
+      "B": "3",
+      "C": "12",
+      "D": "24"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "The ratio of the side length of square A to the side length of square B is 4 to 20. Square A has a side length of 26 inches. What is the side length, in inches, of square B?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "p(x) = 131 − 7x",
+    "text": "The function p shown gives the number of blank sheets of paper, p(x), remaining in a printer x days after the printer had been loaded with paper. Which statement is the best interpretation of p(3) = 110?",
+    "choices": {
+      "A": "There were 3 blank sheets of paper remaining in the printer 110 days after the printer had been loaded with paper.",
+      "B": "The number of blank sheets of paper remaining in the printer decreased by a total of 3 sheets after 110 days.",
+      "C": "There were 110 blank sheets of paper remaining in the printer 3 days after the printer had been loaded with paper.",
+      "D": "The number of blank sheets of paper remaining in the printer decreased by a total of 110 sheets after 3 days."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "During a physics experiment, the speed of an object was determined to be 172.0 inches per second. What is this speed in feet per second? (12 inches = 1 foot)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y. Which of the following equations is the most appropriate linear model for the data shown?",
+    "choices": {
+      "A": "y = −2x",
+      "B": "y = −x",
+      "C": "y = x",
+      "D": "y = 2x"
+    },
+    "imageUrl": "/mocks/2026-june-v1/figures/math1-q10-scatter.svg"
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The measure of angle Z is 240°. What is the measure, in radians, of angle Z?",
+    "choices": {
+      "A": "2π/3",
+      "B": "4π/3",
+      "C": "8π/3",
+      "D": "4π"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "Triangle FGH is similar to triangle JKL, where angle F corresponds to angle J and angles G and K are right angles. If sin(F) = 144/145, what is the value of sin(J)?",
+    "choices": {
+      "A": "17/145",
+      "B": "144/145",
+      "C": "145/144",
+      "D": "145/17"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "x² − 7x + 12 = 0",
+    "text": "How many distinct real solutions does the given equation have?",
+    "choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The estimated fuel cost C(x), in dollars, to drive a vehicle 100 kilometers is given by the function C(x) = 0.0019x² − 0.248x + 12.62, where x is the average speed, in kilometers per hour, of the vehicle. If the function C is graphed in the xy-plane, where y = C(x), what is the best interpretation of the point (60, 4.58) on the graph?",
+    "choices": {
+      "A": "The estimated fuel cost to drive the vehicle at an average speed of 4.58 kilometers per hour increases by $60 each hour.",
+      "B": "The estimated fuel cost to drive the vehicle at an average speed of 60 kilometers per hour increases by $4.58 each hour.",
+      "C": "The estimated fuel cost to drive the vehicle 100 kilometers at an average speed of 4.58 kilometers per hour is $60.",
+      "D": "The estimated fuel cost to drive the vehicle 100 kilometers at an average speed of 60 kilometers per hour is $4.58."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "1/(x − 1) = (x − 7)/(−x − 1.25)",
+    "text": "What is one of the solutions to the given equation?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The length of a rectangle's diagonal is √34, and the length of one of the rectangle's sides is 5. What is the perimeter of the rectangle?",
+    "choices": {
+      "A": "34",
+      "B": "16",
+      "C": "15",
+      "D": "8"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y, where n is a constant, for the linear relationship between x and y. What is the slope of the line that represents this relationship in the xy-plane?",
+    "choices": {
+      "A": "−64/5",
+      "B": "−5/64",
+      "C": "(n + 64)/(−5)",
+      "D": "(2n − 64)/5"
+    },
+    "imageUrl": "/mocks/2026-june-v1/figures/math1-q17-xy-table.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "During a trip, a car traveled a total of 510 miles on city roads and highways and used a total of 17 gallons of gas. The car traveled an average of 29 miles per gallon of gas on city roads and 35 miles per gallon of gas on highways. Which system of equations represents this situation, where c is the number of miles the car traveled on city roads and h is the number of miles the car traveled on highways?",
+    "choices": {
+      "A": "c + h = 17\nc/29 + h/35 = 510",
+      "B": "c + h = 17\n29c + 35h = 510",
+      "C": "c + h = 510\nc/29 + h/35 = 17",
+      "D": "c + h = 510\n29c + 35h = 17"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "The exponential function g is defined by g(x) = ab^x, where a and b are positive constants. If g(c) = m and the value of g(c + 1) is 82% more than the value of m, where c and m are constants, what is the value of b?",
+    "choices": {
+      "A": "0.18",
+      "B": "0.82",
+      "C": "1.82",
+      "D": "3.64"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "f(x) = (x − a)(x − b)",
+    "text": "The function f is defined by the given equation, where a and b are integer constants. If f(11) > 0, f(14) < 0, and f(17) > 0, what is one possible value of a + b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "A machine makes 2-inch, 7-inch, and 11-inch parts. During a certain day, the number of 2-inch parts that the machine makes is 5 times the number n of 7-inch parts, and the number of 11-inch parts is 4. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "choices": {
+      "A": "2(5n) + 7n + 11(4) = 100",
+      "B": "2n + 7n + 11n = 100",
+      "C": "5n + 4 = 100",
+      "D": "6n + 4 = 100"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "In a certain colony, one of the bees is a queen bee. Of the bees in this colony that are not the queen bee, 85% are worker bees, and the remaining bees are drones. If there are 11,109 drones in this colony, what is the total number of worker bees in this colony?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

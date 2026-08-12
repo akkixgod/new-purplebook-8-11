@@ -7,8 +7,6 @@ export type AuthUserRow = {
   emailVerified: Date | null;
   image: string | null;
   password: string | null;
-  passwordResetToken: string | null;
-  passwordResetTokenExpiry: Date | null;
   role: string;
   createdAt: Date;
 };

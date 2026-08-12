@@ -1,6 +1,21 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
+import { resolveSessionUserId } from "@/lib/resolve-session-user";
+
+async function ownedAttemptUserId(sessionUser: {
+  id: string;
+  email?: string | null;
+  name?: string | null;
+  image?: string | null;
+}) {
+  return resolveSessionUserId({
+    id: sessionUser.id,
+    email: sessionUser.email,
+    name: sessionUser.name,
+    image: sessionUser.image,
+  });
+}
 
 // GET /api/attempts/[id] — get attempt details with answers for review page
 export async function GET(
@@ -18,6 +33,8 @@ export async function GET(
       return NextResponse.json({ error: "Missing attempt id" }, { status: 400 });
     }
 
+    const userId = await ownedAttemptUserId(session.user);
+
     const attempt = await prisma.attempt.findUnique({
       where: { id },
       include: {
@@ -31,7 +48,7 @@ export async function GET(
       },
     });
 
-    if (!attempt || attempt.userId !== session.user.id) {
+    if (!attempt || attempt.userId !== userId) {
       return NextResponse.json({ error: "Not found" }, { status: 404 });
     }
 
@@ -73,5 +90,39 @@ export async function GET(
       { error: "Failed to load attempt" },
       { status: 500 }
     );
+  }
+}
+
+/** DELETE /api/attempts/[id] — remove a completed attempt from the user's history */
+export async function DELETE(
+  _req: NextRequest,
+  { params }: { params: Promise<{ id: string }> }
+) {
+  try {
+    const session = await auth();
+    if (!session?.user?.id) {
+      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    }
+
+    const { id } = await params;
+    if (!id) {
+      return NextResponse.json({ error: "Missing attempt id" }, { status: 400 });
+    }
+
+    const userId = await ownedAttemptUserId(session.user);
+    const existing = await prisma.attempt.findUnique({
+      where: { id },
+      select: { id: true, userId: true },
+    });
+
+    if (!existing || existing.userId !== userId) {
+      return NextResponse.json({ error: "Not found" }, { status: 404 });
+    }
+
+    await prisma.attempt.delete({ where: { id } });
+    return NextResponse.json({ ok: true });
+  } catch (error) {
+    console.error("Delete attempt error:", error);
+    return NextResponse.json({ error: "Failed to delete attempt" }, { status: 500 });
   }
 }

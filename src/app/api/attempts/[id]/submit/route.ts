@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
+import { resolveSessionUserId } from "@/lib/resolve-session-user";
 
 // POST /api/attempts/[id]/submit
 // Body: { answers: { questionId: string, selected: string | null }[], timeSpent: number }
@@ -23,12 +24,27 @@ export async function POST(
       return NextResponse.json({ error: "Invalid answers payload" }, { status: 400 });
     }
 
+    let userId: string;
+    try {
+      userId = await resolveSessionUserId({
+        id: session.user.id,
+        email: session.user.email,
+        name: session.user.name,
+        image: session.user.image,
+      });
+    } catch {
+      return NextResponse.json(
+        { error: "Session expired. Sign in again, then retry submission." },
+        { status: 401 }
+      );
+    }
+
     const attempt = await prisma.attempt.findUnique({
       where: { id },
       include: { module: { include: { questions: true } } },
     });
 
-    if (!attempt || attempt.userId !== session.user.id) {
+    if (!attempt || attempt.userId !== userId) {
       return NextResponse.json({ error: "Not found" }, { status: 404 });
     }
 

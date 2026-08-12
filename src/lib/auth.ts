@@ -78,8 +78,6 @@ async function restoreUserFromBackup(backupToken: string, email: string, passwor
       password: payload.passwordHash,
       role: "user",
       emailVerified: null,
-      passwordResetToken: null,
-      passwordResetTokenExpiry: null,
       createdAt: new Date(),
     };
   }
@@ -89,7 +87,26 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   adapter: PrismaAdapter(prisma),
   secret: process.env.AUTH_SECRET ?? process.env.NEXTAUTH_SECRET,
   trustHost: true,
-  session: { strategy: "jwt" },
+  session: {
+    strategy: "jwt",
+    // Keep users signed in across browser restarts until they explicitly sign out.
+    maxAge: 30 * 24 * 60 * 60, // 30 days
+    updateAge: 24 * 60 * 60, // refresh JWT at most once per day while active
+  },
+  jwt: {
+    maxAge: 30 * 24 * 60 * 60,
+  },
+  cookies: {
+    sessionToken: {
+      options: {
+        httpOnly: true,
+        sameSite: "lax",
+        path: "/",
+        secure: process.env.NODE_ENV === "production",
+        maxAge: 30 * 24 * 60 * 60,
+      },
+    },
+  },
   providers: [
     ...(googleConfigured
       ? [
@@ -108,87 +125,99 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
         backup: { label: "Backup", type: "text" },
       },
       async authorize(credentials) {
-        const email =
-          typeof credentials?.email === "string" ? normalizeEmail(credentials.email) : "";
-        const password =
-          typeof credentials?.password === "string" ? credentials.password : "";
-        const backup =
-          typeof credentials?.backup === "string" ? credentials.backup.trim() : "";
-
-        console.info("[auth/credentials] authorize start", {
-          email,
-          passwordProvided: Boolean(password),
-          passwordLength: password.length,
-          backupProvided: Boolean(backup),
-        });
-
-        if (!email || !password) {
-          console.warn("[auth/credentials] missing email or password");
-          throw new InvalidCredentialsError();
-        }
-
-        let user;
         try {
-          user = await findUserByEmail(email);
-        } catch (err) {
-          console.error("[auth/credentials] database lookup failed", err);
-          throw new AuthServiceError();
-        }
+          const email =
+            typeof credentials?.email === "string" ? normalizeEmail(credentials.email) : "";
+          const password =
+            typeof credentials?.password === "string" ? credentials.password : "";
+          const backup =
+            typeof credentials?.backup === "string" ? credentials.backup.trim() : "";
 
-        if (!user?.password && backup) {
-          console.info("[auth/credentials] restoring user from signed auth backup");
-          user = await restoreUserFromBackup(backup, email, password);
-        }
-
-        if (!user) {
-          console.warn("[auth/credentials] user not found for email", email);
-          throw new InvalidCredentialsError();
-        }
-
-        console.info("[auth/credentials] user found", {
-          userId: user.id,
-          storedEmail: user.email,
-          hasPassword: Boolean(user.password),
-          passwordHashLooksValid: user.password ? looksLikeBcryptHash(user.password) : false,
-        });
-
-        if (!user.password) {
-          console.warn("[auth/credentials] user has no password (OAuth-only?)", user.id);
-          throw new NoPasswordError();
-        }
-
-        if (!looksLikeBcryptHash(user.password)) {
-          console.error("[auth/credentials] stored password is not a bcrypt hash", {
-            userId: user.id,
-            prefix: user.password.slice(0, 4),
+          console.info("[auth/credentials] authorize start", {
+            email,
+            passwordProvided: Boolean(password),
+            passwordLength: password.length,
+            backupProvided: Boolean(backup),
           });
-          throw new AuthServiceError();
-        }
 
-        let valid = false;
-        try {
-          valid = await bcrypt.compare(password, user.password);
+          if (!email || !password) {
+            console.warn("[auth/credentials] missing email or password");
+            throw new InvalidCredentialsError();
+          }
+
+          let user;
+          try {
+            user = await findUserByEmail(email);
+          } catch (err) {
+            console.error("[auth/credentials] database lookup failed", err);
+            throw new AuthServiceError();
+          }
+
+          if (!user?.password && backup) {
+            console.info("[auth/credentials] restoring user from signed auth backup");
+            user = await restoreUserFromBackup(backup, email, password);
+          }
+
+          if (!user) {
+            console.warn("[auth/credentials] user not found for email", email);
+            throw new InvalidCredentialsError();
+          }
+
+          console.info("[auth/credentials] user found", {
+            userId: user.id,
+            storedEmail: user.email,
+            hasPassword: Boolean(user.password),
+            passwordHashLooksValid: user.password ? looksLikeBcryptHash(user.password) : false,
+          });
+
+          if (!user.password) {
+            console.warn("[auth/credentials] user has no password (OAuth-only?)", user.id);
+            throw new NoPasswordError();
+          }
+
+          if (!looksLikeBcryptHash(user.password)) {
+            console.error("[auth/credentials] stored password is not a bcrypt hash", {
+              userId: user.id,
+              prefix: user.password.slice(0, 4),
+            });
+            throw new AuthServiceError();
+          }
+
+          let valid = false;
+          try {
+            valid = await bcrypt.compare(password, user.password);
+          } catch (err) {
+            console.error("[auth/credentials] bcrypt.compare threw", err);
+            throw new AuthServiceError();
+          }
+
+          console.info("[auth/credentials] password compare result", {
+            userId: user.id,
+            matched: valid,
+          });
+
+          if (!valid) {
+            throw new InvalidCredentialsError();
+          }
+
+          return {
+            id: user.id,
+            email: user.email,
+            name: user.name,
+            image: user.image,
+            role: user.role,
+          };
         } catch (err) {
-          console.error("[auth/credentials] bcrypt.compare threw", err);
+          if (
+            err instanceof InvalidCredentialsError ||
+            err instanceof NoPasswordError ||
+            err instanceof AuthServiceError
+          ) {
+            throw err;
+          }
+          console.error("[auth/credentials] unexpected authorize error", err);
           throw new AuthServiceError();
         }
-
-        console.info("[auth/credentials] password compare result", {
-          userId: user.id,
-          matched: valid,
-        });
-
-        if (!valid) {
-          throw new InvalidCredentialsError();
-        }
-
-        return {
-          id: user.id,
-          email: user.email,
-          name: user.name,
-          image: user.image,
-          role: user.role,
-        };
       },
     }),
   ],

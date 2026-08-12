@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
+import { resolveSessionUserId } from "@/lib/resolve-session-user";
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
@@ -23,15 +24,26 @@ export async function GET(req: NextRequest) {
     orderBy: [{ year: "desc" }, { month: "desc" }],
   });
 
-  // Get user attempts if logged in
   const session = await auth();
   let attemptMap: Record<string, { score: number; totalQuestions: number; id: string }> = {};
 
   if (session?.user?.id) {
+    let userId = session.user.id;
+    try {
+      userId = await resolveSessionUserId({
+        id: session.user.id,
+        email: session.user.email,
+        name: session.user.name,
+        image: session.user.image,
+      });
+    } catch {
+      /* fall back to JWT id */
+    }
+
     const moduleIds = tests.flatMap((t) => t.modules.map((m) => m.id));
     const attempts = await prisma.attempt.findMany({
       where: {
-        userId: session.user.id,
+        userId,
         finishedAt: { not: null },
         moduleId: { in: moduleIds },
       },

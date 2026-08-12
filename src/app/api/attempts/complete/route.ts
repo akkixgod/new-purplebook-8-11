@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { randomUUID } from "crypto";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
 import { resolveSessionUserId } from "@/lib/resolve-session-user";
@@ -7,10 +8,6 @@ import { resolveSessionUserId } from "@/lib/resolve-session-user";
 export async function POST(req: NextRequest) {
   try {
     const session = await auth();
-    if (!session?.user?.id) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    }
-
     const body = await req.json().catch(() => null);
     const moduleId = body?.moduleId as string | undefined;
     const answers = body?.answers;
@@ -23,12 +20,28 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Invalid answers payload" }, { status: 400 });
     }
 
-    const userId = await resolveSessionUserId({
-      id: session.user.id,
-      email: session.user.email,
-      name: session.user.name,
-      image: session.user.image,
-    });
+    let userId: string | null = null;
+    let claimToken: string | null = null;
+
+    if (session?.user?.id) {
+      try {
+        userId = await resolveSessionUserId({
+          id: session.user.id,
+          email: session.user.email,
+          name: session.user.name,
+          image: session.user.image,
+        });
+      } catch (error) {
+        console.error("Complete attempt: resolveSessionUserId failed", error);
+        return NextResponse.json(
+          { error: "Session expired. Sign in again, then retry submission." },
+          { status: 401 }
+        );
+      }
+    } else {
+      // Allow guest completion; bind to account later via claimToken.
+      claimToken = randomUUID();
+    }
 
     const module = await prisma.module.findUnique({
       where: { id: moduleId },
@@ -81,6 +94,7 @@ export async function POST(req: NextRequest) {
         data: {
           userId,
           moduleId,
+          claimToken,
           finishedAt,
           score,
           totalQuestions: total,
@@ -108,6 +122,7 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({
       id: attempt.id,
       attemptId: attempt.id,
+      claimToken: claimToken ?? undefined,
       score,
       totalQuestions: total,
       timeSpent: attempt.timeSpent,

@@ -88,3 +88,72 @@ export function clearPendingSubmission(attemptId: string): void {
     /* ignore */
   }
 }
+
+/** Guest / pre-login completed attempts waiting to be bound to an account. */
+export interface ClaimableAttempt {
+  attemptId: string;
+  claimToken: string;
+  savedAt: number;
+}
+
+const CLAIMABLE_KEY = "purplebook_claimable_attempts_v1";
+
+export function listClaimableAttempts(): ClaimableAttempt[] {
+  try {
+    const raw = localStorage.getItem(CLAIMABLE_KEY);
+    if (!raw) return [];
+    const parsed = JSON.parse(raw) as ClaimableAttempt[];
+    if (!Array.isArray(parsed)) return [];
+    return parsed.filter(
+      (c) =>
+        typeof c?.attemptId === "string" &&
+        typeof c?.claimToken === "string" &&
+        c.attemptId &&
+        c.claimToken
+    );
+  } catch {
+    return [];
+  }
+}
+
+export function saveClaimableAttempt(attemptId: string, claimToken: string): void {
+  try {
+    const next = listClaimableAttempts().filter((c) => c.attemptId !== attemptId);
+    next.push({ attemptId, claimToken, savedAt: Date.now() });
+    localStorage.setItem(CLAIMABLE_KEY, JSON.stringify(next.slice(-40)));
+  } catch {
+    /* ignore */
+  }
+}
+
+export function clearClaimableAttempts(attemptIds?: string[]): void {
+  try {
+    if (!attemptIds?.length) {
+      localStorage.removeItem(CLAIMABLE_KEY);
+      return;
+    }
+    const keep = listClaimableAttempts().filter((c) => !attemptIds.includes(c.attemptId));
+    if (keep.length === 0) localStorage.removeItem(CLAIMABLE_KEY);
+    else localStorage.setItem(CLAIMABLE_KEY, JSON.stringify(keep));
+  } catch {
+    /* ignore */
+  }
+}
+
+export function listAllPendingSubmissions(): PendingSubmission[] {
+  try {
+    const out: PendingSubmission[] = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (!k?.startsWith("purplebook_pending_submit_")) continue;
+      const raw = localStorage.getItem(k);
+      if (!raw) continue;
+      const parsed = JSON.parse(raw) as PendingSubmission;
+      if (parsed?.moduleId && Array.isArray(parsed.answers)) out.push(parsed);
+    }
+    return out;
+  } catch {
+    return [];
+  }
+}
+

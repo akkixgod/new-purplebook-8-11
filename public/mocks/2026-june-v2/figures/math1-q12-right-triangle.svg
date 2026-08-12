@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <polygon points="80,220 350,220 350,76" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="332" y="202" width="18" height="18" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="215.0" y="248" text-anchor="middle" font-family="Georgia, serif" font-size="18">4.5</text>
+  <text x="378" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="18">2.4</text>
+  <text x="207.0" y="148.0" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic">x</text>
+  <text x="220" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="13">Note: Figure not drawn to scale.</text>
+</svg>

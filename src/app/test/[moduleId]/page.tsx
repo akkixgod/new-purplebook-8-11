@@ -11,7 +11,7 @@ import {
   TelegramCommunityCheckModal,
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
-import { cacheAttempt, savePendingSubmission, clearPendingSubmission, type CachedAttempt } from "@/lib/attempt-cache";
+import { cacheAttempt, savePendingSubmission, clearPendingSubmission, saveClaimableAttempt, type CachedAttempt } from "@/lib/attempt-cache";
 import { saveModule1Journey, readModule1Journey } from "@/lib/test-journey";
 import { textToHtml } from "@/lib/text-to-html";
 
@@ -78,7 +78,6 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
   const currentQuestionIdRef = useRef<string>("");
-  const lastCrossHoverRef = useRef<string>("");
 
   const openCalculator = useCallback(() => {
     setDesmosMounted(true);
@@ -178,7 +177,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         clearTimeout(timeout);
 
         const json = (await r.json().catch(() => null)) as
-          | (CachedAttempt & { attemptId?: string; error?: string })
+          | (CachedAttempt & { attemptId?: string; claimToken?: string; error?: string })
           | null;
 
         if (!r.ok) {
@@ -196,6 +195,9 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         }
 
         const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
+        if (typeof json?.claimToken === "string" && json.claimToken) {
+          saveClaimableAttempt(serverAttemptId, json.claimToken);
+        }
         if (json?.module?.test) {
           cacheAttempt({ ...json, id: serverAttemptId });
         }
@@ -332,7 +334,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     return () => window.removeEventListener("keydown", onKey);
   }, [moduleData, toggleCalculator]);
 
-  // Cross-out is controlled via the right-edge badge (click/right-click, and hover).
+  // Cross-out is controlled via the right-edge badge (click / right-click only).
 
   const toggleMark = useCallback((qId: string) => {
     setMarkedForReview((prev) => {
@@ -552,7 +554,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             </button>
 
             {/* Cross-out button intentionally removed:
-                elimination is handled by the right-edge badge (click / hover / right-click). */}
+                elimination is handled by the right-edge badge (click / right-click). */}
 
             {/* Reference + Calculator — Math only (Bluebook tools) */}
             {isMath && (
@@ -791,20 +793,18 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                       </span>
                     </button>
 
-                    {/* Right-edge Cross-Out badge */}
+                    {/* Right-edge Cross-Out badge — click only (no hover toggle) */}
                     <button
                       type="button"
-                      onClick={() => handleEliminateClick(q.id, letter)}
-                      onMouseEnter={() => {
-                        const key = `${q.id}:${letter}`;
-                        // Toggle only once per hover entry to prevent rapid double toggles.
-                        if (lastCrossHoverRef.current === key) return;
-                        lastCrossHoverRef.current = key;
+                      onClick={(e) => {
+                        e.preventDefault();
+                        e.stopPropagation();
                         handleEliminateClick(q.id, letter);
                       }}
-                      onMouseLeave={() => {
-                        // allow re-toggle next time user hovers
-                        lastCrossHoverRef.current = "";
+                      onMouseDown={(e) => {
+                        // Keep focus/selection on the badge; never bubble into choice selection.
+                        e.preventDefault();
+                        e.stopPropagation();
                       }}
                       title={eliminated ? `Restore ${letter}` : `Cross out ${letter}`}
                       aria-label={
@@ -813,10 +813,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                           : `Cross-out badge ${letter}`
                       }
                       aria-pressed={eliminated}
-                      className="flex-shrink-0 ml-2 w-10 flex items-center justify-end"
+                      className="flex-shrink-0 ml-1.5 min-w-11 w-11 self-stretch flex items-center justify-center rounded-lg hover:bg-gray-100 active:bg-gray-200 transition-colors"
                     >
                       <span
-                        className={`relative w-7 h-7 rounded-full border-2 flex items-center justify-center text-xs font-bold leading-none transition-colors ${
+                        className={`relative w-8 h-8 rounded-full border-2 flex items-center justify-center text-xs font-bold leading-none transition-colors pointer-events-none ${
                           eliminated
                             ? "border-gray-700 bg-gray-100 text-gray-800"
                             : "border-gray-400 text-gray-700"
@@ -825,7 +825,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                       >
                         {letter}
                         {eliminated && (
-                          <span className="pointer-events-none absolute inset-0 flex items-center justify-center">
+                          <span className="absolute inset-0 flex items-center justify-center">
                             <span className="w-[70%] h-[2px] bg-current rounded-full" />
                           </span>
                         )}

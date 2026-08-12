@@ -1,0 +1,58 @@
+import { NextRequest, NextResponse } from "next/server";
+import { prisma } from "@/lib/prisma";
+import { auth } from "@/lib/auth";
+import { resolveSessionUserId } from "@/lib/resolve-session-user";
+
+type ClaimItem = { attemptId?: string; claimToken?: string };
+
+/**
+ * POST /api/attempts/claim
+ * Bind guest (userId=null) completed attempts to the signed-in user.
+ * Body: { claims: { attemptId, claimToken }[] }
+ */
+export async function POST(req: NextRequest) {
+  try {
+    const session = await auth();
+    if (!session?.user?.id) {
+      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    }
+
+    const body = await req.json().catch(() => null);
+    const claims = Array.isArray(body?.claims) ? (body.claims as ClaimItem[]) : [];
+    if (claims.length === 0) {
+      return NextResponse.json({ claimed: 0, attemptIds: [] });
+    }
+
+    const userId = await resolveSessionUserId({
+      id: session.user.id,
+      email: session.user.email,
+      name: session.user.name,
+      image: session.user.image,
+    });
+
+    const claimed: string[] = [];
+    for (const item of claims.slice(0, 40)) {
+      const attemptId = typeof item.attemptId === "string" ? item.attemptId : "";
+      const claimToken = typeof item.claimToken === "string" ? item.claimToken : "";
+      if (!attemptId || !claimToken) continue;
+
+      const result = await prisma.attempt.updateMany({
+        where: {
+          id: attemptId,
+          claimToken,
+          userId: null,
+        },
+        data: {
+          userId,
+          claimToken: null,
+        },
+      });
+      if (result.count > 0) claimed.push(attemptId);
+    }
+
+    return NextResponse.json({ claimed: claimed.length, attemptIds: claimed });
+  } catch (error) {
+    console.error("Claim attempts error:", error);
+    return NextResponse.json({ error: "Failed to claim attempts" }, { status: 500 });
+  }
+}

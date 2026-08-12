@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "The following text is from the 1996 novel Desert Birds by Elena Ruiz. A young girl is sitting in a room with her grandmother, Teresa, whose old rocking chair had previously been kept on the porch.\n\nThe girl took comfort in the _mere presence of the chair_ in the room. Comfort in its movement. It was faded by years in the sun and bent by occasional rain, and only in the last few months had Teresa decided to bring it inside with the family.",
+    "text": "As used in the text, what does the phrase \"mere presence of the chair\" most nearly refer to?",
+    "choices": {
+      "A": "The chair's relative simplicity compared with the rest of the furniture",
+      "B": "The simple fact of the chair's existence",
+      "C": "The chair's lack of appeal to the rest of the family",
+      "D": "The idea that the chair is unnoticeable"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "In the 1980s, Australian diners initially ______ major fast-food chains from the United States. However, marketing strategies such as free soft drinks and low prices gradually drew in customers looking for convenient meals. By the late 1990s, public opinion had changed as fast food shifted from a debated novelty to a familiar part of Australia's dining culture.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "prepared",
+      "B": "resisted",
+      "C": "discovered",
+      "D": "reflected"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "The Cuban Revolution (1953-1959) was followed by a period of flourishing literary production, with writers such as Nicolas Guillen contributing to the ______ of poetry, fiction, essays, and more. Unfortunately, this flood of interesting writing has diverted scholarly attention from the equally fascinating work of nineteenth-century figures like Gertrudis Gomez de Avellaneda.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "overturning",
+      "B": "abundance",
+      "C": "erasure",
+      "D": "underappreciation"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Solar physicists studying the Sun have identified an important ______ between magnetically active and relatively quiet regions. In active regions, bursts of ultraviolet light usually come before substantial decreases in magnetic energy, whereas in quiet regions, ultraviolet light intensity and magnetic energy remain continuously correlated without notable energy drops.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "interaction",
+      "B": "disparity",
+      "C": "trade-off",
+      "D": "analogy"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "In 1903, Mary Anderson patented a device that cleared rain and snow from a car's windshield, improving visibility for drivers. In 1886, Josephine Cochrane invented a machine that washed dishes more efficiently, easing a time-consuming household task. Although designed to solve different problems, both inventions have had lasting effects. _Likewise, both inventors exemplified important traits that continue to drive innovation: creative thinking, strong problem-solving skills, and persistence._",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It lists some specific impacts that two older inventions have had on modern life.",
+      "B": "It lists qualities that Anderson and Cochrane shared and that many inventors rely on.",
+      "C": "It lists characteristics that the text says are frequently mentioned in studies of modern inventors.",
+      "D": "It lists the features of Anderson's and Cochrane's inventions that contributed most to their usefulness."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Sellers and advertisers often use prices ending in 9 (for example, $7.99) to make items seem like a better value. In many cases, shoppers respond as intended, viewing such prices as signs of a discount or special offer. _However, studies have found that some consumers connect these prices with lower-quality goods and even see them as misleading—an attempt to make a $7.99 item seem like it costs $7 rather than $8, which is closer to the truth._",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It describes a contrast between how sellers want prices ending in 9 to be understood and how consumers generally understand them",
+      "B": "It points out unexpected ways some consumers interpret prices ending in 9, suggesting that this pricing strategy may not be effective in every case.",
+      "C": "It explains the negative reactions to prices ending in 9 that have caused some businesses to change their pricing methods.",
+      "D": "It identifies how consumers usually react to prices ending in 9 while acknowledging that some consumers react differently."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "The following text is from Frances Burney's 1784 satirical play The Busy Salon. Clara, Lady Venom, and Edward Fairman are discussing their mutual acquaintance Lord Arthur Sharp.\n\nCLARA: [Lord Arthur] has done nothing—but his talk is a perpetual slander on all his acquaintances.\nFAIRMAN: Aye, and the worst of it is there is no advantage in not knowing him, for he'll abuse a stranger just as soon as his closest friend—and [his cousin] is as bad.\nLADY VENOM: _Nay, but we should make allowance. Lord Arthur is a wit and a poet._\nCLARA: For my part—I admit, madam—wit loses its respect with me when I see it in company with malice. What say you, Mr. Fairman?\nFAIRMAN: Certainly, madam, to smile at the jest that leaves a wound in another's heart is to become a principal in the mischief.",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It illustrates and expands on one character's definition of a term that was discussed earlier in the text.",
+      "B": "It appears to offer an explanation for the behavior of the character who is the topic of conversation in the text.",
+      "C": "It contrasts the point of view of one character with that of another through the use of figurative language.",
+      "D": "It presents a position that seems to support the stance of one character and undermine that of another."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Common chickweed is a weed found across North America. Although gardeners and farmers often consider common chickweed a nuisance, weeds like it can offer certain advantages. For instance, they may help reduce soil erosion.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Removing weeds is an enjoyable chore.",
+      "B": "Some weeds can be useful.",
+      "C": "Certain gardening methods can lead to more weeds.",
+      "D": "North America is home to many plant species."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Division of labor is a system in which the work of making a product is split among different people who each specialize in a particular task. Rather than having one person make the entire product, workers concentrate on just one stage of production. In a backpack factory, for example, some workers might cut the fabric, others sew the pieces together, and still others attach the zippers. Workers become more skilled at their individual tasks and save time because they do not have to switch between different kinds of work. This system has played an important role in increasing the amount of goods that can be produced in modern economies.",
+    "text": "What is the main focus of the text?",
+    "choices": {
+      "A": "How factories prepare new employees for their work",
+      "B": "The history of the zipper",
+      "C": "How division of labor improves efficiency",
+      "D": "The future of the backpack industry"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "The following text is adapted from Beatrix Potter's 1913 story Winter at Pine Hollow. The Mole has just been found by a companion after wandering in the forest. Snow is beginning to fall.\n\nThe Mole looked at the wood that had seemed so frightening to him and saw it in a very different way. Holes, dips, puddles, traps, and other dangers to a traveler were quickly disappearing, and a bright blanket was spreading everywhere, looking too delicate for heavy feet to step on.",
+    "text": "Which choice most accurately expresses the main idea of the text?",
+    "choices": {
+      "A": "The Mole prefers warm, dry weather to cold, snowy weather.",
+      "B": "As the ground becomes covered in snow, the landscape no longer appears dangerous to the Mole.",
+      "C": "After being found by his companion, the Mole feels embarrassed about getting lost.",
+      "D": "The Mole is saddened that his time wandering in the forest has ended."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Because biofuels usually produce less carbon than fossil fuels, they can help reduce emissions. In California, biofuel producers have two sources of revenue: biofuel sales and LCFS (low carbon fuel standard) credits bought from them by companies whose fuel does not meet the state's emissions standards. Considering how these revenue streams affect one another, Aylin Karaca et al. studied three models for how a biofuel company might maximize profit: the industry-standard heuristic model, a lexicographic model, and a model proposed by the researchers. They concluded that although their model maximized profit, it might not be the best option for firms that need to minimize cash outflows.",
+    "text": "Which choice best describes the data in the table that support the researchers' conclusion?",
+    "choices": {
+      "A": "Both the total revenue and the total profit for the lexicographic model are higher than those for the heuristic model but lower than those for the proposed model.",
+      "B": "Although the proposed model's total profit and LCFS revenue are close in value, the lexicographic model's total profit is much greater than its LCFS revenue.",
+      "C": "Although the proposed model projects the greatest total profit, it also projects a higher total cost than the lexicographic model, which has the same total cost as the heuristic model but a higher total profit.",
+      "D": "The proposed model has the highest total revenue, LCFS revenue, and total cost among the three models"
+    },
+    "imageUrl": "/mocks/2026-june-v2/figures/eng1-q11-biofuel-profits.svg"
+  },
+  "12": {
+    "stimulus": "First published in 1920, Edith Wharton's The Age of Innocence takes place in New York in the 1870s. In one scene, Newland Archer goes to the opera. The narrator portrays Archer's social circle as valuing the familiar more than the new:",
+    "text": "Which quotation from The Age of Innocence most effectively supports the claim?",
+    "choices": {
+      "A": "\"It surprised [Newland] that life should be going on in the old way when his own reactions to it had so completely changed.\"",
+      "B": "\"Though there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music in New York].\"",
+      "C": "\"Newland Archer, leaning against the wall at the back of the club box [where his seat was], turned his eyes from the stage and scanned the opposite side of the house.\"",
+      "D": "\"But, in the first place, New York was a metropolis, and perfectly aware that in metropolises it was 'not the thing' to arrive early at the opera.\""
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "A group of public transit specialists in Portland is planning a new streetcar stop for the Burnside Corridor Streetcar line that will serve a neighborhood that currently has no stop. To determine where to place the stop, the group is relying on a survey from ten years ago that asked how far neighborhood residents would be willing to walk to reach a streetcar stop. The group also reviewed studies showing that people's willingness to walk to public transit is affected by factors such as weather and the presence of well-enforced low speed limits for cars. A researcher has argued that the survey does not accurately reflect the views of people who live in this neighborhood today.",
+    "text": "Which finding, if true, would most directly support the researcher's claim?",
+    "choices": {
+      "A": "There has been a sharp increase in the last ten years in the number of cyclists using roads in the neighborhood that the streetcar stop will serve.",
+      "B": "Residents of Portland are much less likely to use public transit on rainy days than on clear days.",
+      "C": "The enforcement of posted speed limits in the neighborhood that the streetcar stop will serve has increased substantially in the last ten years.",
+      "D": "Current riders of the Burnside Corridor Streetcar are satisfied with the number of stops along the line."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "More than 700 languages are spoken in New York City in addition to English—someone might hear Bengali in Kensington or Tibetan in Woodside. Most speakers of Chinese languages live in the neighborhood of Flushing (in New York City's borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan, where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in northern China, whereas Cantonese and Fuzhounese are widely spoken in southern China. It can therefore be inferred that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "people who emigrate from northern China tend to settle in Flushing, while people who emigrate from southern China tend to settle in Chinatown.",
+      "B": "Chinese immigrants who moved to New York City long ago are more likely to speak several Chinese languages than are more recent Chinese immigrants.",
+      "C": "Overall, there are more Cantonese and Fuzhounese speakers among Chinese immigrants in New York than there are Mandarin speakers.",
+      "D": "Chinese immigrants regularly move between Queens and Manhattan after emigrating rather than remaining in one borough."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Maya Elena Ruiz and colleagues conducted a study comparing musicians and nonmusicians in the volume, measured in decibels (dB), that they preferred when listening to various audio recordings, including solo piano pieces, symphonic works, and ocean sounds. The musicians, who reported far greater lifetime noise exposure than the nonmusicians, generally listened to the recordings at higher volumes than the nonmusicians did. The two groups had clinically similar hearing, however, suggesting that although a musician's preferred volume for a favorite recording might be 84.8 dB and a nonmusician's might be 65.9 dB, this difference ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "indicates that the musician is unlikely to listen to a nonfavorite recording at a higher volume than the nonmusician would.",
+      "B": "shows that both the musician and the nonmusician have lower hearing ability than would be expected of clinically typical individuals with typical levels of lifetime noise exposure.",
+      "C": "does not arise from the musician having a clinically significant reduction in hearing ability as a result of lifetime noise exposure.",
+      "D": "cannot be explained as resulting from the musician's relatively greater musical expertise."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "The Benny Beaver stuffed toy ______ a skeptical public when it was introduced in 1911 as a potential rival to the popular teddy bear. In fact, one columnist wrote that the toy's appearance was \"likely to give a baby [a] nightmare.\"",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "faces",
+      "B": "faced",
+      "C": "is facing",
+      "D": "will face"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "The outer edge of the Sun's magnetic reach is called the heliopause. This invisible border, which ______ created by the solar wind (charged particles from the Sun) colliding with interstellar space, has been crossed by only two spacecraft: Voyager 1 and Voyager 2.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is",
+      "B": "were",
+      "C": "are",
+      "D": "have been"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Originally introduced in 2017 and later optimized for faster object detection, ______ compared with conventional detection methods.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "high accuracy and lower computational power requirements are achieved by the Retina Net algorithm",
+      "B": "the Retina Net algorithm achieves high accuracy while requiring less computational power",
+      "C": "less computational power is required for the Retina Net algorithm to achieve high accuracy",
+      "D": "high accuracy while requiring less computational power is the Retina Net algorithm's achievement"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "Although calling the handfish (family Brachionichthyidae) a \"walking fish\" might suggest an animal that has fully transitioned to life on land, the handfish's unusual locomotion is actually a specialized adaptation for moving along the ______ the handfish's modified pectoral fins function much like legs, enabling this distinctive marine predator to \"walk\" across the ocean bottom in the temperate waters it inhabits.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "seafloor,",
+      "B": "seafloor:",
+      "C": "seafloor",
+      "D": "seafloor and"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "Policy ______ archival labor-market data is essential to evaluating the effects of different employment laws. These long-term records allow scholars to compare countries' labor conditions before a law is introduced with conditions that emerge years after enactment.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "analyst's access to country's",
+      "B": "analysts' access to countries'",
+      "C": "analysts access to countries'",
+      "D": "analysts access to countries"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "At dawn, while the air is still cool, the desert iguana rests in sunny places to warm itself. ______ as the day becomes hotter, the desert iguana moves into shaded areas and under stones to avoid getting too warm.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Previously,",
+      "B": "For example,",
+      "C": "Later,",
+      "D": "First,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "Although most animals seek the protection of nighttime migration, many poisonous amphibians—a group that includes the Colorado River toad and the strawberry poison dart frog—move safely during the day. ______ with the sun overhead, the amphibians' vivid color patterns warn visually oriented daytime predators of the animals' toxicity.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "At that time,",
+      "C": "For example,",
+      "D": "In other words,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "Many poetry anthologies include only a single poem from each poet, but Asha K. Raman's Echoes of Contemporary Verse includes generous selections from each poet. ______ Raman includes multiple poems by Olivia Chen and Marcus Redbird. This allows readers to engage with a wide range of each poet's work.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "Next,",
+      "C": "For example,",
+      "D": "However,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "The widespread adoption of point-based judging in combat sports reflects a preference, shaped largely by Western traditions, for competitions that can be measured numerically. ______ in traditional Muay Thai, judges treat a match as an unfolding story in which the meaning of any single exchange depends on the larger course of the bout—the winner being determined not by a point total of separate actions but by an overall evaluation of the fighters' performances.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Partly because of that preference,",
+      "B": "As one more example of that system,",
+      "C": "By contrast with that model,",
+      "D": "Designed with much the same purpose,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A nonnative species that causes environmental or economic harm when introduced to an ecosystem is considered invasive.\n• Leafy spurge is an invasive species of flowering plant that crowds out livestock forage and native plants.\n• It was first introduced to the US accidentally through contaminated seed.\n• Water hyacinth is an invasive species of aquatic plant that blocks sunlight and reduces oxygen levels in bodies of water.\n• It was first introduced to the US as an ornamental plant.",
+    "text": "The student wants to emphasize a similarity between leafy spurge and water hyacinth. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Water hyacinth is an invasive species that blocks sunlight and reduces oxygen levels in bodies of water, causing environmental harm.",
+      "B": "Leafy spurge was first introduced accidentally through contaminated seed, but it now crowds out livestock forage and native plants.",
+      "C": "The harm to ecosystems caused by water hyacinth and leafy spurge has led both species to be considered invasive in the US.",
+      "D": "Leafy spurge is an invasive species of aquatic plant, and water hyacinth was first introduced accidentally through contaminated seed."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The CITYGREEN project examined different kinds of urban natural areas in cities across Europe.\n• Urban natural areas are spaces in cities that include natural features.\n• Home gardens were one type of urban natural area included in the project.\n• Home gardens are private gardens on residential properties throughout a city.\n• They can help cities by increasing plant species diversity.",
+    "text": "The student wants to provide a specific example of one kind of urban natural area. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The CITYGREEN project examined different kinds of urban natural areas, which are spaces in cities that include natural features.",
+      "B": "Urban natural areas can help cities by increasing plant species diversity.",
+      "C": "One specific example of a kind of urban natural area is home gardens, which are private gardens on residential properties throughout a city.",
+      "D": "Spaces in cities that include natural features are called urban natural areas."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Nandi Khumalo was a South African singer.\n• The song \"Thula Bane\" appears on her 1962 album Nandi Khumalo. Nandi Khumalo features a mix of traditional South African and popular European and American songs.\n• Her 1972 album Remember Me features mostly renditions of popular songs from European and American artists of the time, such as \"Here Comes the Sun.\"\n• \"Here Comes the Sun\" was originally made popular by the English rock band the Beatles.",
+    "text": "The student wants to emphasize a similarity between \"Thula Bane\" and \"Here Comes the Sun.\" Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Nandi Khumalo's 1962 album Nandi Khumalo features a mix of traditional South African and popular European and American songs.",
+      "B": "Originally made popular by the Beatles, the song \"Here Comes the Sun\" appears on Nandi Khumalo's album Remember Me.",
+      "C": "The songs \"Thula Bane\" and \"Here Comes the Sun\" can both be found on albums recorded by the South African singer Nandi Khumalo.",
+      "D": "Nandi Khumalo recorded many songs over her lifetime, including \"Thula Bane,\" which appears on her 1962 album Nandi Khumalo."
+    },
+    "imageUrl": null
+  }
+}

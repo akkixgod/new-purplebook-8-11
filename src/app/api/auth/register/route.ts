@@ -78,7 +78,7 @@ export async function POST(req: NextRequest) {
     if (!passwordOk) {
       console.error("[auth/register] password verify failed after write", saved.id);
       return NextResponse.json(
-        { error: "Account created but password check failed. Please reset your password." },
+        { error: "Account created but password check failed. Please try signing in again." },
         { status: 500 }
       );
     }
