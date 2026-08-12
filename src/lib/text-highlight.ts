@@ -18,7 +18,7 @@ export function highlightDepth(node: Node): number {
   return depth;
 }
 
-function createHighlightMark(layer: number): HTMLMarkElement {
+function createHighlightMark(layer: number): HTMLElement {
   const mark = document.createElement("mark");
   const clamped = Math.min(Math.max(layer, 1), MAX_HL_LAYER);
   mark.className = HL_CLASS;
@@ -69,7 +69,7 @@ function textSlicesInRange(
  * Wrap a portion of a text node in a highlight mark.
  * Nesting inside an existing mark creates a double-highlight layer.
  */
-function wrapTextSlice(node: Text, start: number, end: number): HTMLMarkElement | null {
+function wrapTextSlice(node: Text, start: number, end: number): HTMLElement | null {
   if (start >= end || !node.parentNode) return null;
 
   const depth = highlightDepth(node);
