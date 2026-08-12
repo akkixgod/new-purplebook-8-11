@@ -21,11 +21,50 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-gray-200 bg-white">
-      <div className="max-w-7xl mx-auto px-4 h-14 grid grid-cols-3 items-center">
-        {/* Left brand */}
+      {/* Mobile: brand + actions only (no duplicate center title) */}
+      <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between gap-3 md:hidden">
         <Link
           href="/"
-          className="text-sm sm:text-base font-semibold text-[#7c3aed] justify-self-start inline-flex items-baseline"
+          className="text-sm font-semibold text-[#7c3aed] inline-flex items-baseline min-w-0"
+        >
+          PurpleBook
+          <span className="relative inline-block">
+            .win
+            <BrandStar />
+          </span>
+        </Link>
+        <div className="flex items-center gap-2 flex-shrink-0">
+          {session ? (
+            <>
+              <Link
+                href="/account"
+                className="text-sm px-3 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors"
+              >
+                Account
+              </Link>
+              <button
+                onClick={() => signOut({ callbackUrl: "/" })}
+                className="text-sm px-3 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors"
+              >
+                Sign Out
+              </button>
+            </>
+          ) : (
+            <Link
+              href="/auth/signin"
+              className="text-sm px-4 py-2 rounded-lg bg-black text-white font-medium hover:bg-gray-900 transition-colors"
+            >
+              Sign In
+            </Link>
+          )}
+        </div>
+      </div>
+
+      {/* Desktop: original 3-column header (unchanged) */}
+      <div className="max-w-7xl mx-auto px-4 h-14 hidden md:grid grid-cols-3 items-center">
+        <Link
+          href="/"
+          className="text-base font-semibold text-[#7c3aed] justify-self-start inline-flex items-baseline"
         >
           PurpleBook
           <span className="relative inline-block">
@@ -34,32 +73,24 @@ export function Header() {
           </span>
         </Link>
 
-        {/* Center title */}
-        <p className="text-base sm:text-lg font-bold text-gray-900 text-center truncate px-2">
+        <p className="text-lg font-bold text-gray-900 text-center truncate px-2">
           PurpleBook.win
         </p>
 
-        {/* Right actions */}
         <div className="flex items-center gap-2 justify-self-end">
           {session ? (
             <>
               {(session.user as { role?: string })?.role === "admin" && (
                 <Link
                   href="/admin"
-                  className="text-xs px-3 py-1.5 rounded-lg bg-[#7c3aed]/10 text-[#7c3aed] font-medium hover:bg-[#7c3aed]/20 transition-colors hidden sm:inline-flex"
+                  className="text-xs px-3 py-1.5 rounded-lg bg-[#7c3aed]/10 text-[#7c3aed] font-medium hover:bg-[#7c3aed]/20 transition-colors inline-flex"
                 >
                   Admin
                 </Link>
               )}
               <Link
                 href="/account"
-                className="text-sm px-3 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors sm:hidden"
-              >
-                Account
-              </Link>
-              <Link
-                href="/account"
-                className="text-sm text-gray-600 hover:text-[#7c3aed] hidden sm:block max-w-[140px] truncate"
+                className="text-sm text-gray-600 hover:text-[#7c3aed] max-w-[140px] truncate"
                 title={session.user?.email ?? "My Account"}
               >
                 {session.user?.name ?? session.user?.email ?? "My Account"}

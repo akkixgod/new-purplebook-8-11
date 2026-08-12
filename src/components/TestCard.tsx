@@ -54,17 +54,31 @@ export function TestCard({ title, year, month, section, version, isFree, modules
   const isStarting = startingModuleId !== null;
 
   return (
-    <div className="bg-white border border-gray-200 rounded-2xl p-5 hover:border-[#7c3aed]/40 transition-colors">
+    <div className="bg-white border border-gray-200 rounded-2xl p-4 sm:p-5 hover:border-[#7c3aed]/40 transition-colors">
       {/* Header */}
-      <div className="flex items-start justify-between mb-3">
-        <div className="flex items-center gap-2 min-w-0">
-          <svg className="w-4 h-4 text-[#7c3aed] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+      <div className="flex items-start justify-between gap-2 mb-3">
+        <div className="flex items-start gap-2 min-w-0 flex-1">
+          <svg
+            className="w-4 h-4 text-[#7c3aed] flex-shrink-0 mt-0.5"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+            />
           </svg>
           <div className="min-w-0">
-            <span className="font-semibold text-sm text-gray-900 block truncate">{title}</span>
+            <span className="font-semibold text-sm text-gray-900 block leading-snug break-words sm:truncate">
+              {title}
+            </span>
             {version && (
-              <span className="text-xs text-gray-500 block truncate">{version}</span>
+              <span className="text-xs text-gray-500 block leading-snug break-words sm:truncate">
+                {version}
+              </span>
             )}
           </div>
         </div>
@@ -76,16 +90,26 @@ export function TestCard({ title, year, month, section, version, isFree, modules
       </div>
 
       {/* Meta */}
-      <div className="flex items-center gap-3 text-xs text-gray-500 mb-4">
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-1.5 text-xs text-gray-500 mb-4">
         <span className="flex items-center gap-1">
           <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+            />
           </svg>
           {totalMinutes} min
         </span>
         <span className="flex items-center gap-1">
           <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"
+            />
           </svg>
           {totalQuestions} questions
         </span>
@@ -104,9 +128,9 @@ export function TestCard({ title, year, month, section, version, isFree, modules
           return (
             <div
               key={mod.id}
-              className="flex items-center justify-between py-2 border-t border-gray-100"
+              className="flex items-center justify-between gap-3 py-2 border-t border-gray-100"
             >
-              <div>
+              <div className="min-w-0">
                 <p className="text-sm font-medium text-gray-900">Module {mod.number}</p>
                 {isDone && (
                   <p className="text-xs text-gray-500">
@@ -116,10 +140,10 @@ export function TestCard({ title, year, month, section, version, isFree, modules
               </div>
 
               {isDone ? (
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 flex-shrink-0">
                   <Link
                     href={`/review/${attempt.id}`}
-                    className="px-4 py-1.5 text-xs font-semibold rounded-lg border-2 border-[#7c3aed] text-[#7c3aed] hover:bg-[#7c3aed] hover:text-white transition-colors"
+                    className="px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg border-2 border-[#7c3aed] text-[#7c3aed] hover:bg-[#7c3aed] hover:text-white transition-colors whitespace-nowrap"
                   >
                     REVIEW
                   </Link>
@@ -133,11 +157,21 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                     {thisStarting ? (
                       <svg className="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none">
                         <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" opacity="0.25" />
-                        <path d="M22 12a10 10 0 00-10-10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
+                        <path
+                          d="M22 12a10 10 0 00-10-10"
+                          stroke="currentColor"
+                          strokeWidth="3"
+                          strokeLinecap="round"
+                        />
                       </svg>
                     ) : (
                       <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                        />
                       </svg>
                     )}
                   </button>
@@ -148,7 +182,7 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                   onClick={(e) => startPractice(e, mod.id)}
                   disabled={isStarting || mod._count.questions === 0}
                   aria-busy={thisStarting}
-                  className="px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
+                  className="flex-shrink-0 px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-40 disabled:cursor-not-allowed whitespace-nowrap"
                 >
                   {mod._count.questions === 0 ? (
                     "COMING SOON"
@@ -156,9 +190,14 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                     <span className="inline-flex items-center gap-2">
                       <svg className="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none">
                         <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" opacity="0.25" />
-                        <path d="M22 12a10 10 0 00-10-10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
+                        <path
+                          d="M22 12a10 10 0 00-10-10"
+                          stroke="currentColor"
+                          strokeWidth="3"
+                          strokeLinecap="round"
+                        />
                       </svg>
-                      Starting Test...
+                      Starting…
                     </span>
                   ) : (
                     "START PRACTICE"
