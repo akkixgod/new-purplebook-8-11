@@ -2,8 +2,6 @@ import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
 import { resolveSessionUserId } from "@/lib/resolve-session-user";
-import { scaleSectionScore } from "@/lib/sat-scale";
-
 /** GET /api/account/attempts — completed practice history for the signed-in user */
 export async function GET() {
   try {
@@ -53,6 +51,7 @@ export async function GET() {
     const items = attempts.map((a) => {
       const correct = a.score ?? 0;
       const total = a.totalQuestions ?? 0;
+      const percent = total > 0 ? Math.round((correct / total) * 100) : 0;
       return {
         id: a.id,
         testTitle: a.module.test.title,
@@ -66,8 +65,14 @@ export async function GET() {
         timeSpent: a.timeSpent,
         correct,
         totalQuestions: total,
-        scaledScore: scaleSectionScore(correct, total),
+        // Per-module history uses raw accuracy only; 200–800 is for full M1+M2 results.
+        percent,
       };
+    });
+
+    console.info("[account/attempts] loaded", {
+      userId,
+      count: items.length,
     });
 
     return NextResponse.json({
@@ -79,7 +84,7 @@ export async function GET() {
       attempts: items,
     });
   } catch (error) {
-    console.error("Account attempts error:", error);
+    console.error("[account/attempts] unexpected error", error);
     return NextResponse.json({ error: "Failed to load history" }, { status: 500 });
   }
 }

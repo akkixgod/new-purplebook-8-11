@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useSession } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import { Header } from "@/components/Header";
+import { syncAccountAttempts } from "@/lib/sync-account-attempts";
 
 interface HistoryItem {
   id: string;
@@ -17,7 +18,7 @@ interface HistoryItem {
   finishedAt: string | null;
   correct: number;
   totalQuestions: number;
-  scaledScore: number;
+  percent: number;
 }
 
 const MONTHS = [
@@ -69,6 +70,10 @@ export default function AccountPage() {
       setLoading(true);
       setError(null);
       try {
+        // Claim guest / pending attempts before reading history so new scores appear immediately.
+        await syncAccountAttempts();
+        if (cancelled) return;
+
         const res = await fetch("/api/account/attempts", { credentials: "include" });
         const data = await res.json().catch(() => ({}));
         if (!res.ok) {
@@ -169,10 +174,10 @@ export default function AccountPage() {
                   <div className="flex items-center gap-3 flex-shrink-0">
                     <div className="text-right">
                       <p className="text-lg font-bold text-[#7c3aed] leading-none">
-                        {a.scaledScore}
+                        {a.percent}%
                       </p>
                       <p className="text-[11px] text-gray-400 mt-0.5">
-                        {a.correct}/{a.totalQuestions} raw · 200–800
+                        {a.correct}/{a.totalQuestions} correct
                       </p>
                     </div>
                     <Link

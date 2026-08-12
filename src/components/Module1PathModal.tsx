@@ -64,7 +64,7 @@ export function Module1PathModal({
           >
             <div className="text-sm font-semibold text-gray-900">Finish Test (Get Module 1 Score)</div>
             <div className="mt-0.5 text-xs text-gray-500">
-              See a scaled Reading/Writing or Math score (200–800) for Module 1 only.
+              See Module 1 accuracy (correct/incorrect and %). Full 200–800 scores need both modules.
             </div>
           </button>
 

@@ -1,0 +1,139 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The Southern Oscillation Index (SOI) predicts weather patterns in the Pacific Ocean. SOI values less than −7 over a period of time predict a temporary decrease in the strength of the Pacific trade winds. Each of the following inequalities represents SOI values, s, over a certain period of time. Which inequality represents SOI values that predict a temporary decrease in the strength of the Pacific trade winds?",
+    "choices": {
+      "A": "−26 < s < −13",
+      "B": "−7 < s < 0",
+      "C": "−7 < s < 7",
+      "D": "14 < s < 27"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "g(x) = x^2 + 14x + 60\n\nThe function g is defined by the given equation. Which of the following equivalent forms of the equation displays the minimum value of the function as a constant or coefficient?",
+    "choices": {
+      "A": "g(x) = (x + 7)^2 + 11",
+      "B": "g(x) = x^2 + 2(7x + 30)",
+      "C": "g(x) = 60 − x(x + 14)",
+      "D": "g(x) = 60 − (1/2)x(2x + 28)"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "2x^2 − 3x − 3 = 0\n\nWhat are all possible solutions to the given equation?",
+    "choices": {
+      "A": "x = 3/4 ± √15/4",
+      "B": "x = −3/4 ± √15/4",
+      "C": "x = 3/4 ± √33/4",
+      "D": "x = −3/4 ± √33/4"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The exponential function g is defined by g(x) = ab^x, where a and b are positive constants. If g(c) = m and the value of g(c + 1) is 79% more than the value of m, where c and m are constants, what is the value of b?",
+    "choices": {
+      "A": "0.21",
+      "B": "0.79",
+      "C": "1.79",
+      "D": "3.58"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "5/c − 9/d = 7\n\nThe given equation relates the variables c and d, where c and d are greater than 1. Which equation correctly expresses d in terms of c?",
+    "choices": {
+      "A": "d = c/[9(5 − 7c)]",
+      "B": "d = 9c/(5 − 7c)",
+      "C": "d = 9(5 − 7c)/c",
+      "D": "d = (5 − 7c)/(9c)"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "An online store is offering two different discounts on its sweaters: a bulk discount for large orders and a coupon discount. For orders of n sweaters, where 10 < n < 50, a bulk discount of n% off the original price of $44 is applied to the price of each sweater. If a coupon is applied to the order, a discount of an additional $4 is applied to the price of each sweater, after the bulk discount is applied. For a certain order with both the bulk discount and the coupon discount applied, the total price after the discounts for the sweaters purchased was $624. How many sweaters were purchased in this order?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "20",
+      "D": "36"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "In the figure, LQ intersects MP at point R, and LM is parallel to PQ. The lengths of MR, LR, and RP are 6, 7, and 15, respectively. What is the length of LQ?",
+    "choices": {
+      "A": "49/5",
+      "B": "35/2",
+      "C": "47/2",
+      "D": "49/2"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math2-q07-similar-triangles.svg"
+  },
+  "8": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between x and y for the 10 data points in data set A. Data set B is created by multiplying the y-value of each data point from data set A by 30. Which of the following equations is the most appropriate model for data set B?",
+    "choices": {
+      "A": "y = 7(2.12)^x",
+      "B": "y = 207(2.12)^x",
+      "C": "y = 7(2.12)^x + 30",
+      "D": "y = 30(2.12)^x + 30"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math2-q08-scatter.svg"
+  },
+  "9": {
+    "stimulus": null,
+    "text": "At a nature preserve, a wildlife biologist counted ducks from an observation deck at the same time each day for 41 days. The table summarizes the resulting data set, data set A. The data value 17 was recorded in error and is removed from data set A to create data set B, which consists of the remaining 40 data values. Which statement best compares the median of data set A and the median of data set B?",
+    "choices": {
+      "A": "The median of data set B is less than the median of data set A.",
+      "B": "The median of data set B is equal to the median of data set A.",
+      "C": "The median of data set B is greater than the median of data set A.",
+      "D": "There is not enough information to compare the medians of the two data sets."
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math2-q09-frequency-table.svg"
+  },
+  "10": {
+    "stimulus": null,
+    "text": "If x = (2x^n + 35)^(1/(2n)), where n is a positive integer constant, what is the value of x^n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "2x^2 − x√k + 2y^2 + y√t − 12 = 0\n\nThe given equation, where k and t are positive constants, defines a circle in the xy-plane. The radius of this circle is √52. Which expression represents the value of t?",
+    "choices": {
+      "A": "160 − k",
+      "B": "k − 640",
+      "C": "640 − k",
+      "D": "736 − k"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "In triangle XYZ, the measure of angle X is 90°. Point W lies on segment YZ, and segment WX is perpendicular to segment YZ. The length of segment WY is 652, and the length of segment WX is 489. What is the value of tan Z?",
+    "choices": {
+      "A": "4/3",
+      "B": "4/5",
+      "C": "3/4",
+      "D": "3/5"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "A parabola in the xy-plane has a vertex of (1, 19). The equation y = −ax^2 + bx + c represents this parabola, where a, b, and c are positive integer constants. What is the greatest possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

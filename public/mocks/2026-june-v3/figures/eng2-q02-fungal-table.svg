@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="360" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Fungal Concentrations in One Dust Sample, by Experimental Treatment</text>
+  <!-- header -->
+  <rect x="40" y="48" width="200" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="140" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Treatment</text>
+  <rect x="240" y="48" width="160" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="320" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Sample ID</text>
+  <rect x="400" y="48" width="280" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="540" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Fungal concentration</text>
+  <text x="540" y="84" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">(spores/mg dust)</text>
+  <!-- row 1 -->
+  <rect x="40" y="92" width="200" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="140" y="116" text-anchor="middle" font-family="Georgia, serif" font-size="13">Control</text>
+  <rect x="240" y="92" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="320" y="116" text-anchor="middle" font-family="Georgia, serif" font-size="13">6</text>
+  <rect x="400" y="92" width="280" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="540" y="116" text-anchor="middle" font-family="Georgia, serif" font-size="13">493,000</text>
+  <!-- row 2 -->
+  <rect x="40" y="128" width="200" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="140" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="13">85% RH</text>
+  <rect x="240" y="128" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="320" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="13">6</text>
+  <rect x="400" y="128" width="280" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="540" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="13">5,610,000</text>
+  <!-- row 3 -->
+  <rect x="40" y="164" width="200" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="140" y="188" text-anchor="middle" font-family="Georgia, serif" font-size="13">100% RH</text>
+  <rect x="240" y="164" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="320" y="188" text-anchor="middle" font-family="Georgia, serif" font-size="13">6</text>
+  <rect x="400" y="164" width="280" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="540" y="188" text-anchor="middle" font-family="Georgia, serif" font-size="13">485,000,000</text>
+</svg>

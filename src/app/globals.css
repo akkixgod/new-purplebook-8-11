@@ -31,3 +31,25 @@ body {
   text-decoration-skip-ink: none;
   font-style: inherit;
 }
+
+/* Passage highlighter — layer 1 (single) and nested layers (double / triple) */
+mark.sat-hl {
+  background-color: #fef08a; /* yellow-200 */
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Double highlight: nested mark or explicit layer */
+mark.sat-hl mark.sat-hl,
+mark.sat-hl[data-layer="2"] {
+  background-color: #fbbf24; /* amber-400 — clearly deeper */
+}
+
+/* Triple (cap) */
+mark.sat-hl mark.sat-hl mark.sat-hl,
+mark.sat-hl[data-layer="3"] {
+  background-color: #f59e0b; /* amber-500 */
+}

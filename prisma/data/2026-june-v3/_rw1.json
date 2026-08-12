@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "The spacecraft OSIRIS-REx briefly made contact with the asteroid 101955 Bennu in 2020. NASA scientist Daniella Della Giustina reports that despite facing the unexpected obstacle of a surface mostly covered in boulders, OSIRIS-REx successfully ______ a sample of the surface, gathering pieces of it to bring back to Earth.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "attached",
+      "B": "collected",
+      "C": "followed",
+      "D": "replaced"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Research conducted by planetary scientist Katarina Miljkovic suggests that the Moon's surface may not accurately ______ early impact events. When the Moon was still forming, its surface was softer, and asteroid or meteoroid impacts would have left less of an impression; thus, evidence of early impacts may no longer be present.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "reflect",
+      "B": "receive",
+      "C": "evaluate",
+      "D": "mimic"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "In skilled trades like electrical work, experienced professionals generally instruct newcomers to the field, not just showing them how to complete tasks but also explaining the reasoning behind standard practices. ______ such as this ensures that valuable knowledge continues to be passed down.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "Mentorship",
+      "B": "Innovation",
+      "C": "Craftsmanship",
+      "D": "Certification"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Cybersecurity experts warn that organizations often focus solely on detecting and preventing breaches or other attacks and neglect to develop ______ capabilities. This neglect can lead to potentially catastrophic consequences, since how quickly an intrusion is contained often determines the ultimate severity of a security incident.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "response",
+      "B": "deterrence",
+      "C": "surveillance",
+      "D": "encryption"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Marketers and retailers typically employ nine-ending prices (e.g., $4.99) to suggest value. In general, shoppers appear to interpret these prices as intended, perceiving products with nine-ending prices as being offered at a discount or special deal. _However, research has uncovered that some consumers associate these prices with lower product quality and even as a sign that merchants are being misleading--by trying to trick consumers into thinking a $4.99 product costs $4 rather than $5, which is closer to the truth._",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It accounts for a contrast between how retailers intend nine-ending prices to be interpreted and how consumers typically interpret them.",
+      "B": "It explains negative responses to nine-ending prices that have led some retailers and marketers to shift their pricing strategies.",
+      "C": "It highlights unintended interpretations of nine-ending prices that suggest that using such prices may not be uniformly effective.",
+      "D": "It identifies how consumers tend to respond to nine-ending prices and acknowledges exceptions to that tendency."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The following text is adapted from George Eliot's 1860 novel The Mill on the Floss. After quarrelling with Tom Tulliver, Bob Jakin has just thrown his much cherished pocketknife, a gift from Tom, onto the ground in an attempt to spite Tom.\n\n[Bob's] very fingers sent entreating thrills that he would go and clutch that familiar rough buck's-horn handle, which they had so often grasped for mere affection, as it lay idle in his pocket. And there were two blades, and they had just been sharpened! What is life without a pocket-knife to him who has once tasted a higher existence? No; _to throw the handle after the hatchet is a comprehensible act of desperation, but to throw one's pocket-knife after an implacable friend is clearly in every sense a hyperbole, or throwing beyond the mark._",
+    "text": "Which choice best describes the function of the underlined phrase in the text as a whole?",
+    "choices": {
+      "A": "It suggests Bob's dawning realization that the importance he attaches to the pocketknife is excessive and absurd.",
+      "B": "It alludes to Bob's unbridled propensity to invent wildly embellished tales of his own exploits.",
+      "C": "It illustrates Bob's deliberate intention of using sophisticated vocabulary to intimidate Tom.",
+      "D": "It conveys Bob's distinct awareness that spurning Tom's gift is an overly dramatic gesture."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "In vascular plants, leaf veins are crucial for such functions as hydraulic conductance and structural reinforcement. Emerging approximately 340 million years ago (MYA) during the Carboniferous Period, the first vascular plants had relatively simple branched vein structures, but beginning around 320 MYA, reticulate (netlike) venation evolved multiple times in different lineages despite greater associated energy costs. Since reticulation is linked to increased robustness against ecological stressors, one hypothesis posits that the relatively dry interglacial climate of the Carboniferous may explain this trait's evolution.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To outline a scientific debate about the timing of various adaptations found in vascular-plant lineages and evaluate the merits of these competing interpretations.",
+      "B": "To compare the different functions served by two types of venation patterns found in Carboniferous vascular plants and explain why vascular plants are now more common than nonvascular plants are.",
+      "C": "To provide an overview of the evolutionary history of a particular adaptation found in some leaf venation structures and identify a potential driver of this adaptation.",
+      "D": "To introduce a hypothesis about the emergence of leaf vasculature in Carboniferous plants and summarize experimental evidence that substantiates the hypothesis."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Text 1\nAttempts to automate classification of music into genres have not been very successful. It is also unclear whether categorizing music by genre is useful, since genre categories are ambiguous, subjective, and reductive. As Jin Ha Lee and Anh Thu Nguyen argue in their study of the South Korean band BTS, relationships between pieces of music may be best understood with concepts other than genre.\n\nText 2\nMerengue is a genre of music originally from the Dominican Republic that shares some harmonic and rhythmic similarities with the axé genre. Automated genre classification systems typically struggle to draw distinctions in situations like this, but Yandre Costa and colleagues solved that problem by converting sound to images and having computers compare features of those images. Their approach could improve genre classification, which could have many benefits for users.",
+    "text": "Based on the texts, how would the author of Text 1 most likely respond to the claim about the potential benefits of Costa and colleagues' research in Text 2?",
+    "choices": {
+      "A": "Some genres are more easily recognized by classification systems than others.",
+      "B": "People do not necessarily enjoy every recording in a genre they claim to prefer.",
+      "C": "Future research may provide substantial advancements in the field of automated genre classification.",
+      "D": "Users may not actually find genre classifications particularly helpful."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "When used to examine paintings, nonvisible light, such as ultraviolet, can penetrate the painting's visible surface and give art historians important insights into an artist's process. For example, imaging the underlayers of Claude Monet's Wisteria (1917-20) revealed that Monet had initially included water lilies but ultimately painted over them. Imaging can also provide insights into a painter's choice of materials, showing, for example, whether a painter used Prussian blue pigment in a given work.",
+    "text": "According to the text, why are the images beneath the surface of a painting valuable to art historians?",
+    "choices": {
+      "A": "They can reveal aspects of an artist's decision making.",
+      "B": "They can show how long a painting took to complete.",
+      "C": "They can indicate whether a painting is damaged.",
+      "D": "They can be used to prove which artist painted a given work."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "How bright is the night sky above your home compared to truly dark wilderness areas? This is the question investigated by citizen scientists participating in the Globe at Night project. Rather than seeing simply \"darkness,\" trained observers recognize that night skies exist on a spectrum of brightness. By counting visible stars within specific constellations or measuring sky glow with specialized meters, participants quantify what was once just a subjective experience. These data help researchers track light pollution trends and their effects on wildlife and human health.",
+    "text": "According to the text, what is one effect of the Globe at Night project for participants?",
+    "choices": {
+      "A": "It enables them to quantify what was previously a subjective experience.",
+      "B": "It reveals to them that light pollution isn't limited to major metropolitan areas.",
+      "C": "It allows them to prove that artificial light has no significant effect on wildlife behavior.",
+      "D": "It helps them to acquire a greater appreciation of the beauty of night skies."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "Rural electric cooperatives (RECs), such as the Lea County Electric Cooperative based in Lovington, New Mexico, provide power to areas underserved by traditional utilities and can promote economic activity across related local industries. A 2023 nationwide industry report estimated the value RECs add to local economies. The report identified three types of impact: value added within the electric transmission and distribution industry (direct impact), value added to other industries within the same supply chain (indirect impact), and value added through local spending by employees working for RECs or in related industries (induced impact). Data from both 2019 and 2022 show that ______",
+    "text": "Which choice most effectively uses data from the graph to complete the statement?",
+    "choices": {
+      "A": "the direct and induced economic impacts of RECs are likely to grow at similar rates while indirect impacts are likely to remain stable.",
+      "B": "induced economic impacts from RECs are less predictable than either direct or indirect impacts are.",
+      "C": "the value of the direct economic impacts of RECs is more comparable to the value of induced impacts than to that of indirect impacts.",
+      "D": "induced impacts on economic activity from RECs are less substantial than either direct or indirect impacts are."
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/eng1-q11-rec-impacts.svg"
+  },
+  "12": {
+    "stimulus": "Louis-Ferdinand Céline's 1932 novel Journey to the End of the Night is regularly described as autobiographical. This description has some merit--there are many parallels between the experiences of the novel's protagonist, Ferdinand Bardamu, and those of Céline--but it can also be misleading in its implication that Céline is concerned with fidelity to the truth. Journey to the End of the Night is a complex interweaving of interpretations, deliberate alterations, and pure invention; readers should therefore be wary of concluding that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "Céline was conscious of drawing on any of his actual experiences when writing Journey to the End of the Night.",
+      "B": "all events and characters depicted in Journey to the End of the Night have real-world analogues.",
+      "C": "Journey to the End of the Night contains any material that could illuminate aspects of Céline's life or perspective.",
+      "D": "Céline intended Journey to the End of the Night to be understood as fiction."
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "Passage from Frank Kermode and Charles Bernstein were displayed in the Smithsonian's exhibition of American art The Latin Presence in American Art. This 2013 exhibition celebrated the diverse achievements of many ______ of Latin American descent.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "artist",
+      "B": "artists",
+      "C": "artists'",
+      "D": "artist's"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Marie Taglioni made ballet history in 1832 with her role in La Sylphide. For this performance, she ______ special tight-fitting satin slippers that allowed her to dance the entire ballet on the tips of her toes. It was the first time this technique (known as pointe work) had been featured throughout a full-length production.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is wearing",
+      "B": "wears",
+      "C": "will wear",
+      "D": "wore"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "The Atlantic Ocean is home to many ______ mountains that rise from the ocean floor), including the Muir Seamount and the Bear Seamount.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "seamounts underwater",
+      "B": "seamounts. Underwater",
+      "C": "seamounts (underwater",
+      "D": "seamounts, underwater"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Similarity-based forecasting means making predictions about project schedules, resource needs, and costs based on past situations that closely ______ current conditions. This focused approach provides better project estimates than general data because it identifies specific factors that might affect success in similar circumstances.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "resembling",
+      "B": "resemble",
+      "C": "resembles",
+      "D": "has resembled"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "Economic ______ historical economic data is pivotal to understanding the effects of various economic policies. These long-term records allow researchers to compare a nation's economic conditions prior to a policy's introduction with conditions that emerge years after implementation.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "researcher's access to nation's",
+      "B": "researchers access to nations'",
+      "C": "researchers access to nations",
+      "D": "researchers' access to nations'"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Large bodies of air, called air masses, that form over land tend to be dry with big temperature swings between day and night. ______ air masses that develop over oceans contain lots of moisture and stay at more stable temperatures.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In contrast,",
+      "B": "Therefore,",
+      "C": "Next,",
+      "D": "For instance,"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "The cucumber plant has evolved a defensive mechanism that helps it deter attacks by herbivorous insects called cotton leafworms. ______ cucumber plants produce proteins that are toxic to the insects.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Specifically,",
+      "B": "Even so,",
+      "C": "On the contrary,",
+      "D": "Previously,"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "The widespread use of mathematical scoring systems in combat sports reflects a Western-influenced preference for quantifiable competitions. ______ the scoring system in traditional Muay Thai (Thai boxing) treats fights as unfolding narratives in which the significance of any given exchange is inextricable from the broader arc of the contest--the winner being determined not by a numerical tally of discrete actions but by an overall assessment of the fighters' performances.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In marked contrast to this approach,",
+      "B": "Due in part to this cultural preference,",
+      "C": "Constructed with a similar intent,",
+      "D": "As another example of this methodology,"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "If you were to view the Pantelleria volcano in Italy from above, you might notice that its low profile and gently sloping sides make it look a bit like a shield lying flat on the ground. ______ it makes sense that Lydia Jennings and other volcanologists classify Pantelleria as a shield volcano.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "By contrast,",
+      "B": "For instance,",
+      "C": "Therefore,",
+      "D": "However,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Dragonflies live near ponds and lakes.\n• They need water nearby to lay their eggs.",
+    "text": "The student wants to explain why dragonflies live where they do. Which choice best uses information from the notes to do this?",
+    "choices": {
+      "A": "Dragonflies usually lay their eggs during the warmer months of the year.",
+      "B": "Dragonflies have large eyes that enable them to spot and catch prey while flying.",
+      "C": "Dragonflies live near ponds and lakes because they need water nearby to lay their eggs.",
+      "D": "Dragonflies can hover over ponds and lakes when they are hunting for insects."
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Raja Chari is a US astronaut.\n• Chari has completed 2 spacewalks.\n• In a spacewalk, an astronaut leaves the spacecraft to perform tasks.\n• Spacewalks are also known as extravehicular activities, or EVAs.",
+    "text": "The student wants to specify how many spacewalks Chari has completed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Astronauts such as Chari have completed EVAs.",
+      "B": "EVAs take place outside a spacecraft.",
+      "C": "Chari is among 2 US astronauts who have completed spacewalks.",
+      "D": "Chari, a US astronaut, has completed 2 EVAs."
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "The following text is adapted from John Matheus's 1925 short story \"Fog.\"\n\nThe fog extended its tentacles over city and river, gradually obliterating _traces_ of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.",
+    "text": "As used in the text, what does the word \"traces\" most nearly mean?",
+    "choices": {
+      "A": "Rubble",
+      "B": "Copies",
+      "C": "Indications",
+      "D": "Mementos"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "In 1881, Isaac B. Goude invented a belt that folds into a cabinet, which helped people save space in small homes and inspired the creation of other space-saving furniture. In 1881, Harriet Russell invented a way to store water for farms, which helped people grow crops in dry places. Although created to address different needs, both inventions have had lasting impacts. Likewise, both inventors exemplified important traits that continue to drive innovation: _creative thinking, strong problem-solving skills, and persistence._",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It is a transition that the text uses as it frequently mentions two modern inventors.",
+      "B": "It highlights that Goude and Russell shared traits that many successful inventors embody.",
+      "C": "It lists some specific impacts that two older inventions have had on modern life.",
+      "D": "It hints at the features of Goude's and Russell's inventions that contributed most to their usefulness."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "The following text is from Ralph Waldo Emerson's 1841 essay \"The Method of Nature.\"\n\nThe scholars are the priests of that thought which establishes the foundations of the earth. No matter what is their special work or profession, they stand for the spiritual interest of the world, and it is a common calamity if they neglect their post in a country where the material interest is so predominant as it is in America.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "In a country whose citizens are largely preoccupied with tangible gains, it is crucial that some people work to foster and preserve ideas.",
+      "B": "Many descriptions of the role of scholars in society unfairly diminish their importance.",
+      "C": "It is unfortunate that so many intellectuals are concerned with material things rather than ideas.",
+      "D": "Military experience encourages Americans to contemplate aspects of human life that they would not choose to otherwise."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "The following text is from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.\n\nIn a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was he--George himself--who had done all the labour worth speaking of.",
+    "text": "Based on the text, how would the narrator most likely describe Harris's and George's attitudes?",
+    "choices": {
+      "A": "As understandable, because there's usually more work to be done on a boat than the crew can easily handle",
+      "B": "As typical, because people working on boats usually believe that the other crew members aren't contributing",
+      "C": "As perplexing, because the narrator is much more eager than either Harris or George to complete his own tasks",
+      "D": "As frustrating, because Harris and George frequently tease each other"
+    },
+    "imageUrl": null
+  }
+}

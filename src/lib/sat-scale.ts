@@ -1,5 +1,6 @@
 /** Map raw correct/total to a Digital SAT–style section scale (200–800).
  * Official College Board section scores are always multiples of 10.
+ * Only use for full-section scoring (Module 1 + Module 2 combined) — never for a single module.
  */
 export function scaleSectionScore(correct: number, total: number): number {
   if (total <= 0) return 200;

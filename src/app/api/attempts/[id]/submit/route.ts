@@ -12,6 +12,7 @@ export async function POST(
   try {
     const session = await auth();
     if (!session?.user?.id) {
+      console.warn("[attempts/submit] unauthorized — no session");
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
@@ -32,7 +33,8 @@ export async function POST(
         name: session.user.name,
         image: session.user.image,
       });
-    } catch {
+    } catch (error) {
+      console.error("[attempts/submit] resolveSessionUserId failed", error);
       return NextResponse.json(
         { error: "Session expired. Sign in again, then retry submission." },
         { status: 401 }
@@ -45,15 +47,29 @@ export async function POST(
     });
 
     if (!attempt || attempt.userId !== userId) {
+      console.warn("[attempts/submit] not found or ownership mismatch", {
+        attemptId: id,
+        userId,
+        owner: attempt?.userId ?? null,
+      });
       return NextResponse.json({ error: "Not found" }, { status: 404 });
     }
 
     if (attempt.finishedAt) {
-      return NextResponse.json({ error: "Already submitted" }, { status: 409 });
+      return NextResponse.json(
+        {
+          error: "Already submitted",
+          score: attempt.score,
+          total: attempt.totalQuestions,
+          persisted: true,
+          userId: attempt.userId,
+        },
+        { status: 409 }
+      );
     }
 
     if (!attempt.module) {
-      console.error("Results page error: submit attempt missing module", { attemptId: id });
+      console.error("[attempts/submit] attempt missing module", { attemptId: id });
       return NextResponse.json({ error: "Attempt module missing" }, { status: 500 });
     }
 
@@ -77,22 +93,35 @@ export async function POST(
 
     const total = questions.length;
 
-    await prisma.$transaction([
-      prisma.answer.createMany({ data: answerData }),
-      prisma.attempt.update({
-        where: { id },
-        data: {
-          finishedAt: new Date(),
-          score,
-          totalQuestions: total,
-          timeSpent: typeof timeSpent === "number" ? timeSpent : null,
-        },
-      }),
-    ]);
+    try {
+      await prisma.$transaction([
+        prisma.answer.createMany({ data: answerData }),
+        prisma.attempt.update({
+          where: { id },
+          data: {
+            finishedAt: new Date(),
+            score,
+            totalQuestions: total,
+            timeSpent: typeof timeSpent === "number" ? timeSpent : null,
+          },
+        }),
+      ]);
+    } catch (dbError) {
+      console.error("[attempts/submit] database write failed", {
+        attemptId: id,
+        userId,
+        error: dbError instanceof Error ? dbError.message : dbError,
+      });
+      return NextResponse.json(
+        { error: "Database could not save this attempt. Check server logs." },
+        { status: 500 }
+      );
+    }
 
-    return NextResponse.json({ score, total });
+    console.info("[attempts/submit] persisted", { attemptId: id, userId, score, total });
+    return NextResponse.json({ score, total, persisted: true, userId, attemptId: id });
   } catch (error) {
-    console.error("Results page error:", error);
+    console.error("[attempts/submit] unexpected error", error);
     return NextResponse.json({ error: "Failed to submit attempt" }, { status: 500 });
   }
 }

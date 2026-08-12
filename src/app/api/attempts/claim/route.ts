@@ -50,9 +50,15 @@ export async function POST(req: NextRequest) {
       if (result.count > 0) claimed.push(attemptId);
     }
 
+    console.info("[attempts/claim] bound attempts", {
+      userId,
+      claimed: claimed.length,
+      attemptIds: claimed,
+    });
+
     return NextResponse.json({ claimed: claimed.length, attemptIds: claimed });
   } catch (error) {
-    console.error("Claim attempts error:", error);
+    console.error("[attempts/claim] unexpected error", error);
     return NextResponse.json({ error: "Failed to claim attempts" }, { status: 500 });
   }
 }

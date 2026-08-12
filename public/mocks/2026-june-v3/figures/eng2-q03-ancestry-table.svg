@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="260" viewBox="0 0 780 260">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="390" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Average Ancestry Proportions in Regions of Southern Britain</text>
+  <text x="390" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">during the Pre-Roman Iron Age</text>
+  <!-- header -->
+  <rect x="20" y="60" width="220" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="130" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Region</text>
+  <rect x="240" y="60" width="160" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="320" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">WHG</text>
+  <text x="320" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">(percent)</text>
+  <rect x="400" y="60" width="160" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="480" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">EEF</text>
+  <text x="480" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">(percent)</text>
+  <rect x="560" y="60" width="200" height="44" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="660" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Yamnaya</text>
+  <text x="660" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">(percent)</text>
+  <!-- row 1 -->
+  <rect x="20" y="104" width="220" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="130" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="13">Midlands</text>
+  <rect x="240" y="104" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="320" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="13">12.6</text>
+  <rect x="400" y="104" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="480" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="13">36.0</text>
+  <rect x="560" y="104" width="200" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="660" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="13">51.4</text>
+  <!-- row 2 -->
+  <rect x="20" y="140" width="220" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="130" y="164" text-anchor="middle" font-family="Georgia, serif" font-size="13">South Wales</text>
+  <rect x="240" y="140" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="320" y="164" text-anchor="middle" font-family="Georgia, serif" font-size="13">14.2</text>
+  <rect x="400" y="140" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="480" y="164" text-anchor="middle" font-family="Georgia, serif" font-size="13">38.6</text>
+  <rect x="560" y="140" width="200" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="660" y="164" text-anchor="middle" font-family="Georgia, serif" font-size="13">47.2</text>
+  <!-- row 3 -->
+  <rect x="20" y="176" width="220" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="130" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="13">Southeast England</text>
+  <rect x="240" y="176" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="320" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="13">13.9</text>
+  <rect x="400" y="176" width="160" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="480" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="13">38.3</text>
+  <rect x="560" y="176" width="200" height="36" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="660" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="13">47.8</text>
+</svg>

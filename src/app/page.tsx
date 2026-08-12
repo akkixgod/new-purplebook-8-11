@@ -5,6 +5,7 @@ import { Header } from "@/components/Header";
 import { HeroPromoBanner } from "@/components/HeroPromoBanner";
 import { TestCard } from "@/components/TestCard";
 import { buildTestGroups, getTestGroup, sortTestsForDisplay } from "@/lib/test-groups";
+import { syncAccountAttempts } from "@/lib/sync-account-attempts";
 
 interface ModuleInfo {
   id: string;
@@ -41,8 +42,13 @@ export default function HomePage() {
 
   async function fetchTests() {
     setLoading(true);
+    try {
+      await syncAccountAttempts();
+    } catch {
+      /* non-fatal — still load catalog */
+    }
     const params = new URLSearchParams({ section });
-    const res = await fetch(`/api/tests?${params}`);
+    const res = await fetch(`/api/tests?${params}`, { credentials: "include" });
     const data = await res.json();
     setTests(data.tests ?? []);
     setAttemptMap(data.attemptMap ?? {});

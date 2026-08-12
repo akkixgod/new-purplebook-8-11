@@ -1,0 +1,779 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "The spacecraft OSIRIS-REx briefly made contact with the asteroid 101955 Bennu in 2020. NASA scientist Daniella Della Giustina reports that despite facing the unexpected obstacle of a surface mostly covered in boulders, OSIRIS-REx successfully ______ a sample of the surface, gathering pieces of it to bring back to Earth.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "attached",
+          "B": "collected",
+          "C": "followed",
+          "D": "replaced"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Research conducted by planetary scientist Katarina Miljkovic suggests that the Moon's surface may not accurately ______ early impact events. When the Moon was still forming, its surface was softer, and asteroid or meteoroid impacts would have left less of an impression; thus, evidence of early impacts may no longer be present.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "reflect",
+          "B": "receive",
+          "C": "evaluate",
+          "D": "mimic"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "In skilled trades like electrical work, experienced professionals generally instruct newcomers to the field, not just showing them how to complete tasks but also explaining the reasoning behind standard practices. ______ such as this ensures that valuable knowledge continues to be passed down.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "Mentorship",
+          "B": "Innovation",
+          "C": "Craftsmanship",
+          "D": "Certification"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Cybersecurity experts warn that organizations often focus solely on detecting and preventing breaches or other attacks and neglect to develop ______ capabilities. This neglect can lead to potentially catastrophic consequences, since how quickly an intrusion is contained often determines the ultimate severity of a security incident.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "response",
+          "B": "deterrence",
+          "C": "surveillance",
+          "D": "encryption"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Marketers and retailers typically employ nine-ending prices (e.g., $4.99) to suggest value. In general, shoppers appear to interpret these prices as intended, perceiving products with nine-ending prices as being offered at a discount or special deal. _However, research has uncovered that some consumers associate these prices with lower product quality and even as a sign that merchants are being misleading--by trying to trick consumers into thinking a $4.99 product costs $4 rather than $5, which is closer to the truth._",
+        "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It accounts for a contrast between how retailers intend nine-ending prices to be interpreted and how consumers typically interpret them.",
+          "B": "It explains negative responses to nine-ending prices that have led some retailers and marketers to shift their pricing strategies.",
+          "C": "It highlights unintended interpretations of nine-ending prices that suggest that using such prices may not be uniformly effective.",
+          "D": "It identifies how consumers tend to respond to nine-ending prices and acknowledges exceptions to that tendency."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "The following text is adapted from George Eliot's 1860 novel The Mill on the Floss. After quarrelling with Tom Tulliver, Bob Jakin has just thrown his much cherished pocketknife, a gift from Tom, onto the ground in an attempt to spite Tom.\n\n[Bob's] very fingers sent entreating thrills that he would go and clutch that familiar rough buck's-horn handle, which they had so often grasped for mere affection, as it lay idle in his pocket. And there were two blades, and they had just been sharpened! What is life without a pocket-knife to him who has once tasted a higher existence? No; _to throw the handle after the hatchet is a comprehensible act of desperation, but to throw one's pocket-knife after an implacable friend is clearly in every sense a hyperbole, or throwing beyond the mark._",
+        "text": "Which choice best describes the function of the underlined phrase in the text as a whole?",
+        "choices": {
+          "A": "It suggests Bob's dawning realization that the importance he attaches to the pocketknife is excessive and absurd.",
+          "B": "It alludes to Bob's unbridled propensity to invent wildly embellished tales of his own exploits.",
+          "C": "It illustrates Bob's deliberate intention of using sophisticated vocabulary to intimidate Tom.",
+          "D": "It conveys Bob's distinct awareness that spurning Tom's gift is an overly dramatic gesture."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "In vascular plants, leaf veins are crucial for such functions as hydraulic conductance and structural reinforcement. Emerging approximately 340 million years ago (MYA) during the Carboniferous Period, the first vascular plants had relatively simple branched vein structures, but beginning around 320 MYA, reticulate (netlike) venation evolved multiple times in different lineages despite greater associated energy costs. Since reticulation is linked to increased robustness against ecological stressors, one hypothesis posits that the relatively dry interglacial climate of the Carboniferous may explain this trait's evolution.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "To outline a scientific debate about the timing of various adaptations found in vascular-plant lineages and evaluate the merits of these competing interpretations.",
+          "B": "To compare the different functions served by two types of venation patterns found in Carboniferous vascular plants and explain why vascular plants are now more common than nonvascular plants are.",
+          "C": "To provide an overview of the evolutionary history of a particular adaptation found in some leaf venation structures and identify a potential driver of this adaptation.",
+          "D": "To introduce a hypothesis about the emergence of leaf vasculature in Carboniferous plants and summarize experimental evidence that substantiates the hypothesis."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Text 1\nAttempts to automate classification of music into genres have not been very successful. It is also unclear whether categorizing music by genre is useful, since genre categories are ambiguous, subjective, and reductive. As Jin Ha Lee and Anh Thu Nguyen argue in their study of the South Korean band BTS, relationships between pieces of music may be best understood with concepts other than genre.\n\nText 2\nMerengue is a genre of music originally from the Dominican Republic that shares some harmonic and rhythmic similarities with the axé genre. Automated genre classification systems typically struggle to draw distinctions in situations like this, but Yandre Costa and colleagues solved that problem by converting sound to images and having computers compare features of those images. Their approach could improve genre classification, which could have many benefits for users.",
+        "text": "Based on the texts, how would the author of Text 1 most likely respond to the claim about the potential benefits of Costa and colleagues' research in Text 2?",
+        "choices": {
+          "A": "Some genres are more easily recognized by classification systems than others.",
+          "B": "People do not necessarily enjoy every recording in a genre they claim to prefer.",
+          "C": "Future research may provide substantial advancements in the field of automated genre classification.",
+          "D": "Users may not actually find genre classifications particularly helpful."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "When used to examine paintings, nonvisible light, such as ultraviolet, can penetrate the painting's visible surface and give art historians important insights into an artist's process. For example, imaging the underlayers of Claude Monet's Wisteria (1917-20) revealed that Monet had initially included water lilies but ultimately painted over them. Imaging can also provide insights into a painter's choice of materials, showing, for example, whether a painter used Prussian blue pigment in a given work.",
+        "text": "According to the text, why are the images beneath the surface of a painting valuable to art historians?",
+        "choices": {
+          "A": "They can reveal aspects of an artist's decision making.",
+          "B": "They can show how long a painting took to complete.",
+          "C": "They can indicate whether a painting is damaged.",
+          "D": "They can be used to prove which artist painted a given work."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "How bright is the night sky above your home compared to truly dark wilderness areas? This is the question investigated by citizen scientists participating in the Globe at Night project. Rather than seeing simply \"darkness,\" trained observers recognize that night skies exist on a spectrum of brightness. By counting visible stars within specific constellations or measuring sky glow with specialized meters, participants quantify what was once just a subjective experience. These data help researchers track light pollution trends and their effects on wildlife and human health.",
+        "text": "According to the text, what is one effect of the Globe at Night project for participants?",
+        "choices": {
+          "A": "It enables them to quantify what was previously a subjective experience.",
+          "B": "It reveals to them that light pollution isn't limited to major metropolitan areas.",
+          "C": "It allows them to prove that artificial light has no significant effect on wildlife behavior.",
+          "D": "It helps them to acquire a greater appreciation of the beauty of night skies."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "Rural electric cooperatives (RECs), such as the Lea County Electric Cooperative based in Lovington, New Mexico, provide power to areas underserved by traditional utilities and can promote economic activity across related local industries. A 2023 nationwide industry report estimated the value RECs add to local economies. The report identified three types of impact: value added within the electric transmission and distribution industry (direct impact), value added to other industries within the same supply chain (indirect impact), and value added through local spending by employees working for RECs or in related industries (induced impact). Data from both 2019 and 2022 show that ______",
+        "text": "Which choice most effectively uses data from the graph to complete the statement?",
+        "choices": {
+          "A": "the direct and induced economic impacts of RECs are likely to grow at similar rates while indirect impacts are likely to remain stable.",
+          "B": "induced economic impacts from RECs are less predictable than either direct or indirect impacts are.",
+          "C": "the value of the direct economic impacts of RECs is more comparable to the value of induced impacts than to that of indirect impacts.",
+          "D": "induced impacts on economic activity from RECs are less substantial than either direct or indirect impacts are."
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/eng1-q11-rec-impacts.svg"
+      },
+      "12": {
+        "stimulus": "Louis-Ferdinand Céline's 1932 novel Journey to the End of the Night is regularly described as autobiographical. This description has some merit--there are many parallels between the experiences of the novel's protagonist, Ferdinand Bardamu, and those of Céline--but it can also be misleading in its implication that Céline is concerned with fidelity to the truth. Journey to the End of the Night is a complex interweaving of interpretations, deliberate alterations, and pure invention; readers should therefore be wary of concluding that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "Céline was conscious of drawing on any of his actual experiences when writing Journey to the End of the Night.",
+          "B": "all events and characters depicted in Journey to the End of the Night have real-world analogues.",
+          "C": "Journey to the End of the Night contains any material that could illuminate aspects of Céline's life or perspective.",
+          "D": "Céline intended Journey to the End of the Night to be understood as fiction."
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "Passage from Frank Kermode and Charles Bernstein were displayed in the Smithsonian's exhibition of American art The Latin Presence in American Art. This 2013 exhibition celebrated the diverse achievements of many ______ of Latin American descent.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "artist",
+          "B": "artists",
+          "C": "artists'",
+          "D": "artist's"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Marie Taglioni made ballet history in 1832 with her role in La Sylphide. For this performance, she ______ special tight-fitting satin slippers that allowed her to dance the entire ballet on the tips of her toes. It was the first time this technique (known as pointe work) had been featured throughout a full-length production.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is wearing",
+          "B": "wears",
+          "C": "will wear",
+          "D": "wore"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "The Atlantic Ocean is home to many ______ mountains that rise from the ocean floor), including the Muir Seamount and the Bear Seamount.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "seamounts underwater",
+          "B": "seamounts. Underwater",
+          "C": "seamounts (underwater",
+          "D": "seamounts, underwater"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Similarity-based forecasting means making predictions about project schedules, resource needs, and costs based on past situations that closely ______ current conditions. This focused approach provides better project estimates than general data because it identifies specific factors that might affect success in similar circumstances.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "resembling",
+          "B": "resemble",
+          "C": "resembles",
+          "D": "has resembled"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Economic ______ historical economic data is pivotal to understanding the effects of various economic policies. These long-term records allow researchers to compare a nation's economic conditions prior to a policy's introduction with conditions that emerge years after implementation.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "researcher's access to nation's",
+          "B": "researchers access to nations'",
+          "C": "researchers access to nations",
+          "D": "researchers' access to nations'"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Large bodies of air, called air masses, that form over land tend to be dry with big temperature swings between day and night. ______ air masses that develop over oceans contain lots of moisture and stay at more stable temperatures.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In contrast,",
+          "B": "Therefore,",
+          "C": "Next,",
+          "D": "For instance,"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "The cucumber plant has evolved a defensive mechanism that helps it deter attacks by herbivorous insects called cotton leafworms. ______ cucumber plants produce proteins that are toxic to the insects.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Specifically,",
+          "B": "Even so,",
+          "C": "On the contrary,",
+          "D": "Previously,"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The widespread use of mathematical scoring systems in combat sports reflects a Western-influenced preference for quantifiable competitions. ______ the scoring system in traditional Muay Thai (Thai boxing) treats fights as unfolding narratives in which the significance of any given exchange is inextricable from the broader arc of the contest--the winner being determined not by a numerical tally of discrete actions but by an overall assessment of the fighters' performances.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In marked contrast to this approach,",
+          "B": "Due in part to this cultural preference,",
+          "C": "Constructed with a similar intent,",
+          "D": "As another example of this methodology,"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "If you were to view the Pantelleria volcano in Italy from above, you might notice that its low profile and gently sloping sides make it look a bit like a shield lying flat on the ground. ______ it makes sense that Lydia Jennings and other volcanologists classify Pantelleria as a shield volcano.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "By contrast,",
+          "B": "For instance,",
+          "C": "Therefore,",
+          "D": "However,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Dragonflies live near ponds and lakes.\n• They need water nearby to lay their eggs.",
+        "text": "The student wants to explain why dragonflies live where they do. Which choice best uses information from the notes to do this?",
+        "choices": {
+          "A": "Dragonflies usually lay their eggs during the warmer months of the year.",
+          "B": "Dragonflies have large eyes that enable them to spot and catch prey while flying.",
+          "C": "Dragonflies live near ponds and lakes because they need water nearby to lay their eggs.",
+          "D": "Dragonflies can hover over ponds and lakes when they are hunting for insects."
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Raja Chari is a US astronaut.\n• Chari has completed 2 spacewalks.\n• In a spacewalk, an astronaut leaves the spacecraft to perform tasks.\n• Spacewalks are also known as extravehicular activities, or EVAs.",
+        "text": "The student wants to specify how many spacewalks Chari has completed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Astronauts such as Chari have completed EVAs.",
+          "B": "EVAs take place outside a spacecraft.",
+          "C": "Chari is among 2 US astronauts who have completed spacewalks.",
+          "D": "Chari, a US astronaut, has completed 2 EVAs."
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "The following text is adapted from John Matheus's 1925 short story \"Fog.\"\n\nThe fog extended its tentacles over city and river, gradually obliterating _traces_ of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.",
+        "text": "As used in the text, what does the word \"traces\" most nearly mean?",
+        "choices": {
+          "A": "Rubble",
+          "B": "Copies",
+          "C": "Indications",
+          "D": "Mementos"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "In 1881, Isaac B. Goude invented a belt that folds into a cabinet, which helped people save space in small homes and inspired the creation of other space-saving furniture. In 1881, Harriet Russell invented a way to store water for farms, which helped people grow crops in dry places. Although created to address different needs, both inventions have had lasting impacts. Likewise, both inventors exemplified important traits that continue to drive innovation: _creative thinking, strong problem-solving skills, and persistence._",
+        "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It is a transition that the text uses as it frequently mentions two modern inventors.",
+          "B": "It highlights that Goude and Russell shared traits that many successful inventors embody.",
+          "C": "It lists some specific impacts that two older inventions have had on modern life.",
+          "D": "It hints at the features of Goude's and Russell's inventions that contributed most to their usefulness."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "The following text is from Ralph Waldo Emerson's 1841 essay \"The Method of Nature.\"\n\nThe scholars are the priests of that thought which establishes the foundations of the earth. No matter what is their special work or profession, they stand for the spiritual interest of the world, and it is a common calamity if they neglect their post in a country where the material interest is so predominant as it is in America.",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "In a country whose citizens are largely preoccupied with tangible gains, it is crucial that some people work to foster and preserve ideas.",
+          "B": "Many descriptions of the role of scholars in society unfairly diminish their importance.",
+          "C": "It is unfortunate that so many intellectuals are concerned with material things rather than ideas.",
+          "D": "Military experience encourages Americans to contemplate aspects of human life that they would not choose to otherwise."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "The following text is from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.\n\nIn a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was he--George himself--who had done all the labour worth speaking of.",
+        "text": "Based on the text, how would the narrator most likely describe Harris's and George's attitudes?",
+        "choices": {
+          "A": "As understandable, because there's usually more work to be done on a boat than the crew can easily handle",
+          "B": "As typical, because people working on boats usually believe that the other crew members aren't contributing",
+          "C": "As perplexing, because the narrator is much more eager than either Harris or George to complete his own tasks",
+          "D": "As frustrating, because Harris and George frequently tease each other"
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "Utilizing multiscale optical coherence tomography and other advanced imaging techniques, in 2018 a group of scholars conducted an in-depth analysis of Dutch painter Johannes Vermeer's iconic work Girl with a Pearl Earring (ca. 1665). The investigation yielded fresh insights into the painting's current condition and the techniques Vermeer employed in its creation, which were subsequently published in a series of articles. In one such article, John K. Delaney et al. expounded the way in which the group's methodologies facilitated identification of the pigments Vermeer used in various sections of the painting.",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "Scholars have gleaned novel information about the creation and preservation state of the renowned Vermeer painting Girl with a Pearl Earring through analysis with sophisticated technology.",
+          "B": "Scholars determined in 2018 that advances in imaging technology afforded an unprecedented opportunity to resolve intricate questions about Vermeer's Girl with a Pearl Earring.",
+          "C": "An investigation that uncovered previously undisclosed particulars about Vermeer's masterpiece Girl with a Pearl Earring has demonstrated the superiority of multiscale optical coherence tomography to other advanced imaging techniques.",
+          "D": "An analysis that was made possible by recent technological advancements prompted the publication of a series of articles with contrasting interpretations of the analysis's revelations about Vermeer's Girl with a Pearl Earring."
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The International Space Station (ISS) is meant to maintain 25%-75% relative humidity (RH) on board. However, routine crew activities such as handwashing can create localized areas of elevated RH. These increases create conditions under which microbial growth can be a concern. Researchers collected dust samples from four ISS vacuum bags, creating three samples from each bag for twelve samples in total. Observed fungal concentrations (spore count per mg of dust) at each sample's original condition—presumed to reflect the desired RH range—were used as controls for comparison with counts after exposure to 85% and 100% RH.",
+        "text": "Which statement about microbes aboard the ISS is best supported by the information in the text and the table?",
+        "choices": {
+          "A": "The fungal spore count of the control treatment of sample 6 likely reflects an RH of under 25%.",
+          "B": "In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts in dust could substantially exceed 493,000/mg.",
+          "C": "Fungal spore counts above 493,000/mg of dust aboard the ISS create problems for crew members.",
+          "D": "In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts in dust as high as 485,000,000/mg have been observed."
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/eng2-q02-fungal-table.svg"
+      },
+      "3": {
+        "stimulus": "Research has shown that in 3000 BCE, people in what is now Great Britain derived an average of 80 percent of their genetic ancestry from early European farmers (EEF) and the remaining 20 percent from western European hunter-gatherers (WHG). When the genetic influence of another group, the Yamnaya, rose substantially in Britain around 2450 BCE, the average proportion of EEF ancestry in southern Britain (present-day England and Wales) decreased, dropping to only 31 percent by 2100 BCE. Studying genetic data from the pre-Roman Iron Age (750–43 BCE) across regions of Britain, a researcher claims that a wave of people with relatively high proportions of EEF ancestry likely migrated into southern Britain between 2100 BCE and the start of the pre-Roman Iron Age.",
+        "text": "Which choice best describes data from the table that support the researcher's conclusion?",
+        "choices": {
+          "A": "The average proportion of WHG ancestry in the given regions remained below 15 percent throughout the pre-Roman Iron Age.",
+          "B": "There was relatively little variation in the average proportions of Yamnaya ancestry across the given regions during the pre-Roman Iron Age.",
+          "C": "During the pre-Roman Iron Age, people in the given regions typically had a lower average proportion of ancestry from EEF than from the Yamnaya.",
+          "D": "The lowest average proportion of EEF ancestry during the pre-Roman Iron Age for the given regions was 36.0."
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/eng2-q03-ancestry-table.svg"
+      },
+      "4": {
+        "stimulus": "If Spider-Man's mother figure, Aunt May, was often cast as the damsel in distress, she was ultimately an ordinary woman and thus could hardly be expected to vie with superheroes. The 1960s saw superpowered female characters emerge, yet scholars have observed that the portrayal of female superheroes in the 1960s—constrained by the era's narrow expectations about femininity, including an emphasis on nurturing or romantic qualities and ineptitude in battle, with exceptions to such portrayals typically framed as aberrant and originating outside the characters' autonomy. Even characters such as the Invisible Girl and the Wasp—powerful founding members of the Fantastic Four and the Avengers, respectively—followed this tendency.",
+        "text": "Which scenario, if included in a comic book, would best illustrate the scholars' observation about the portrayal of female superheroes in the 1960s?",
+        "choices": {
+          "A": "Frustrated by her male teammates' expectations that she handle domestic duties, the Wasp demands that the entire team distributes the work of maintaining the Avengers' living quarters more equitably.",
+          "B": "The Invisible Girl temporarily becomes a much more formidable combatant than any of her male teammates as a result of a mysterious influence that wholly alters her personality.",
+          "C": "After the Wasp masters her power to shrink and fly, she acquires a new ability to fire bioelectric blasts, dubbed her \"wasp's sting,\" which greatly enhances her offensive potential.",
+          "D": "When a supervillain briefly steals the Invisible Girl's powers, her male teammates work to defeat the supervillain and restore her powers while she remains at the team's headquarters."
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "In a study of the effects of music tempo (as measured in beats per minute, or bpm) during exercise, participants jogged outdoors for 30 minutes while listening to Vanessa Williams's \"Colors of the Wind\" (83 bpm) continuously. Researchers anticipated that when participants performed the same activity the following day while listening to Jimi Hendrix's \"Fire\" (172 bpm), they would jog more quickly. Participants' performance on the second day, however, may have been negatively affected by tiredness from the first day. Thus, ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the results from the second day may lead to an underestimation of the effect of the faster song.",
+          "B": "the researchers were unable to accurately measure how quickly participants jogged on the second day.",
+          "C": "participants demonstrated a preference for one song over the other.",
+          "D": "participants' prior familiarity with the songs may have contributed to differences in performance over the two days."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "There are over 150 species in the cactus genus *Mammillaria* throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of those, like *M. herrerae*, restricted to only one state. The fact that this genus has not been observed in eastern Chihuahua has been attributed to a lack of appropriate habitat, but much of the landscape in this area is noticeably suitable, which suggests that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the dense vegetation and high annual precipitation levels in eastern Chihuahua impede the ability of *Mammillaria* species to survive.",
+          "B": "*M. herrerae* may have been misclassified in western Chihuahua because of its similarity to another species.",
+          "C": "the current methods of observing and tracking *Mammillaria* in eastern Chihuahua may require an overestimation of the number of species in this genus.",
+          "D": "the perceived absence of *Mammillaria* in eastern Chihuahua may be due to insufficient exploration of the region."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Francoise Schein's Subway Map Floating on a New York Sidewalk transforms an ordinary stretch of Manhattan pavement into public art. The map's stainless steel bars and illuminated glass circles, re-creating the city transportation system across a ninety-foot expanse, ______ pedestrians with an unexpected artistic encounter underfoot.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "provide",
+          "B": "has provided",
+          "C": "providing",
+          "D": "provides"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "The Italianate architectural style rose to prominence in both residential and commercial buildings in the US from the 1850s to the 1870s. Distinguished by wide overhanging eaves, decorative brackets, and ornate moldings, ______ became especially popular for buildings in the business districts that developed during the growth of urban areas.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "those",
+          "B": "it",
+          "C": "they",
+          "D": "each"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "The 1856 invention of the first artificial dye initiated an industrial transformation that influences manufacturing to this day. At the same time, the legal and economic imperatives generated by this transformation—the need to protect innovations, establish monopolies over synthetic processes, and ensure profits sufficient to fund further research—______ patent law a critical component in the chemical industry.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "by making",
+          "B": "have made",
+          "C": "having made",
+          "D": "making"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Artés Graficas Chilavert is a democratically run print shop based in Argentina.\n• 1914: Webb and Webb's degeneration thesis argued that democratic workplaces will either fail or be forced to adopt hierarchical governance to remain profitable.\n• 2012: Diamantopoulos's regeneration thesis argued that workplaces could regenerate (recover from degeneration by reintroducing democratic practices).\n• 2022: Unterrainer et al. analyzed data from 73 democratic workplaces to track structural changes over time.\n• Artés Graficas Chilavert was among the 52.7% of the studied workplaces that resisted degeneration.\n• 10.8% of the workplaces had regenerated, 27.0% showed partial signs of degeneration, and 9.5% had fully degenerated and never recovered.",
+        "text": "The student wants to use data to support Diamantopoulos's thesis. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Signs of degeneration were seen in 27.0% of democratic workplaces studied, supporting Diamantopoulos's assertion that degeneration could be reversed.",
+          "B": "An impressive 52.7% of democratic workplaces studied—including Artés Graficas Chilavert—resisted degeneration, lending credence to Diamantopoulos's regeneration thesis.",
+          "C": "Though Webb and Webb's degeneration thesis insisted on the inevitability of such an outcome, only 9.5% of democratic workplaces studied had fully degenerated and never recovered.",
+          "D": "Around 10.8% of democratic workplaces in the study successfully used democratic practices to recover from degeneration."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": "60x + 35y = 840",
+        "text": "Tom saved $60 each month for x months, and Karla saved $35 each month for y months. The given equation represents this situation, where Tom and Karla saved a total of $840. If Tom saved for 7 months, for how many months did Karla save?",
+        "choices": {
+          "A": "60",
+          "B": "24",
+          "C": "14",
+          "D": "12"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "The function g is defined by g(x) = √(5x + 4). What is the value of g(9)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "y = 30x + 6",
+        "text": "Which table gives three values of x and their corresponding values of y for the given equation?",
+        "choices": {
+          "A": "x: 0, 2, 4; y: 30, 60, 120",
+          "B": "x: 0, 2, 4; y: 6, 66, 126",
+          "C": "x: 0, 2, 4; y: 6, 54, 114",
+          "D": "x: 0, 2, 4; y: 30, 36, 42"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math1-q03-xy-tables.svg"
+      },
+      "4": {
+        "stimulus": "g(x) = 11(1/7)^x",
+        "text": "If the given function g is graphed in the xy-plane, where y = g(x), what is the y-intercept of the graph?",
+        "choices": {
+          "A": "(0, 11)",
+          "B": "(0, 7)",
+          "C": "(0, 77)",
+          "D": "(0, 4)"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "The radius of circle P is 370 centimeters. What is the diameter of circle P, in centimeters?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "At a convention center, there are a total of 375 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.44, and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+        "choices": {
+          "A": "32",
+          "B": "40",
+          "C": "75",
+          "D": "120"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "3x/2 − 11 = 27/2 − 11",
+        "text": "What is the value of 3x?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "A function p estimates that there were 2,500 whales in a population in 1998. Each year from 1998 to 2010, the function estimates that the number of whales in this population increased by 7% of the number of whales in the population the previous year. Which equation defines this function, where p(x) is the estimated number of whales in the population x years after 1998?",
+        "choices": {
+          "A": "p(x) = 2,500(7)^x",
+          "B": "p(x) = 2,500(1.93)^x",
+          "C": "p(x) = 2,500(1.07)^x",
+          "D": "p(x) = 2,500(0.93)^x"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "Which of the following is equivalent to 48(k + 3) / [4(k + 3)], where k > −3?",
+        "choices": {
+          "A": "12",
+          "B": "15",
+          "C": "15k",
+          "D": "12k + 3"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "The estimated fuel cost C(x), in dollars, to drive a vehicle 100 kilometers is given by the function C(x) = 0.0018x² − 0.238x + 12.12, where x is the average speed, in kilometers per hour, of the vehicle. If the function C is graphed in the xy-plane, where y = C(x), what is the best interpretation of the point (60, 4.32) on the graph?",
+        "choices": {
+          "A": "The estimated fuel cost to drive the vehicle at an average speed of 4.32 kilometers per hour increases by $60 each hour.",
+          "B": "The estimated fuel cost to drive the vehicle at an average speed of 60 kilometers per hour increases by $4.32 each hour.",
+          "C": "The estimated fuel cost to drive the vehicle 100 kilometers at an average speed of 4.32 kilometers per hour is $60.",
+          "D": "The estimated fuel cost to drive the vehicle 100 kilometers at an average speed of 60 kilometers per hour is $4.32."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "x/y = 3 and 4x/(ty) = 96",
+        "text": "What is the value of t?",
+        "choices": {
+          "A": "1/8",
+          "B": "−3/4",
+          "C": "4/3",
+          "D": "8"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "In triangle ABC, DE is parallel to AC, BD = AD, BE = 7, and AC = 13. What is the length of BC?",
+        "choices": {
+          "A": "14",
+          "B": "20",
+          "C": "26",
+          "D": "91"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math1-q12-triangle.svg"
+      },
+      "13": {
+        "stimulus": "9x²(5x − 11)(5x − u) = 0",
+        "text": "In the given equation, u is a positive constant. The sum of the solutions to the equation is 7. What is the value of u?",
+        "choices": {
+          "A": "7",
+          "B": "11",
+          "C": "24",
+          "D": "52"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "During a trip, a car traveled a total of 570 miles on city roads and highways and used a total of 19 gallons of gas. The car traveled an average of 26 miles per gallon of gas on city roads and 31 miles per gallon of gas on highways. Which system of equations represents this situation, where c is the number of miles the car traveled on city roads and h is the number of miles the car traveled on highways?",
+        "choices": {
+          "A": "c + h = 19\nc/26 + h/31 = 570",
+          "B": "c + h = 19\n26c + 31h = 570",
+          "C": "c + h = 570\nc/26 + h/31 = 19",
+          "D": "c + h = 570\n26c + 31h = 19"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "Two types of fish will be added to a pond: bluegill and largemouth bass. Based on ecological guidelines, the number of bluegill added to the pond will be 10 times the number of largemouth bass added to the pond. If a total of 1,870 fish will be added to the pond, how many of these will be largemouth bass?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "A machine makes 2-inch, 7-inch, and 11-inch parts. During a certain day, the number of 2-inch parts that the machine makes is 5 times the number n of 7-inch parts, and the number of 11-inch parts is 4. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+        "choices": {
+          "A": "2(5n) + 7n + 11(4) = 100",
+          "B": "2n + 7n + 11n = 100",
+          "C": "5n + 4 = 100",
+          "D": "6n + 4 = 100"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "In a certain colony, one of the bees is a queen bee. Of the bees in this colony that are not the queen bee, 85% are worker bees, and the remaining bees are drones. If there are 11,109 drones in this colony, what is the total number of worker bees in this colony?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "The figure shown is a trirectangular tetrahedron, a three-dimensional figure with four triangular faces, three of which are right triangles. A chemistry professor uses trirectangular tetrahedrons to create large-scale models of various carbon-based molecules. The base of one of these tetrahedrons is an isosceles right triangle whose legs each have length 16 inches. The height of this tetrahedron is 9 inches. Which of the following is closest to the volume of this tetrahedron, in pints? (Note: 1 pint = 0.5 quarts; use 1 quart = 57.75 cubic inches. The volume of a trirectangular tetrahedron is 1/3 Sh, where S is the area of its base and h is its height.)",
+        "choices": {
+          "A": "11,088.00",
+          "B": "384.00",
+          "C": "79.79",
+          "D": "13.30"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math1-q18-tetrahedron.svg"
+      },
+      "19": {
+        "stimulus": "W(x) = 4x + 60",
+        "text": "The function W gives the total time, in minutes, it takes for a gardener to water x plants and mow the grass. According to the function, how many minutes does it take the gardener to mow the grass?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "The point (v, −7) lies on the line shown. What is the value of v?",
+        "choices": {
+          "A": "−48/11",
+          "B": "−11/12",
+          "C": "48/11",
+          "D": "216/11"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math1-q20-line.svg"
+      },
+      "21": {
+        "stimulus": null,
+        "text": "For a linear relationship between x and y, the table gives three values of x and their corresponding values of y. Which equation represents this relationship?",
+        "choices": {
+          "A": "6x + y = −2",
+          "B": "6x − y = −2",
+          "C": "x + 6y = 12",
+          "D": "x − 6y = 12"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math1-q21-xy-table.svg"
+      },
+      "22": {
+        "stimulus": "y = 2x − 15\n5x + y = 48",
+        "text": "The solution to the given system of equations is (x, y). What is the value of x + y?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "The Southern Oscillation Index (SOI) predicts weather patterns in the Pacific Ocean. SOI values less than −7 over a period of time predict a temporary decrease in the strength of the Pacific trade winds. Each of the following inequalities represents SOI values, s, over a certain period of time. Which inequality represents SOI values that predict a temporary decrease in the strength of the Pacific trade winds?",
+        "choices": {
+          "A": "−26 < s < −13",
+          "B": "−7 < s < 0",
+          "C": "−7 < s < 7",
+          "D": "14 < s < 27"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "g(x) = x^2 + 14x + 60\n\nThe function g is defined by the given equation. Which of the following equivalent forms of the equation displays the minimum value of the function as a constant or coefficient?",
+        "choices": {
+          "A": "g(x) = (x + 7)^2 + 11",
+          "B": "g(x) = x^2 + 2(7x + 30)",
+          "C": "g(x) = 60 − x(x + 14)",
+          "D": "g(x) = 60 − (1/2)x(2x + 28)"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "2x^2 − 3x − 3 = 0\n\nWhat are all possible solutions to the given equation?",
+        "choices": {
+          "A": "x = 3/4 ± √15/4",
+          "B": "x = −3/4 ± √15/4",
+          "C": "x = 3/4 ± √33/4",
+          "D": "x = −3/4 ± √33/4"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "The exponential function g is defined by g(x) = ab^x, where a and b are positive constants. If g(c) = m and the value of g(c + 1) is 79% more than the value of m, where c and m are constants, what is the value of b?",
+        "choices": {
+          "A": "0.21",
+          "B": "0.79",
+          "C": "1.79",
+          "D": "3.58"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "5/c − 9/d = 7\n\nThe given equation relates the variables c and d, where c and d are greater than 1. Which equation correctly expresses d in terms of c?",
+        "choices": {
+          "A": "d = c/[9(5 − 7c)]",
+          "B": "d = 9c/(5 − 7c)",
+          "C": "d = 9(5 − 7c)/c",
+          "D": "d = (5 − 7c)/(9c)"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "An online store is offering two different discounts on its sweaters: a bulk discount for large orders and a coupon discount. For orders of n sweaters, where 10 < n < 50, a bulk discount of n% off the original price of $44 is applied to the price of each sweater. If a coupon is applied to the order, a discount of an additional $4 is applied to the price of each sweater, after the bulk discount is applied. For a certain order with both the bulk discount and the coupon discount applied, the total price after the discounts for the sweaters purchased was $624. How many sweaters were purchased in this order?",
+        "choices": {
+          "A": "14",
+          "B": "16",
+          "C": "20",
+          "D": "36"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "In the figure, LQ intersects MP at point R, and LM is parallel to PQ. The lengths of MR, LR, and RP are 6, 7, and 15, respectively. What is the length of LQ?",
+        "choices": {
+          "A": "49/5",
+          "B": "35/2",
+          "C": "47/2",
+          "D": "49/2"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math2-q07-similar-triangles.svg"
+      },
+      "8": {
+        "stimulus": null,
+        "text": "The scatterplot shows the relationship between x and y for the 10 data points in data set A. Data set B is created by multiplying the y-value of each data point from data set A by 30. Which of the following equations is the most appropriate model for data set B?",
+        "choices": {
+          "A": "y = 7(2.12)^x",
+          "B": "y = 207(2.12)^x",
+          "C": "y = 7(2.12)^x + 30",
+          "D": "y = 30(2.12)^x + 30"
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math2-q08-scatter.svg"
+      },
+      "9": {
+        "stimulus": null,
+        "text": "At a nature preserve, a wildlife biologist counted ducks from an observation deck at the same time each day for 41 days. The table summarizes the resulting data set, data set A. The data value 17 was recorded in error and is removed from data set A to create data set B, which consists of the remaining 40 data values. Which statement best compares the median of data set A and the median of data set B?",
+        "choices": {
+          "A": "The median of data set B is less than the median of data set A.",
+          "B": "The median of data set B is equal to the median of data set A.",
+          "C": "The median of data set B is greater than the median of data set A.",
+          "D": "There is not enough information to compare the medians of the two data sets."
+        },
+        "imageUrl": "/mocks/2026-june-v3/figures/math2-q09-frequency-table.svg"
+      },
+      "10": {
+        "stimulus": null,
+        "text": "If x = (2x^n + 35)^(1/(2n)), where n is a positive integer constant, what is the value of x^n?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "2x^2 − x√k + 2y^2 + y√t − 12 = 0\n\nThe given equation, where k and t are positive constants, defines a circle in the xy-plane. The radius of this circle is √52. Which expression represents the value of t?",
+        "choices": {
+          "A": "160 − k",
+          "B": "k − 640",
+          "C": "640 − k",
+          "D": "736 − k"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "In triangle XYZ, the measure of angle X is 90°. Point W lies on segment YZ, and segment WX is perpendicular to segment YZ. The length of segment WY is 652, and the length of segment WX is 489. What is the value of tan Z?",
+        "choices": {
+          "A": "4/3",
+          "B": "4/5",
+          "C": "3/4",
+          "D": "3/5"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "A parabola in the xy-plane has a vertex of (1, 19). The equation y = −ax^2 + bx + c represents this parabola, where a, b, and c are positive integer constants. What is the greatest possible value of b?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "1": {
+    "stimulus": "60x + 35y = 840",
+    "text": "Tom saved $60 each month for x months, and Karla saved $35 each month for y months. The given equation represents this situation, where Tom and Karla saved a total of $840. If Tom saved for 7 months, for how many months did Karla save?",
+    "choices": {
+      "A": "60",
+      "B": "24",
+      "C": "14",
+      "D": "12"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = √(5x + 4). What is the value of g(9)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "y = 30x + 6",
+    "text": "Which table gives three values of x and their corresponding values of y for the given equation?",
+    "choices": {
+      "A": "x: 0, 2, 4; y: 30, 60, 120",
+      "B": "x: 0, 2, 4; y: 6, 66, 126",
+      "C": "x: 0, 2, 4; y: 6, 54, 114",
+      "D": "x: 0, 2, 4; y: 30, 36, 42"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math1-q03-xy-tables.svg"
+  },
+  "4": {
+    "stimulus": "g(x) = 11(1/7)^x",
+    "text": "If the given function g is graphed in the xy-plane, where y = g(x), what is the y-intercept of the graph?",
+    "choices": {
+      "A": "(0, 11)",
+      "B": "(0, 7)",
+      "C": "(0, 77)",
+      "D": "(0, 4)"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "The radius of circle P is 370 centimeters. What is the diameter of circle P, in centimeters?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 375 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.44, and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+    "choices": {
+      "A": "32",
+      "B": "40",
+      "C": "75",
+      "D": "120"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "3x/2 − 11 = 27/2 − 11",
+    "text": "What is the value of 3x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A function p estimates that there were 2,500 whales in a population in 1998. Each year from 1998 to 2010, the function estimates that the number of whales in this population increased by 7% of the number of whales in the population the previous year. Which equation defines this function, where p(x) is the estimated number of whales in the population x years after 1998?",
+    "choices": {
+      "A": "p(x) = 2,500(7)^x",
+      "B": "p(x) = 2,500(1.93)^x",
+      "C": "p(x) = 2,500(1.07)^x",
+      "D": "p(x) = 2,500(0.93)^x"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "Which of the following is equivalent to 48(k + 3) / [4(k + 3)], where k > −3?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "15k",
+      "D": "12k + 3"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The estimated fuel cost C(x), in dollars, to drive a vehicle 100 kilometers is given by the function C(x) = 0.0018x² − 0.238x + 12.12, where x is the average speed, in kilometers per hour, of the vehicle. If the function C is graphed in the xy-plane, where y = C(x), what is the best interpretation of the point (60, 4.32) on the graph?",
+    "choices": {
+      "A": "The estimated fuel cost to drive the vehicle at an average speed of 4.32 kilometers per hour increases by $60 each hour.",
+      "B": "The estimated fuel cost to drive the vehicle at an average speed of 60 kilometers per hour increases by $4.32 each hour.",
+      "C": "The estimated fuel cost to drive the vehicle 100 kilometers at an average speed of 4.32 kilometers per hour is $60.",
+      "D": "The estimated fuel cost to drive the vehicle 100 kilometers at an average speed of 60 kilometers per hour is $4.32."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": "x/y = 3 and 4x/(ty) = 96",
+    "text": "What is the value of t?",
+    "choices": {
+      "A": "1/8",
+      "B": "−3/4",
+      "C": "4/3",
+      "D": "8"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "In triangle ABC, DE is parallel to AC, BD = AD, BE = 7, and AC = 13. What is the length of BC?",
+    "choices": {
+      "A": "14",
+      "B": "20",
+      "C": "26",
+      "D": "91"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math1-q12-triangle.svg"
+  },
+  "13": {
+    "stimulus": "9x²(5x − 11)(5x − u) = 0",
+    "text": "In the given equation, u is a positive constant. The sum of the solutions to the equation is 7. What is the value of u?",
+    "choices": {
+      "A": "7",
+      "B": "11",
+      "C": "24",
+      "D": "52"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "During a trip, a car traveled a total of 570 miles on city roads and highways and used a total of 19 gallons of gas. The car traveled an average of 26 miles per gallon of gas on city roads and 31 miles per gallon of gas on highways. Which system of equations represents this situation, where c is the number of miles the car traveled on city roads and h is the number of miles the car traveled on highways?",
+    "choices": {
+      "A": "c + h = 19\nc/26 + h/31 = 570",
+      "B": "c + h = 19\n26c + 31h = 570",
+      "C": "c + h = 570\nc/26 + h/31 = 19",
+      "D": "c + h = 570\n26c + 31h = 19"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "Two types of fish will be added to a pond: bluegill and largemouth bass. Based on ecological guidelines, the number of bluegill added to the pond will be 10 times the number of largemouth bass added to the pond. If a total of 1,870 fish will be added to the pond, how many of these will be largemouth bass?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "A machine makes 2-inch, 7-inch, and 11-inch parts. During a certain day, the number of 2-inch parts that the machine makes is 5 times the number n of 7-inch parts, and the number of 11-inch parts is 4. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "choices": {
+      "A": "2(5n) + 7n + 11(4) = 100",
+      "B": "2n + 7n + 11n = 100",
+      "C": "5n + 4 = 100",
+      "D": "6n + 4 = 100"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "In a certain colony, one of the bees is a queen bee. Of the bees in this colony that are not the queen bee, 85% are worker bees, and the remaining bees are drones. If there are 11,109 drones in this colony, what is the total number of worker bees in this colony?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "The figure shown is a trirectangular tetrahedron, a three-dimensional figure with four triangular faces, three of which are right triangles. A chemistry professor uses trirectangular tetrahedrons to create large-scale models of various carbon-based molecules. The base of one of these tetrahedrons is an isosceles right triangle whose legs each have length 16 inches. The height of this tetrahedron is 9 inches. Which of the following is closest to the volume of this tetrahedron, in pints? (Note: 1 pint = 0.5 quarts; use 1 quart = 57.75 cubic inches. The volume of a trirectangular tetrahedron is 1/3 Sh, where S is the area of its base and h is its height.)",
+    "choices": {
+      "A": "11,088.00",
+      "B": "384.00",
+      "C": "79.79",
+      "D": "13.30"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math1-q18-tetrahedron.svg"
+  },
+  "19": {
+    "stimulus": "W(x) = 4x + 60",
+    "text": "The function W gives the total time, in minutes, it takes for a gardener to water x plants and mow the grass. According to the function, how many minutes does it take the gardener to mow the grass?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The point (v, −7) lies on the line shown. What is the value of v?",
+    "choices": {
+      "A": "−48/11",
+      "B": "−11/12",
+      "C": "48/11",
+      "D": "216/11"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math1-q20-line.svg"
+  },
+  "21": {
+    "stimulus": null,
+    "text": "For a linear relationship between x and y, the table gives three values of x and their corresponding values of y. Which equation represents this relationship?",
+    "choices": {
+      "A": "6x + y = −2",
+      "B": "6x − y = −2",
+      "C": "x + 6y = 12",
+      "D": "x − 6y = 12"
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/math1-q21-xy-table.svg"
+  },
+  "22": {
+    "stimulus": "y = 2x − 15\n5x + y = 48",
+    "text": "The solution to the given system of equations is (x, y). What is the value of x + y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

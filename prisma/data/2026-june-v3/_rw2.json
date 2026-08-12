@@ -1,0 +1,112 @@
+{
+  "1": {
+    "stimulus": "Utilizing multiscale optical coherence tomography and other advanced imaging techniques, in 2018 a group of scholars conducted an in-depth analysis of Dutch painter Johannes Vermeer's iconic work Girl with a Pearl Earring (ca. 1665). The investigation yielded fresh insights into the painting's current condition and the techniques Vermeer employed in its creation, which were subsequently published in a series of articles. In one such article, John K. Delaney et al. expounded the way in which the group's methodologies facilitated identification of the pigments Vermeer used in various sections of the painting.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Scholars have gleaned novel information about the creation and preservation state of the renowned Vermeer painting Girl with a Pearl Earring through analysis with sophisticated technology.",
+      "B": "Scholars determined in 2018 that advances in imaging technology afforded an unprecedented opportunity to resolve intricate questions about Vermeer's Girl with a Pearl Earring.",
+      "C": "An investigation that uncovered previously undisclosed particulars about Vermeer's masterpiece Girl with a Pearl Earring has demonstrated the superiority of multiscale optical coherence tomography to other advanced imaging techniques.",
+      "D": "An analysis that was made possible by recent technological advancements prompted the publication of a series of articles with contrasting interpretations of the analysis's revelations about Vermeer's Girl with a Pearl Earring."
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "The International Space Station (ISS) is meant to maintain 25%-75% relative humidity (RH) on board. However, routine crew activities such as handwashing can create localized areas of elevated RH. These increases create conditions under which microbial growth can be a concern. Researchers collected dust samples from four ISS vacuum bags, creating three samples from each bag for twelve samples in total. Observed fungal concentrations (spore count per mg of dust) at each sample's original condition—presumed to reflect the desired RH range—were used as controls for comparison with counts after exposure to 85% and 100% RH.",
+    "text": "Which statement about microbes aboard the ISS is best supported by the information in the text and the table?",
+    "choices": {
+      "A": "The fungal spore count of the control treatment of sample 6 likely reflects an RH of under 25%.",
+      "B": "In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts in dust could substantially exceed 493,000/mg.",
+      "C": "Fungal spore counts above 493,000/mg of dust aboard the ISS create problems for crew members.",
+      "D": "In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts in dust as high as 485,000,000/mg have been observed."
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/eng2-q02-fungal-table.svg"
+  },
+  "3": {
+    "stimulus": "Research has shown that in 3000 BCE, people in what is now Great Britain derived an average of 80 percent of their genetic ancestry from early European farmers (EEF) and the remaining 20 percent from western European hunter-gatherers (WHG). When the genetic influence of another group, the Yamnaya, rose substantially in Britain around 2450 BCE, the average proportion of EEF ancestry in southern Britain (present-day England and Wales) decreased, dropping to only 31 percent by 2100 BCE. Studying genetic data from the pre-Roman Iron Age (750–43 BCE) across regions of Britain, a researcher claims that a wave of people with relatively high proportions of EEF ancestry likely migrated into southern Britain between 2100 BCE and the start of the pre-Roman Iron Age.",
+    "text": "Which choice best describes data from the table that support the researcher's conclusion?",
+    "choices": {
+      "A": "The average proportion of WHG ancestry in the given regions remained below 15 percent throughout the pre-Roman Iron Age.",
+      "B": "There was relatively little variation in the average proportions of Yamnaya ancestry across the given regions during the pre-Roman Iron Age.",
+      "C": "During the pre-Roman Iron Age, people in the given regions typically had a lower average proportion of ancestry from EEF than from the Yamnaya.",
+      "D": "The lowest average proportion of EEF ancestry during the pre-Roman Iron Age for the given regions was 36.0."
+    },
+    "imageUrl": "/mocks/2026-june-v3/figures/eng2-q03-ancestry-table.svg"
+  },
+  "4": {
+    "stimulus": "If Spider-Man's mother figure, Aunt May, was often cast as the damsel in distress, she was ultimately an ordinary woman and thus could hardly be expected to vie with superheroes. The 1960s saw superpowered female characters emerge, yet scholars have observed that the portrayal of female superheroes in the 1960s—constrained by the era's narrow expectations about femininity, including an emphasis on nurturing or romantic qualities and ineptitude in battle, with exceptions to such portrayals typically framed as aberrant and originating outside the characters' autonomy. Even characters such as the Invisible Girl and the Wasp—powerful founding members of the Fantastic Four and the Avengers, respectively—followed this tendency.",
+    "text": "Which scenario, if included in a comic book, would best illustrate the scholars' observation about the portrayal of female superheroes in the 1960s?",
+    "choices": {
+      "A": "Frustrated by her male teammates' expectations that she handle domestic duties, the Wasp demands that the entire team distributes the work of maintaining the Avengers' living quarters more equitably.",
+      "B": "The Invisible Girl temporarily becomes a much more formidable combatant than any of her male teammates as a result of a mysterious influence that wholly alters her personality.",
+      "C": "After the Wasp masters her power to shrink and fly, she acquires a new ability to fire bioelectric blasts, dubbed her \"wasp's sting,\" which greatly enhances her offensive potential.",
+      "D": "When a supervillain briefly steals the Invisible Girl's powers, her male teammates work to defeat the supervillain and restore her powers while she remains at the team's headquarters."
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "In a study of the effects of music tempo (as measured in beats per minute, or bpm) during exercise, participants jogged outdoors for 30 minutes while listening to Vanessa Williams's \"Colors of the Wind\" (83 bpm) continuously. Researchers anticipated that when participants performed the same activity the following day while listening to Jimi Hendrix's \"Fire\" (172 bpm), they would jog more quickly. Participants' performance on the second day, however, may have been negatively affected by tiredness from the first day. Thus, ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the results from the second day may lead to an underestimation of the effect of the faster song.",
+      "B": "the researchers were unable to accurately measure how quickly participants jogged on the second day.",
+      "C": "participants demonstrated a preference for one song over the other.",
+      "D": "participants' prior familiarity with the songs may have contributed to differences in performance over the two days."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "There are over 150 species in the cactus genus *Mammillaria* throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of those, like *M. herrerae*, restricted to only one state. The fact that this genus has not been observed in eastern Chihuahua has been attributed to a lack of appropriate habitat, but much of the landscape in this area is noticeably suitable, which suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the dense vegetation and high annual precipitation levels in eastern Chihuahua impede the ability of *Mammillaria* species to survive.",
+      "B": "*M. herrerae* may have been misclassified in western Chihuahua because of its similarity to another species.",
+      "C": "the current methods of observing and tracking *Mammillaria* in eastern Chihuahua may require an overestimation of the number of species in this genus.",
+      "D": "the perceived absence of *Mammillaria* in eastern Chihuahua may be due to insufficient exploration of the region."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Francoise Schein's Subway Map Floating on a New York Sidewalk transforms an ordinary stretch of Manhattan pavement into public art. The map's stainless steel bars and illuminated glass circles, re-creating the city transportation system across a ninety-foot expanse, ______ pedestrians with an unexpected artistic encounter underfoot.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "provide",
+      "B": "has provided",
+      "C": "providing",
+      "D": "provides"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "The Italianate architectural style rose to prominence in both residential and commercial buildings in the US from the 1850s to the 1870s. Distinguished by wide overhanging eaves, decorative brackets, and ornate moldings, ______ became especially popular for buildings in the business districts that developed during the growth of urban areas.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "those",
+      "B": "it",
+      "C": "they",
+      "D": "each"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "The 1856 invention of the first artificial dye initiated an industrial transformation that influences manufacturing to this day. At the same time, the legal and economic imperatives generated by this transformation—the need to protect innovations, establish monopolies over synthetic processes, and ensure profits sufficient to fund further research—______ patent law a critical component in the chemical industry.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "by making",
+      "B": "have made",
+      "C": "having made",
+      "D": "making"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Artés Graficas Chilavert is a democratically run print shop based in Argentina.\n• 1914: Webb and Webb's degeneration thesis argued that democratic workplaces will either fail or be forced to adopt hierarchical governance to remain profitable.\n• 2012: Diamantopoulos's regeneration thesis argued that workplaces could regenerate (recover from degeneration by reintroducing democratic practices).\n• 2022: Unterrainer et al. analyzed data from 73 democratic workplaces to track structural changes over time.\n• Artés Graficas Chilavert was among the 52.7% of the studied workplaces that resisted degeneration.\n• 10.8% of the workplaces had regenerated, 27.0% showed partial signs of degeneration, and 9.5% had fully degenerated and never recovered.",
+    "text": "The student wants to use data to support Diamantopoulos's thesis. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Signs of degeneration were seen in 27.0% of democratic workplaces studied, supporting Diamantopoulos's assertion that degeneration could be reversed.",
+      "B": "An impressive 52.7% of democratic workplaces studied—including Artés Graficas Chilavert—resisted degeneration, lending credence to Diamantopoulos's regeneration thesis.",
+      "C": "Though Webb and Webb's degeneration thesis insisted on the inevitability of such an outcome, only 9.5% of democratic workplaces studied had fully degenerated and never recovered.",
+      "D": "Around 10.8% of democratic workplaces in the study successfully used democratic practices to recover from degeneration."
+    },
+    "imageUrl": null
+  }
+}

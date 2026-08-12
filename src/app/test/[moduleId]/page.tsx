@@ -14,6 +14,8 @@ import {
 import { cacheAttempt, savePendingSubmission, clearPendingSubmission, saveClaimableAttempt, type CachedAttempt } from "@/lib/attempt-cache";
 import { saveModule1Journey, readModule1Journey } from "@/lib/test-journey";
 import { textToHtml } from "@/lib/text-to-html";
+import { applyTextHighlight } from "@/lib/text-highlight";
+import { useSession } from "next-auth/react";
 
 interface Question {
   id: string;
@@ -49,6 +51,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const router = useRouter();
   const searchParams = useSearchParams();
   const attemptId = searchParams.get("attemptId") ?? "";
+  const { status: authStatus } = useSession();
 
   const [moduleData, setModuleData] = useState<ModuleData | null>(null);
   const [current, setCurrent] = useState(0);
@@ -162,6 +165,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
     const maxAttempts = 3;
     let lastError = "Failed to submit attempt";
+    const bindToUser = authStatus === "authenticated";
 
     for (let i = 0; i < maxAttempts; i++) {
       try {
@@ -172,12 +176,18 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           headers: { "Content-Type": "application/json" },
           credentials: "include",
           signal: controller.signal,
-          body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent }),
+          body: JSON.stringify({ moduleId, answers: answerPayload, timeSpent, bindToUser }),
         });
         clearTimeout(timeout);
 
         const json = (await r.json().catch(() => null)) as
-          | (CachedAttempt & { attemptId?: string; claimToken?: string; error?: string })
+          | (CachedAttempt & {
+              attemptId?: string;
+              claimToken?: string;
+              userId?: string | null;
+              persisted?: boolean;
+              error?: string;
+            })
           | null;
 
         if (!r.ok) {
@@ -195,7 +205,19 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         }
 
         const serverAttemptId = json?.attemptId ?? json?.id ?? attemptId;
-        if (typeof json?.claimToken === "string" && json.claimToken) {
+
+        // Signed-in submits must land on the account — never accept a silent guest save.
+        if (bindToUser && !json?.userId) {
+          lastError =
+            "Your score was not saved to your account. Sign in again, then retry submission.";
+          if (i < maxAttempts - 1) {
+            await new Promise((res) => setTimeout(res, 400 * 2 ** i));
+            continue;
+          }
+          break;
+        }
+
+        if (typeof json?.claimToken === "string" && json.claimToken && !json.userId) {
           saveClaimableAttempt(serverAttemptId, json.claimToken);
         }
         if (json?.module?.test) {
@@ -295,7 +317,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
     setSubmitError(lastError);
     setSubmitting(false);
-  }, [submitting, moduleData, attemptId, answers, moduleId, router]);
+  }, [submitting, moduleData, attemptId, answers, moduleId, router, authStatus]);
 
   useEffect(() => { handleSubmitRef.current = handleSubmit; }, [handleSubmit]);
 
@@ -359,26 +381,25 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     return () => window.removeEventListener("keydown", onKey);
   }, [toggleMark]);
 
-  // Highlight: wrap selected text in <mark> on mouseup
+  // Highlight: wrap selected text (supports overlapping / nested double-highlights)
   const handleMouseUp = useCallback(() => {
     if (!highlightMode) return;
+    const root = passageRef.current;
+    if (!root) return;
+
     const selection = window.getSelection();
     if (!selection || selection.rangeCount === 0 || selection.isCollapsed) return;
-    if (!passageRef.current?.contains(selection.getRangeAt(0).commonAncestorContainer)) return;
-    try {
-      const range = selection.getRangeAt(0);
-      const mark = document.createElement("mark");
-      mark.style.backgroundColor = "#fef08a";
-      mark.style.borderRadius = "2px";
-      mark.style.padding = "0 1px";
-      range.surroundContents(mark);
-      selection.removeAllRanges();
-    } catch {
-      // selection spans multiple nodes — skip
-    }
-    if (passageRef.current) {
-      const qId = passageRef.current.dataset.qid;
-      if (qId) setHighlights((prev) => ({ ...prev, [qId]: passageRef.current!.innerHTML }));
+
+    const range = selection.getRangeAt(0);
+    const ancestor = range.commonAncestorContainer;
+    if (ancestor !== root && !root.contains(ancestor)) return;
+
+    const applied = applyTextHighlight(root, range);
+    selection.removeAllRanges();
+
+    if (applied) {
+      const qId = root.dataset.qid;
+      if (qId) setHighlights((prev) => ({ ...prev, [qId]: root.innerHTML }));
     }
   }, [highlightMode]);
 
@@ -539,7 +560,11 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                   return !p;
                 });
               }}
-              title={highlightMode ? "Exit highlight mode" : "Highlight text (select text to highlight)"}
+              title={
+                highlightMode
+                  ? "Exit highlight mode"
+                  : "Highlight text (select text; select again to double-highlight)"
+              }
               aria-pressed={highlightMode}
               className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium transition-colors ${
                 highlightMode

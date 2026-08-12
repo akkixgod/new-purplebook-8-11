@@ -47,9 +47,13 @@ function ModuleBreakdown({
   total: number;
 }) {
   const incorrect = Math.max(0, total - correct);
+  const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
   return (
     <div className="rounded-xl border border-gray-100 bg-gray-50 px-4 py-3">
-      <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">{label}</div>
+      <div className="flex items-center justify-between gap-2">
+        <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">{label}</div>
+        <div className="text-xs font-semibold text-[#7c3aed]">{pct}%</div>
+      </div>
       <div className="mt-2 flex justify-between text-sm">
         <span className="text-emerald-700 font-medium">{correct} correct</span>
         <span className="text-red-600 font-medium">{incorrect} incorrect</span>
@@ -160,7 +164,8 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
   const correct = isCombined ? m1Correct + m2Correct : (primary.score ?? 0);
   const total = isCombined ? m1Total + m2Total : (primary.totalQuestions ?? 0);
   const incorrect = Math.max(0, total - correct);
-  const scaled = scaleSectionScore(correct, total);
+  // Official 200–800 section scale only when both modules are finished and combined.
+  const scaled = isCombined ? scaleSectionScore(correct, total) : null;
   const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
 
   const timeSpent = isCombined
@@ -194,10 +199,24 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
 
         <div className="bg-white rounded-2xl border border-gray-200 p-6 mb-4">
           <div className="text-center mb-6">
-            <div className="text-5xl font-bold text-[#7c3aed]">{scaled}</div>
-            <div className="text-xs text-gray-500 mt-1 uppercase tracking-wide">
-              Scaled {section} score (200–800)
-            </div>
+            {scaled != null ? (
+              <>
+                <div className="text-5xl font-bold text-[#7c3aed]">{scaled}</div>
+                <div className="text-xs text-gray-500 mt-1 uppercase tracking-wide">
+                  Scaled {section} score (200–800)
+                </div>
+              </>
+            ) : (
+              <>
+                <div className="text-5xl font-bold text-[#7c3aed]">{pct}%</div>
+                <div className="text-xs text-gray-500 mt-1 uppercase tracking-wide">
+                  Module accuracy
+                </div>
+                <p className="mt-2 text-xs text-gray-400 leading-relaxed max-w-xs mx-auto">
+                  Full 200–800 section scores require completing both Module 1 and Module 2.
+                </p>
+              </>
+            )}
           </div>
 
           <div className="flex justify-around mb-6">
@@ -223,7 +242,9 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
               style={{ width: `${pct}%` }}
             />
           </div>
-          <p className="text-center text-sm font-semibold text-[#7c3aed] mt-2">{pct}%</p>
+          {scaled != null && (
+            <p className="text-center text-sm font-semibold text-[#7c3aed] mt-2">{pct}%</p>
+          )}
 
           {mins !== null && (
             <p className="text-center text-xs text-gray-500 mt-2">
@@ -239,9 +260,13 @@ export default function ResultsPage({ params }: { params: Promise<{ moduleId: st
           </div>
         )}
 
-        {!isCombined && (solo || moduleNumber === 1) && (
+        {!isCombined && (
           <div className="mb-4">
-            <ModuleBreakdown label="Module 1" correct={correct} total={total} />
+            <ModuleBreakdown
+              label={`Module ${moduleNumber}`}
+              correct={correct}
+              total={total}
+            />
           </div>
         )}
 

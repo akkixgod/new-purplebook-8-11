@@ -14,6 +14,7 @@
     "seed:2026-us-a": "tsx prisma/seed-march2026-usa.ts",
     "seed:2026-june-v1": "tsx prisma/seed-june2026-v1.ts",
     "seed:2026-june-v2": "tsx prisma/seed-june2026-v2.ts",
+    "seed:2026-june-v3": "npx tsx prisma/seed-june2026-v3.ts",
     "seed:pb1": "npx tsx prisma/seed-purplebook-test-1.ts",
     "seed:pb2": "npx tsx prisma/seed-purplebook-test-2.ts",
     "seed:pb3": "npx tsx prisma/seed-purplebook-test-3.ts",
