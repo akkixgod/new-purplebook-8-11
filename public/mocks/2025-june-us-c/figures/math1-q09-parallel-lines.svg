@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <!-- parallel lines -->
+  <line x1="40" y1="90" x2="420" y2="90" stroke="#111" stroke-width="2.2"/>
+  <line x1="40" y1="220" x2="420" y2="220" stroke="#111" stroke-width="2.2"/>
+  <!-- transversal -->
+  <line x1="80" y1="40" x2="360" y2="270" stroke="#111" stroke-width="2.2"/>
+  <!-- line labels -->
+  <text x="430" y="95" font-family="Georgia, serif" font-size="18" font-style="italic">ℓ</text>
+  <text x="430" y="225" font-family="Georgia, serif" font-size="18" font-style="italic">k</text>
+  <text x="368" y="268" font-family="Georgia, serif" font-size="18" font-style="italic">t</text>
+  <!-- angle x at upper intersection, top-left (obtuse exterior-ish) -->
+  <path d="M 155,90 A 28,28 0 0,0 168,68" fill="none" stroke="#111" stroke-width="1.4"/>
+  <text x="128" y="72" font-family="Georgia, serif" font-size="16" font-style="italic">x°</text>
+  <!-- angle y at lower intersection, bottom-right (acute) -->
+  <path d="M 295,220 A 24,24 0 0,0 312,238" fill="none" stroke="#111" stroke-width="1.4"/>
+  <text x="318" y="248" font-family="Georgia, serif" font-size="16" font-style="italic">y°</text>
+  <text x="240" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">Note: Figure not drawn to scale.</text>
+</svg>

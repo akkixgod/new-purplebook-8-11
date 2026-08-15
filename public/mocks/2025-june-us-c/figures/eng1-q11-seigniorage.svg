@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="269" viewBox="0 0 740 269">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="370.0" y="18" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Value, Cost, and Seigniorage of US Coins by Denomination, 2023</text>
+<rect x="20" y="33" width="120" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="80.0" y="65.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Denomination</text>
+<rect x="140" y="33" width="160" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="220.0" y="57.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Total value of units</text>
+<text x="220.0" y="71.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">produced (in millions of dollars)</text>
+<rect x="300" y="33" width="140" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="370.0" y="57.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Gross cost (in</text>
+<text x="370.0" y="71.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">millions of dollars)</text>
+<rect x="440" y="33" width="140" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="510.0" y="57.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Seigniorage (in</text>
+<text x="510.0" y="71.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">millions of dollars)</text>
+<rect x="580" y="33" width="140" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="650.0" y="57.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Seigniorage per</text>
+<text x="650.0" y="71.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">$1 issued (dollars)</text>
+<rect x="20" y="89" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="80.0" y="113.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">One-cent</text>
+<rect x="140" y="89" width="160" height="40" fill="#fff" stroke="#111"/>
+<text x="220.0" y="113.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">41.4</text>
+<rect x="300" y="89" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="113.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">127.4</text>
+<rect x="440" y="89" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="510.0" y="113.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">−86.0</text>
+<rect x="580" y="89" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="650.0" y="113.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">−2.08</text>
+<rect x="20" y="129" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="80.0" y="153.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Five-cent</text>
+<rect x="140" y="129" width="160" height="40" fill="#fff" stroke="#111"/>
+<text x="220.0" y="153.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">70.8</text>
+<rect x="300" y="129" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="153.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">163.4</text>
+<rect x="440" y="129" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="510.0" y="153.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">−92.6</text>
+<rect x="580" y="129" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="650.0" y="153.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">−1.31</text>
+<rect x="20" y="169" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="80.0" y="193.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Ten-cent</text>
+<rect x="140" y="169" width="160" height="40" fill="#fff" stroke="#111"/>
+<text x="220.0" y="193.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">266.6</text>
+<rect x="300" y="169" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="193.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">141.1</text>
+<rect x="440" y="169" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="510.0" y="193.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">125.5</text>
+<rect x="580" y="169" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="650.0" y="193.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.47</text>
+<rect x="20" y="209" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="80.0" y="233.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Quarter-dollar</text>
+<rect x="140" y="209" width="160" height="40" fill="#fff" stroke="#111"/>
+<text x="220.0" y="233.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">568.4</text>
+<rect x="300" y="209" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="233.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">264.4</text>
+<rect x="440" y="209" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="510.0" y="233.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">304.0</text>
+<rect x="580" y="209" width="140" height="40" fill="#fff" stroke="#111"/>
+<text x="650.0" y="233.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.53</text>
+</svg>

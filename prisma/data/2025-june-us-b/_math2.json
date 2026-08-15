@@ -1,0 +1,314 @@
+{
+  "1": {
+    "page": 78,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 14(x² − 6)?",
+    "choices": {
+      "A": "14x² − 84",
+      "B": "14x² − 20",
+      "C": "14x² − 6",
+      "D": "14x² + 8"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A",
+    "_keySource": "solved"
+  },
+  "2": {
+    "page": 79,
+    "stimulus": null,
+    "text": "A scientist analyzed a soil sample with a mass of 900 grams and determined that it contained 189 grams of water. What is the percentage of water, by mass, in this soil sample?",
+    "choices": {
+      "A": "9%",
+      "B": "9.9%",
+      "C": "18.9%",
+      "D": "21%"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "3": {
+    "page": 80,
+    "stimulus": "x + 5 = 11\ny = 3x² + 3",
+    "text": "At what point (x, y) do the graphs of the equations in the given system intersect?",
+    "choices": {
+      "A": "(6, 108)",
+      "B": "(6, 111)",
+      "C": "(11, 3)",
+      "D": "(11, 366)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B",
+    "_keySource": "solved"
+  },
+  "4": {
+    "page": 81,
+    "stimulus": null,
+    "text": "If (6/7)p + 42 = 84, what is the value of 7p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "343",
+    "_keySource": "solved"
+  },
+  "5": {
+    "page": 82,
+    "stimulus": null,
+    "text": "If 5(x + 4) = 4(x + 4) + 58, what is the value of x + 4?",
+    "choices": {
+      "A": "−4",
+      "B": "54",
+      "C": "58",
+      "D": "62"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C",
+    "_keySource": "solved"
+  },
+  "6": {
+    "page": 83,
+    "stimulus": null,
+    "text": "Circle N has a radius of 6 millimeters (mm). Circle M has an area of 121π mm². What is the total area, in mm², of circles N and M?",
+    "choices": {
+      "A": "17π",
+      "B": "133π",
+      "C": "145π",
+      "D": "157π"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "7": {
+    "page": 84,
+    "stimulus": null,
+    "text": "What is the slope of the graph of y = (1/4)(27x + 12) + 7x in the xy-plane?",
+    "choices": {
+      "A": "27/4",
+      "B": "55/4",
+      "C": "27",
+      "D": "34"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B",
+    "_keySource": "solved"
+  },
+  "8": {
+    "page": 85,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = (x + 16)/5, and f(a) = −19, where a is a constant. What is the value of a?",
+    "choices": {
+      "A": "−111",
+      "B": "−79",
+      "C": "−79/5",
+      "D": "−3/5"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A",
+    "_keySource": "solved"
+  },
+  "9": {
+    "page": 86,
+    "stimulus": null,
+    "text": "A data set of the orbital periods, rounded to the nearest whole number of Earth days, for 13 of Jupiter's moons is represented in the dot plot. An additional moon with an orbital period of 251 days is added to the original data set to create a new data set of 14 orbital periods. Which statement best compares the mean and median of the new data set to the mean and median of the original data set?",
+    "choices": {
+      "A": "The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is equal to the median of the original data set.",
+      "B": "The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is less than the median of the original data set.",
+      "C": "The mean of the new data set is less than the mean of the original data set, and the median of the new data set is less than the median of the original data set.",
+      "D": "The mean of the new data set is less than the mean of the original data set, and the median of the new data set is equal to the median of the original data set."
+    },
+    "imageUrl": "/mocks/2025-june-us-b/figures/math2-q09-orbital-dot-plot.svg",
+    "_figureNote": "Dot plot titled Orbital period (days). x-axis 720–732 (even labels). Dots: 720:1, 721:1, 723:3, 724:2, 726:1, 727:1, 728:1, 730:2, 732:1 (13 total). Do not duplicate plot in stimulus.",
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "10": {
+    "page": 87,
+    "stimulus": null,
+    "text": "For the linear function p, p(c) = −2, where c is a constant, p(5) = 34, and the slope of the graph of y = p(x) in the xy-plane is 6. For the linear function t, t(c) = −4 and t(6) = 52. What is the slope of the graph of y = t(x) in the xy-plane?",
+    "choices": {
+      "A": "−1",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "11": {
+    "page": 88,
+    "stimulus": "18x² − 24x + c = 0",
+    "text": "In the given equation, c is a constant. The equation has exactly one solution. What is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "8",
+    "_keySource": "solved"
+  },
+  "12": {
+    "page": 89,
+    "stimulus": null,
+    "text": "A conservation specialist hung artificial nesting structures each in the shape of a right rectangular prism for a species of native owl. Each structure has a height of 11 inches. The length of each structure's base is x inches, which is 1 inch more than the width of the structure's base. Which function V gives the volume of each structure, in cubic inches, in terms of the length of the structure's base?",
+    "choices": {
+      "A": "V(x) = 11x(x − 1)",
+      "B": "V(x) = 11x(x + 1)",
+      "C": "V(x) = x(x + 11)(x − 1)",
+      "D": "V(x) = x(x + 11)(x + 1)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A",
+    "_keySource": "solved"
+  },
+  "13": {
+    "page": 90,
+    "stimulus": "(x + 1)/(5x²) = k/x",
+    "text": "In the given equation, k is a constant. The solution to the given equation is 1/224. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "45",
+    "_keySource": "solved"
+  },
+  "14": {
+    "page": 91,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = −39^x. The function g is a decreasing linear function. In the xy-plane, the graphs of y = f(x) and y = g(x) intersect at two points, (h, j) and (k, m), where j > m. When g(x) < f(x), which of the following must also be true?",
+    "choices": {
+      "A": "x > k",
+      "B": "x < h",
+      "C": "x > k or x < h",
+      "D": "h < x < k"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "15": {
+    "page": 92,
+    "stimulus": null,
+    "text": "One gallon of sealant costs $29 and will cover 300 square feet of a surface. A deck has a total surface area of d square feet. Which equation represents the cost c, in dollars, of the sealant needed to cover the deck twice?",
+    "choices": {
+      "A": "c = 300d/29",
+      "B": "c = 600d/29",
+      "C": "c = 29(d/150)",
+      "D": "c = 29(d/300)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C",
+    "_keySource": "solved"
+  },
+  "16": {
+    "page": 93,
+    "stimulus": null,
+    "text": "A triangular prism has a height of 9 centimeters (cm) and a volume of 234 cm³. What is the area, in cm², of the base of the prism? (The volume of a triangular prism is equal to Bh, where B is the area of the base and h is the height of the prism.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "26",
+    "_keySource": "solved"
+  },
+  "17": {
+    "page": 94,
+    "stimulus": null,
+    "text": "An area of 56.00 square nautical miles is equivalent to k square kilometers. To the nearest tenth, what is the value of k? (1 nautical mile = 1.852 kilometers)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "192.1",
+    "_keySource": "solved"
+  },
+  "18": {
+    "page": 95,
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (−7, 3) and has a radius of 9. An equation of this circle is x² + y² + ax + by + c = 0, where a, b, and c are constants. What is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "-23",
+    "_keySource": "solved"
+  },
+  "19": {
+    "page": 96,
+    "stimulus": "y = x − c\ny = −4(x − 6)²",
+    "text": "In the given system of equations, c is a constant. The system has two distinct real solutions. Which of the following could be the value of c?",
+    "choices": {
+      "A": "1",
+      "B": "5",
+      "C": "95/16",
+      "D": "11"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "20": {
+    "page": 97,
+    "stimulus": "I. f(x) = a(4.2)^(x+b)\nII. g(x) = a(4.2)^x + b",
+    "text": "The functions f and g are defined by the equations shown, where a and b are integer constants, a < b and b < 0. If y = f(x) and y = g(x) are graphed in the xy-plane, which of the following equations displays, as a constant or coefficient, the y-coordinate of the y-intercept of the graph of the corresponding function?",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D",
+    "_keySource": "solved"
+  },
+  "21": {
+    "page": 98,
+    "stimulus": "5x + 4y = 3\n15x + 12y = 9",
+    "text": "For each real number r, which of the following points lies on the graph of each equation in the xy-plane for the given system?",
+    "choices": {
+      "A": "(r, −4r/5 + 3/5)",
+      "B": "(r, 5r/4 + 3/4)",
+      "C": "(−4r/5 + 3/5, r)",
+      "D": "(r/3 + 3, −r/3 + 9)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C",
+    "_keySource": "solved"
+  },
+  "22": {
+    "page": 99,
+    "stimulus": null,
+    "text": "In triangle ABC and triangle DEF, sides AB and DE each have a side length of 10 inches, and angles A and D each have an angle measure of 40°. Which of the following additional pieces of information is(are) sufficient to prove whether triangle ABC is congruent to triangle DEF?\nI. The measures of angles B and C are equal.\nII. The lengths of sides AC and DF are equal.\nIII. The lengths of sides BC and EF are equal.",
+    "choices": {
+      "A": "I is sufficient, but II and III are not.",
+      "B": "II is sufficient, but I and III are not.",
+      "C": "III is sufficient, but I and II are not.",
+      "D": "II is sufficient and III is sufficient, but I is not."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B",
+    "_keySource": "solved"
+  }
+}

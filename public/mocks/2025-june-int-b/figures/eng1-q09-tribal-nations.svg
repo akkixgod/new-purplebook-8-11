@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="308" viewBox="0 0 560 308">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="280" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Total Areas of Five Tribal Nations around the United States</text>
+  <rect x="16" y="48" width="240" height="36" fill="#f3f4f6" stroke="#111"/><text x="136" y="71" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Tribal nation</text>
+  <rect x="256" y="48" width="140" height="36" fill="#f3f4f6" stroke="#111"/><text x="326" y="71" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Location</text>
+  <rect x="396" y="48" width="148" height="36" fill="#f3f4f6" stroke="#111"/><text x="470" y="71" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Area (square miles)</text>
+
+  <rect x="16" y="84" width="240" height="36" fill="#fff" stroke="#111"/><text x="136" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="11">White Mountain Apache Tribe</text>
+  <rect x="256" y="84" width="140" height="36" fill="#fff" stroke="#111"/><text x="326" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="11">Arizona</text>
+  <rect x="396" y="84" width="148" height="36" fill="#fff" stroke="#111"/><text x="470" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="11">2,631</text>
+
+  <rect x="16" y="120" width="240" height="36" fill="#fff" stroke="#111"/><text x="136" y="143" text-anchor="middle" font-family="Georgia, serif" font-size="11">Crow Tribe</text>
+  <rect x="256" y="120" width="140" height="36" fill="#fff" stroke="#111"/><text x="326" y="143" text-anchor="middle" font-family="Georgia, serif" font-size="11">Montana</text>
+  <rect x="396" y="120" width="148" height="36" fill="#fff" stroke="#111"/><text x="470" y="143" text-anchor="middle" font-family="Georgia, serif" font-size="11">3,606</text>
+
+  <rect x="16" y="156" width="240" height="36" fill="#fff" stroke="#111"/><text x="136" y="179" text-anchor="middle" font-family="Georgia, serif" font-size="11">Leech Lake Band of Ojibwe</text>
+  <rect x="256" y="156" width="140" height="36" fill="#fff" stroke="#111"/><text x="326" y="179" text-anchor="middle" font-family="Georgia, serif" font-size="11">Minnesota</text>
+  <rect x="396" y="156" width="148" height="36" fill="#fff" stroke="#111"/><text x="470" y="179" text-anchor="middle" font-family="Georgia, serif" font-size="11">1,311</text>
+
+  <rect x="16" y="192" width="240" height="36" fill="#fff" stroke="#111"/><text x="136" y="215" text-anchor="middle" font-family="Georgia, serif" font-size="11">Chickasaw Nation</text>
+  <rect x="256" y="192" width="140" height="36" fill="#fff" stroke="#111"/><text x="326" y="215" text-anchor="middle" font-family="Georgia, serif" font-size="11">Oklahoma</text>
+  <rect x="396" y="192" width="148" height="36" fill="#fff" stroke="#111"/><text x="470" y="215" text-anchor="middle" font-family="Georgia, serif" font-size="11">7,648</text>
+
+  <rect x="16" y="228" width="240" height="36" fill="#fff" stroke="#111"/><text x="136" y="251" text-anchor="middle" font-family="Georgia, serif" font-size="11">Cheyenne River Sioux Tribe</text>
+  <rect x="256" y="228" width="140" height="36" fill="#fff" stroke="#111"/><text x="326" y="251" text-anchor="middle" font-family="Georgia, serif" font-size="11">South Dakota</text>
+  <rect x="396" y="228" width="148" height="36" fill="#fff" stroke="#111"/><text x="470" y="251" text-anchor="middle" font-family="Georgia, serif" font-size="11">4,419</text>
+</svg>

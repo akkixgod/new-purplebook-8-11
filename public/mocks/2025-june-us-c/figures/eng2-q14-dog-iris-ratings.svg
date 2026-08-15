@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="730" height="286" viewBox="0 0 730 286">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="365.0" y="18" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Average Ratings of Perceived Personality Traits of Dogs</text>
+<text x="365.0" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">and Human Willingness to Keep or Interact with Them</text>
+<rect x="20" y="50" width="90" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="65.0" y="82.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Image ID number</text>
+<rect x="110" y="50" width="70" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="145.0" y="82.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Irises</text>
+<rect x="180" y="50" width="130" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="245.0" y="74.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Not friendly</text>
+<text x="245.0" y="88.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">(0)—Friendly (5)</text>
+<rect x="310" y="50" width="120" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="370.0" y="82.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Immature (0)—Mature (5)</text>
+<rect x="430" y="50" width="130" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="495.0" y="74.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Would not keep</text>
+<text x="495.0" y="88.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">(0)—Would keep (3)</text>
+<rect x="560" y="50" width="150" height="56" fill="#f3f4f6" stroke="#111"/>
+<text x="635.0" y="74.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">Would not interact with</text>
+<text x="635.0" y="88.0" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700">(0)—Would interact with (3)</text>
+<rect x="20" y="106" width="90" height="40" fill="#fff" stroke="#111"/>
+<text x="65.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">24</text>
+<rect x="110" y="106" width="70" height="40" fill="#fff" stroke="#111"/>
+<text x="145.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">light</text>
+<rect x="180" y="106" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="245.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.67</text>
+<rect x="310" y="106" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">4.03</text>
+<rect x="430" y="106" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="495.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.4</text>
+<rect x="560" y="106" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="635.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.7</text>
+<rect x="20" y="146" width="90" height="40" fill="#fff" stroke="#111"/>
+<text x="65.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">14</text>
+<rect x="110" y="146" width="70" height="40" fill="#fff" stroke="#111"/>
+<text x="145.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">light</text>
+<rect x="180" y="146" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="245.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.11</text>
+<rect x="310" y="146" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">3.27</text>
+<rect x="430" y="146" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="495.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.55</text>
+<rect x="560" y="146" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="635.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.85</text>
+<rect x="20" y="186" width="90" height="40" fill="#fff" stroke="#111"/>
+<text x="65.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">8</text>
+<rect x="110" y="186" width="70" height="40" fill="#fff" stroke="#111"/>
+<text x="145.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">dark</text>
+<rect x="180" y="186" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="245.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">3.52</text>
+<rect x="310" y="186" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.91</text>
+<rect x="430" y="186" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="495.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.9</text>
+<rect x="560" y="186" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="635.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.45</text>
+<rect x="20" y="226" width="90" height="40" fill="#fff" stroke="#111"/>
+<text x="65.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">3</text>
+<rect x="110" y="226" width="70" height="40" fill="#fff" stroke="#111"/>
+<text x="145.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">dark</text>
+<rect x="180" y="226" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="245.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">3.88</text>
+<rect x="310" y="226" width="120" height="40" fill="#fff" stroke="#111"/>
+<text x="370.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.51</text>
+<rect x="430" y="226" width="130" height="40" fill="#fff" stroke="#111"/>
+<text x="495.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.35</text>
+<rect x="560" y="226" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="635.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.65</text>
+</svg>

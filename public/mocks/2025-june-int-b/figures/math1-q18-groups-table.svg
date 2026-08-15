@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="272" viewBox="0 0 300 272">
+<rect width="100%" height="100%" fill="#fff"/>
+<rect x="20" y="12" width="100" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="70.0" y="34.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Group</text>
+<rect x="120" y="12" width="160" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="200.0" y="34.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Number of objects</text>
+<rect x="20" y="48" width="100" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="70.0" y="72.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">A</text>
+<rect x="120" y="48" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="200.0" y="72.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">325</text>
+<rect x="20" y="88" width="100" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="70.0" y="112.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">B</text>
+<rect x="120" y="88" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="200.0" y="112.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">64</text>
+<rect x="20" y="128" width="100" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="70.0" y="152.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">C</text>
+<rect x="120" y="128" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="200.0" y="152.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">611</text>
+<rect x="20" y="168" width="100" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="70.0" y="192.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">D</text>
+<rect x="120" y="168" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="200.0" y="192.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">96</text>
+<rect x="20" y="208" width="100" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="70.0" y="232.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Total</text>
+<rect x="120" y="208" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="200.0" y="232.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1,096</text>
+</svg>

@@ -1,0 +1,322 @@
+{
+  "1": {
+    "page": 56,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "The graph of the linear function f is shown, where y = f(x). What is the y-intercept of the graph of f?",
+    "choices": {
+      "A": "(0, 6)",
+      "B": "(0, 0)",
+      "C": "(0, -4)",
+      "D": "(0, -6)"
+    },
+    "imageUrl": "/mocks/2025-june-us-b/figures/math1-q01-linear-graph.svg",
+    "_figureNote": "xy-plane, both axes -8 to 8, labels every 2, unit grid, origin O. Solid line y=-x/4-6 through (0,-6), (-8,-4), (8,-8). No watermark.",
+    "_keySource": "solved"
+  },
+  "2": {
+    "page": 57,
+    "correctAnswer": "A",
+    "stimulus": "Each rock in a collection of 70 rocks was classified as either igneous, metamorphic, or sedimentary, as shown in the frequency table.",
+    "text": "If one of these rocks is selected at random, what is the probability of selecting a rock that is igneous?",
+    "choices": {
+      "A": "10/70",
+      "B": "10/60",
+      "C": "10/38",
+      "D": "10/22"
+    },
+    "imageUrl": "/mocks/2025-june-us-b/figures/math1-q02-rock-frequency.svg",
+    "_figureNote": "Two-column frequency table. Headers: Classification | Frequency. Rows: igneous 10; metamorphic 38; sedimentary 22.",
+    "_keySource": "solved"
+  },
+  "3": {
+    "page": 58,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "Each side of square A has a length of 13 inches. Each side of square A is multiplied by a scale factor of 3 to create square B. What is the length, in inches, of each side of square B?",
+    "choices": {
+      "A": "10",
+      "B": "13",
+      "C": "16",
+      "D": "39"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "4": {
+    "page": 59,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "The function f(x) = (1/9)(x − 6)^2 + 3 gives a toy car’s height above the ground f(x), in inches, x seconds after it started moving on an elevated track, where 0 ≤ x ≤ 10. Which of the following is the best interpretation of the vertex of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "The toy car’s minimum height was 3 inches above the ground.",
+      "B": "The toy car’s minimum height was 6 inches above the ground.",
+      "C": "The toy car’s height was 3 inches above the ground when it started moving.",
+      "D": "The toy car’s height was 6 inches above the ground when it started moving."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "5": {
+    "page": 60,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "If 3x = 8, what is the value of 21x?",
+    "choices": {
+      "A": "1",
+      "B": "15",
+      "C": "31",
+      "D": "56"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "6": {
+    "page": 61,
+    "correctAnswer": "C",
+    "stimulus": null,
+    "text": "A car travels at a speed of at least 25 miles per hour but no more than 50 miles per hour for a certain part of a trip. Which inequality represents this situation, where x is the speed of the car, in miles per hour, on this part of the trip?",
+    "choices": {
+      "A": "x ≥ 25",
+      "B": "x ≥ 50",
+      "C": "25 ≤ x ≤ 50",
+      "D": "x ≤ 75"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "7": {
+    "page": 62,
+    "correctAnswer": "C",
+    "stimulus": "A list of 10 data values is shown.\n\n10, 14, 22, 6, 24, 26, 14, 8, 8, 8",
+    "text": "What is the mean of these data?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "14",
+      "D": "20"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "8": {
+    "page": 63,
+    "correctAnswer": "D",
+    "stimulus": "f(x) = 7x + 3",
+    "text": "The function f gives the estimated height, in feet, of a willow tree x years after its height was first measured. Which statement is the best interpretation of 3 in this context?",
+    "choices": {
+      "A": "The tree will be measured each year for 3 years.",
+      "B": "The tree is estimated to grow to a maximum height of 3 feet.",
+      "C": "The estimated height of the tree increased by 3 feet each year.",
+      "D": "The estimated height of the tree was 3 feet when it was first measured."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "9": {
+    "page": 64,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "Which expression is equivalent to 2x^3 + 8x^2y + xy^2 + 4y^3?",
+    "choices": {
+      "A": "(2x^2 + 4y)(x + y^2)",
+      "B": "(2x^2 + y^2)(x + 4y)",
+      "C": "(2x^3 + y^2)(x^2 + 4y^3)",
+      "D": "(2x^3 + y^3)(x + 4y)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "10": {
+    "page": 65,
+    "correctAnswer": "17",
+    "stimulus": "f(x) = x^3 + 8x + 17",
+    "text": "For the given function f, the graph of y = f(x) in the xy-plane passes through the point (0, b), where b is a constant. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "11": {
+    "page": 66,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "Scientists collected fallen acorns that each housed a colony of the ant species P. ohioensis and analyzed each colony’s structure. For any of these colonies, if the colony has x worker ants, the equation y = 0.67x + 2.6, where 20 ≤ x ≤ 110, gives the predicted number of larvae, y, in the colony. If one of these colonies has 35 worker ants, which of the following is closest to the predicted number of larvae in the colony?",
+    "choices": {
+      "A": "114",
+      "B": "48",
+      "C": "38",
+      "D": "26"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "12": {
+    "page": 67,
+    "correctAnswer": "B",
+    "stimulus": "b − 49 = x/y",
+    "text": "The given equation relates the positive numbers b, x, and y. Which equation correctly expresses x in terms of b and y?",
+    "choices": {
+      "A": "x = (by − 49)/y",
+      "B": "x = by − 49y",
+      "C": "x = by − 49",
+      "D": "x = (b − 49)/y"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "13": {
+    "page": 68,
+    "correctAnswer": "D",
+    "stimulus": "2y = 5x + 16\n−2y = 7x − 22",
+    "text": "The solution to the given system of equations is (x, y). What is the value of 24x?",
+    "choices": {
+      "A": "−12",
+      "B": "−6",
+      "C": "6",
+      "D": "12"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "14": {
+    "page": 69,
+    "correctAnswer": "4.75",
+    "stimulus": "19.5x + 24.25y = 583",
+    "text": "Odalys ordered mulch and river rock, which cost a total of $583, for her home. The given equation represents the relationship between the number of cubic yards of mulch, x, and the number of tons of river rock, y, Odalys ordered. How much more, in dollars, did a ton of river rock cost Odalys than a cubic yard of mulch?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "15": {
+    "page": 70,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "James purchased a certain baseball card on January 1. The function f(x) = 55(1.04)^x, where 0 ≤ x ≤ 10, gives the predicted value, in dollars, of the baseball card x years after James purchased it. What is the best interpretation of the statement \"f(7) is approximately equal to 72\" in this context?",
+    "choices": {
+      "A": "When the baseball card’s predicted value is approximately 72 dollars, it is 7% greater than the predicted value, in dollars, on January 1 of the previous year.",
+      "B": "When the baseball card’s predicted value is approximately 72 dollars, it is 7 times the predicted value, in dollars, on January 1 of the previous year.",
+      "C": "From the day James purchased the baseball card to 7 years after James purchased the card, its predicted value increased by a total of approximately 72 dollars.",
+      "D": "7 years after James purchased the baseball card, its predicted value is approximately 72 dollars."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "16": {
+    "page": 71,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "At what value of x does the graph of y = x^2 + 18x − 23 reach its minimum in the xy-plane?",
+    "choices": {
+      "A": "−23",
+      "B": "−9",
+      "C": "9",
+      "D": "18"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "17": {
+    "page": 72,
+    "correctAnswer": "D",
+    "stimulus": "P(t) = 260(1.03)^((3/2)t)",
+    "text": "The function P models the population, in thousands, of a certain city t years after 2009. According to the model, the population is predicted to increase by n% every 8 months. What is the value of n?",
+    "choices": {
+      "A": "0.22",
+      "B": "1.03",
+      "C": "2",
+      "D": "3"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "18": {
+    "page": 73,
+    "correctAnswer": "4700",
+    "stimulus": null,
+    "text": "How many centimeters are equivalent to 47 meters? (1 meter = 100 centimeters)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "19": {
+    "page": 74,
+    "correctAnswer": "2025",
+    "stimulus": null,
+    "text": "Circle A has a radius of 3x and circle B has a radius of 135x. The area of circle B is how many times the area of circle A?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "20": {
+    "page": 75,
+    "correctAnswer": "45/8",
+    "_altAnswers": [
+      "5.625",
+      "5.6250"
+    ],
+    "stimulus": null,
+    "text": "The graph of a line in the xy-plane passes through the point (1, 5) and crosses the x-axis at the point (9, 0). The line crosses the y-axis at the point (0, b). What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "21": {
+    "page": 76,
+    "correctAnswer": "1/8",
+    "_altAnswers": [
+      "0.125",
+      ".125"
+    ],
+    "stimulus": null,
+    "text": "If 2a/b = 6.5 and a/(bn) = 26, what is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  },
+  "22": {
+    "page": 77,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "For two acute angles, ∠Q and ∠R, cos(Q) = sin(R). The measures, in degrees, of ∠Q and ∠R are x + 61 and 4x + 4, respectively. What is the value of x?",
+    "choices": {
+      "A": "5",
+      "B": "19",
+      "C": "23",
+      "D": "29"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "_keySource": "solved"
+  }
+}

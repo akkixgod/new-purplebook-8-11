@@ -1,0 +1,289 @@
+{
+  "1": {
+    "page": 55,
+    "correctAnswer": "C",
+    "stimulus": "The table shows selected values from the function f.",
+    "text": "Which of the following is the best description of function f?",
+    "choices": {
+      "A": "Increasing linear",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Decreasing exponential"
+    },
+    "imageUrl": "/mocks/2025-june-int-b/figures/math1-q01-function-table.svg",
+    "_figureNote": "Two-column table, headers x and f(x). Rows: (−1, 1/50); (0, 1); (1, 50); (2, 2,500). Thin black grid borders, centered cells. Fraction 1/50 as stacked fraction. No watermark."
+  },
+  "2": {
+    "page": 56,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "The equation d = 37w + 100 gives the total amount of money d, in dollars, that Janna plans to save w weeks after she starts to save. What is the total amount of money, in dollars, she plans to save in 10 weeks?",
+    "choices": {
+      "A": "420",
+      "B": "470",
+      "C": "520",
+      "D": "570"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "3": {
+    "page": 57,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "What value of n is the solution to the equation 9n − 10 = 2n + 25?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "11"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "4": {
+    "page": 58,
+    "correctAnswer": "D",
+    "stimulus": "x² − 2 = 23",
+    "text": "Which value is a solution to the given equation?",
+    "choices": {
+      "A": "−23",
+      "B": "−21",
+      "C": "−2",
+      "D": "5"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "5": {
+    "page": 59,
+    "correctAnswer": "D",
+    "stimulus": "f(x) = 7x + 9",
+    "text": "The function f gives the estimated height, in feet, of a poplar tree x years after its height was first measured. Which statement is the best interpretation of 9 in this context?",
+    "choices": {
+      "A": "The tree will be measured each year for 9 years.",
+      "B": "The tree is estimated to grow to a maximum height of 9 feet.",
+      "C": "The estimated height of the tree increased by 9 feet each year.",
+      "D": "The estimated height of the tree was 9 feet when it was first measured."
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "6": {
+    "page": 60,
+    "correctAnswer": "76",
+    "stimulus": null,
+    "text": "The perimeter of a square can be expressed as 4(76) units. What is the length, in units, of a side of this square?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "7": {
+    "page": 61,
+    "correctAnswer": "C",
+    "stimulus": null,
+    "text": "Sonja purchased a laptop in September 2018 when the laptop had a value of $1,000. Each month for the next 50 months, the value of the laptop decreased by 2% of the previous month's value. Which equation represents this situation, where v is the value of the laptop, in dollars, m is the number of months since Sonja purchased the laptop, and m ≤ 50?",
+    "choices": {
+      "A": "v = 2,018(0.98)^m",
+      "B": "v = 2,018(2)^m",
+      "C": "v = 1,000(0.98)^m",
+      "D": "v = 1,000(2)^m"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "8": {
+    "page": 62,
+    "correctAnswer": "C",
+    "stimulus": null,
+    "text": "In triangle FGH, the measure of angle F is 63°. Which additional piece of information is sufficient to prove that triangle FGH is a right triangle?",
+    "choices": {
+      "A": "The length of FH is 63.",
+      "B": "The length of GH is 126.",
+      "C": "The measure of angle H is 27°.",
+      "D": "The sum of the measures of angles F, G, and H is 180°."
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "9": {
+    "page": 63,
+    "correctAnswer": "44",
+    "stimulus": null,
+    "text": "In the figure shown, line r is parallel to line s. What is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-june-int-b/figures/math1-q09-parallel-lines.svg",
+    "_figureNote": "Two horizontal parallel lines: upper labeled r (right end), lower labeled s (right end). Diagonal transversal t sloping up-right, labeled t near upper-right tip. At r∩t, upper-right angle marked x°. At s∩t, corresponding upper-right angle marked 44°. Caption below: Note: Figure not drawn to scale. No watermark."
+  },
+  "10": {
+    "page": 64,
+    "correctAnswer": "B",
+    "stimulus": "11m = 7(n + p)",
+    "text": "The given equation relates the positive numbers m, n, and p. Which equation correctly gives n in terms of m and p?",
+    "choices": {
+      "A": "n = 7p / (11m)",
+      "B": "n = 11m / 7 − p",
+      "C": "n = 7(11m) + p",
+      "D": "n = 11m − 7 − p"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "11": {
+    "page": 65,
+    "correctAnswer": "24",
+    "stimulus": null,
+    "text": "A survey of the daily commuting times, in minutes, of seven different Chicago-based employees at a certain company yielded a data set consisting of the values 31, 13, 44, 32, 53, 22, and 44. A survey of the daily commuting times, in minutes, of seven different San Francisco-based employees at the same company yielded a data set consisting of the values 46, 31, 19, 33, 48, x, and 38. If the means of the two data sets are equal, what is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "12": {
+    "page": 66,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "Which expression is equivalent to 5xy + 30x²y + 35xy²?",
+    "choices": {
+      "A": "5xy(1 + 30x + 35y)",
+      "B": "5xy(1 + 6x + 7y)",
+      "C": "5xy(30x + 35y)",
+      "D": "5xy(6x + 7y)"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "13": {
+    "page": 67,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "A survey was conducted in Madison to estimate the percent of adult residents who support the addition of streetlights at every corner in their town. Based on the survey, it is estimated that 40% of all adult residents of Madison support the addition of streetlights at every corner in their town, with an associated margin of error of 6%. Which of the following is the most appropriate conclusion about all adult residents of Madison?",
+    "choices": {
+      "A": "Plausible values for the percent of all adult residents of Madison who support the addition of streetlights at every corner in their town are between 34% and 46%.",
+      "B": "The addition of streetlights at every corner in the town is supported by exactly 34% of all adult residents of Madison.",
+      "C": "Plausible values for the percent of all adult residents of Madison who support the addition of streetlights at every corner in their town are either less than 34% or more than 46%.",
+      "D": "The addition of streetlights at every corner in the town is supported by more than 46% of all adult residents of Madison."
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "14": {
+    "page": 68,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "A plant nursery classifies a perennial flower species as tall if its typical height when fully grown is more than 100 centimeters. Each of the following inequalities represents the possible heights h, in centimeters, for a specific perennial flower species when fully grown. Which inequality represents the possible heights h, in centimeters, for a tall perennial flower species?",
+    "choices": {
+      "A": "18 < h < 95",
+      "B": "41 < h < 89",
+      "C": "84 < h < 100",
+      "D": "110 < h < 158"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "15": {
+    "page": 69,
+    "correctAnswer": "1",
+    "stimulus": "(2x² + 3x − 3) − (7x² + 2x)",
+    "text": "The given expression is equivalent to −5x² + ax − 3, where a is a constant. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "16": {
+    "page": 70,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "The kinetic energy K, in joules, of an object is given by the formula K = (1/2)mv², where m is the mass of the object, in kilograms, and v is the velocity of the object, in meters per second. If the kinetic energy of a certain object can be found by using the formula K = 98v², what is the mass of the object, in kilograms?",
+    "choices": {
+      "A": "9,604",
+      "B": "196",
+      "C": "98",
+      "D": "49"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "17": {
+    "page": 71,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "The graph models the number of online newsletter subscribers at the end of every six-month period, where x is the number of six-month periods since the end of January 1995 and 0 ≤ x ≤ 4. Which statement is the best interpretation of the point (1, 600) in this context?",
+    "choices": {
+      "A": "The estimated number of online newsletter subscribers at the end of the first six-month period was 600.",
+      "B": "The estimated number of online newsletter subscribers increased every six months by 600 subscribers.",
+      "C": "The estimated number of online newsletter subscribers at the end of January 1995 was 600.",
+      "D": "The estimated number of online newsletter subscribers at the end of January 1996 was 600."
+    },
+    "imageUrl": "/mocks/2025-june-int-b/figures/math1-q17-newsletter-graph.svg",
+    "_figureNote": "First-quadrant coordinate plane. x-axis labeled x, ticks/labels at 1, 2, 3, 4 (domain 0 to 4). y-axis labeled y, labels at 400, 800, 1,200; light horizontal grid every ~100; vertical grid at integers. Origin marked O. Smooth increasing exponential curve through (0, 300) and (1, 600), continuing steeply upward past ~ (1.7, 1,200) toward the top of the frame (model y = 300 · 2^x). Solid black curve, no watermark."
+  },
+  "18": {
+    "page": 73,
+    "correctAnswer": "188",
+    "stimulus": "The table summarizes the number of objects in each group.",
+    "text": "The number of objects in group C is p% of the number of objects in group A. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-june-int-b/figures/math1-q18-groups-table.svg",
+    "_figureNote": "Two-column table. Headers: Group | Number of objects. Rows: A | 325; B | 64; C | 611; D | 96; Total | 1,096. Thin borders, centered text. No watermark."
+  },
+  "19": {
+    "page": 74,
+    "correctAnswer": "226",
+    "stimulus": "(1/4)(s + 4t) = 544\n7s − 8t = 1,192",
+    "text": "The solution to the given system of equations is (s, t). What is the value of s − t?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "20": {
+    "page": 75,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "Line k is shown in the xy-plane. Line j (not shown) is perpendicular to line k and passes through the point (7, 15). What is the y-coordinate of the y-intercept of line j?",
+    "choices": {
+      "A": "−47/4",
+      "B": "−3/2",
+      "C": "4/5",
+      "D": "47/5"
+    },
+    "imageUrl": "/mocks/2025-june-int-b/figures/math1-q20-line-k.svg",
+    "_figureNote": "xy-plane grid, axes from about −10 to 10 with arrows; unit grid; numeric labels every 2 on both axes (−10…10); origin unlabeled or O. Solid line k with slope −5/4 and y-intercept −1/2: passes through filled marked points (−2, 2) and (2, −3); also through (0, −1/2), (−6, 7), (6, −8), etc. Label k near the upper-left portion of the line. No watermark."
+  },
+  "21": {
+    "page": 77,
+    "correctAnswer": "6.6",
+    "stimulus": null,
+    "text": "For the linear function r, the table shows three values of x and their corresponding values of r(x). Function r is defined by r(x) = ax + b, where a and b are constants. What is the value of a + b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-june-int-b/figures/math1-q21-r-table.svg",
+    "_figureNote": "Two-column table. Headers: x | r(x). Rows: −41 | −6; −21 | 0; −1 | 6. Thin borders, centered cells. No watermark."
+  },
+  "22": {
+    "page": 78,
+    "correctAnswer": "D",
+    "stimulus": "y = −3x² − 40\ny = qx − 37",
+    "text": "In the given system of equations, q is a positive constant. The graphs of the equations in the given system intersect at exactly one point, (x, y), in the xy-plane. What is the value of x?",
+    "choices": {
+      "A": "−77",
+      "B": "−43",
+      "C": "−6",
+      "D": "−1"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  }
+}

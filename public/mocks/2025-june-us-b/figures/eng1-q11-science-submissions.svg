@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="280.0" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Total Science Research Submissions by Topic, 2016–2019</text>
+<line x1="55" y1="350.0" x2="530" y2="350.0" stroke="#e5e7eb"/>
+<text x="47" y="354.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">0</text>
+<line x1="55" y1="310.0" x2="530" y2="310.0" stroke="#e5e7eb"/>
+<text x="47" y="314.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">50</text>
+<line x1="55" y1="270.0" x2="530" y2="270.0" stroke="#e5e7eb"/>
+<text x="47" y="274.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">100</text>
+<line x1="55" y1="230.0" x2="530" y2="230.0" stroke="#e5e7eb"/>
+<text x="47" y="234.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">150</text>
+<line x1="55" y1="190.0" x2="530" y2="190.0" stroke="#e5e7eb"/>
+<text x="47" y="194.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">200</text>
+<line x1="55" y1="150.0" x2="530" y2="150.0" stroke="#e5e7eb"/>
+<text x="47" y="154.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">250</text>
+<line x1="55" y1="110.0" x2="530" y2="110.0" stroke="#e5e7eb"/>
+<text x="47" y="114.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">300</text>
+<line x1="55" y1="70.0" x2="530" y2="70.0" stroke="#e5e7eb"/>
+<text x="47" y="74.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">350</text>
+<text x="55.0" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">2016</text>
+<text x="213.3" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">2017</text>
+<text x="371.7" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">2018</text>
+<text x="530.0" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">2019</text>
+<polyline points="55.0,190.0 213.3,110.0 371.7,126.0 530.0,126.0" fill="none" stroke="#111" stroke-width="2"/>
+<polygon points="55.0,185.0 50.0,194.0 60.0,194.0" fill="#111"/>
+<polygon points="213.33333333333331,105.0 208.33333333333331,114.0 218.33333333333331,114.0" fill="#111"/>
+<polygon points="371.66666666666663,121.0 366.66666666666663,130.0 376.66666666666663,130.0" fill="#111"/>
+<polygon points="530.0,121.0 525.0,130.0 535.0,130.0" fill="#111"/>
+<polyline points="55.0,274.0 213.3,278.0 371.7,274.0 530.0,270.0" fill="none" stroke="#4b5563" stroke-width="2"/>
+<rect x="51.0" y="270.0" width="8" height="8" fill="#fff" stroke="#4b5563" stroke-width="1.5"/>
+<rect x="209.33333333333331" y="274.0" width="8" height="8" fill="#fff" stroke="#4b5563" stroke-width="1.5"/>
+<rect x="367.66666666666663" y="270.0" width="8" height="8" fill="#fff" stroke="#4b5563" stroke-width="1.5"/>
+<rect x="526.0" y="266.0" width="8" height="8" fill="#fff" stroke="#4b5563" stroke-width="1.5"/>
+<polyline points="55.0,174.0 213.3,174.0 371.7,170.0 530.0,122.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<circle cx="55.0" cy="174.0" r="4" fill="#fff" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="213.33333333333331" cy="174.0" r="4" fill="#fff" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="371.66666666666663" cy="170.0" r="4" fill="#fff" stroke="#6b7280" stroke-width="1.5"/>
+<circle cx="530.0" cy="122.0" r="4" fill="#fff" stroke="#6b7280" stroke-width="1.5"/>
+<polyline points="55.0,310.0 213.3,310.0 371.7,310.0 530.0,274.0" fill="none" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="55.0" cy="310.0" r="3.5" fill="#9ca3af"/>
+<circle cx="213.33333333333331" cy="310.0" r="3.5" fill="#9ca3af"/>
+<circle cx="371.66666666666663" cy="310.0" r="3.5" fill="#9ca3af"/>
+<circle cx="530.0" cy="274.0" r="3.5" fill="#9ca3af"/>
+<line x1="55" y1="70" x2="55" y2="350" stroke="#111"/>
+<line x1="55" y1="350" x2="530" y2="350" stroke="#111"/>
+<text x="14" y="210.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" transform="rotate(-90 14 210.0)">Number of submissions</text>
+</svg>

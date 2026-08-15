@@ -1,0 +1,295 @@
+{
+  "1": {
+    "page": 79,
+    "stimulus": null,
+    "text": "For the linear function g, the graph of y = g(x) in the xy-plane has a slope of 3 and passes through the point (2, 28). Which equation defines g?",
+    "choices": {
+      "A": "g(x) = 22x",
+      "B": "g(x) = 22x + 3",
+      "C": "g(x) = 3x",
+      "D": "g(x) = 3x + 22"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "2": {
+    "page": 80,
+    "stimulus": null,
+    "text": "If the equations −9x + y = 17 and 9x + y = 17 are graphed in the xy-plane, at what point (x, y) do the graphs intersect?",
+    "choices": {
+      "A": "(0, 17)",
+      "B": "(0, 9)",
+      "C": "(9, 0)",
+      "D": "(17, 0)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "3": {
+    "page": 81,
+    "stimulus": null,
+    "text": "A baker has a total of 15 cups of flour and enough other ingredients to make banana pancakes and apple pancakes. The baker needs 1.25 cups of flour for a batch of banana pancakes and 0.75 cups of flour for a batch of apple pancakes. If the baker makes 8 batches of banana pancakes, what is the greatest number of whole batches of apple pancakes the baker can make?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "4": {
+    "page": 82,
+    "stimulus": null,
+    "text": "What is the y-intercept of the graph of y = 6(7)^(x+2) in the xy-plane?",
+    "choices": {
+      "A": "(0, 6)",
+      "B": "(0, 84)",
+      "C": "(0, 294)",
+      "D": "(0, 1,764)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "5": {
+    "page": 83,
+    "stimulus": "x² − 11x − 3 = 0",
+    "text": "What is a solution to the given equation?",
+    "choices": {
+      "A": "(11 + √((−11)² − 4(1)(−3)))/(2(−3))",
+      "B": "(11 + √((−11)² − 4(1)(−3)))/(2(1))",
+      "C": "(3 + √((−3)² − 4(1)(−11)))/(2(−3))",
+      "D": "(3 + √((−3)² − 4(1)(−11)))/(2(1))"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "6": {
+    "page": 84,
+    "stimulus": "(2/5)x + (2/3)y = 5",
+    "text": "Which table gives three values of x and their corresponding values of y for the given equation?",
+    "choices": {
+      "A": "x | y\n1 | 59/15\n2 | 53/15\n4 | 41/15",
+      "B": "x | y\n1 | 48/5\n2 | 46/5\n4 | 42/5",
+      "C": "x | y\n1 | 42/5\n2 | 39/5\n4 | 33/5",
+      "D": "x | y\n1 | 69/10\n2 | 63/10\n4 | 51/10"
+    },
+    "imageUrl": null,
+    "_figureNote": "Four choice tables (x | y). A: (1, 59/15), (2, 53/15), (4, 41/15). B: (1, 48/5), (2, 46/5), (4, 42/5). C: (1, 42/5), (2, 39/5), (4, 33/5). D: (1, 69/10), (2, 63/10), (4, 51/10). Spans pages 84-85.",
+    "correctAnswer": "D"
+  },
+  "7": {
+    "page": 86,
+    "stimulus": null,
+    "text": "Ari examined a set of 86 plants. The lightest plant had a mass of 2.8 kilograms (kg) and the heaviest plant had a mass of 6.3 kg. Chihiro examined the same set of 86 plants and also an additional plant with a mass of 11.6 kg. Which of the following must be true about the set of plants that Ari examined and the set of plants that Chihiro examined?",
+    "choices": {
+      "A": "The standard deviation of the masses, in kg, of the plants that Ari examined is greater than the standard deviation of the masses, in kg, of the plants that Chihiro examined.",
+      "B": "The range of the masses, in kg, of the plants that Ari examined is greater than the range of the masses, in kg, of the plants that Chihiro examined.",
+      "C": "The median of the masses, in kg, of the plants that Ari examined is less than the median of the masses, in kg, of the plants that Chihiro examined.",
+      "D": "The mean of the masses, in kg, of the plants that Ari examined is less than the mean of the masses, in kg, of the plants that Chihiro examined."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "8": {
+    "page": 87,
+    "stimulus": "3x + 9y = 10\nrx + 18y = 20",
+    "text": "In the given system of equations, r is a constant. The system has infinitely many solutions. What is the value of r?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "9": {
+    "page": 88,
+    "stimulus": null,
+    "text": "In triangle ABC, angle B is a right angle. The length of side AB is 10√41 and the length of side BC is 24√41. What is the length of side AC?",
+    "choices": {
+      "A": "14√41",
+      "B": "26√41",
+      "C": "34√41",
+      "D": "√(34 · 41)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "10": {
+    "page": 89,
+    "stimulus": "m(t) = −0.0274(t/7)² + 7.3873(t/7) + 75.032",
+    "text": "The function m gives the predicted body mass m(t), in kilograms (kg), of a male giraffe t days after it was born in a wildlife reserve, where t ≤ 390. Which of the following is the best interpretation of the statement “m(140) is approximately equal to 212” in this context?",
+    "choices": {
+      "A": "The predicted body mass of a male giraffe was approximately 140 kg 212 days after it was born.",
+      "B": "The predicted body mass of a male giraffe was approximately 212 kg 140 days after it was born.",
+      "C": "The predicted body mass of a male giraffe was approximately 212 kg (140/7) days after it was born.",
+      "D": "The predicted body mass of a male giraffe was approximately (140/7) kg 212 days after it was born."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "11": {
+    "page": 90,
+    "stimulus": null,
+    "text": "Rectangles ABCD and EFGH are similar. The length of each side of EFGH is 10 times the length of the corresponding side of ABCD. The area of ABCD is 140 square units. What is the area, in square units, of EFGH?",
+    "choices": {
+      "A": "14",
+      "B": "100",
+      "C": "1,400",
+      "D": "14,000"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "12": {
+    "page": 91,
+    "stimulus": null,
+    "text": "A machine makes 8-inch, 5-inch, and 7-inch parts. During a certain day, the number of 8-inch parts that the machine makes is 3 times the number n of 5-inch parts, and the number of 7-inch parts is 12. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "choices": {
+      "A": "8(3n) + 5n + 7(12) = 100",
+      "B": "8n + 5n + 7n = 100",
+      "C": "3n + 12 = 100",
+      "D": "4n + 12 = 100"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "13": {
+    "page": 92,
+    "stimulus": null,
+    "text": "If 2 + (1 − x)/2 = −2(1 − x)/3, what is the value of 1 − x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "-12/7"
+  },
+  "14": {
+    "page": 93,
+    "stimulus": null,
+    "text": "An object's speed, in meters per hour, is increasing at a rate of 1,490 meters per hour per second. Which of the following is closest to this rate in feet per second squared? (Use 1 meter = 3.28 feet.)",
+    "choices": {
+      "A": "0.126",
+      "B": "1.36",
+      "C": "7.57",
+      "D": "81.5"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "15": {
+    "page": 94,
+    "stimulus": null,
+    "text": "Which equation has no solution?",
+    "choices": {
+      "A": "63x + 36 = 9(7x + 4)",
+      "B": "63x + 4 = 7x + 4",
+      "C": "63x + 360 = 9(7x + 16)",
+      "D": "63x + 51 = −63x − 51"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "16": {
+    "page": 95,
+    "stimulus": "f(x) = (x − a)(x − b)",
+    "text": "The function f is defined by the given equation, where a and b are integer constants. If f(32) > 0, f(35) < 0, and f(38) > 0, which of the following could be the value of a + b?",
+    "choices": {
+      "A": "35",
+      "B": "37",
+      "C": "67",
+      "D": "69"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "17": {
+    "page": 96,
+    "stimulus": null,
+    "text": "One gallon of sealant costs $13 and will cover 300 square feet of a surface. A deck has a total surface area of d square feet. Which equation represents the cost c, in dollars, of the sealant needed to cover the deck twice?",
+    "choices": {
+      "A": "c = 300d/13",
+      "B": "c = 600d/13",
+      "C": "c = 13(d/150)",
+      "D": "c = 13(d/300)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "18": {
+    "page": 97,
+    "stimulus": "√(k − x) = 42 − x",
+    "text": "In the given equation, k is a constant. The equation has exactly one real solution. What is the minimum possible value of 4k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "167"
+  },
+  "19": {
+    "page": 98,
+    "stimulus": "26z¹⁸ + bz⁹ + 70",
+    "text": "In the given expression, b is a positive integer. If qz⁹ + r is a factor of the expression, where q and r are positive integers, what is the greatest possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "1821"
+  },
+  "20": {
+    "page": 99,
+    "stimulus": null,
+    "text": "In isosceles triangle ABC, sides AB and AC are congruent. Point D divides side BC such that the length of BD is 2/7 of the length of BC. Point E lies on side AB and point F lies on side AC such that when segments DE and DF are drawn, angle BED is congruent to angle CFD. If the length of BE is 14, what is the length of CF?",
+    "choices": {
+      "A": "28",
+      "B": "35",
+      "C": "49",
+      "D": "98"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "21": {
+    "page": 100,
+    "stimulus": null,
+    "text": "In the xy-plane, a unit circle with center at the origin O contains point A with coordinates (1, 0) and point B with coordinates (−8/√89, 5/√89). If the measure of angle AOB is w radians, what is the value of tan w?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "-5/8"
+  },
+  "22": {
+    "page": 101,
+    "stimulus": "x(kx − 112) = −8",
+    "text": "In the given equation, k is an integer constant. If the equation has two distinct real solutions, what is the greatest possible value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "391"
+  }
+}

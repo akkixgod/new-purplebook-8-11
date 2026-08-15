@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="280.0" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Annual Mean Forest Patch Size for Three Land Use</text>
+<text x="280.0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Capability Classes in the Chorotega Region, Costa Rica</text>
+<line x1="55" y1="350.0" x2="530" y2="350.0" stroke="#e5e7eb"/>
+<text x="47" y="354.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">0</text>
+<line x1="55" y1="303.3" x2="530" y2="303.3" stroke="#e5e7eb"/>
+<text x="47" y="307.3" text-anchor="end" font-family="Arial, sans-serif" font-size="11">25</text>
+<line x1="55" y1="256.7" x2="530" y2="256.7" stroke="#e5e7eb"/>
+<text x="47" y="260.7" text-anchor="end" font-family="Arial, sans-serif" font-size="11">50</text>
+<line x1="55" y1="210.0" x2="530" y2="210.0" stroke="#e5e7eb"/>
+<text x="47" y="214.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">75</text>
+<line x1="55" y1="163.3" x2="530" y2="163.3" stroke="#e5e7eb"/>
+<text x="47" y="167.3" text-anchor="end" font-family="Arial, sans-serif" font-size="11">100</text>
+<line x1="55" y1="116.7" x2="530" y2="116.7" stroke="#e5e7eb"/>
+<text x="47" y="120.7" text-anchor="end" font-family="Arial, sans-serif" font-size="11">125</text>
+<line x1="55" y1="70.0" x2="530" y2="70.0" stroke="#e5e7eb"/>
+<text x="47" y="74.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11">150</text>
+<text x="55.0" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">1960</text>
+<text x="213.3" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">1979</text>
+<text x="371.7" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">1986</text>
+<text x="530.0" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">2000</text>
+<polyline points="55.0,116.7 213.3,116.7 371.7,284.7 530.0,238.0" fill="none" stroke="#111" stroke-width="2"/>
+<circle cx="55.0" cy="116.7" r="4" fill="#111"/>
+<circle cx="213.3" cy="116.7" r="4" fill="#111"/>
+<circle cx="371.7" cy="284.7" r="4" fill="#111"/>
+<circle cx="530.0" cy="238.0" r="4" fill="#111"/>
+<polyline points="55.0,228.7 213.3,210.0 371.7,312.7 530.0,284.7" fill="none" stroke="#6b7280" stroke-width="2"/>
+<circle cx="55.0" cy="228.7" r="4" fill="#6b7280"/>
+<circle cx="213.3" cy="210.0" r="4" fill="#6b7280"/>
+<circle cx="371.7" cy="312.7" r="4" fill="#6b7280"/>
+<circle cx="530.0" cy="284.7" r="4" fill="#6b7280"/>
+<polyline points="55.0,210.0 213.3,191.3 371.7,294.0 530.0,256.7" fill="none" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="55.0" cy="210.0" r="4" fill="#9ca3af"/>
+<circle cx="213.3" cy="191.3" r="4" fill="#9ca3af"/>
+<circle cx="371.7" cy="294.0" r="4" fill="#9ca3af"/>
+<circle cx="530.0" cy="256.7" r="4" fill="#9ca3af"/>
+<line x1="55" y1="70" x2="55" y2="350" stroke="#111"/>
+<line x1="55" y1="350" x2="530" y2="350" stroke="#111"/>
+<text x="14" y="210.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" transform="rotate(-90 14 210.0)">Mean patch size (hectares)</text>
+<rect x="55" y="392" width="12" height="12" fill="#111"/>
+<text x="73" y="402" font-family="Arial, sans-serif" font-size="11">Class VIII</text>
+<rect x="175" y="392" width="12" height="12" fill="#6b7280"/>
+<text x="193" y="402" font-family="Arial, sans-serif" font-size="11">Class VI</text>
+<rect x="295" y="392" width="12" height="12" fill="#9ca3af"/>
+<text x="313" y="402" font-family="Arial, sans-serif" font-size="11">Class VII</text>
+</svg>

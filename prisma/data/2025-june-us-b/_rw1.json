@@ -1,0 +1,357 @@
+{
+  "1": {
+    "page": 2,
+    "correctAnswer": "C",
+    "stimulus": "*Dragon against Tiger* is an important work of *Nihonga*, or classical Japanese painting. Unlike Wada Eisaku, who adopted traditional European methods such as painting with oil on canvas, Hashimoto Gahō ______ traditional Japanese approaches. For instance, Hashimoto produced *Dragon against Tiger* by applying color pigments to a silk surface.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "overlooked",
+      "B": "distrusted",
+      "C": "embraced",
+      "D": "released"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "page": 3,
+    "correctAnswer": "C",
+    "stimulus": "The following text is from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Mole is returning home after a visit to Mr. Badger’s house.\n\nAs he hurried along, eagerly <u>anticipating</u> the moment when he would be at home again among the things he knew and liked, the Mole saw clearly that he was an animal of tilled field and hedge-row, linked to the ploughed furrow, the frequented pasture, the lane of evening lingerings, the cultivated garden-plot.",
+    "text": "As used in the text, what does the word “anticipating” most nearly mean?",
+    "choices": {
+      "A": "Describing",
+      "B": "Getting ahead of",
+      "C": "Looking forward to",
+      "D": "Instructing"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "page": 4,
+    "correctAnswer": "B",
+    "stimulus": "The human body has three types of muscle ______ cardiac, and skeletal. The levator anguli oris is a skeletal muscle—of which the body contains more than six hundred—and it helps with raising the corners of the mouth.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "tissue and smooth,",
+      "B": "tissue: smooth,",
+      "C": "tissue smooth,",
+      "D": "tissue. Smooth"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "4": {
+    "page": 5,
+    "correctAnswer": "A",
+    "stimulus": "The Fly River delta is a remarkably ______ landscape: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Gulf of Papua.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "mutable",
+      "B": "habitable",
+      "C": "secluded",
+      "D": "homogeneous"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "page": 6,
+    "correctAnswer": "B",
+    "stimulus": "Benjamin Prud’homme and colleagues have explored how convergent evolution—<u>a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages</u>—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.",
+    "text": "Which choice best states the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It provides examples of how a phenomenon was studied by scientists in the field before Green and Extavour’s study.",
+      "B": "It gives a basic description of a phenomenon that is central to the discussion that follows.",
+      "C": "It clarifies a concept that the author implies was unclear in the studies mentioned in the text.",
+      "D": "It introduces a method of scientific analysis that is discussed in greater detail later in the text."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "page": 7,
+    "correctAnswer": "C",
+    "stimulus": "In what is now Washington state, the Tulalip Tribes operate the Hibulb Cultural Center. Relying on traditional knowledge to guide the design of exhibits, this institution presents Tulalip history and culture to the tribes’ citizens. The Turtle Mountain Band of Chippewa, a tribe in North Dakota, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren’t Indigenous-led; when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Euro-centric strategies for designing exhibits.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It describes how tribal cultural centers designed exhibits of a particular set of artifacts, then analyzes how non-Indigenous institutions designed exhibits of the same artifacts.",
+      "B": "It examines how tribal citizens respond to exhibits at tribal cultural centers, then speculates how non-Indigenous audiences would respond to the same exhibits.",
+      "C": "It discusses two cultural centers operated by tribes, then compares them with non-Indigenous institutions that present Indigenous exhibits.",
+      "D": "It outlines an early strategy for exhibit design used by one tribal cultural center, then explains a newer strategy used by a different tribal cultural center."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "page": 8,
+    "correctAnswer": "C",
+    "stimulus": "Text 1\nUisdean Nicholson and his team have discovered evidence in seismic data of a 40-kilometer-wide subsurface crater beneath nearly a kilometer of water off the coast of West Africa that is consistent with a 400-meter-wide asteroid striking the seafloor. This structure, which the team named Nadir, exhibits all the telltale signs of a high-velocity impact crater: an elevated rim, a circular shape, a terraced floor, and a pronounced area of uplift at its center.\n\nText 2\nBoth carbonate dissolution and subsurface salt withdrawal can cause craterlike depressions without the need for a high-velocity impact. However, carbonate dissolution is very unlikely to have occurred in the vicinity of Nadir, and although subsurface salt withdrawal could have plausibly occurred in this area and would result in a depression with a terraced floor or a circular shape, it would not exhibit the area of central uplift seen at Nadir.",
+    "text": "Which choice best describes a difference between the approach of Text 1 and the approach of Text 2?",
+    "choices": {
+      "A": "Text 1 dispassionately describes Nicholson and colleagues’ findings and conclusions, whereas Text 2 attempts to convey the researchers’ excitement on discovering Nadir.",
+      "B": "Text 1 focuses on features Nadir lacks, whereas Text 2 indicates features it shares with other geological depressions.",
+      "C": "Text 1 discusses a single plausible cause of Nadir, whereas Text 2 evaluates two possible causes.",
+      "D": "Text 1 emphasizes the evidence supporting an asteroid impact as the cause of Nadir, whereas Text 2 argues against that explanation."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "page": 9,
+    "correctAnswer": "A",
+    "stimulus": "“Cocoa” is an example of a loanword—that is, a word that originated in one language and was later adopted by another. The word came to English indirectly from *cacao*, the Spanish word for the plant that chocolate is made from. Spanish had borrowed it from Nahuatl, an Indigenous language of Central Mexico, in which the word’s original form is *cacahuatl*. “Puma” is also Indigenous in origin and entered English through Spanish. But in this case, the original source was Quechua, a language of South America, in which the word for the mountain lion is also *puma*.",
+    "text": "The author makes which point about the Spanish language?",
+    "choices": {
+      "A": "It has served as a medium through which Indigenous languages have influenced English.",
+      "B": "Its contribution to English vocabulary roughly equals the collective contribution by Indigenous languages.",
+      "C": "It adopted Nahuatl and Quechua words in approximately equal numbers.",
+      "D": "It has borrowed words from Indigenous languages and contributed words to them."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "page": 10,
+    "correctAnswer": "A",
+    "stimulus": "Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” which in part involved working across multiple canvasses at once. That many of Hair’s acolytes, including Isaac Knight, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group’s shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Willie Reagan was also prolific, his paintings were executed with greater attention to detail.",
+    "text": "What does the text most strongly suggest about paintings by Knight?",
+    "choices": {
+      "A": "Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by Reagan are.",
+      "B": "Although it is evident that Knight adopted some of Hair’s preferred techniques, Knight’s works are less derivative of works by Hair than is typically acknowledged.",
+      "C": "The lack of precision with which they were executed suggests that they are inferior to works by either Hair or Reagan.",
+      "D": "Knight’s reliance on the technique of fast painting likely accounts for his works being more aesthetically interesting than works by Reagan are."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "page": 11,
+    "correctAnswer": "A",
+    "stimulus": "The following text is adapted from Daniel Defoe’s 1704 nonfiction book *The Storm*.\n\nThe sermon is a sound of words spoken to the ear, and prepared only for present meditation, and extends no farther than the strength of memory can convey it; a book printed is a record; remaining in every man’s possession, always ready to renew its acquaintance with his memory, and always ready to be produced as an authority or voucher to any reports he makes out of it, and conveys its contents for ages to come, to the eternity of mortal time, when the author is forgotten in his grave.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Words committed to print have a greater permanence than messages that are merely spoken aloud.",
+      "B": "People are less likely to forget a message when they hear it spoken aloud than they are when they read it in print.",
+      "C": "Unless a spoken message is delivered by an expert, it can be safely ignored.",
+      "D": "Most authors have little hope of being remembered well past their lifetimes."
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "page": 12,
+    "correctAnswer": "D",
+    "stimulus": "A student is researching the trends in the topics submitted to a national science fair for high school students. The graph shows the number of submissions by topic that were made each year. Based on the data in the graph, the student claims that <u>there were more medicine and health research topics submitted in 2019 than in any other year.</u>",
+    "text": "Which choice most effectively uses data from the graph to support the underlined claim?",
+    "choices": {
+      "A": "In 2016, the number of cellular and molecular biology topic submissions was the same as the number of animal science topic submissions.",
+      "B": "In 2019, there were more physics and space science topic submissions than there were medicine and health topic submissions.",
+      "C": "The lowest number of animal science topic submissions in a year was approximately 95 in 2016.",
+      "D": "The highest number of medicine and health topic submissions during the period shown is approximately 285 in 2019."
+    },
+    "imageUrl": "/mocks/2025-june-us-b/figures/eng1-q11-science-submissions.svg",
+    "_figureNote": "Line graph titled \"Total Science Research Submissions by Topic, 2016–2019\". Y-axis: Number of submissions (0–350). X-axis: Year (2016–2019). Series: cellular and molecular biology (solid + filled triangles) ≈200/300/280/280; physics and space science (dashed + open squares) ≈95/90/95/100; medicine and health (dotted + open circles) ≈220/220/225/285; animal science (solid + stars) ≈50/50/50/95."
+  },
+  "12": {
+    "page": 13,
+    "correctAnswer": "B",
+    "stimulus": "*Poems* is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker criticizes activists who champion humanitarian causes in other countries while overlooking local concerns, saying, ______",
+    "text": "Which quotation from *Poems* most effectively illustrates the claim?",
+    "choices": {
+      "A": "“Men may tread down the poor and lowly, / May crush them in anger and hate, / But surely the mills of God’s justice / Will grind out the grist of their fate.” (from “An Appeal to My Countrywomen”)",
+      "B": "“When ye plead for the wrecked and fallen, / The exile from far-distant shores, / Remember that men are still wasting / Life’s crimson around your own doors.” (from “An Appeal to My Countrywomen”)",
+      "C": "“God bless our native land, / Land of the newly free, / Oh may she ever stand / For truth and liberty.” (from “God Bless Our Native Land”)",
+      "D": "“Let me make the songs for the people, / Songs for the old and young; / Songs to stir like a battle-cry / Wherever they are sung.” (from “Songs for the People”)"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "page": 14,
+    "correctAnswer": "C",
+    "stimulus": "To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the annual mean size of forest patches across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region’s ______",
+    "text": "Which choice most effectively uses data from the graph to complete the assertion?",
+    "choices": {
+      "A": "difference between mean forest patch size in Class VIII and in Class VI in 2000.",
+      "B": "steady increase in mean forest patch size from 1960 to 1979, followed by a more sudden increase in 1986 for all classes.",
+      "C": "increase in mean forest patch size after 1986 in all classes.",
+      "D": "similarity in mean forest patch size in Class VIII and Class VII in 1986."
+    },
+    "imageUrl": "/mocks/2025-june-us-b/figures/eng1-q13-forest-patches.svg",
+    "_figureNote": "Line graph titled \"Annual Mean Forest Patch Size for Three Land Use Capability Classes in the Chorotega Region, Costa Rica\". Y-axis: Mean patch size (hectares), 0–150. X-axis: Year (1960, 1979, 1986, 2000). Class VIII (solid + filled triangles) ≈125/125/35/60; Class VI (dashed + open squares) ≈65/75/20/35; Class VII (dotted + open circles) ≈75/85/30/50. All series dip sharply in 1986 then rise by 2000.",
+    "_keySource": "solved"
+  },
+  "14": {
+    "page": 15,
+    "correctAnswer": "B",
+    "stimulus": "Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on isolated caterpillars, 33% of the tested species produced sound, which ranged from clicks in *Actias luna* to whistles in *Rhodinia fugax*. Although some insects use sound to communicate with members of the same species, the researchers claim that the caterpillar sounds recorded in their study are directed primarily at predators.",
+    "text": "Which finding, if true, would most directly support Bura and colleagues’ claim?",
+    "choices": {
+      "A": "In most cases, the sound that a caterpillar species produced during simulated attacks was not produced by other caterpillar species during simulated attacks.",
+      "B": "Chickens and yellow warblers, two predators of caterpillars, have been observed to stop their attacks in response to caterpillar sounds.",
+      "C": "Each caterpillar species tended to produce one sound during simulated attacks, although individuals occasionally made a variety of other sounds during simulated attacks as well.",
+      "D": "Caterpillar clicks were emitted in a frequency detectable by birds that prey on caterpillars, but caterpillar whistles were not."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "page": 16,
+    "correctAnswer": "A",
+    "stimulus": "In dialects of English spoken in Scotland, the “r” sound is strongly emphasized when it appears at the end of syllables (as in “car”) or before other consonant sounds (as in “bird”). English dialects of the Upland South, a region stretching from Oklahoma to western Virginia, place similar emphasis on “r” at the ends of syllables and before other consonant sounds. Historical records show that the Upland South was colonized largely by people whose ancestors came from Scotland. Thus, linguists have concluded that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the English dialects spoken in the Upland South acquired their emphasis on the “r” sound from dialects spoken in Scotland.",
+      "B": "emphasis on the “r” sound will eventually spread from English dialects spoken in the Upland South to dialects spoken elsewhere.",
+      "C": "the English dialects spoken in Scotland were influenced by dialects spoken in the Upland South.",
+      "D": "people from Scotland abandoned their emphasis on the “r” sound after relocating to the Upland South."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "page": 17,
+    "correctAnswer": "B",
+    "stimulus": "What makes the theremin a unique musical instrument? You play it without touching it. When you place your ______ the pitch will shift as your hands move through the air.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "hand’s between the two antenna’s,",
+      "B": "hands between the two antennas,",
+      "C": "hands’ between the two antennas’,",
+      "D": "hands’ between the two antennas,"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "page": 18,
+    "correctAnswer": "B",
+    "stimulus": "Round Rock Chapter is one of the 110 chapters of the Navajo Nation (*Naabeehó Bináhásdzo*). The chapter, known as *Tsé Nikání* in the Navajo language (*Diné bizaad*), was the subject of a profile ______ in the *Navajo Times* on February 13, 2014.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "appeared",
+      "B": "appearing",
+      "C": "appears",
+      "D": "has appeared"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "page": 19,
+    "correctAnswer": "A",
+    "stimulus": "San Juan High School and Grand County High School are two of several Utah ______ enormous geoglyph of the letters SJ overlooks San Juan High, while a geoglyph of the letter G overlooks Grand County High.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "schools that have their own hillside geoglyphs. An",
+      "B": "schools, that have their own hillside geoglyphs and an",
+      "C": "schools that have their own hillside geoglyphs, an",
+      "D": "schools, that have their own hillside geoglyphs, and an"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "page": 20,
+    "correctAnswer": "D",
+    "stimulus": "Deposits of crushed orange limestone and other organic matter lend the sand at Porto Ferro Beach in Italy an unusual orange tint that dazzles ______ they take a bit of sand home, though, it disturbs the beach’s ecosystem by contributing to erosion.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "visitors, when",
+      "B": "visitors and when",
+      "C": "visitors when",
+      "D": "visitors. When"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "page": 21,
+    "correctAnswer": "B",
+    "stimulus": "Consider the mechanics of the pinhole camera: light passes through a small hole, resulting in a focused projected image. A ray diagram reveals how this ______ the hole’s small size restricts light to a single ray, all light passing through the hole can only arrive at a single destination, eliminating diffraction and ensuring a clear image.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "works because",
+      "B": "works. Because",
+      "C": "works, it’s because",
+      "D": "works: it’s because"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "page": 22,
+    "correctAnswer": "B",
+    "stimulus": "While the greater adjutant can be found in places like the Central Tanintharyi Coast in Myanmar and the Prek Toal Bird Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of conservation efforts that, through community involvement and scientific ______ aim to bring adjutants back from near extinction.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "study",
+      "B": "study,",
+      "C": "study;",
+      "D": "study—"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "page": 23,
+    "correctAnswer": "B",
+    "stimulus": "In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni’s machine moved along the rink’s surface, it first scraped off the top layer of ice. ______ it sprayed water into the deep grooves left behind by customers’ skates. Lastly, it smoothed over the newly formed ice.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Next,",
+      "C": "Similarly,",
+      "D": "In contrast,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "page": 24,
+    "correctAnswer": "D",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A lever is a simple machine consisting of a rigid beam and a fulcrum.\n• The fulcrum is the point about which the beam pivots.\n• The input force (effort) is the force applied to the lever.\n• The output force (load) is the force that the lever exerts on another object.\n• In first-class levers, the fulcrum is located between the effort and the load.\n• In second-class levers, the load is located between the effort and the fulcrum.",
+    "text": "The student wants to contrast first-class levers and second-class levers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In levers, the effort is the force applied to the lever; the load, in contrast, is the force that the lever exerts on another object.",
+      "B": "In first-class and second-class levers, the fulcrum and the load are in different locations.",
+      "C": "First-class levers are simple machines consisting of a rigid beam and a fulcrum, but then again, the same is true of second-class levers.",
+      "D": "In first-class levers, the fulcrum is located between the effort and the load, but in second-class levers, the load is located between the effort and the fulcrum."
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "page": 25,
+    "correctAnswer": "D",
+    "stimulus": "• Richard Serra is an American artist.\n• He is known for his large metal sculptures.\n• His large sculpture *Open Ended* is made of weathering steel.\n• His large sculpture *Strike: To Roberta and Rudy* is made of hot-rolled steel.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize a difference between the two sculptures?",
+    "choices": {
+      "A": "*Open Ended* and *Strike: To Roberta and Rudy* are both large metal sculptures by artist Richard Serra.",
+      "B": "*Strike: To Roberta and Rudy* is one of artist Richard Serra’s large metal sculptures.",
+      "C": "Artist Richard Serra is the creator of the weathering steel sculpture *Open Ended*.",
+      "D": "*Open Ended* is made from a different kind of steel than *Strike: To Roberta and Rudy*."
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "page": 26,
+    "correctAnswer": "C",
+    "stimulus": "• Maya Lin is an American artist known for her memorials and large-scale installation artworks.\n• She became famous in 1982 when she completed the Vietnam Veterans Memorial, which consists of two 246-foot granite walls.\n• She completed *Water Line* in 2006.\n• It is an installation composed of aluminum tubing that fills an entire gallery room.\n• She completed *Seven Earth Mountain* in 2015.\n• It is an installation composed of soil that fills an entire gallery room.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize a difference between *Water Line* and *Seven Earth Mountain*?",
+    "choices": {
+      "A": "After completing the Vietnam Veterans Memorial, Maya Lin completed *Water Line*, another large-scale work.",
+      "B": "The sprawling size of Maya Lin’s Vietnam Veterans Memorial is echoed in *Water Line*, a work made of aluminum tubing that fills an entire gallery room.",
+      "C": "Maya Lin’s *Water Line* is composed of aluminum tubing; *Seven Earth Mountain*, by contrast, is composed of soil.",
+      "D": "Maya Lin is known for her memorials and installation art, such as *Water Line* and *Seven Earth Mountain*."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "page": 27,
+    "correctAnswer": "A",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A supercontinent is a single landmass made up of most or all of Earth’s continents.\n• Over time, continents merge together to form supercontinents, which then break apart.\n• This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.\n• Euramerica and Kenorland were supercontinents.\n• Euramerica formed about 300 million years ago.\n• Kenorland formed about 2.6 billion years ago.",
+    "text": "The student wants to specify when Euramerica formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The supercontinent Euramerica formed about 300 million years ago.",
+      "B": "Over hundreds of millions of years, the supercontinent cycle results in supercontinents forming and breaking apart.",
+      "C": "Euramerica was a supercontinent, a single landmass made up of most or all of Earth’s continents.",
+      "D": "Long ago, the Earth was home to supercontinents like Euramerica and Kenorland."
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "page": 28,
+    "correctAnswer": "C",
+    "stimulus": "• The Haystack Mountain School of Crafts (1961) is a building complex designed by American architect Edward Larrabee Barnes.\n• It is located in Deer Isle, Maine.\n• It features a cluster of cedar-shingled buildings.\n• It is considered an impressive example of critical regionalist architecture.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize the location of the Haystack Mountain School of Crafts?",
+    "choices": {
+      "A": "Those wishing to see the Haystack Mountain School of Crafts in person will have to travel to Deer Isle, Maine.",
+      "B": "A stunning example of critical regionalist architecture, Edward Larrabee Barnes’s Haystack Mountain School of Crafts features a cluster of cedar-shingled buildings.",
+      "C": "The architect responsible for designing the Haystack Mountain School of Crafts in Deer Isle, Maine, was Edward Larrabee Barnes.",
+      "D": "Edward Larrabee Barnes is known for designing a building complex that features a cluster of cedar-shingled buildings."
+    },
+    "imageUrl": null
+  }
+}

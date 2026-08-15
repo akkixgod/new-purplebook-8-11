@@ -1,0 +1,298 @@
+{
+  "1": {
+    "page": 59,
+    "stimulus": null,
+    "text": "A business owner purchased an energy-efficient air conditioning system for a cost of $4,200, including installation. The business owner saves $940 per year to operate the new system compared to the operating cost of the old system. Including the cost of the new system, which function f gives the total amount, in dollars, the business owner has saved x years after purchasing the new system?",
+    "choices": {
+      "A": "f(x) = −4,200x + 940",
+      "B": "f(x) = −940x − 4,200",
+      "C": "f(x) = 940x − 4,200",
+      "D": "f(x) = 4,200x − 940"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "2": {
+    "page": 59,
+    "stimulus": null,
+    "text": "For the linear function g, the graph of y = g(x) in the xy-plane has a slope of 5 and passes through the point (2, 37). Which equation defines g?",
+    "choices": {
+      "A": "g(x) = 27x",
+      "B": "g(x) = 27x + 5",
+      "C": "g(x) = 5x",
+      "D": "g(x) = 5x + 27"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "3": {
+    "page": 60,
+    "stimulus": null,
+    "text": "Parallelogram PQRS is similar to parallelogram TUVW, such that P, Q, R, and S correspond to T, U, V, and W, respectively. If PQ = 28TU, then which of the following must be true?",
+    "choices": {
+      "A": "PR = 3QR",
+      "B": "PR = 3VW",
+      "C": "QR = 28TU",
+      "D": "QR = 28UV"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "4": {
+    "page": 61,
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 250 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.72 and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "10"
+  },
+  "5": {
+    "page": 62,
+    "stimulus": null,
+    "text": "Line k is defined by y = 4x + 1/2. Line j is perpendicular to line k in the xy-plane. What is the slope of line j?",
+    "choices": {
+      "A": "−2",
+      "B": "−1/4",
+      "C": "1/2",
+      "D": "4"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "6": {
+    "page": 62,
+    "stimulus": null,
+    "text": "The kinetic energy K, in joules, of an object is given by the formula K = (1/2)mv², where m is the mass of the object, in kilograms, and v is the velocity of the object, in meters per second. If the kinetic energy of a certain object can be found by using the formula K = 82v², what is the mass of the object, in kilograms?",
+    "choices": {
+      "A": "6,724",
+      "B": "164",
+      "C": "82",
+      "D": "41"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "7": {
+    "page": 63,
+    "stimulus": null,
+    "text": "What is the y-intercept of the graph of y = 16ˣ in the xy-plane?",
+    "choices": {
+      "A": "(0, 1)",
+      "B": "(0, 16)",
+      "C": "(0, 0)",
+      "D": "(0, 15)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "8": {
+    "page": 63,
+    "stimulus": null,
+    "text": "Which expression is equivalent to ((⁷√3)t)^{7/8}, where t > 0?",
+    "choices": {
+      "A": "⁷√(3t⁸)",
+      "B": "⁷√(3⁸t)",
+      "C": "⁸√(3t⁷)",
+      "D": "⁸√(3⁷t)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "9": {
+    "page": 64,
+    "stimulus": "m(t) = −0.0274(t/7)² + 7.3873(t/7) + 75.032",
+    "text": "The function m gives the predicted body mass m(t), in kilograms (kg), of a male giraffe t days after it was born in a wildlife reserve, where t ≤ 390. Which of the following is the best interpretation of the statement “m(370) is approximately equal to 389” in this context?",
+    "choices": {
+      "A": "The predicted body mass of a male giraffe was approximately 370 kg 389 days after it was born.",
+      "B": "The predicted body mass of a male giraffe was approximately 389 kg 370 days after it was born.",
+      "C": "The predicted body mass of a male giraffe was approximately 389 kg (370/7) days after it was born.",
+      "D": "The predicted body mass of a male giraffe was approximately (370/7) kg 389 days after it was born."
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "10": {
+    "page": 64,
+    "stimulus": "(5/9)(x − k) = k(x − 9/5)",
+    "text": "In the given equation, k is a constant. The equation has no solution. What is the value of k?",
+    "choices": {
+      "A": "−5/9",
+      "B": "−9/5",
+      "C": "9/5",
+      "D": "5/9"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "11": {
+    "page": 65,
+    "stimulus": "f(x) = −3x² + 30x − 48",
+    "text": "The function f is defined by the given equation. Which of the following equivalent forms of the equation displays the maximum value of the function as a constant or coefficient?",
+    "choices": {
+      "A": "f(x) = −3x² + 24x + 6x − 48",
+      "B": "f(x) = −3x(x − 8) + 6(x − 8)",
+      "C": "f(x) = −3(x − 5)² + 27",
+      "D": "f(x) = −3(x − 8)(x − 2)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "12": {
+    "page": 65,
+    "stimulus": null,
+    "text": "An object's speed, in meters per hour, is increasing at a rate of 1,530 meters per hour per second. Which of the following is closest to this rate in feet per second squared? (Use 1 meter = 3.28 feet.)",
+    "choices": {
+      "A": "0.13",
+      "B": "1.39",
+      "C": "7.77",
+      "D": "83.6"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "13": {
+    "page": 66,
+    "stimulus": null,
+    "text": "The table shows four values of x and their corresponding values of y. The linear relationship between x and y can be represented by the equation 2x + By = C, where B and C are constants. What is the value of C?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math2-q13-xy-table.svg",
+    "_figureNote": "Two-column table headers x and y. Rows: (−6, −14), (−3, −16), (3, −20), (6, −22). Do not duplicate table in stimulus.",
+    "correctAnswer": "-54"
+  },
+  "14": {
+    "page": 67,
+    "stimulus": "2x + 5y = 9\n12x + 30y = 54",
+    "text": "For each real number r, which of the following points lies on the graph of each equation in the xy-plane for the given system?",
+    "choices": {
+      "A": "(r, −2r/5 + 9/5)",
+      "B": "(−2r/5 + 9/5, r)",
+      "C": "(−2r/5 + 9, 2r/5 + 54)",
+      "D": "(r/6 + 9, −r/6 + 54)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "15": {
+    "page": 67,
+    "stimulus": "9x² + 30x + q = 43",
+    "text": "In the given equation, q is a constant. One solution to the given equation is (−5 + √14)/3. What is the value of q?",
+    "choices": {
+      "A": "54",
+      "B": "43",
+      "C": "11",
+      "D": "5"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "16": {
+    "page": 68,
+    "stimulus": null,
+    "text": "At a hotel, guests used the pool for a total of t hours in March. At the same hotel, guests used the pool for 3.61t hours in April. What is the percent increase in the number of hours guests used the pool from March to April?",
+    "choices": {
+      "A": "2.61%",
+      "B": "3.61%",
+      "C": "261%",
+      "D": "361%"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "17": {
+    "page": 68,
+    "stimulus": null,
+    "text": "In the xy-plane, the point (6, 7) is a solution to which of the following systems of inequalities?",
+    "choices": {
+      "A": "x < 3\ny > 5",
+      "B": "x < 3\ny < 5",
+      "C": "x > 3\ny < 5",
+      "D": "x > 3\ny > 5"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "18": {
+    "page": 69,
+    "stimulus": null,
+    "text": "At different times on a certain day, a manager at a theme park recorded the number of visitors. An exponential model gives the estimated number of visitors, V, at the theme park t hours after the theme park opened, where t ≤ 3. Based on the model, 80 visitors were estimated to be at the theme park when it opened, and every 30 minutes the estimated number of visitors increased by 150% of the estimated number of visitors 30 minutes earlier. Which of the following equations best represents this model?",
+    "choices": {
+      "A": "V = 80(2.50)^{2t}",
+      "B": "V = 80(2.50)^{t/30}",
+      "C": "V = 80(1.50)^{2t}",
+      "D": "V = 80(1.50)^{t/30}"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "19": {
+    "page": 69,
+    "stimulus": null,
+    "text": "For data set A, the table summarizes the distribution of the number of pieces of mail received by a business each day during a period of 11 days. The data value 17 is removed from data set A to create data set B, which consists of the remaining 10 data values. Which statement best compares the median of data set A and the median of data set B?",
+    "choices": {
+      "A": "The median of data set B is less than the median of data set A.",
+      "B": "The median of data set B is greater than the median of data set A.",
+      "C": "The median of data set B is equal to the median of data set A.",
+      "D": "There is not enough information to compare the medians of the two data sets."
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math2-q19-mail-table.svg",
+    "_figureNote": "Two-column table headers Pieces of mail | Days. Rows: 0|2, 4|2, 5|2, 6|2, 7|1, 8|1, 17|1. Do not duplicate table in stimulus.",
+    "correctAnswer": "D"
+  },
+  "20": {
+    "page": 70,
+    "stimulus": null,
+    "text": "Triangle ABC is similar to triangle DEF, where A corresponds to D and C corresponds to F. Angles C and F are right angles. If tan(A) = √3 and DF = 53, what is the length of DE?",
+    "choices": {
+      "A": "53√3/3",
+      "B": "53√3/2",
+      "C": "53√3",
+      "D": "106"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "21": {
+    "page": 71,
+    "stimulus": null,
+    "text": "A right triangular pyramid has exactly six edges. Each of these edges is 96 centimeters long. If the surface area of the pyramid is k√3 square centimeters, what is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "9216"
+  },
+  "22": {
+    "page": 71,
+    "stimulus": "x(kx − 96) = −8",
+    "text": "In the given equation, k is an integer constant. If the equation has two distinct real solutions, what is the greatest possible value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "287"
+  }
+}

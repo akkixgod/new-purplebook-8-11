@@ -1,0 +1,1056 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "The following text is adapted from Jhumpa Lahiri’s 2003 novel *The Namesake*. Gogol is an elementary school student in Massachusetts.\n\nIn art class, his favorite hour of the week, he <u>carves</u> his name with paper clips into the bottoms of clay cups and bowls. He pastes uncooked pasta to cardboard, and <u>leaves</u> his signature in fat brush strokes below paintings.",
+        "text": "As used in the text, what do the words “carves” and “leaves” both most nearly mean?",
+        "choices": {
+          "A": "Marks",
+          "B": "Passes",
+          "C": "Turns",
+          "D": "Follows"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The sloping tile roofs and picturesque façade of Mission San Carlos Borromeo de Carmelo in Carmel, California, are enduring symbols of the Spanish contribution to Californian architecture. Elements of this style have been reproduced throughout the state—the design of Santa Clara University in Santa Clara, for example, is considered to ______ the style of the Spanish missions.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "renovate",
+          "B": "imitate",
+          "C": "neglect",
+          "D": "reject"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "In a garden, ______ the spread of unwelcome weeds such as nutgrass can be difficult because weeds usually spread easily and quickly become unmanageable, making it hard to remove them completely.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "retrieving",
+          "B": "saving",
+          "C": "halting",
+          "D": "pretending"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Certain features are almost always included in the designs of mosques, like the minaret (or tower), which is considered to be a ______ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Shah Jahan Mosque, which incorporates elements from the Mughal, Safavid, and Timurid styles, will also include several of these standard features.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "hallmark",
+          "B": "rejection",
+          "C": "motivation",
+          "D": "duplicate"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Benjamin Prud’homme and colleagues have explored how convergent evolution—<u>a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages</u>—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.",
+        "text": "Which choice best states the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It provides examples of how a phenomenon was studied by scientists in the field before Green and Extavour’s study.",
+          "B": "It gives a basic description of a phenomenon that is central to the discussion that follows.",
+          "C": "It clarifies a concept that the author implies was unclear in the studies mentioned in the text.",
+          "D": "It introduces a method of scientific analysis that is discussed in greater detail later in the text."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "In Ojibwe, an Indigenous language from the Great Lakes region of what are now the United States and Canada, *wāsa* means “far,” whereas *wa-wāsa* means “far apart.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element “wā” in *wāsa* gets repeated in *wa-wāsa*. There are many examples of this type of reduplication in Ojibwe.",
+        "text": "Which choice best describes the overall structure of the text?",
+        "choices": {
+          "A": "It describes the relationship between Ojibwe and several other languages, raises a question about the nature of that relationship, and then answers that question.",
+          "B": "It identifies the most frequently occurring words in Ojibwe, explains why it is difficult to translate those words into English, and then provides examples of languages other than English into which those words can be translated.",
+          "C": "It presents some specific words in Ojibwe, describes the general linguistic phenomenon exemplified by those words, and then states that this phenomenon occurs frequently in Ojibwe.",
+          "D": "It explains the phenomenon of reduplication, discusses why reduplication has been controversial among scholars, and then argues that an analysis of Ojibwe could help resolve that controversy."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Text 1\nUisdean Nicholson and his team have discovered evidence in seismic data of a 40-kilometer-wide subsurface crater beneath nearly a kilometer of water off the coast of West Africa that is consistent with a 400-meter-wide asteroid striking the seafloor. This structure, which the team named Nadir, exhibits all the telltale signs of a high-velocity impact crater: an elevated rim, a circular shape, a terraced floor, and a pronounced area of uplift at its center.\n\nText 2\nBoth carbonate dissolution and subsurface salt withdrawal can cause craterlike depressions without the need for a high-velocity impact. However, carbonate dissolution is very unlikely to have occurred in the vicinity of Nadir, and although subsurface salt withdrawal could have plausibly occurred in this area and would result in a depression with a terraced floor or a circular shape, it would not exhibit the area of central uplift seen at Nadir.",
+        "text": "Which choice best describes a difference between the approach of Text 1 and the approach of Text 2?",
+        "choices": {
+          "A": "Text 1 dispassionately describes Nicholson and colleagues’ findings and conclusions, whereas Text 2 attempts to convey the researchers’ excitement on discovering Nadir.",
+          "B": "Text 1 focuses on features Nadir lacks, whereas Text 2 indicates features it shares with other geological depressions.",
+          "C": "Text 1 discusses a single plausible cause of Nadir, whereas Text 2 evaluates two possible causes.",
+          "D": "Text 1 emphasizes the evidence supporting an asteroid impact as the cause of Nadir, whereas Text 2 argues against that explanation."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "The following text is from Julia Alvarez’s 2000 novel *In the Name of Salomé*. The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro Román.\n\nOur tutor, Alejandro Román, brought his younger brother, Miguel, to class one day. By now I was eighteen and had learned everything Alejandro had to teach me, so I was glad for a new face. Miguel was an aspiring poet, and he had heard from his brother that the Ureña girls were none other than the daughters of Nicolás Ureña, and they were smart as clockwork. Miguel was hoping not only to meet us but to make the acquaintance of the poet himself at Mamá’s house.",
+        "text": "Based on the text, why does Miguel accompany his brother to the sisters’ house one day?",
+        "choices": {
+          "A": "Miguel has learned all his brother can teach him and now desires to be taught by the sisters.",
+          "B": "Miguel has not received formal instruction in poetry and wants to ask the sisters’ famous father to be his mentor.",
+          "C": "Miguel wants to recite his poems to the sisters and inquire about their perspectives on his work.",
+          "D": "Miguel anticipates having the opportunity to be introduced to both the sisters and their father."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” which in part involved working across multiple canvasses at once. That many of Hair’s acolytes, including Isaac Knight, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group’s shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Willie Reagan was also prolific, his paintings were executed with greater attention to detail.",
+        "text": "What does the text most strongly suggest about paintings by Knight?",
+        "choices": {
+          "A": "Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by Reagan are.",
+          "B": "Although it is evident that Knight adopted some of Hair’s preferred techniques, Knight’s works are less derivative of works by Hair than is typically acknowledged.",
+          "C": "The lack of precision with which they were executed suggests that they are inferior to works by either Hair or Reagan.",
+          "D": "Knight’s reliance on the technique of fast painting likely accounts for his works being more aesthetically interesting than works by Reagan are."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "Vancouver has high pedestrian traffic, but other cities cannot increase their pedestrian traffic simply by replicating a single feature of Vancouver—e.g., its <u>high number of pedestrian amenities</u>—that is associated with walkability. As urbanist Mariela Alfonzo argues, many factors influence people’s decision-making about whether to walk: some studies have shown the importance of demographic characteristics, others have shown the importance of average commuting distance, and so on, and it is clear that none of these factors in isolation fully explains pedestrian habits in a given city.",
+        "text": "Based on the text, the author would most likely agree with which statement about Vancouver’s “high number of pedestrian amenities”?",
+        "choices": {
+          "A": "It may increase walkability in Vancouver but is known to reduce walkability in other cities.",
+          "B": "It is better understood as an effect of the high level of pedestrian traffic in Vancouver than as a cause of that pedestrian traffic.",
+          "C": "It affects walking decisions in Vancouver less than demographic characteristics and average commuting distance do.",
+          "D": "It should be understood as just one of several factors that influence pedestrian activity in Vancouver."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Great Britain, Switzerland, and Hungary about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Great Britain had a greater number of damaging fungus species than either of the other countries did.",
+        "text": "Which choice best describes data from the table that support Pötzelsberger and colleagues’ conclusion?",
+        "choices": {
+          "A": "Hungary reported 18 damaging fungus species but only 13 damaging insect species.",
+          "B": "Great Britain reported 290 damaging fungus species, whereas Switzerland reported 78 damaging insect species.",
+          "C": "Great Britain reported 290 damaging fungus species, which is more than either Switzerland or Hungary reported.",
+          "D": "Switzerland and Hungary reported 11 and 1 damaging fungus species, respectively, which is far fewer than Great Britain reported."
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/eng1-q11-non-native-trees.svg"
+      },
+      "12": {
+        "stimulus": "*Poems* is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker criticizes activists who champion humanitarian causes in other countries while overlooking local concerns, saying, ______",
+        "text": "Which quotation from *Poems* most effectively illustrates the claim?",
+        "choices": {
+          "A": "“Men may tread down the poor and lowly, / May crush them in anger and hate, / But surely the mills of God’s justice / Will grind out the grist of their fate.” (from “An Appeal to My Countrywomen”)",
+          "B": "“When ye plead for the wrecked and fallen, / The exile from far-distant shores, / Remember that men are still wasting / Life’s crimson around your own doors.” (from “An Appeal to My Countrywomen”)",
+          "C": "“God bless our native land, / Land of the newly free, / Oh may she ever stand / For truth and liberty.” (from “God Bless Our Native Land”)",
+          "D": "“Let me make the songs for the people, / Songs for the old and young; / Songs to stir like a battle-cry / Wherever they are sung.” (from “Songs for the People”)"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "Many plants have leaves that are larger on one side of their long central axis than the other, a phenomenon known as asymmetrical orientation. University of California, Berkeley biologist Ciera Martinez and colleagues examined several species of grapevines and closely related plants, which have leaves that grow in pairs, to see if both leaves in a pair tend to be oriented toward the same side (that is, have more tissue on the same side) or not. They found that opposite-side orientation was much more common than same-side orientation; in the Amur grape, for example, approximately ______",
+        "text": "Which choice most effectively uses data from the graph to complete the example?",
+        "choices": {
+          "A": "150 leaf pairs show opposite-side orientation, whereas approximately 60 pairs show same-side orientation.",
+          "B": "110 leaf pairs show opposite-side orientation, whereas approximately 45 pairs show same-side orientation.",
+          "C": "650 leaf pairs show opposite-side orientation, whereas no pairs show same-side orientation.",
+          "D": "110 leaf pairs show opposite-side orientation, whereas no pairs show same-side orientation."
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/eng1-q13-grape-orientation.svg"
+      },
+      "14": {
+        "stimulus": "Mooseberry (*Viburnum edule*) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (*Polygonum aviculare*) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked *V. edule* and *P. aviculare*, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.",
+        "text": "Which finding, if true, would most directly support Mulder and Spellman’s conclusion?",
+        "choices": {
+          "A": "Although *V. edule* and *P. aviculare* both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for *P. aviculare* than for *V. edule*.",
+          "B": "Although significant interannual variations in subfreezing temperature onset were observed during the study, neither *P. aviculare* nor *V. edule* showed any significant interannual variation in the cessation of leaf production.",
+          "C": "Although *V. edule* and *P. aviculare* tended to stop producing leaves at about the same time in years with historically typical temperature patterns, *P. aviculare* stopped producing leaves sooner than *V. edule* did in years with late subfreezing temperature onset.",
+          "D": "Although *V. edule* and *P. aviculare* both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Northeastern Kansas’s Jefferson County is among the most rural counties in the United States: the US Census Bureau classified it as 98.8% rural in 2010. Researchers studying populations of counties like Jefferson often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "being recruited to participate in a study by someone with whom one is socially connected may impart a feeling of obligation to persist with participation in the study.",
+          "B": "people with relatively small social networks are inherently less likely to be recruited to participate in a study via snowball sampling than are people with relatively large social networks.",
+          "C": "snowball sampling is more likely to improve retention rates among rural participants than among nonrural participants.",
+          "D": "social networks can become large enough that two people can share a network but nevertheless regard each other as strangers."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "*Miniature Self-Portrait* (1556) is one of dozens of remaining works by Sofonisba Anguissola. Currently, her painting ______ at the Museum of Fine Arts in Boston, where visitors can view the Italian Renaissance artist’s work on display.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "will have hung",
+          "B": "hangs",
+          "C": "hung",
+          "D": "was hanging"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "The human foot contains a variety of skeletal muscles, each playing an important role in the foot’s healthy movement. The extensor digitorum brevis, which is attached to the calcaneus, ______ responsibility for extending the middle toes.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "bearing",
+          "B": "to bear",
+          "C": "bears",
+          "D": "having borne"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Louisiana resident Oscar James Dunn, one of the nearly two thousand African Americans elected to public office during the decade that followed the Civil War, ______ his term as lieutenant governor in 1868.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "to begin",
+          "B": "having begun",
+          "C": "beginning",
+          "D": "began"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "The giant sequoia (*Sequoiadendron giganteum*) known as D-23, located in the United States, was one of the oldest known trees in the world, at 3,075 years old. With over three millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "rings. A",
+          "B": "rings; a",
+          "C": "rings and a",
+          "D": "rings, a"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "After finding information about Blanche Kelso Bruce, who represented Mississippi in the United States Senate, the student discovered biographical sketches of two other Black Americans who served in ______ Ralph Harold Metcalfe of Illinois and Alton R. Waldon Jr. of New York.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Congress:",
+          "B": "Congress;",
+          "C": "Congress.",
+          "D": "Congress"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "John Thomson employed the pseudonym “Gracchus”—the name of an ancient Roman politician—in political essays he wrote in 1795, a choice that accomplished far more than simply concealing his authorship. ______ it wasn’t an arbitrary pen name but rather a complex rhetorical strategy through which Thomson aligned his political views with the venerated republican ideals of the ancient world, thereby bolstering the authority of his writing.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Indeed,",
+          "B": "Conversely,",
+          "C": "In addition,",
+          "D": "However,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "In Annie Dillard’s *Pilgrim at Tinker Creek*—where, early on, the author marvels at a single goldfish’s delicate fins but later winces when imagining a horde of goldfish laying and eating their own eggs—Dillard struggles to reconcile the complicated juxtapositions of the natural world. ______ nature’s mesmerizing intricacy and pitiless harshness prove inextricably linked for Dillard, like “two branches of the same creek.”",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Ultimately,",
+          "B": "To that end,",
+          "C": "Hence,",
+          "D": "Moreover,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The Galápagos penguin is a species of bird that can be found on the Galápagos Island of Floreana.\n• It has an average weight of 2.5 kilograms.\n• The grey warbler finch is a species of bird that can be found on the Galápagos Island of Floreana.\n• It has an average weight of 9 grams.",
+        "text": "The student wants to emphasize a similarity between the Galápagos penguin and the grey warbler finch. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "On average, the Galápagos penguin weighs 2.5 kilograms, while the grey warbler finch weighs 9 grams.",
+          "B": "The grey warbler finch, which weighs 9 grams on average, can be found on the Galápagos Island of Floreana.",
+          "C": "The grey warbler finch and the Galápagos penguin can both be found on the Galápagos Island of Floreana.",
+          "D": "The Galápagos Island of Floreana is home to several bird species, one of which is the Galápagos penguin."
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.\n• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.\n• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.\n• The mineral fluorite has a Mohs scale number of 4.\n• The mineral orthoclase has a Mohs scale number of 6.\n• The mineral corundum has a Mohs scale number of 9.",
+        "text": "The student wants to emphasize orthoclase’s Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "In the Mohs scale of mineral hardness, corundum (9) is ranked higher than fluorite (4).",
+          "B": "Orthoclase has a Mohs scale number of 6, which means that it is harder than fluorite (4) but softer than corundum (9).",
+          "C": "Orthoclase, fluorite, and corundum can be ordered by their ability to leave visible scratches on other minerals.",
+          "D": "Corundum, which has a Mohs scale number of 9, can scratch both fluorite and orthoclase."
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Zora Neale Hurston was an acclaimed writer.\n• Her first published work of fiction was a short story.\n• It was called “John Redding Goes to Sea.”\n• It first appeared in *Stylus* in 1921.",
+        "text": "The student wants to identify the title of Zora Neale Hurston’s first published short story. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Zora Neale Hurston’s first published work of fiction appeared in 1921.",
+          "B": "Zora Neale Hurston’s first published short story was called “John Redding Goes to Sea.”",
+          "C": "In 1921, a short story by Zora Neale Hurston appeared in *Stylus*.",
+          "D": "Acclaimed writer Zora Neale Hurston’s first published work of fiction was a short story."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Body positions are a fundamental aspect of dance.\n• In Vaganova method ballet, there is a position for the dancer’s arms called first position.\n• In the position, both arms are rounded to roughly align the fingers with the navel.\n• In Royal Academy of Dance ballet, there is a position for the dancer’s arms called demi-seconde position.\n• In this position, both arms are out to the sides but angled downward.",
+        "text": "The student wants to emphasize a similarity between the two positions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "First position in Vaganova method ballet and demi-seconde position in Royal Academy of Dance ballet are both positions for the dancer’s arms.",
+          "B": "Both first position and demi-seconde position are positions in Royal Academy of Dance ballet.",
+          "C": "In first position, both arms are rounded to roughly align the fingers with the navel, in contrast to demi-seconde position, where both arms are out to the sides but angled downward.",
+          "D": "In Vaganova method ballet, there are a number of positions, including first position."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• *Save Me* is a 2018 sculpture by American artist Olivia Steele.\n• It is a pink neon sign that spells out the title phrase.\n• Neon signs became popular with advertisers in the 1920s and began to decline in popularity in the 1960s.\n• Neon signs became popular with artists in the 1960s and continue to be popular today.\n• Writer Sarah Archer says, “[Neon signs] must be made by hand because there’s no cost-effective way to mass-produce them.”",
+        "text": "The student wants to connect the sculpture to the history of neon in art. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Neon signs like *Save Me* are popular with advertisers and artists alike, though they must, as Archer notes, be made by hand, as they cannot be easily mass-produced.",
+          "B": "With *Save Me*, Steele joins the decades-long lineage of artists who have helped make neon a popular artistic medium since the 1960s.",
+          "C": "Continuing from the 1920s to today, neon lighting has been a popular material, both as an advertising tool and an artistic medium.",
+          "D": "The pink neon sign *Save Me* nods to the rich history of a material whose artistic popularity has long been in decline."
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "Nancy Bird-Walton, who was an aviation pioneer, undoubtedly accomplished much, but to gain a lasting place in our historical memory, there is little that can ______ being the first to do something. For example, people will always remember that Aloha Wanderwell was the first woman to drive herself around the world.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "overreach by",
+          "B": "fluctuate with",
+          "C": "constrain within",
+          "D": "prevail over"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "postulate",
+          "B": "ameliorate",
+          "C": "sanction",
+          "D": "rationalize"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "In the 2010s, the price of vintage G.I. Joe action figures rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn't previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "satisfying",
+          "B": "capitalizing",
+          "C": "exploiting",
+          "D": "eliciting"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "The fact that publications by University of Minnesota economist Ellen R. McGrattan, who studies financial policy, are so frequently cited in other scholars' work ______ the usefulness of her research for her peers—other economists clearly find her studies valuable for their own scholarship.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "forestalls",
+          "B": "belies",
+          "C": "underscores",
+          "D": "overshadows"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including *Coprinellus micaceus* and species from the genus *Cantharellus*) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: <u>temperature reductions were observed in the air immediately surrounding the mushrooms.</u> Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.",
+        "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology.",
+          "B": "It provides empirical evidence to bolster the claim made earlier in the text that certain fungal species maintain a hypothermic state.",
+          "C": "It presents a tangential finding about thermoregulation in certain fungal species that the experiment described later in the text was designed to explain.",
+          "D": "It identifies an unexpected observation that motivated the study of evaporative cooling in fungi that is discussed earlier in the text."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "In Algeria, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by approximately three-fourths between 2000 and 2019; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Rasmus Heltberg's study of fuel use in Ghana shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the stability of the local electrical grid.",
+        "text": "Which choice best describes the function of the information about Algeria in the text as a whole?",
+        "choices": {
+          "A": "It provides an example of a type of change that the text goes on to suggest is poorly suited for evaluating whether the energy ladder is a viable model.",
+          "B": "It introduces a finding that the text goes on to suggest can be explained in two different ways that are equally compelling.",
+          "C": "It describes a trend that the text goes on to suggest has a similar cause as a seemingly unrelated trend observed in Ghana.",
+          "D": "It illustrates the kind of phenomenon that the text goes on to suggest is frequently but inadequately accounted for by the energy ladder."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of La Paz, Bolivia, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 528 respondents from La Paz, 67.5% indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of La Paz respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.",
+        "text": "The text makes which point about the difference between the proportions of La Paz residents and Fortaleza residents using parks?",
+        "choices": {
+          "A": "It was much larger than the researchers conducting the study expected.",
+          "B": "It was calculated using sources that predate the survey.",
+          "C": "It could be due to inaccuracies in the survey results.",
+          "D": "It is caused by something other than the parks' proximity to city residents."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "The bird species *Hylophilus ochraceiceps* (the tawny-crowned greenlet) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *H. ochraceiceps*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *H. ochraceiceps* associates *T. caesius* alarm calls with danger.",
+        "text": "Which finding, if true, would most directly support Martinez and colleagues' conclusion?",
+        "choices": {
+          "A": "When Martinez and colleagues played control sounds of random noise in the vicinity of *H. ochraceiceps*, the birds displayed no reaction.",
+          "B": "Other bird species than *H. ochraceiceps* also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played *T. caesius* alarm calls.",
+          "C": "Martinez and colleagues played alarm calls from different *T. caesius* individuals and observed no significant variation in the responses of *H. ochraceiceps*.",
+          "D": "In some instances, *H. ochraceiceps* froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Apple's introduction of the iPhone in 2007 is a quintessential instance of brand extension—the company leveraged its brand recognition as a computer manufacturer to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers' likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of laundry detergent and air freshener) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.",
+        "text": "Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?",
+        "choices": {
+          "A": "Have a representative sample of the households rate the similarity of the product categories in each extended-brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+          "B": "Have a representative sample of the households rate the similarity of one product in each extended-brand pair to other products in the same category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+          "C": "Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand.",
+          "D": "Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P3 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______",
+        "text": "Which choice most effectively uses data from the graph to complete the example?",
+        "choices": {
+          "A": "P3 would derive more aesthetic pleasure from cubist paintings than from abstract paintings.",
+          "B": "P3's rating for abstract and cubist paintings would equal one another.",
+          "C": "P3 would derive less aesthetic pleasure from cubist paintings than from abstract paintings.",
+          "D": "P3's ratings for abstract and cubist paintings would differ from one another."
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/eng2-q10-painting-style-correlation.svg"
+      },
+      "11": {
+        "stimulus": "In 1900, in collaboration with Cherokee cultural historian Will West Long, white ethnographer James Mooney assembled a collection of traditional oral stories related to him by Cherokee elders. Based on their content, Mooney categorized them into various genres: historical traditions, tales of animals, and so on. Noting that some stories feature detailed descriptions of geographic locations in the Cherokee homeland, Mooney demarcated those as a genre he referred to as \"wonder stories.\" While Long and Mooney's collaboration proved valuable as an act of cultural preservation, it is important to bear in mind that Cherokee people are not known to have applied genre divisions to their stories before Mooney's work. There is, therefore, ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "some reason to think that other traditional stories that the Cherokee elders did not share with Mooney would not have met Mooney's criterion for classifying them as \"wonder stories\" despite including geographical information.",
+          "B": "no evidence for Mooney's conclusion that the Cherokee elders who recounted the stories believed that the geographic details included in some stories were accurate descriptions of the Cherokee homeland.",
+          "C": "considerable uncertainty about whether Mooney's classifications of the stories shared by the Cherokee elders were influenced by Long's views about which features of a story are most indicative of the genre to which the story belongs.",
+          "D": "no reason to believe that the Cherokee elders who provided the stories would have agreed with Mooney that the inclusion of geographical specificity in some stories marked those stories as different in kind from other stories."
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Yao Luo and colleagues in China, showed similar results to the North American studies, while few have produced results similar to those of Porvari and Verta's study, suggesting that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Finland than elsewhere.",
+          "B": "the hypothesis that the positive association is particular to North America is correct.",
+          "C": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.",
+          "D": "there were circumstances unique to Luo and colleagues' study that impeded accurate measurements of mercury levels."
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Opechona* sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Anthocotyle merluccii* (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "as the number of host species involved in a parasite's transmission increases, the parasite is better protected against rising temperatures.",
+          "B": "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature-driven factors on CLP abundance.",
+          "C": "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.",
+          "D": "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Lidia Eva Wysocki and colleagues found in a 2006 study of common carp. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of fish showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for fish. Therefore, the results of the meta-analysis suggest that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were detrimental.",
+          "B": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for fish.",
+          "C": "the difference found in the study conducted by Lidia Eva Wysocki and colleagues was likely larger than the average difference for studies of common carp included in the meta-analysis.",
+          "D": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Although the epic poem *The Poem of the Cid* dates back to the 12th century, ______ compelling narrative still captivates readers today.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "they're",
+          "B": "its",
+          "C": "their",
+          "D": "it's"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Most sand is beige because of deposits of gray- and tan-hued minerals, such as quartz and feldspar. The sand at Balos Beach in Greece is a more unusual ______ deposits of crushed coral and other organic matter lend the sand a unique pink hue.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "shade, though",
+          "B": "shade; though",
+          "C": "shade, though,",
+          "D": "shade; though,"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "The poem \"Naomi,\" which was published in 1960, contains three signature elements of Gwendolyn Brooks's poetic ______ compressed lines infused with bursts of vivid imagery; syncopated rhythms, largely inspired by the blues tradition; and a keen attention to everyday life in Brooks's South Side Chicago neighborhood.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "style. Terse,",
+          "B": "style, terse,",
+          "C": "style: terse,",
+          "D": "style; terse,"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Neoclassical economic models assume that people consistently make rational economic decisions, but Laura Gee of Tufts University makes no such assumption; behavioral economists such as Gee, whose research focuses on charitable giving, ______ that economic decision-making can in fact be highly irrational.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "has contended",
+          "B": "contends",
+          "C": "is contending",
+          "D": "contend"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "While the greater adjutant (*Leptoptilos dubius*) can be found in places like the Central Tanintharyi Coast in Myanmar and the Chhep Wildlife Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife ______ is on the front lines of conservation efforts to bring adjutants back from near extinction.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "biologist, Dr. Purnima Devi Barman,",
+          "B": "biologist, Dr. Purnima Devi Barman",
+          "C": "biologist: Dr. Purnima Devi Barman",
+          "D": "biologist Dr. Purnima Devi Barman"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The Roman poet Lucan's *Pharsalia*, an epic poem about Julius Caesar, is an extant work: it can still be read. By contrast, lost works like Lucan's poem praising Emperor Nero, *Laudes Neronis*—no copy of which exists—______ known to antiquarians only through references in extant works.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "have become",
+          "B": "is becoming",
+          "C": "has become",
+          "D": "becomes"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam's diameter) of 85 micrometers.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "focused",
+          "B": "focuses",
+          "C": "focusing",
+          "D": "focus"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "Christine Chen is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Chen's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Therefore,",
+          "B": "By contrast,",
+          "C": "Similarly,",
+          "D": "Secondly,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "Contour modeling and box modeling, methods used by digital artists to create three-dimensional elements for video games, typically require software to process geometric shapes numbering in the thousands. ______ these approaches are more economical than surface model methods, which require more powerful and expensive processors to manage polygons numbering in the millions.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Instead,",
+          "B": "Specifically,",
+          "C": "As such,",
+          "D": "For example,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "The total solar eclipse of April 16, 1178 BCE, was famously described in Homer's epic poem *The Odyssey*. Another memorable solar eclipse occurred on April 21, 899 BCE, but unlike the 1178 BCE eclipse, the 899 BCE eclipse was annular. ______ the Moon didn't cover the Sun completely, instead creating an annulus, or \"ring of fire.\"",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "For example,",
+          "B": "Meanwhile,",
+          "C": "That is,",
+          "D": "Nonetheless,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The Pilot Knob National Wildlife Refuge (NWR) is a protected natural area in Missouri.\n• It encompasses 90 acres.\n• It was established to safeguard the habitat of the Indiana bat, an endangered species.\n• The Pilot Knob NWR is managed by the US Fish & Wildlife Service.\n• The US Fish & Wildlife Service limits human activities in the area.",
+        "text": "The student wants to indicate the size of the Pilot Knob NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The Pilot Knob NWR is a protected natural area managed by the US Fish & Wildlife Service, which limits human activities there.",
+          "B": "The Pilot Knob NWR is a natural area in Missouri, home to the Indiana bat.",
+          "C": "Home to the Indiana bat, Missouri's Pilot Knob NWR is managed by the US Fish & Wildlife Service.",
+          "D": "A protected natural area, the Pilot Knob NWR encompasses 90 acres of land in Missouri."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n\n• R. Oleksy, L. Giuggioli, and T.J. McKetterick published a study in 2017.\n• In it, the researchers found that ingestion by bats had a positive effect on the germination of Ficus grevei plant seeds.\n• Jorge E. López and C. Vaughan published a study in 2004.\n• In it, the researchers found that ingestion by bats had a neutral effect on the germination of Senna fruticosa plant seeds.\n• J.M. Palmeirim, D.L. Gorchoy, and S. Stoleson published a study in 1989.\n• In it, the researchers found that ingestion by bats had a negative effect on the germination of Piper friedrichsthalii plant seeds.",
+        "text": "The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Seed ingestion by bats can have varying effects on seed germination.",
+          "B": "Over the years, researchers have studied the effect that seed germination has had on ingestion by bats.",
+          "C": "As was found in the 2017 study, ingestion by bats has a negative effect on the germination of plant seeds.",
+          "D": "Bat ingestion has consistently been found to have a positive effect on seed germination."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.\n• The happiness benefit of a city's parks was the numeric difference between the calculated happiness scores of posts made in parks and posts made elsewhere.\n• A benefit above 0 indicates a positive effect.\n• The park happiness benefit in San Francisco, California, was greater than 0.10.\n• The park happiness benefit in Washington, DC, was greater than 0 but less than 0.10.\n• The average happiness benefit of parks across all cities was 0.10.",
+        "text": "The student wants to make a generalization based on the study's findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Geotagged social media posts were analyzed for expressed happiness in both San Francisco and Washington.",
+          "B": "Though it can vary from city to city, the overall effect of parks on happiness is a positive one.",
+          "C": "San Francisco's parks had a positive effect on happiness, but this was not true of Washington's parks, which had a below-average effect.",
+          "D": "By comparing the happiness scores of posts made in parks and posts made elsewhere, the study determined the effect of parks on happiness."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": null,
+        "text": "The graph shows the linear relationship between x and y. Which table gives three values of x and their corresponding values of y for this relationship?",
+        "choices": {
+          "A": "| x | y |\n|---|---|\n| -1 | 1 |\n| 0 | 0 |\n| 1 | 5 |",
+          "B": "| x | y |\n|---|---|\n| -1 | 1 |\n| 0 | 3 |\n| 1 | 1 |",
+          "C": "| x | y |\n|---|---|\n| -1 | 0 |\n| 0 | 2 |\n| 1 | 4 |",
+          "D": "| x | y |\n|---|---|\n| -1 | 1 |\n| 0 | 3 |\n| 1 | 5 |"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math1-q01-linear-graph.svg"
+      },
+      "2": {
+        "stimulus": null,
+        "text": "The scatterplot shows 5 measurements of the body length, in centimeters (cm), of a New Zealand fur seal from an age of 1 year to 6 years old. A line of best fit is also shown. For a New Zealand fur seal at an age of 3 years old, what is the body length predicted by the line of best fit, to the nearest 10 cm?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math1-q02-seal-scatter.svg"
+      },
+      "3": {
+        "stimulus": null,
+        "text": "If 6x + 36 = 54, what is the value of x + 6?",
+        "choices": {
+          "A": "6",
+          "B": "9",
+          "C": "36",
+          "D": "42"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "For a certain classification, the positive mass m, in grams, of an object must be less than 510 grams. Which inequality represents this situation?",
+        "choices": {
+          "A": "m > 510",
+          "B": "m < 0",
+          "C": "−510 < m < 0",
+          "D": "0 < m < 510"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "The perimeter of an obtuse triangle is 27 meters. The lengths of two sides of this triangle are 5 meters and 9 meters. What is the length, in meters, of the third side of this triangle?",
+        "choices": {
+          "A": "13",
+          "B": "14",
+          "C": "18",
+          "D": "22"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "The table shows the amount of time it took a participant in a study to complete each of 5 tasks. What was the mean time, in minutes, for this participant to complete a task?",
+        "choices": {
+          "A": "7",
+          "B": "9",
+          "C": "10",
+          "D": "12"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math1-q06-task-times.svg"
+      },
+      "7": {
+        "stimulus": null,
+        "text": "A group of 40 employees selected at random from all the employees at a company were surveyed about the number of books they read last year. From the data collected, it was estimated that the mean number of books employees at the company read last year is 6.8, with an associated margin of error of 1.1. Which of the following is the most appropriate conclusion?",
+        "choices": {
+          "A": "It is plausible that the actual mean number of books employees at the company read last year is less than 5.7.",
+          "B": "It is plausible that the actual mean number of books employees at the company read last year is between 5.7 and 7.9.",
+          "C": "It is plausible that every employee at the company read between 6.8 and 10.1 books last year.",
+          "D": "It is plausible that the actual mean number of books employees at the company read last year is greater than 7.9."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to (5x^3 − 3x + 8) − (9x^6 + 5x − 3)?",
+        "choices": {
+          "A": "−4x^9 − 8x − 11",
+          "B": "−9x^6 + 5x^3 − 8x + 11",
+          "C": "−9x^6 + 5x^3 + 2x + 5",
+          "D": "−4x^9 − 2x + 5"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "The table shows selected values from the function f.",
+        "text": "Which of the following is the best description of function f?",
+        "choices": {
+          "A": "Increasing linear",
+          "B": "Decreasing linear",
+          "C": "Increasing exponential",
+          "D": "Decreasing exponential"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math1-q09-function-table.svg"
+      },
+      "10": {
+        "stimulus": null,
+        "text": "The function f(x) = 180(x − 2) gives the sum of the interior angles, in degrees, for a polygon with x sides. What is the sum of the interior angles, in degrees, for a polygon with 35 sides?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "For the function h, the table gives three values of x and their corresponding values of h(x). Which equation could define h?",
+        "choices": {
+          "A": "h(x) = 2^x + 16",
+          "B": "h(x) = 2^x + 15",
+          "C": "h(x) = 2^x + 2",
+          "D": "h(x) = 2^x"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math1-q11-h-table.svg"
+      },
+      "12": {
+        "stimulus": "f(x) = 3(x − 1)(x − 8)(x − 11)",
+        "text": "If the given function f is graphed in the xy-plane, where y = f(x), what is the x-coordinate of an x-intercept of the graph?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "x + 4y = 19\n2x + y = 4",
+        "text": "The solution to the given system of equations is (x, y). What is the value of 3x + 5y?",
+        "choices": {
+          "A": "12",
+          "B": "15",
+          "C": "23",
+          "D": "38"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "In triangle DEF, the measure of angle D is 47° and the measure of angle E is 97°. In triangle RST, the measure of angle R is 47° and the measure of angle S is 97°. Which of the following additional pieces of information is needed to determine whether triangle DEF is similar to triangle RST?",
+        "choices": {
+          "A": "The measure of angle F",
+          "B": "The measure of angle T",
+          "C": "The measure of angle F and the measure of angle T",
+          "D": "No additional information is needed."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "x^2 + y = 21\n−x + y = 1",
+        "text": "The solutions to the given system of equations are of the form (x, y). What is a possible value of x?",
+        "choices": {
+          "A": "−5",
+          "B": "−4",
+          "C": "−1",
+          "D": "21"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "In the xy-plane, the graph of function f, where y = f(x), has exactly 8 x-intercepts. One of these x-intercepts is (17, 0). The rational function g is defined by g(x) = f(x)/(x − 17). In the xy-plane, how many x-intercepts does the graph of y = g(x) have?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "(x − 7)(x − 9)/(x − 4) = 0",
+        "text": "What is the sum of the solutions to the given equation?",
+        "choices": {
+          "A": "4",
+          "B": "9",
+          "C": "16",
+          "D": "20"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "In the xy-plane, line s passes through the point (0, 0) and is parallel to the line represented by the equation y = 42x + 6. If line s also passes through the point (4, d), what is the value of d?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "A circle has center Q, and points A and B lie on the circle. The measure of arc AB is 60°, and the length of this arc is 4 inches. What is the circumference, in inches, of the circle?",
+        "choices": {
+          "A": "4",
+          "B": "8",
+          "C": "16",
+          "D": "24"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "While the mass of an object is the same everywhere, the weight of an object is not the same on different planets. An object has a weight of 170.00 pounds on Earth and a weight of 186.32 pounds on Neptune. The object's weight on Jupiter is 252.8% of its weight on Earth. If the object's weight on Neptune is x% of its weight on Jupiter, which of the following is closest to the value of x?",
+        "choices": {
+          "A": "43.35",
+          "B": "71.73",
+          "C": "277.07",
+          "D": "429.76"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "−x − wy = −357\n2x − wy = 51",
+        "text": "In the given system of equations, w is a constant. In the xy-plane, the graphs of these equations intersect at the point (q, 17), where q is a constant. What is the value of w?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "In the right triangle shown, what is the value of tan A?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math1-q22-triangle.svg"
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "The function g is defined by g(x) = 18 − x. What is the value of g(3)?",
+        "choices": {
+          "A": "3",
+          "B": "15",
+          "C": "18",
+          "D": "21"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "The graph gives the estimated revenue, in dollars, for a company when the price of the company's product is x dollars. What does the y-value of the vertex of the graph represent in this context?",
+        "choices": {
+          "A": "The price, in dollars, of the company's product",
+          "B": "The minimum estimated revenue, in dollars",
+          "C": "The maximum estimated revenue, in dollars",
+          "D": "The estimated revenue, in dollars, when the price of the company's product is 0 dollars"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math2-q02-revenue-graph.svg"
+      },
+      "3": {
+        "stimulus": null,
+        "text": "For a linear relationship between x and y, the table gives three values of x and their corresponding values of y. Which equation represents this relationship?",
+        "choices": {
+          "A": "y = 10x + 95",
+          "B": "y = x + 105",
+          "C": "y = x + 10",
+          "D": "y = 10x"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math2-q03-xy-table.svg"
+      },
+      "4": {
+        "stimulus": null,
+        "text": "A circle has a radius of 19 meters. What is the area, in square meters, of the circle?",
+        "choices": {
+          "A": "(19π)/2",
+          "B": "19π",
+          "C": "38π",
+          "D": "361π"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "p = √(12c) − 25",
+        "text": "The given equation relates the variables p and c, where c is positive. Which equation correctly expresses c in terms of p?",
+        "choices": {
+          "A": "c = (p + 25)²/12",
+          "B": "c = p²/12 + 5/12",
+          "C": "c = p/24 + 25/24",
+          "D": "c = √(p + 25)/12"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 98x. What is the slope of the graph of y = f(x) in the xy-plane?",
+        "choices": {
+          "A": "−98",
+          "B": "1/98",
+          "C": "1",
+          "D": "98"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "A linear model estimates the population of a city from 1993 to 2017. The model estimates the population was 52 thousand in 1993, 219 thousand in 2013, and x thousand in 2017. To the nearest whole number, what is the value of x?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "w² + 8w − 28 = 0",
+        "text": "Which of the following is a solution to the given equation?",
+        "choices": {
+          "A": "4 − 2√11",
+          "B": "2√11",
+          "C": "√11",
+          "D": "−4 + 2√11"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "In the figure shown, point T lies on segment SW, and segment TU is parallel to segment VW. The measure of angle V is 26°, and the measure of angle STU is 74°. What is the value of p − r?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math2-q09-parallel-angles.svg"
+      },
+      "10": {
+        "stimulus": null,
+        "text": "On January 1, there were 233 views of a video posted on a social media site. Every 2 days after January 1, the number of views of the video had increased by 60% of the number of views 2 days earlier. The function f gives the predicted number of views x days after January 1. Which equation defines f?",
+        "choices": {
+          "A": "f(x) = 233(0.60)^(x/2)",
+          "B": "f(x) = 233(0.60)^(2x)",
+          "C": "f(x) = 233(1.60)^(x/2)",
+          "D": "f(x) = 233(1.60)^(2x)"
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "The shaded region shown represents the solutions to the inequality ry < 128, where r is a constant. What is the value of r?",
+        "choices": {
+          "A": "16",
+          "B": "8",
+          "C": "−8",
+          "D": "−16"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math2-q11-shaded-inequality.svg"
+      },
+      "12": {
+        "stimulus": null,
+        "text": "How many solutions does the equation 4(16x − 20) = −16(5 − 4x) have?",
+        "choices": {
+          "A": "Exactly one",
+          "B": "Exactly two",
+          "C": "Infinitely many",
+          "D": "Zero"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "f(x) = 3,950(0.38)^(x/12)",
+        "text": "The function f gives the value, in dollars, of a certain piece of equipment after x months of use. If the value of the equipment decreases each year by p% of its value the preceding year, what is the value of p?",
+        "choices": {
+          "A": "3",
+          "B": "8",
+          "C": "38",
+          "D": "62"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "A beekeeper's initial observation of the population of a certain bee colony was 1,100 bees. The beekeeper set a goal to increase the population to 2,600 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,100 and increases by 120 bees per week in the first two weeks after the initial observation, and then increases by 180 bees per week until the beekeeper's goal is reached. According to this model, at the end of week w after the initial observation, where w > 2, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+        "choices": {
+          "A": "p(w) = 2,600 − 180w",
+          "B": "p(w) = 2,480 + 180w",
+          "C": "p(w) = 1,620 − 180w",
+          "D": "p(w) = −120 + 180w"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "What is an equation of the graph shown?",
+        "choices": {
+          "A": "5x − 3y = 15",
+          "B": "5x − 3y = −15",
+          "C": "3x − 5y = 15",
+          "D": "3x − 5y = −15"
+        },
+        "imageUrl": "/mocks/2025-june-us-a/figures/math2-q15-line-graph.svg"
+      },
+      "16": {
+        "stimulus": null,
+        "text": "Which expression is a factor of 36x²(x + 12) − 36(x + 12)³?",
+        "choices": {
+          "A": "−12x + 144",
+          "B": "2x + 12",
+          "C": "6x + 6",
+          "D": "24x − 144"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "30x = 1,800y − 3,600",
+        "text": "One of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+        "choices": {
+          "A": "(1/30)x = 2y",
+          "B": "(1/30)x = 60y − 120",
+          "C": "x = 2y",
+          "D": "x = 60y − 120"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "The exponential function f is defined by f(x) = abˣ, where a and b are positive constants. If f(s) = t and f(s + 1) = t − 0.87t, where s and t are constants, what is the value of b?",
+        "choices": {
+          "A": "0.13",
+          "B": "0.87",
+          "C": "1.13",
+          "D": "1.87"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "A container has a volume of 0.84 cubic meters. Which of the following is closest to this volume, in quarts?\n(Note: 100.00 centimeters = 1 meter. Use 946.35 cubic centimeters = 1.00 quart.)",
+        "choices": {
+          "A": "0.09",
+          "B": "7.95",
+          "C": "794.93",
+          "D": "887.62"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "Function f is a quadratic function. The graph of y = f(x) in the xy-plane has a vertex at (4, −6), contains the point (3, −8), and has a y-intercept at (0, a). The graph of y = 5 · f(x) has a y-intercept at (0, b). What is the positive difference between a and b?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "−x² + bx − 64 = 0",
+        "text": "In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "A researcher investigated two species of mites: a predator and its prey. At the start of a week, there was an equal number of the two species. At the end of the week, the number of prey had increased by 2,700% of the number of prey at the start of the week, and the number of predators had increased by 180% of the number of predators at the start of the week. The number of prey at the end of the week was p% greater than the number of predators at the end of the week. What is the value of p?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

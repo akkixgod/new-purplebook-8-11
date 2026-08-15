@@ -1,0 +1,383 @@
+{
+  "1": {
+    "page": 1,
+    "correctAnswer": "B",
+    "stimulus": "The following text is adapted from William Wordsworth’s 1798 poem “Lines Written a Few Miles above Tintern Abbey.”\n\nOnce again\nDo I <u>behold</u> these steep and lofty cliffs,\nWhich on a wild secluded scene impress\nThoughts of more deep seclusion; and connect\nThe landscape with the quiet of the sky.",
+    "text": "As used in the text, what does the word “behold” most nearly mean?",
+    "choices": {
+      "A": "Possess",
+      "B": "Regard",
+      "C": "Omit",
+      "D": "Escape"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "2": {
+    "page": 1,
+    "correctAnswer": "C",
+    "stimulus": "Although oil shocks—such as the 10% rise in oil prices in November 1970—can strongly affect individual consumers, Gbadebo Oladosu and colleagues have shown that at the level of national economies, their effects are often quite ______. The effect of recent oil shocks on the gross domestic product of Germany, for example, was only slightly greater than zero.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "variable",
+      "B": "persistent",
+      "C": "subdued",
+      "D": "beneficial"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "3": {
+    "page": 2,
+    "correctAnswer": "C",
+    "stimulus": "Writer Lydia Davis observed that while ______ literary forms, such as the poem, are recognizable as such even as they evolve, there are pathbreaking “intergeneric” forms that might, for example, use elements of both fables and realist narratives to create something unclassifiable. Davis’s own very short literary pieces arguably fit in this category, since they straddle the line between prose and poetry.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "innovative",
+      "B": "elusive",
+      "C": "established",
+      "D": "ambiguous"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "4": {
+    "page": 2,
+    "correctAnswer": "C",
+    "stimulus": "Mauricio Drelichman and Hans-Joachim Voth’s analysis of the debt repayments and expenditure of the government of Philip II (who ruled an empire including Spain and Milan from 1556 to 1598) found a seeming contradiction: although the government had several short-term cash shortages, it ran an even larger surplus than did the government of eighteenth-century Britain, a nation considered ______ of fiscal virtue.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "a sanction",
+      "B": "a paradox",
+      "C": "an exemplar",
+      "D": "an omen"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "5": {
+    "page": 3,
+    "correctAnswer": "A",
+    "stimulus": "The following text is from Anthony Trollope’s 1855 novel *The Warden*. Charles James is the son of a high-ranking clergy member.\n\nCharles James was an exact and careful boy; he never committed himself; he well knew how much was expected from the eldest son of the Archdeacon of Barchester, and was therefore mindful not to mix too freely with other boys. He had not the great talents of his younger brothers, but he exceeded them in judgment and propriety of demeanour; his fault, <u>if he had one</u>, was an over-attention to words instead of things; there was a thought too much finesse about him, and, as even his father sometimes told him, he was too fond of a compromise.",
+    "text": "Which choice best states the function of the phrase “if he had one” in the text as a whole?",
+    "choices": {
+      "A": "It acknowledges that the qualities in Charles James the narrator goes on to describe may not actually be undesirable characteristics.",
+      "B": "It concedes that Charles James’s attempts to be held in respect are sometimes fruitless.",
+      "C": "It signals a shift in focus from describing Charles James’s good qualities to criticizing his tendency to place too much value on artfulness.",
+      "D": "It anticipates readers’ objections to the narrator’s criticism of Charles James’s faults."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "6": {
+    "page": 3,
+    "correctAnswer": "B",
+    "stimulus": "The establishment of urban green spaces for the abatement of fine particulate matter and other major air-pollutant concentrations is gaining public support, but urban planners must proceed with caution given subtleties in the body of evidence for the strategy’s efficacy. High-level reports have attributed pollutant reductions to cities’ inclusion of green spaces; however, one study found that while trees are negatively associated with air pollutants when considered on a citywide scale, at the street level, this association is minimal and at times positive. Because research tends to focus on large-scale effects in cities, decision-makers may be unaware that those outcomes are not always generalizable across spatial scales.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It outlines a problem that is of growing public concern, explains why an innovative solution to that problem is challenging to implement, and then suggests the importance of researching alternative solutions.",
+      "B": "It addresses an appealing approach to a prevalent problem, illustrates that the approach is not as uniformly successful as it may seem, and then further emphasizes the importance of recognizing nuances in the research on that approach.",
+      "C": "It details an initiative implemented in response to certain research findings, identifies an apparent inconsistency within those findings, and then explains how that inconsistency has typically been accounted for.",
+      "D": "It establishes the growing intensity of a public concern, details the most common method of mitigating that concern, and then refers to evidence that the method is broadly ineffective."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "7": {
+    "page": 5,
+    "correctAnswer": "C",
+    "stimulus": "The Skin I’m In was Sharon G. Flake’s debut novel. It was published in 1998. A debut novel is the first book that an author has published. Debut novels are especially interesting to literary critics (people whose job it is to evaluate books) and readers because these books offer a look at new voices in the literary world.",
+    "text": "According to the text, what is someone who professionally evaluates books called?",
+    "choices": {
+      "A": "A bookseller",
+      "B": "An author",
+      "C": "A literary critic",
+      "D": "A book publisher"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "8": {
+    "page": 5,
+    "correctAnswer": "C",
+    "stimulus": "The following text is adapted from L.M. Montgomery’s 1923 novel *Emily of New Moon*. Emily, a young girl who lives on a farm run by her aunt Elizabeth, wants to be a published writer someday.\n\nOne of the things they [argued] about was the fact that Emily, as Aunt Elizabeth discovered one day, was in the habit of using more of her egg money to buy paper than Aunt Elizabeth approved of. What did Emily do with so much paper? They had a fuss over this and eventually Aunt Elizabeth discovered that Emily was writing stories. Emily had been writing stories all winter under Aunt Elizabeth’s very nose and Aunt Elizabeth had never suspected it. She had fondly supposed that Emily was writing school compositions.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Emily forgot to buy eggs when she was supposed to.",
+      "B": "Aunt Elizabeth thinks Emily should spend more time at school.",
+      "C": "Aunt Elizabeth is surprised to find out that Emily has been writing stories.",
+      "D": "Emily is relieved to learn that Aunt Elizabeth enjoys reading Emily’s stories."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "9": {
+    "page": 6,
+    "correctAnswer": "B",
+    "stimulus": "A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in Finland compares to that in other countries. The student finds that ______",
+    "text": "Which choice most effectively uses data from the table to complete the student’s conclusion?",
+    "choices": {
+      "A": "the percent decrease in hours worked was greater in Finland than it was in Denmark, Canada, or Peru.",
+      "B": "though the decline in number of hours worked in Finland was less than that in Denmark and Canada, it was greater than that in Peru.",
+      "C": "while the number of hours worked rose in Finland between 1950 and 2017, it declined in Denmark, Canada, and Peru.",
+      "D": "though the decline in number of hours worked in Finland was greater than that in Denmark and Peru, it was less than that in Canada."
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/eng1-q09-hours-worked.svg",
+    "_figureNote": "Table titled \"Average Hours Worked per Person per Year in 1950 and 2017\" with columns: Country; 1950; 2017; Change in hours; Percent change in hours. Rows: (1) Peru | 2,157 | 1,932 | −225 | −10%; (2) Canada | 2,209 | 1,696 | −513 | −23%; (3) Denmark | 2,049 | 1,400 | −649 | −32%; (4) Finland | 2,053 | 1,659 | −394 | −19%. Note: Calculations may be inexact due to rounding.",
+    "_keySource": "solved"
+  },
+  "10": {
+    "page": 6,
+    "correctAnswer": "C",
+    "stimulus": "Ratified in 2017 by two-thirds of World Trade Organization member nations, the Trade Facilitation Agreement (TFA) is a trade-reform measure that aims to reduce redundant customs procedures and other costly aspects of international trade. In a 2021 report, economist Jayson Beckman modeled global market prices of several agricultural commodities under both the TFA and an alternative trade-reform scenario: removal of agricultural tariffs (taxes on imports that generally increase prices on imported goods). After reviewing data from the report, a student concludes that overall, consumers of the commodities listed in the table would likely benefit more from the TFA than they would from tariff removal.",
+    "text": "Which choice most effectively uses data from the table to support the student’s claim?",
+    "choices": {
+      "A": "Under the tariff-removal scenario, the average prices of processed foods, wheat, and fruits and vegetables would decrease by more than 1%, while the average price of rice would decrease by less than 1%.",
+      "B": "Under the tariff-removal scenario, the average price of processed foods would increase, but the average prices of wheat and rice would decrease.",
+      "C": "Under the TFA scenario, the average prices of all four commodities would decrease, whereas under the tariff-removal scenario, only the average price of processed foods would decrease.",
+      "D": "Under the TFA scenario, the average price of rice would decrease by a smaller amount than any of the other three commodities’ prices would, whereas its average price would increase under the tariff-removal scenario."
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/eng1-q10-tfa.svg",
+    "_figureNote": "Table titled \"Percent Change in Average Global Market Prices by Commodity in Two Agricultural Trade-Reform Scenarios\" with columns: Commodity; Percent change in TFA scenario; Percent change in tariff-removal scenario. Rows: (1) Fruits and vegetables | −1.50 | +0.04; (2) Processed foods | −1.76 | −1.00; (3) Rice | −0.37 | +1.36; (4) Wheat | −1.35 | +0.45.",
+    "_keySource": "solved"
+  },
+  "11": {
+    "page": 8,
+    "correctAnswer": "A",
+    "stimulus": "Issuing a one-dollar coin yields positive seigniorage—the profit generated when the face value of a coin exceeds the unit cost of producing it—for Singapore’s government, which in turn can be used to fund such services as transportation. Some countries, such as the Netherlands, have ceased manufacturing certain coins because their production created negative seigniorage. In an economics class discussing the data in the table, one student argues that in 2023, the one-cent coin was the least financially sensible for the US to produce, while another student argues that the five-cent coin was.",
+    "text": "Based on the information in the text and the table, the two students most likely disagree about the answer to which question?",
+    "choices": {
+      "A": "When evaluating the financial implications of issuing a coin, which is more important, the total seigniorage from issuing that coin or the seigniorage per dollar when issuing that coin?",
+      "B": "If issuing a given coin results in negative seigniorage per dollar issued, can that be changed to positive seigniorage per dollar issued by reducing the cost of issuing the coin?",
+      "C": "If issuing a given coin results in positive seigniorage per dollar but not as much positive seigniorage per dollar as issuing a different coin does, does it make financial sense to continue issuing the first coin?",
+      "D": "When determining whether it makes financial sense to issue a given coin, which is more important, the total value of the units of that coin produced or the gross cost of issuing that coin?"
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/eng1-q11-seigniorage.svg",
+    "_figureNote": "Table titled \"Value, Cost, and Seigniorage of US Coins by Denomination, 2023\" with columns: Denomination; Total value of units produced (in millions of dollars); Gross cost (in millions of dollars); Seigniorage (in millions of dollars); Seigniorage per $1 issued (dollars). Rows: (1) One-cent | 41.4 | 127.4 | −86.0 | −2.08; (2) Five-cent | 70.8 | 163.4 | −92.6 | −1.31; (3) Ten-cent | 266.6 | 141.1 | 125.5 | 0.47; (4) Quarter-dollar | 568.4 | 264.4 | 304.0 | 0.53.",
+    "_keySource": "solved"
+  },
+  "12": {
+    "page": 8,
+    "correctAnswer": "B",
+    "stimulus": "Describing adverbs as “silly,” novelist Chuck Palahniuk is one of several authors and literary critics who have recommended minimizing the use of adverbs, especially those ending in *-ly* (e.g., “graciously”), in works of fiction. To investigate the prevalence of *-ly* adverbs in novels, author and statistician Ben Blatt used natural language processing—machine learning technology that reads and interprets text—to calculate the rates at which these words occur in the novels of William Faulkner, who was awarded the Nobel Prize in Literature in 1949. Blatt concluded that in Faulkner’s oeuvre, there is a negative correlation between *-ly* adverb proliferation and perceived literary merit.",
+    "text": "Which finding, if true, would most directly illustrate the pattern Blatt identified?",
+    "choices": {
+      "A": "Whereas Faulkner’s acclaimed novel *The Sound and the Fury* has one of the lowest *-ly* adverb rates among Faulkner’s works, F. Scott Fitzgerald’s classic novel *The Great Gatsby* has the lowest *-ly* adverb rate among Fitzgerald’s novels.",
+      "B": "In *The Sound and the Fury*, which is widely recognized as a literary masterpiece, Faulkner used 42 *-ly* adverbs per 10,000 words, whereas in his less-acclaimed novel *Soldiers’ Pay*, Faulkner used 148 *-ly* adverbs per 10,000 words.",
+      "C": "In his celebrated novel *Light in August*, Faulkner used 67 *-ly* adverbs per 10,000 words, whereas 67% of celebrated authors’ novels that have fewer than 50 *-ly* adverbs per 10,000 words have been classified as great by critics.",
+      "D": "Whereas Faulkner used on average 92 *-ly* adverbs per 10,000 words in the 19 novels of Faulkner’s that Blatt investigated, Toni Morrison, winner of the 1993 Nobel Prize in Literature, used on average 76 *-ly* adverbs per 10,000 words in her novels."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "13": {
+    "page": 10,
+    "correctAnswer": "A",
+    "stimulus": "Students in a biology class investigated why individual house mice (*Mus musculus*) can differ from one another in their circulating sodium level. The students compared wild-type mice and knockout mice, which are mice with specific genes deactivated, when mice of each type were placed in similar naturalistic environments and taken for periodic blood sampling. Finding that knockout mice with the gene *Asb5* deactivated tended to have lower concentrations of sodium in their blood than did wild-type mice, the students concluded that differences in circulating sodium level among house mice in nature are solely attributable to variations in the level of expression of *Asb5*.",
+    "text": "Which finding, if true, would most directly weaken the students’ conclusion?",
+    "choices": {
+      "A": "Some wild-type mice were very similar to the knockout mice with regard to circulating sodium level but showed a wide variety of levels of expression of *Asb5*.",
+      "B": "A sampling of house mice captured in natural settings shows that individual mice can differ from one another in the level of expression of *Asb5*.",
+      "C": "The level of expression of *Asb5* does not appear to affect the functioning of any other genes in house mice.",
+      "D": "The mice with *Asb5* deactivated were identical to the wild-type mice except with regard to circulating sodium level."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "14": {
+    "page": 10,
+    "correctAnswer": "B",
+    "stimulus": "Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including urban dwellers from a large city in Thailand and Chachi people from a small community in Ecuador. The team observed that across cultures, people generally rated odors about the same: vanillin, which smells like vanilla, was typically rated more pleasant than isovaleric acid, which smells like human sweat. The team therefore concluded that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "a person who lives in an urban area is more likely to encounter the odor of vanillin than is a person who lives in a small community.",
+      "B": "a person’s mode of living likely doesn’t have a large influence on that person’s perception of whether an odor is pleasant or unpleasant.",
+      "C": "a person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness.",
+      "D": "culture likely plays more of a role in a person’s perception of how pleasant an odor is than does human anatomy."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "15": {
+    "page": 12,
+    "correctAnswer": "B",
+    "stimulus": "The towns Entebbe and Jamame are both located almost directly on the ______ they are in different countries. Entebbe is in Uganda, while Jamame is in Somalia.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "equator",
+      "B": "equator, but",
+      "C": "equator,",
+      "D": "equator that"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "16": {
+    "page": 12,
+    "correctAnswer": "C",
+    "stimulus": "Having trained as astronauts for years, ______",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "August 2, 1991, was when space shuttle *Atlantis* took flight with five crew members aboard.",
+      "B": "it was August 2, 1991, when five crew members took flight aboard space shuttle *Atlantis*.",
+      "C": "five crew members took flight aboard space shuttle *Atlantis* on August 2, 1991.",
+      "D": "space shuttle *Atlantis* took flight on August 2, 1991, with five crew members aboard."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "17": {
+    "page": 13,
+    "correctAnswer": "A",
+    "stimulus": "In 1991, New Jersey ______ official fossil: the *Hadrosaurus foulkii*, which is a Cretaceous period dinosaur.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "lawmakers designated the state’s",
+      "B": "lawmakers designated the states",
+      "C": "lawmaker’s designated the states",
+      "D": "lawmaker’s designated the state’s"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "18": {
+    "page": 13,
+    "correctAnswer": "B",
+    "stimulus": "Nicosia is home to roughly 27 percent of Cyprus’s total population. This means that about 1 in 4 ______ live in Cyprus live in Nicosia!",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "people",
+      "B": "people who",
+      "C": "people,",
+      "D": "people, who"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "19": {
+    "page": 14,
+    "correctAnswer": "D",
+    "stimulus": "In the Persian language, people commonly begin a folktale with a phrase that roughly translates to “there was and there was not.” In English, beginning with the phrase “once upon a time” is common. Indeed, how a folktale begins depends largely on the language in which ______ being told.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they were",
+      "B": "these are",
+      "C": "they are",
+      "D": "it is"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "20": {
+    "page": 14,
+    "correctAnswer": "B",
+    "stimulus": "*Thraxas* by Martin Scott, *Richard Matheson: Collected Stories* by Richard Matheson, and *Strange Tales* by Rosalie Parker are all pieces of literature that have won the prestigious World Fantasy ______ the works received the honor in the categories of novel, collection, and anthology, respectively.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Award",
+      "B": "Award;",
+      "C": "Award and",
+      "D": "Award,"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "21": {
+    "page": 15,
+    "correctAnswer": "C",
+    "stimulus": "Enacted in 1868, Luxembourg’s 5,601-word constitution, in contrast to Canada’s, which was enacted in 1867 and contains a far greater number (19,565) of words, ______ as the 9th shortest in the world. Such data are studied by constitutional scholars like Giovanni Sartori, who can use them to draw broader conclusions.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "rank",
+      "B": "are ranking",
+      "C": "ranks",
+      "D": "have ranked"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "22": {
+    "page": 15,
+    "correctAnswer": "B",
+    "stimulus": "If you were to view the Namarunu volcano in Kenya from above, you might notice that its low profile and gently sloping sides make it look a bit like a shield lying flat on the ground. ______ it makes sense that Lydia Jennings and other volcanologists classify Namarunu as a shield volcano.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For instance,",
+      "B": "Therefore,",
+      "C": "However,",
+      "D": "By contrast,"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "23": {
+    "page": 16,
+    "correctAnswer": "B",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Jane is the nickname of a dinosaur fossil specimen housed at the Burpee Museum of Natural History.\n• The Burpee Museum of Natural History is located in Rockford, Illinois.\n• Jane is a member of the genus *Tyrannosaurus*.\n• Big Mike is the nickname of a dinosaur fossil specimen housed at the Museum of the Rockies.\n• The Museum of the Rockies is located in Bozeman, Montana.\n• Big Mike is a member of the genus *Tyrannosaurus*.",
+    "text": "The student wants to emphasize a similarity between the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "While Jane is housed at the Burpee Museum of Natural History, Big Mike is housed at the Museum of the Rockies.",
+      "B": "The dinosaur fossil specimens Jane and Big Mike are both members of the genus *Tyrannosaurus*.",
+      "C": "Big Mike is the nickname of a *Tyrannosaurus* fossil specimen housed at the Museum of the Rockies in Bozeman, Montana.",
+      "D": "The Burpee Museum of Natural History, where Jane is housed, is located in Rockford, Illinois."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "24": {
+    "page": 16,
+    "correctAnswer": "C",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• *The Incarnations* (2015) is an epistolary novel by English author Susan Barker.\n• Epistolary novels are novels written primarily as a series of fictional documents.\n• These documents can be letters, journal entries, newspaper clippings, and more.\n• *The Incarnations* consists primarily of letters.\n• The letters are sent between a taxi driver named Wang Jun and a mysterious woman.",
+    "text": "The student wants to define the term “epistolary novel.” Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Consisting primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman, Susan Barker’s *The Incarnations* is an epistolary novel.",
+      "B": "Susan Barker’s novel *The Incarnations* was published in 2015 and consists primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman.",
+      "C": "An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings.",
+      "D": "Published in 2015, *The Incarnations* is an epistolary novel by English author Susan Barker."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "25": {
+    "page": 18,
+    "correctAnswer": "D",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• *The Future of Nostalgia* is a scholarly book by literary theorist Svetlana Boym.\n• The book provides a multifaceted exploration of the concept of nostalgia.\n• Chapter 8 explores nostalgia and Europe’s largest shopping mall.\n• Chapter 17 discusses various skeptics’ takes on the concept of nostalgia.\n• In chapter 17, Boym writes, “The poethics of nostalgia combines estrangement and human solidarity, affect and reflection.”",
+    "text": "The student wants to provide a quotation from chapter 17. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "After exploring nostalgia and Europe’s largest shopping mall, Svetlana Boym goes on to discuss various skeptics’ takes on the concept of nostalgia.",
+      "B": "Svetlana Boym’s *The Future of Nostalgia* provides a multifaceted exploration of nostalgia.",
+      "C": "Svetlana Boym explores nostalgia and Europe’s largest shopping mall in chapter 8 of her book.",
+      "D": "In an exploration of various skeptics’ takes on the concept of nostalgia, Svetlana Boym writes, “The poethics of nostalgia combines estrangement and human solidarity, affect and reflection.”"
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "26": {
+    "page": 18,
+    "correctAnswer": "C",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Urban natural areas are city spaces that feature elements of nature.\n• Facade-bound green walls are urban natural areas defined as exterior walls that have plants growing on them.\n• They can benefit cities by enhancing air quality.\n• Urban grasslands are urban natural areas defined as areas of pastures or meadows in cities.\n• They can benefit cities by increasing diversity among bird species.",
+    "text": "The student wants to emphasize a similarity between facade-bound green walls and urban grasslands. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Urban grasslands, which are areas of pastures or meadows in cities, benefit cities by increasing diversity among bird species.",
+      "B": "Facade-bound green walls enhance air quality, whereas urban grasslands increase diversity among bird species.",
+      "C": "Facade-bound green walls and urban grasslands can both be considered urban natural areas.",
+      "D": "By enhancing air quality, facade-bound green walls benefit cities."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  },
+  "27": {
+    "page": 20,
+    "correctAnswer": "B",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• When the electrons of a chemical element change energy states, certain wavelengths of light are released.\n• This unique collection of wavelengths is known as the emission spectrum of the element.\n• Magnesium’s emission spectrum includes the 517.2 nanometer (nm) wavelength.\n• Helium’s emission spectrum includes the 587.5 nm wavelength.\n• The green portion of the visible spectrum is made up of light with wavelengths of 500–570 nm.",
+    "text": "The student wants to identify an emission spectrum that includes a wavelength in the green portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Containing the 517.2 nm and 587.5 nm wavelengths, respectively, both magnesium’s and helium’s emission spectra include wavelengths in the green portion of the visible spectrum.",
+      "B": "Magnesium’s emission spectrum includes the 517.2 nm wavelength, which is in the green portion of the visible spectrum.",
+      "C": "The 587.5 nm wavelength, which is in the green portion of the visible spectrum, is one wavelength in the emission spectrum of helium.",
+      "D": "Since the 517.2 nm wavelength of light is within the 500–570 nm range, it is part of the green portion of the visible spectrum."
+    },
+    "imageUrl": null,
+    "_keySource": "solved"
+  }
+}

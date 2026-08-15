@@ -1,0 +1,295 @@
+{
+  "1": {
+    "page": 76,
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 18 − x. What is the value of g(3)?",
+    "choices": {
+      "A": "3",
+      "B": "15",
+      "C": "18",
+      "D": "21"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "2": {
+    "page": 77,
+    "stimulus": null,
+    "text": "The graph gives the estimated revenue, in dollars, for a company when the price of the company's product is x dollars. What does the y-value of the vertex of the graph represent in this context?",
+    "choices": {
+      "A": "The price, in dollars, of the company's product",
+      "B": "The minimum estimated revenue, in dollars",
+      "C": "The maximum estimated revenue, in dollars",
+      "D": "The estimated revenue, in dollars, when the price of the company's product is 0 dollars"
+    },
+    "imageUrl": "/mocks/2025-june-us-a/figures/math2-q02-revenue-graph.svg",
+    "_figureNote": "Downward parabola: Revenue (dollars) vs Price (dollars). x-axis 0–100; y-axis 0–2,000. Curve from (0,0) through vertex near (25, 625) to (50, 0). Vertex marked with a solid dot.",
+    "correctAnswer": "C"
+  },
+  "3": {
+    "page": 78,
+    "stimulus": null,
+    "text": "For a linear relationship between x and y, the table gives three values of x and their corresponding values of y. Which equation represents this relationship?",
+    "choices": {
+      "A": "y = 10x + 95",
+      "B": "y = x + 105",
+      "C": "y = x + 10",
+      "D": "y = 10x"
+    },
+    "imageUrl": "/mocks/2025-june-us-a/figures/math2-q03-xy-table.svg",
+    "_figureNote": "Two-column table headers x and y. Rows: (0, 95), (1, 105), (2, 115). Do not duplicate table in stimulus.",
+    "correctAnswer": "A"
+  },
+  "4": {
+    "page": 79,
+    "stimulus": null,
+    "text": "A circle has a radius of 19 meters. What is the area, in square meters, of the circle?",
+    "choices": {
+      "A": "(19π)/2",
+      "B": "19π",
+      "C": "38π",
+      "D": "361π"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "5": {
+    "page": 80,
+    "stimulus": "p = √(12c) − 25",
+    "text": "The given equation relates the variables p and c, where c is positive. Which equation correctly expresses c in terms of p?",
+    "choices": {
+      "A": "c = (p + 25)²/12",
+      "B": "c = p²/12 + 5/12",
+      "C": "c = p/24 + 25/24",
+      "D": "c = √(p + 25)/12"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "6": {
+    "page": 81,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 98x. What is the slope of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "−98",
+      "B": "1/98",
+      "C": "1",
+      "D": "98"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "7": {
+    "page": 82,
+    "stimulus": null,
+    "text": "A linear model estimates the population of a city from 1993 to 2017. The model estimates the population was 52 thousand in 1993, 219 thousand in 2013, and x thousand in 2017. To the nearest whole number, what is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "252"
+  },
+  "8": {
+    "page": 83,
+    "stimulus": "w² + 8w − 28 = 0",
+    "text": "Which of the following is a solution to the given equation?",
+    "choices": {
+      "A": "4 − 2√11",
+      "B": "2√11",
+      "C": "√11",
+      "D": "−4 + 2√11"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "9": {
+    "page": 84,
+    "stimulus": null,
+    "text": "In the figure shown, point T lies on segment SW, and segment TU is parallel to segment VW. The measure of angle V is 26°, and the measure of angle STU is 74°. What is the value of p − r?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-june-us-a/figures/math2-q09-parallel-angles.svg",
+    "_figureNote": "Points S, T, W collinear. Quadrilateral TUVW with TU ∥ VW. Angle at U labeled p°; angle at W labeled r°. Note: Figure not drawn to scale.",
+    "correctAnswer": "80"
+  },
+  "10": {
+    "page": 85,
+    "stimulus": null,
+    "text": "On January 1, there were 233 views of a video posted on a social media site. Every 2 days after January 1, the number of views of the video had increased by 60% of the number of views 2 days earlier. The function f gives the predicted number of views x days after January 1. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = 233(0.60)^(x/2)",
+      "B": "f(x) = 233(0.60)^(2x)",
+      "C": "f(x) = 233(1.60)^(x/2)",
+      "D": "f(x) = 233(1.60)^(2x)"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "11": {
+    "page": 86,
+    "stimulus": null,
+    "text": "The shaded region shown represents the solutions to the inequality ry < 128, where r is a constant. What is the value of r?",
+    "choices": {
+      "A": "16",
+      "B": "8",
+      "C": "−8",
+      "D": "−16"
+    },
+    "imageUrl": "/mocks/2025-june-us-a/figures/math2-q11-shaded-inequality.svg",
+    "_figureNote": "xy-plane, x from −8 to 8, y from −10 to 2. Dashed horizontal line at y = −8; region above the line (y > −8) shaded.",
+    "correctAnswer": "D"
+  },
+  "12": {
+    "page": 87,
+    "stimulus": null,
+    "text": "How many solutions does the equation 4(16x − 20) = −16(5 − 4x) have?",
+    "choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "13": {
+    "page": 88,
+    "stimulus": "f(x) = 3,950(0.38)^(x/12)",
+    "text": "The function f gives the value, in dollars, of a certain piece of equipment after x months of use. If the value of the equipment decreases each year by p% of its value the preceding year, what is the value of p?",
+    "choices": {
+      "A": "3",
+      "B": "8",
+      "C": "38",
+      "D": "62"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "14": {
+    "page": 89,
+    "stimulus": null,
+    "text": "A beekeeper's initial observation of the population of a certain bee colony was 1,100 bees. The beekeeper set a goal to increase the population to 2,600 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,100 and increases by 120 bees per week in the first two weeks after the initial observation, and then increases by 180 bees per week until the beekeeper's goal is reached. According to this model, at the end of week w after the initial observation, where w > 2, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+    "choices": {
+      "A": "p(w) = 2,600 − 180w",
+      "B": "p(w) = 2,480 + 180w",
+      "C": "p(w) = 1,620 − 180w",
+      "D": "p(w) = −120 + 180w"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "C"
+  },
+  "15": {
+    "page": 90,
+    "stimulus": null,
+    "text": "What is an equation of the graph shown?",
+    "choices": {
+      "A": "5x − 3y = 15",
+      "B": "5x − 3y = −15",
+      "C": "3x − 5y = 15",
+      "D": "3x − 5y = −15"
+    },
+    "imageUrl": "/mocks/2025-june-us-a/figures/math2-q15-line-graph.svg",
+    "_figureNote": "Line in xy-plane through (0, −5) and (3, 0). x-axis about −1 to 9; y-axis about −9 to 1.",
+    "correctAnswer": "A"
+  },
+  "16": {
+    "page": 91,
+    "stimulus": null,
+    "text": "Which expression is a factor of 36x²(x + 12) − 36(x + 12)³?",
+    "choices": {
+      "A": "−12x + 144",
+      "B": "2x + 12",
+      "C": "6x + 6",
+      "D": "24x − 144"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "B"
+  },
+  "17": {
+    "page": 92,
+    "stimulus": "30x = 1,800y − 3,600",
+    "text": "One of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+    "choices": {
+      "A": "(1/30)x = 2y",
+      "B": "(1/30)x = 60y − 120",
+      "C": "x = 2y",
+      "D": "x = 60y − 120"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "18": {
+    "page": 93,
+    "stimulus": null,
+    "text": "The exponential function f is defined by f(x) = abˣ, where a and b are positive constants. If f(s) = t and f(s + 1) = t − 0.87t, where s and t are constants, what is the value of b?",
+    "choices": {
+      "A": "0.13",
+      "B": "0.87",
+      "C": "1.13",
+      "D": "1.87"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "A"
+  },
+  "19": {
+    "page": 94,
+    "stimulus": null,
+    "text": "A container has a volume of 0.84 cubic meters. Which of the following is closest to this volume, in quarts?\n(Note: 100.00 centimeters = 1 meter. Use 946.35 cubic centimeters = 1.00 quart.)",
+    "choices": {
+      "A": "0.09",
+      "B": "7.95",
+      "C": "794.93",
+      "D": "887.62"
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "D"
+  },
+  "20": {
+    "page": 95,
+    "stimulus": null,
+    "text": "Function f is a quadratic function. The graph of y = f(x) in the xy-plane has a vertex at (4, −6), contains the point (3, −8), and has a y-intercept at (0, a). The graph of y = 5 · f(x) has a y-intercept at (0, b). What is the positive difference between a and b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "152"
+  },
+  "21": {
+    "page": 96,
+    "stimulus": "−x² + bx − 64 = 0",
+    "text": "In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "-15"
+  },
+  "22": {
+    "page": 97,
+    "stimulus": null,
+    "text": "A researcher investigated two species of mites: a predator and its prey. At the start of a week, there was an equal number of the two species. At the end of the week, the number of prey had increased by 2,700% of the number of prey at the start of the week, and the number of predators had increased by 180% of the number of predators at the start of the week. The number of prey at the end of the week was p% greater than the number of predators at the end of the week. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null,
+    "correctAnswer": "900"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "1": {
+    "page": 41,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "The function f is defined by the equation f(x) = 10x + 4. What is the value of f(x) when x = 7?",
+    "choices": {
+      "A": "21",
+      "B": "38",
+      "C": "47",
+      "D": "74"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "2": {
+    "page": 42,
+    "correctAnswer": "156",
+    "stimulus": null,
+    "text": "A remotely operated vehicle (ROV) is used for underwater ocean research. When the ROV is at a depth of 26 fathoms, what is the ROV's depth in feet? (1 fathom = 6 feet)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "3": {
+    "page": 42,
+    "correctAnswer": "A",
+    "stimulus": "6x = 30\n6x − 10y = 80",
+    "text": "What is the solution (x, y) to the given system of equations?",
+    "choices": {
+      "A": "(5, −5)",
+      "B": "(5, −11)",
+      "C": "(30, 80)",
+      "D": "(30, 50)"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "4": {
+    "page": 42,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "Which expression is equivalent to 41x^2 + 41?",
+    "choices": {
+      "A": "41(x^2 + 1/41)",
+      "B": "⁴¹√(41x^2 + 1)",
+      "C": "41(x^2 + 41)",
+      "D": "41(x^2 + 1)"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "5": {
+    "page": 44,
+    "correctAnswer": "C",
+    "stimulus": null,
+    "text": "Which equation gives the relationship between the side lengths of the triangle shown?",
+    "choices": {
+      "A": "9 + 12 = r",
+      "B": "12 − 9 = r",
+      "C": "9^2 + 12^2 = r^2",
+      "D": "12^2 − 9^2 = r^2"
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math1-q05-right-triangle.svg",
+    "_figureNote": "Right triangle, right angle bottom-left; vertical leg 9, horizontal leg 12, hypotenuse r. Note: Figure not drawn to scale."
+  },
+  "6": {
+    "page": 45,
+    "correctAnswer": "21",
+    "stimulus": null,
+    "text": "An event planner is planning an ice-skating event. It costs the event planner a onetime fee of $45 to rent the skating rink and $10.75 per attendee. The event planner has a budget of $275. What is the greatest number of attendees possible without exceeding the budget?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "7": {
+    "page": 46,
+    "correctAnswer": "4.25",
+    "stimulus": null,
+    "text": "The ratio of cups of flour to cups of butter in a pie dough recipe is 2.75 to 1. The ratio of cups of flour to cups of butter in a biscuit recipe is 7 to 1. Each recipe has 1 cup of butter. How many more cups of flour are in the biscuit recipe than in the pie dough recipe?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "8": {
+    "page": 47,
+    "correctAnswer": "D",
+    "stimulus": null,
+    "text": "A cube has an edge length of 13 inches. What is the volume, in cubic inches, of the cube?",
+    "choices": {
+      "A": "39",
+      "B": "78",
+      "C": "169",
+      "D": "2,197"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "9": {
+    "page": 47,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "In the figure shown, lines ℓ and k are parallel and line t intersects both lines. If x > 145, which of the following must be true?",
+    "choices": {
+      "A": "y < 35",
+      "B": "y > 35",
+      "C": "x + y < 180",
+      "D": "x + y > 180"
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math1-q09-parallel-lines.svg",
+    "_figureNote": "Parallel horizontals ℓ (top) and k (bottom); transversal t down-left to down-right. Angle x° at upper intersection (top-left, obtuse); angle y° at lower intersection (bottom-right, acute). Note not to scale."
+  },
+  "10": {
+    "page": 48,
+    "correctAnswer": "C",
+    "stimulus": "(2x − 4)(x − 8)(x − 9) = 0",
+    "text": "What is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "−21",
+      "B": "−19",
+      "C": "19",
+      "D": "21"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "11": {
+    "page": 48,
+    "correctAnswer": "7/13",
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 7x^(−1). What is the value of g(13)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "12": {
+    "page": 49,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "The shaded region shown represents the solutions to which inequality?",
+    "choices": {
+      "A": "y < (1/3)x + 8",
+      "B": "y < 3x + 8",
+      "C": "y > (1/3)x + 8",
+      "D": "y > 3x + 8"
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math1-q12-inequality.svg",
+    "_figureNote": "xy-plane ~x −4..8, y −2..14; dashed line through (0,8) and (1,11) i.e. y=3x+8; region below the dashed line shaded."
+  },
+  "13": {
+    "page": 49,
+    "correctAnswer": "A",
+    "stimulus": "y = −8x + 26\ny = 2x^2 + 16",
+    "text": "The graphs of the equations in the given system of equations intersect at the point (a, b) in the xy-plane. What is a possible value of a?",
+    "choices": {
+      "A": "−5",
+      "B": "−1",
+      "C": "2",
+      "D": "5"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "14": {
+    "page": 51,
+    "correctAnswer": "C",
+    "stimulus": "The scatterplot shows the relationship between two variables, x and y.",
+    "text": "Which of the following equations is the most appropriate linear model for the data shown?",
+    "choices": {
+      "A": "y = 0.07 − 1.02x",
+      "B": "y = 1.02 − 0.07x",
+      "C": "y = −0.07 + 1.02x",
+      "D": "y = −1.02 + 0.07x"
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math1-q14-scatter.svg",
+    "_figureNote": "Scatterplot axes 0–10; 11 points: (0,0), (0.3,0.7), (1.2,0.5), (1.9,1.9), (2.8,2.9), (3.7,3.8), (4.2,4.3), (4.8,4.5), (6.1,6.5), (7.4,7.1), (9.2,9.6)."
+  },
+  "15": {
+    "page": 53,
+    "correctAnswer": "5.5",
+    "stimulus": "4(x − 3) = 11 + 2(x − 3)",
+    "text": "If x is the solution to the given equation, what is the value of x − 3?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "16": {
+    "page": 54,
+    "correctAnswer": "B",
+    "stimulus": null,
+    "text": "In 1980, the population density of Carroll County was 125 people per square mile. In 1990, the population density of Carroll County was 141 people per square mile. The population density of Carroll County in 1990 was p% of the population density of Carroll County in 1980. What is the value of p?",
+    "choices": {
+      "A": "116.0",
+      "B": "112.8",
+      "C": "16.0",
+      "D": "12.8"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "17": {
+    "page": 54,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "Which expression is equivalent to (2x + 9)^2 − (x − 7)?",
+    "choices": {
+      "A": "4x^2 + 35x + 74",
+      "B": "4x^2 + 35x + 88",
+      "C": "4x^2 − x + 74",
+      "D": "4x^2 − x + 88"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "18": {
+    "page": 55,
+    "correctAnswer": "32",
+    "stimulus": null,
+    "text": "A circle has center O, and points R and S lie on the circle. In triangle ORS, the measure of ∠ROS is 116°. What is the measure of ∠RSO, in degrees? (Disregard the degree symbol when entering your answer.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "19": {
+    "page": 56,
+    "correctAnswer": "C",
+    "stimulus": null,
+    "text": "32 teams are competing in a baseball tournament. The tournament has 5 rounds. After each round, half the teams competing are eliminated from the tournament. If r teams remain in the tournament after x rounds of play, which of the following gives r in terms of x?",
+    "choices": {
+      "A": "r = (1/2)(32^x)",
+      "B": "r = (1/2)x^32",
+      "C": "r = 32(1/2)^x",
+      "D": "r = 32x^(1/2)"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "20": {
+    "page": 56,
+    "correctAnswer": "A",
+    "stimulus": null,
+    "text": "A boat traveled a certain distance upriver and then traveled downriver 10 miles farther than it traveled upriver. The boat took x hours to travel upriver at a speed of 12 miles per hour. The boat then took y hours to travel downriver at a speed of 18 miles per hour faster than the speed at which the boat traveled upriver. Which of the following equations best represents this situation?",
+    "choices": {
+      "A": "12x − 30y = −10",
+      "B": "12x + 30y = −10",
+      "C": "12x + 30y = 10",
+      "D": "12x − 30y = 10"
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "21": {
+    "page": 57,
+    "correctAnswer": "768",
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 4(x − 3)(x^2 − k), where k is a constant. In the xy-plane, the graph of y = f(x) passes through the point (−8, 0). What is the value of f(0)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "_figureNote": null
+  },
+  "22": {
+    "page": 58,
+    "correctAnswer": "D",
+    "stimulus": "For the linear function g, the table shows three values of x and their corresponding values of g(x).",
+    "text": "Function g is defined by g(x) = ax + b, where a and b are constants. What is the value of a + b?",
+    "choices": {
+      "A": "28/5",
+      "B": "63/10",
+      "C": "63/8",
+      "D": "35/4"
+    },
+    "imageUrl": "/mocks/2025-june-us-c/figures/math1-q22-gx-table.svg",
+    "_figureNote": "Two-column table headers x | g(x). Rows: −17, −7; −9, 0; −1, 7."
+  }
+}

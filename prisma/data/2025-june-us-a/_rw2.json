@@ -1,0 +1,356 @@
+{
+  "1": {
+    "page": 29,
+    "correctAnswer": "D",
+    "stimulus": "Nancy Bird-Walton, who was an aviation pioneer, undoubtedly accomplished much, but to gain a lasting place in our historical memory, there is little that can ______ being the first to do something. For example, people will always remember that Aloha Wanderwell was the first woman to drive herself around the world.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "overreach by",
+      "B": "fluctuate with",
+      "C": "constrain within",
+      "D": "prevail over"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "page": 30,
+    "correctAnswer": "B",
+    "stimulus": "Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "postulate",
+      "B": "ameliorate",
+      "C": "sanction",
+      "D": "rationalize"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "page": 31,
+    "correctAnswer": "D",
+    "stimulus": "In the 2010s, the price of vintage G.I. Joe action figures rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn't previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "satisfying",
+      "B": "capitalizing",
+      "C": "exploiting",
+      "D": "eliciting"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "page": 32,
+    "correctAnswer": "C",
+    "stimulus": "The fact that publications by University of Minnesota economist Ellen R. McGrattan, who studies financial policy, are so frequently cited in other scholars' work ______ the usefulness of her research for her peers—other economists clearly find her studies valuable for their own scholarship.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "forestalls",
+      "B": "belies",
+      "C": "underscores",
+      "D": "overshadows"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "page": 33,
+    "correctAnswer": "A",
+    "stimulus": "Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including *Coprinellus micaceus* and species from the genus *Cantharellus*) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: <u>temperature reductions were observed in the air immediately surrounding the mushrooms.</u> Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology.",
+      "B": "It provides empirical evidence to bolster the claim made earlier in the text that certain fungal species maintain a hypothermic state.",
+      "C": "It presents a tangential finding about thermoregulation in certain fungal species that the experiment described later in the text was designed to explain.",
+      "D": "It identifies an unexpected observation that motivated the study of evaporative cooling in fungi that is discussed earlier in the text."
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "page": 34,
+    "correctAnswer": "A",
+    "stimulus": "In Algeria, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by approximately three-fourths between 2000 and 2019; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Rasmus Heltberg's study of fuel use in Ghana shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the stability of the local electrical grid.",
+    "text": "Which choice best describes the function of the information about Algeria in the text as a whole?",
+    "choices": {
+      "A": "It provides an example of a type of change that the text goes on to suggest is poorly suited for evaluating whether the energy ladder is a viable model.",
+      "B": "It introduces a finding that the text goes on to suggest can be explained in two different ways that are equally compelling.",
+      "C": "It describes a trend that the text goes on to suggest has a similar cause as a seemingly unrelated trend observed in Ghana.",
+      "D": "It illustrates the kind of phenomenon that the text goes on to suggest is frequently but inadequately accounted for by the energy ladder."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "page": 53,
+    "correctAnswer": "D",
+    "stimulus": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of La Paz, Bolivia, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 528 respondents from La Paz, 67.5% indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of La Paz respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.",
+    "text": "The text makes which point about the difference between the proportions of La Paz residents and Fortaleza residents using parks?",
+    "choices": {
+      "A": "It was much larger than the researchers conducting the study expected.",
+      "B": "It was calculated using sources that predate the survey.",
+      "C": "It could be due to inaccuracies in the survey results.",
+      "D": "It is caused by something other than the parks' proximity to city residents."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "page": 52,
+    "correctAnswer": "A",
+    "stimulus": "The bird species *Hylophilus ochraceiceps* (the tawny-crowned greenlet) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *H. ochraceiceps*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *H. ochraceiceps* associates *T. caesius* alarm calls with danger.",
+    "text": "Which finding, if true, would most directly support Martinez and colleagues' conclusion?",
+    "choices": {
+      "A": "When Martinez and colleagues played control sounds of random noise in the vicinity of *H. ochraceiceps*, the birds displayed no reaction.",
+      "B": "Other bird species than *H. ochraceiceps* also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played *T. caesius* alarm calls.",
+      "C": "Martinez and colleagues played alarm calls from different *T. caesius* individuals and observed no significant variation in the responses of *H. ochraceiceps*.",
+      "D": "In some instances, *H. ochraceiceps* froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "page": 51,
+    "correctAnswer": "A",
+    "stimulus": "Apple's introduction of the iPhone in 2007 is a quintessential instance of brand extension—the company leveraged its brand recognition as a computer manufacturer to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers' likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of laundry detergent and air freshener) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.",
+    "text": "Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?",
+    "choices": {
+      "A": "Have a representative sample of the households rate the similarity of the product categories in each extended-brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+      "B": "Have a representative sample of the households rate the similarity of one product in each extended-brand pair to other products in the same category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+      "C": "Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand.",
+      "D": "Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "page": 50,
+    "correctAnswer": "D",
+    "stimulus": "Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P3 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______",
+    "text": "Which choice most effectively uses data from the graph to complete the example?",
+    "choices": {
+      "A": "P3 would derive more aesthetic pleasure from cubist paintings than from abstract paintings.",
+      "B": "P3's rating for abstract and cubist paintings would equal one another.",
+      "C": "P3 would derive less aesthetic pleasure from cubist paintings than from abstract paintings.",
+      "D": "P3's ratings for abstract and cubist paintings would differ from one another."
+    },
+    "imageUrl": "/mocks/2025-june-us-a/figures/eng2-q10-painting-style-correlation.svg",
+    "_figureNote": "Grouped bar chart: Correlation between Model-Predicted and Participant-Reported Enjoyment Ratings, by Painting Style. Y-axis Correlation 0–0.4. X-axis: Abstract, Cubist. Legend: P3 (dark gray), P5 (light gray), P2 (black). Approximate values — Abstract: P3 ~0.16, P5 0.20, P2 ~0.16; Cubist: P3 ~0.31, P5 ~0.07, P2 ~0.22."
+  },
+  "11": {
+    "page": 49,
+    "correctAnswer": "D",
+    "stimulus": "In 1900, in collaboration with Cherokee cultural historian Will West Long, white ethnographer James Mooney assembled a collection of traditional oral stories related to him by Cherokee elders. Based on their content, Mooney categorized them into various genres: historical traditions, tales of animals, and so on. Noting that some stories feature detailed descriptions of geographic locations in the Cherokee homeland, Mooney demarcated those as a genre he referred to as \"wonder stories.\" While Long and Mooney's collaboration proved valuable as an act of cultural preservation, it is important to bear in mind that Cherokee people are not known to have applied genre divisions to their stories before Mooney's work. There is, therefore, ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "some reason to think that other traditional stories that the Cherokee elders did not share with Mooney would not have met Mooney's criterion for classifying them as \"wonder stories\" despite including geographical information.",
+      "B": "no evidence for Mooney's conclusion that the Cherokee elders who recounted the stories believed that the geographic details included in some stories were accurate descriptions of the Cherokee homeland.",
+      "C": "considerable uncertainty about whether Mooney's classifications of the stories shared by the Cherokee elders were influenced by Long's views about which features of a story are most indicative of the genre to which the story belongs.",
+      "D": "no reason to believe that the Cherokee elders who provided the stories would have agreed with Mooney that the inclusion of geographical specificity in some stories marked those stories as different in kind from other stories."
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "page": 48,
+    "correctAnswer": "C",
+    "stimulus": "Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Yao Luo and colleagues in China, showed similar results to the North American studies, while few have produced results similar to those of Porvari and Verta's study, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Finland than elsewhere.",
+      "B": "the hypothesis that the positive association is particular to North America is correct.",
+      "C": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.",
+      "D": "there were circumstances unique to Luo and colleagues' study that impeded accurate measurements of mercury levels."
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "page": 47,
+    "correctAnswer": "D",
+    "stimulus": "Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Opechona* sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Anthocotyle merluccii* (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "as the number of host species involved in a parasite's transmission increases, the parasite is better protected against rising temperatures.",
+      "B": "any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature-driven factors on CLP abundance.",
+      "C": "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.",
+      "D": "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "page": 46,
+    "correctAnswer": "B",
+    "stimulus": "Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Lidia Eva Wysocki and colleagues found in a 2006 study of common carp. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of fish showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for fish. Therefore, the results of the meta-analysis suggest that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were detrimental.",
+      "B": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for fish.",
+      "C": "the difference found in the study conducted by Lidia Eva Wysocki and colleagues was likely larger than the average difference for studies of common carp included in the meta-analysis.",
+      "D": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "page": 45,
+    "correctAnswer": "D",
+    "stimulus": "Although the epic poem *The Poem of the Cid* dates back to the 12th century, ______ compelling narrative still captivates readers today.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they're",
+      "B": "its",
+      "C": "their",
+      "D": "it's"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "page": 44,
+    "correctAnswer": "C",
+    "stimulus": "Most sand is beige because of deposits of gray- and tan-hued minerals, such as quartz and feldspar. The sand at Balos Beach in Greece is a more unusual ______ deposits of crushed coral and other organic matter lend the sand a unique pink hue.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "shade, though",
+      "B": "shade; though",
+      "C": "shade, though,",
+      "D": "shade; though,"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "page": 43,
+    "correctAnswer": "D",
+    "stimulus": "The poem \"Naomi,\" which was published in 1960, contains three signature elements of Gwendolyn Brooks's poetic ______ compressed lines infused with bursts of vivid imagery; syncopated rhythms, largely inspired by the blues tradition; and a keen attention to everyday life in Brooks's South Side Chicago neighborhood.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "style. Terse,",
+      "B": "style, terse,",
+      "C": "style: terse,",
+      "D": "style; terse,"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "page": 42,
+    "correctAnswer": "C",
+    "stimulus": "Neoclassical economic models assume that people consistently make rational economic decisions, but Laura Gee of Tufts University makes no such assumption; behavioral economists such as Gee, whose research focuses on charitable giving, ______ that economic decision-making can in fact be highly irrational.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has contended",
+      "B": "contends",
+      "C": "is contending",
+      "D": "contend"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "page": 41,
+    "correctAnswer": "C",
+    "stimulus": "While the greater adjutant (*Leptoptilos dubius*) can be found in places like the Central Tanintharyi Coast in Myanmar and the Chhep Wildlife Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife ______ is on the front lines of conservation efforts to bring adjutants back from near extinction.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "biologist, Dr. Purnima Devi Barman,",
+      "B": "biologist, Dr. Purnima Devi Barman",
+      "C": "biologist: Dr. Purnima Devi Barman",
+      "D": "biologist Dr. Purnima Devi Barman"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "page": 40,
+    "correctAnswer": "A",
+    "stimulus": "The Roman poet Lucan's *Pharsalia*, an epic poem about Julius Caesar, is an extant work: it can still be read. By contrast, lost works like Lucan's poem praising Emperor Nero, *Laudes Neronis*—no copy of which exists—______ known to antiquarians only through references in extant works.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have become",
+      "B": "is becoming",
+      "C": "has become",
+      "D": "becomes"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "page": 39,
+    "correctAnswer": "C",
+    "stimulus": "In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam's diameter) of 85 micrometers.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "focused",
+      "B": "focuses",
+      "C": "focusing",
+      "D": "focus"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "page": 38,
+    "correctAnswer": "B",
+    "stimulus": "Christine Chen is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Chen's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Therefore,",
+      "B": "By contrast,",
+      "C": "Similarly,",
+      "D": "Secondly,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "page": 37,
+    "correctAnswer": "C",
+    "stimulus": "Contour modeling and box modeling, methods used by digital artists to create three-dimensional elements for video games, typically require software to process geometric shapes numbering in the thousands. ______ these approaches are more economical than surface model methods, which require more powerful and expensive processors to manage polygons numbering in the millions.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Instead,",
+      "B": "Specifically,",
+      "C": "As such,",
+      "D": "For example,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "page": 36,
+    "correctAnswer": "C",
+    "stimulus": "The total solar eclipse of April 16, 1178 BCE, was famously described in Homer's epic poem *The Odyssey*. Another memorable solar eclipse occurred on April 21, 899 BCE, but unlike the 1178 BCE eclipse, the 899 BCE eclipse was annular. ______ the Moon didn't cover the Sun completely, instead creating an annulus, or \"ring of fire.\"",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Meanwhile,",
+      "C": "That is,",
+      "D": "Nonetheless,"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "page": 35,
+    "correctAnswer": "D",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• The Pilot Knob National Wildlife Refuge (NWR) is a protected natural area in Missouri.\n• It encompasses 90 acres.\n• It was established to safeguard the habitat of the Indiana bat, an endangered species.\n• The Pilot Knob NWR is managed by the US Fish & Wildlife Service.\n• The US Fish & Wildlife Service limits human activities in the area.",
+    "text": "The student wants to indicate the size of the Pilot Knob NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The Pilot Knob NWR is a protected natural area managed by the US Fish & Wildlife Service, which limits human activities there.",
+      "B": "The Pilot Knob NWR is a natural area in Missouri, home to the Indiana bat.",
+      "C": "Home to the Indiana bat, Missouri's Pilot Knob NWR is managed by the US Fish & Wildlife Service.",
+      "D": "A protected natural area, the Pilot Knob NWR encompasses 90 acres of land in Missouri."
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "page": 54,
+    "correctAnswer": "A",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n• R. Oleksy, L. Giuggioli, and T.J. McKetterick published a study in 2017.\n• In it, the researchers found that ingestion by bats had a positive effect on the germination of Ficus grevei plant seeds.\n• Jorge E. López and C. Vaughan published a study in 2004.\n• In it, the researchers found that ingestion by bats had a neutral effect on the germination of Senna fruticosa plant seeds.\n• J.M. Palmeirim, D.L. Gorchoy, and S. Stoleson published a study in 1989.\n• In it, the researchers found that ingestion by bats had a negative effect on the germination of Piper friedrichsthalii plant seeds.",
+    "text": "The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Seed ingestion by bats can have varying effects on seed germination.",
+      "B": "Over the years, researchers have studied the effect that seed germination has had on ingestion by bats.",
+      "C": "As was found in the 2017 study, ingestion by bats has a negative effect on the germination of plant seeds.",
+      "D": "Bat ingestion has consistently been found to have a positive effect on seed germination."
+    },
+    "imageUrl": null,
+    "_filledFrom": "2025-june-int-a/_rw2.json#26"
+  },
+  "27": {
+    "page": 55,
+    "correctAnswer": "B",
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.\n• The happiness benefit of a city's parks was the numeric difference between the calculated happiness scores of posts made in parks and posts made elsewhere.\n• A benefit above 0 indicates a positive effect.\n• The park happiness benefit in San Francisco, California, was greater than 0.10.\n• The park happiness benefit in Washington, DC, was greater than 0 but less than 0.10.\n• The average happiness benefit of parks across all cities was 0.10.",
+    "text": "The student wants to make a generalization based on the study's findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Geotagged social media posts were analyzed for expressed happiness in both San Francisco and Washington.",
+      "B": "Though it can vary from city to city, the overall effect of parks on happiness is a positive one.",
+      "C": "San Francisco's parks had a positive effect on happiness, but this was not true of Washington's parks, which had a below-average effect.",
+      "D": "By comparing the happiness scores of posts made in parks and posts made elsewhere, the study determined the effect of parks on happiness."
+    },
+    "imageUrl": null,
+    "_filledFrom": "2025-june-int-b/_rw2.json#27"
+  }
+}
