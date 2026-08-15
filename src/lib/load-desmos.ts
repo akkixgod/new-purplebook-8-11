@@ -1,12 +1,23 @@
 /** Load the official Desmos API script once; resolves with the global Desmos object. */
 
-// Documented Desmos demo key (docs); override with NEXT_PUBLIC_DESMOS_API_KEY in production.
-const DEMO_KEY = "dcb31709b452b1cf9dc6961159cdb094";
+/**
+ * Documented Desmos development/demo API key from https://www.desmos.com/api docs.
+ * Override with NEXT_PUBLIC_DESMOS_API_KEY for production (desmos.com/my-api).
+ * Note: an older typo key (…dc6961159cdb094) returns HTTP 403 and must not be used.
+ */
+const DEMO_KEY = "dcb31709b452b1cf9dc26972add0fda6";
 
-function apiSrc(): string {
-  const key =
-    (typeof process !== "undefined" && process.env.NEXT_PUBLIC_DESMOS_API_KEY) || DEMO_KEY;
-  return `https://www.desmos.com/api/v1.10/calculator.js?apiKey=${encodeURIComponent(key)}`;
+/** Prefer a pinned major that Desmos still serves; they 302 to a patch release. */
+const API_VERSION = "v1.11";
+
+function apiSrc(key: string = getApiKey()): string {
+  return `https://www.desmos.com/api/${API_VERSION}/calculator.js?apiKey=${encodeURIComponent(key)}`;
+}
+
+function getApiKey(): string {
+  const fromEnv =
+    typeof process !== "undefined" ? process.env.NEXT_PUBLIC_DESMOS_API_KEY?.trim() : "";
+  return fromEnv || DEMO_KEY;
 }
 
 export interface DesmosCalculatorInstance {
@@ -37,6 +48,14 @@ declare global {
 
 let loadPromise: Promise<DesmosAPI> | null = null;
 
+function removeFailedScript(script: HTMLScriptElement | null) {
+  try {
+    script?.remove();
+  } catch {
+    /* ignore */
+  }
+}
+
 export function loadDesmos(): Promise<DesmosAPI> {
   if (typeof window === "undefined") {
     return Promise.reject(new Error("Desmos can only load in the browser"));
@@ -48,12 +67,21 @@ export function loadDesmos(): Promise<DesmosAPI> {
 
   loadPromise = new Promise<DesmosAPI>((resolve, reject) => {
     const src = apiSrc();
-    const finish = () => {
-      if (window.Desmos?.GraphingCalculator) resolve(window.Desmos);
-      else {
-        loadPromise = null;
-        reject(new Error("Desmos failed to initialize"));
+
+    const fail = (message: string, script?: HTMLScriptElement | null) => {
+      loadPromise = null;
+      removeFailedScript(script ?? null);
+      // Plain string (not Error) avoids Next.js treating this as a redbox-worthy console error
+      // when callers log the rejection during iframe fallback.
+      reject(message);
+    };
+
+    const finish = (script?: HTMLScriptElement | null) => {
+      if (window.Desmos?.GraphingCalculator) {
+        resolve(window.Desmos);
+        return;
       }
+      fail("Desmos failed to initialize", script);
     };
 
     const existing = document.querySelector<HTMLScriptElement>(
@@ -61,25 +89,30 @@ export function loadDesmos(): Promise<DesmosAPI> {
     );
     if (existing) {
       if (window.Desmos?.GraphingCalculator) {
-        finish();
+        finish(existing);
         return;
       }
-      existing.addEventListener("load", finish);
-      existing.addEventListener("error", () => {
-        loadPromise = null;
-        reject(new Error("Desmos script failed to load"));
-      });
-      return;
+      // Stale failed tag from a previous attempt — replace it.
+      if (existing.dataset.desmosFailed === "1") {
+        removeFailedScript(existing);
+      } else {
+        existing.addEventListener("load", () => finish(existing));
+        existing.addEventListener("error", () => {
+          existing.dataset.desmosFailed = "1";
+          fail("Desmos script failed to load", existing);
+        });
+        return;
+      }
     }
 
     const script = document.createElement("script");
     script.src = src;
     script.async = true;
     script.dataset.desmosApi = "1";
-    script.onload = finish;
+    script.onload = () => finish(script);
     script.onerror = () => {
-      loadPromise = null;
-      reject(new Error("Desmos script failed to load"));
+      script.dataset.desmosFailed = "1";
+      fail("Desmos script failed to load", script);
     };
     document.head.appendChild(script);
   });

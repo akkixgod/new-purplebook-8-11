@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="280" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Banded Sand Catsharks Found in</text>
+  <text x="280" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Three Sponges</text>
+  <text x="24" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="12" transform="rotate(-90 24 230)">Number of sharks</text>
+  <!-- grid -->
+  <line x1="70" y1="340" x2="500" y2="340" stroke="#e5e7eb"/>
+  <text x="62" y="344" text-anchor="end" font-family="Georgia, serif" font-size="11">0</text>
+  <line x1="70" y1="308" x2="500" y2="308" stroke="#e5e7eb"/>
+  <text x="62" y="312" text-anchor="end" font-family="Georgia, serif" font-size="11">2</text>
+  <line x1="70" y1="276" x2="500" y2="276" stroke="#e5e7eb"/>
+  <text x="62" y="280" text-anchor="end" font-family="Georgia, serif" font-size="11">4</text>
+  <line x1="70" y1="244" x2="500" y2="244" stroke="#e5e7eb"/>
+  <text x="62" y="248" text-anchor="end" font-family="Georgia, serif" font-size="11">6</text>
+  <line x1="70" y1="212" x2="500" y2="212" stroke="#e5e7eb"/>
+  <text x="62" y="216" text-anchor="end" font-family="Georgia, serif" font-size="11">8</text>
+  <line x1="70" y1="180" x2="500" y2="180" stroke="#e5e7eb"/>
+  <text x="62" y="184" text-anchor="end" font-family="Georgia, serif" font-size="11">10</text>
+  <line x1="70" y1="148" x2="500" y2="148" stroke="#e5e7eb"/>
+  <text x="62" y="152" text-anchor="end" font-family="Georgia, serif" font-size="11">12</text>
+  <line x1="70" y1="116" x2="500" y2="116" stroke="#e5e7eb"/>
+  <text x="62" y="120" text-anchor="end" font-family="Georgia, serif" font-size="11">14</text>
+  <line x1="70" y1="84" x2="500" y2="84" stroke="#e5e7eb"/>
+  <text x="62" y="88" text-anchor="end" font-family="Georgia, serif" font-size="11">16</text>
+  <line x1="70" y1="52" x2="500" y2="52" stroke="#e5e7eb"/>
+  <text x="62" y="56" text-anchor="end" font-family="Georgia, serif" font-size="11">18</text>
+  <line x1="70" y1="52" x2="70" y2="340" stroke="#111"/>
+  <line x1="70" y1="340" x2="500" y2="340" stroke="#111"/>
+  <!-- scale: 16px per shark unit -->
+  <!-- male: 17, 1, 2 -->
+  <rect x="100" y="68" width="28" height="272" fill="#6b7280" stroke="#111"/>
+  <rect x="130" y="324" width="28" height="16" fill="#d1d5db" stroke="#111"/>
+  <rect x="160" y="308" width="28" height="32" fill="#111" stroke="#111"/>
+  <text x="144" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12">male</text>
+  <!-- female: 13, 2, 1 -->
+  <rect x="230" y="132" width="28" height="208" fill="#6b7280" stroke="#111"/>
+  <rect x="260" y="308" width="28" height="32" fill="#d1d5db" stroke="#111"/>
+  <rect x="290" y="324" width="28" height="16" fill="#111" stroke="#111"/>
+  <text x="274" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12">female</text>
+  <!-- undetermined: 0, 3, 15 -->
+  <rect x="360" y="292" width="28" height="48" fill="#d1d5db" stroke="#111"/>
+  <rect x="390" y="100" width="28" height="240" fill="#111" stroke="#111"/>
+  <text x="404" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12">undetermined</text>
+  <!-- legend -->
+  <rect x="150" y="388" width="12" height="12" fill="#6b7280" stroke="#111"/>
+  <text x="168" y="399" font-family="Georgia, serif" font-size="12">sponge 1</text>
+  <rect x="250" y="388" width="12" height="12" fill="#d1d5db" stroke="#111"/>
+  <text x="268" y="399" font-family="Georgia, serif" font-size="12">sponge 2</text>
+  <rect x="350" y="388" width="12" height="12" fill="#111" stroke="#111"/>
+  <text x="368" y="399" font-family="Georgia, serif" font-size="12">sponge 3</text>
+</svg>

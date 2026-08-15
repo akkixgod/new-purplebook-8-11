@@ -1,0 +1,833 @@
+{
+  "slug": "2025-august-us-v3",
+  "source": "C:\\Users\\user\\Documents\\Temporary files\\SAT August 23rd 2025 US (Version 3) @DSATPreps.pdf",
+  "page_count": 103,
+  "scale": 2.0,
+  "pages": [
+    {
+      "page": 1,
+      "image": "/mocks/2025-august-us-v3/pages/page-01.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-01.txt",
+      "width": 2028,
+      "height": 1118,
+      "char_count": 507
+    },
+    {
+      "page": 2,
+      "image": "/mocks/2025-august-us-v3/pages/page-02.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-02.txt",
+      "width": 2028,
+      "height": 1032,
+      "char_count": 578
+    },
+    {
+      "page": 3,
+      "image": "/mocks/2025-august-us-v3/pages/page-03.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-03.txt",
+      "width": 2024,
+      "height": 1134,
+      "char_count": 553
+    },
+    {
+      "page": 4,
+      "image": "/mocks/2025-august-us-v3/pages/page-04.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-04.txt",
+      "width": 2030,
+      "height": 1188,
+      "char_count": 459
+    },
+    {
+      "page": 5,
+      "image": "/mocks/2025-august-us-v3/pages/page-05.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-05.txt",
+      "width": 2024,
+      "height": 1152,
+      "char_count": 1001
+    },
+    {
+      "page": 6,
+      "image": "/mocks/2025-august-us-v3/pages/page-06.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-06.txt",
+      "width": 2034,
+      "height": 1212,
+      "char_count": 984
+    },
+    {
+      "page": 7,
+      "image": "/mocks/2025-august-us-v3/pages/page-07.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-07.txt",
+      "width": 2024,
+      "height": 1140,
+      "char_count": 1094
+    },
+    {
+      "page": 8,
+      "image": "/mocks/2025-august-us-v3/pages/page-08.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-08.txt",
+      "width": 2034,
+      "height": 1196,
+      "char_count": 921
+    },
+    {
+      "page": 9,
+      "image": "/mocks/2025-august-us-v3/pages/page-09.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-09.txt",
+      "width": 2034,
+      "height": 1216,
+      "char_count": 1041
+    },
+    {
+      "page": 10,
+      "image": "/mocks/2025-august-us-v3/pages/page-10.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-10.txt",
+      "width": 2030,
+      "height": 1164,
+      "char_count": 654
+    },
+    {
+      "page": 11,
+      "image": "/mocks/2025-august-us-v3/pages/page-11.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-11.txt",
+      "width": 2026,
+      "height": 1230,
+      "char_count": 1504
+    },
+    {
+      "page": 12,
+      "image": "/mocks/2025-august-us-v3/pages/page-12.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-12.txt",
+      "width": 2034,
+      "height": 1210,
+      "char_count": 1800
+    },
+    {
+      "page": 13,
+      "image": "/mocks/2025-august-us-v3/pages/page-13.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-13.txt",
+      "width": 2022,
+      "height": 1170,
+      "char_count": 1461
+    },
+    {
+      "page": 14,
+      "image": "/mocks/2025-august-us-v3/pages/page-14.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-14.txt",
+      "width": 2034,
+      "height": 1110,
+      "char_count": 997
+    },
+    {
+      "page": 15,
+      "image": "/mocks/2025-august-us-v3/pages/page-15.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-15.txt",
+      "width": 2032,
+      "height": 1056,
+      "char_count": 408
+    },
+    {
+      "page": 16,
+      "image": "/mocks/2025-august-us-v3/pages/page-16.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-16.txt",
+      "width": 2024,
+      "height": 1230,
+      "char_count": 362
+    },
+    {
+      "page": 17,
+      "image": "/mocks/2025-august-us-v3/pages/page-17.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-17.txt",
+      "width": 2024,
+      "height": 1196,
+      "char_count": 504
+    },
+    {
+      "page": 18,
+      "image": "/mocks/2025-august-us-v3/pages/page-18.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-18.txt",
+      "width": 2024,
+      "height": 1200,
+      "char_count": 483
+    },
+    {
+      "page": 19,
+      "image": "/mocks/2025-august-us-v3/pages/page-19.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-19.txt",
+      "width": 2028,
+      "height": 1188,
+      "char_count": 759
+    },
+    {
+      "page": 20,
+      "image": "/mocks/2025-august-us-v3/pages/page-20.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-20.txt",
+      "width": 2024,
+      "height": 1194,
+      "char_count": 589
+    },
+    {
+      "page": 21,
+      "image": "/mocks/2025-august-us-v3/pages/page-21.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-21.txt",
+      "width": 2028,
+      "height": 1200,
+      "char_count": 639
+    },
+    {
+      "page": 22,
+      "image": "/mocks/2025-august-us-v3/pages/page-22.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-22.txt",
+      "width": 2032,
+      "height": 1146,
+      "char_count": 635
+    },
+    {
+      "page": 23,
+      "image": "/mocks/2025-august-us-v3/pages/page-23.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-23.txt",
+      "width": 2034,
+      "height": 1224,
+      "char_count": 508
+    },
+    {
+      "page": 24,
+      "image": "/mocks/2025-august-us-v3/pages/page-24.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-24.txt",
+      "width": 2030,
+      "height": 1236,
+      "char_count": 398
+    },
+    {
+      "page": 25,
+      "image": "/mocks/2025-august-us-v3/pages/page-25.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-25.txt",
+      "width": 2034,
+      "height": 1208,
+      "char_count": 441
+    },
+    {
+      "page": 26,
+      "image": "/mocks/2025-august-us-v3/pages/page-26.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-26.txt",
+      "width": 2022,
+      "height": 1204,
+      "char_count": 476
+    },
+    {
+      "page": 27,
+      "image": "/mocks/2025-august-us-v3/pages/page-27.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-27.txt",
+      "width": 2030,
+      "height": 1220,
+      "char_count": 795
+    },
+    {
+      "page": 28,
+      "image": "/mocks/2025-august-us-v3/pages/page-28.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-28.txt",
+      "width": 2040,
+      "height": 1278,
+      "char_count": 552
+    },
+    {
+      "page": 29,
+      "image": "/mocks/2025-august-us-v3/pages/page-29.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-29.txt",
+      "width": 2034,
+      "height": 1272,
+      "char_count": 689
+    },
+    {
+      "page": 30,
+      "image": "/mocks/2025-august-us-v3/pages/page-30.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-30.txt",
+      "width": 2030,
+      "height": 1198,
+      "char_count": 669
+    },
+    {
+      "page": 31,
+      "image": "/mocks/2025-august-us-v3/pages/page-31.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-31.txt",
+      "width": 2038,
+      "height": 1276,
+      "char_count": 641
+    },
+    {
+      "page": 32,
+      "image": "/mocks/2025-august-us-v3/pages/page-32.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-32.txt",
+      "width": 2024,
+      "height": 1214,
+      "char_count": 1114
+    },
+    {
+      "page": 33,
+      "image": "/mocks/2025-august-us-v3/pages/page-33.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-33.txt",
+      "width": 2028,
+      "height": 1244,
+      "char_count": 1178
+    },
+    {
+      "page": 34,
+      "image": "/mocks/2025-august-us-v3/pages/page-34.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-34.txt",
+      "width": 2026,
+      "height": 1258,
+      "char_count": 1666
+    },
+    {
+      "page": 35,
+      "image": "/mocks/2025-august-us-v3/pages/page-35.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-35.txt",
+      "width": 2034,
+      "height": 1184,
+      "char_count": 1469
+    },
+    {
+      "page": 36,
+      "image": "/mocks/2025-august-us-v3/pages/page-36.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-36.txt",
+      "width": 2032,
+      "height": 1274,
+      "char_count": 1559
+    },
+    {
+      "page": 37,
+      "image": "/mocks/2025-august-us-v3/pages/page-37.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-37.txt",
+      "width": 2042,
+      "height": 1234,
+      "char_count": 1951
+    },
+    {
+      "page": 38,
+      "image": "/mocks/2025-august-us-v3/pages/page-38.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-38.txt",
+      "width": 2020,
+      "height": 1260,
+      "char_count": 1016
+    },
+    {
+      "page": 39,
+      "image": "/mocks/2025-august-us-v3/pages/page-39.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-39.txt",
+      "width": 2034,
+      "height": 1272,
+      "char_count": 1246
+    },
+    {
+      "page": 40,
+      "image": "/mocks/2025-august-us-v3/pages/page-40.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-40.txt",
+      "width": 2040,
+      "height": 1236,
+      "char_count": 1466
+    },
+    {
+      "page": 41,
+      "image": "/mocks/2025-august-us-v3/pages/page-41.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-41.txt",
+      "width": 2036,
+      "height": 1256,
+      "char_count": 556
+    },
+    {
+      "page": 42,
+      "image": "/mocks/2025-august-us-v3/pages/page-42.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-42.txt",
+      "width": 2034,
+      "height": 1284,
+      "char_count": 597
+    },
+    {
+      "page": 43,
+      "image": "/mocks/2025-august-us-v3/pages/page-43.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-43.txt",
+      "width": 2034,
+      "height": 1208,
+      "char_count": 713
+    },
+    {
+      "page": 44,
+      "image": "/mocks/2025-august-us-v3/pages/page-44.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-44.txt",
+      "width": 2042,
+      "height": 1242,
+      "char_count": 567
+    },
+    {
+      "page": 45,
+      "image": "/mocks/2025-august-us-v3/pages/page-45.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-45.txt",
+      "width": 2032,
+      "height": 1250,
+      "char_count": 612
+    },
+    {
+      "page": 46,
+      "image": "/mocks/2025-august-us-v3/pages/page-46.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-46.txt",
+      "width": 2022,
+      "height": 1272,
+      "char_count": 980
+    },
+    {
+      "page": 47,
+      "image": "/mocks/2025-august-us-v3/pages/page-47.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-47.txt",
+      "width": 2046,
+      "height": 1290,
+      "char_count": 732
+    },
+    {
+      "page": 48,
+      "image": "/mocks/2025-august-us-v3/pages/page-48.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-48.txt",
+      "width": 2034,
+      "height": 1238,
+      "char_count": 589
+    },
+    {
+      "page": 49,
+      "image": "/mocks/2025-august-us-v3/pages/page-49.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-49.txt",
+      "width": 2040,
+      "height": 1244,
+      "char_count": 636
+    },
+    {
+      "page": 50,
+      "image": "/mocks/2025-august-us-v3/pages/page-50.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-50.txt",
+      "width": 2028,
+      "height": 1240,
+      "char_count": 620
+    },
+    {
+      "page": 51,
+      "image": "/mocks/2025-august-us-v3/pages/page-51.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-51.txt",
+      "width": 2030,
+      "height": 1312,
+      "char_count": 1343
+    },
+    {
+      "page": 52,
+      "image": "/mocks/2025-august-us-v3/pages/page-52.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-52.txt",
+      "width": 1734,
+      "height": 1134,
+      "char_count": 247
+    },
+    {
+      "page": 53,
+      "image": "/mocks/2025-august-us-v3/pages/page-53.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-53.txt",
+      "width": 1728,
+      "height": 1100,
+      "char_count": 285
+    },
+    {
+      "page": 54,
+      "image": "/mocks/2025-august-us-v3/pages/page-54.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-54.txt",
+      "width": 1674,
+      "height": 1046,
+      "char_count": 687
+    },
+    {
+      "page": 55,
+      "image": "/mocks/2025-august-us-v3/pages/page-55.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-55.txt",
+      "width": 1776,
+      "height": 1110,
+      "char_count": 611
+    },
+    {
+      "page": 56,
+      "image": "/mocks/2025-august-us-v3/pages/page-56.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-56.txt",
+      "width": 1736,
+      "height": 1090,
+      "char_count": 283
+    },
+    {
+      "page": 57,
+      "image": "/mocks/2025-august-us-v3/pages/page-57.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-57.txt",
+      "width": 1760,
+      "height": 1068,
+      "char_count": 239
+    },
+    {
+      "page": 58,
+      "image": "/mocks/2025-august-us-v3/pages/page-58.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-58.txt",
+      "width": 1758,
+      "height": 1076,
+      "char_count": 203
+    },
+    {
+      "page": 59,
+      "image": "/mocks/2025-august-us-v3/pages/page-59.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-59.txt",
+      "width": 1716,
+      "height": 1072,
+      "char_count": 225
+    },
+    {
+      "page": 60,
+      "image": "/mocks/2025-august-us-v3/pages/page-60.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-60.txt",
+      "width": 1746,
+      "height": 1014,
+      "char_count": 125
+    },
+    {
+      "page": 61,
+      "image": "/mocks/2025-august-us-v3/pages/page-61.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-61.txt",
+      "width": 1722,
+      "height": 1068,
+      "char_count": 340
+    },
+    {
+      "page": 62,
+      "image": "/mocks/2025-august-us-v3/pages/page-62.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-62.txt",
+      "width": 1818,
+      "height": 1114,
+      "char_count": 164
+    },
+    {
+      "page": 63,
+      "image": "/mocks/2025-august-us-v3/pages/page-63.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-63.txt",
+      "width": 1830,
+      "height": 1054,
+      "char_count": 155
+    },
+    {
+      "page": 64,
+      "image": "/mocks/2025-august-us-v3/pages/page-64.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-64.txt",
+      "width": 1794,
+      "height": 1000,
+      "char_count": 386
+    },
+    {
+      "page": 65,
+      "image": "/mocks/2025-august-us-v3/pages/page-65.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-65.txt",
+      "width": 1782,
+      "height": 1174,
+      "char_count": 333
+    },
+    {
+      "page": 66,
+      "image": "/mocks/2025-august-us-v3/pages/page-66.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-66.txt",
+      "width": 1704,
+      "height": 1050,
+      "char_count": 109
+    },
+    {
+      "page": 67,
+      "image": "/mocks/2025-august-us-v3/pages/page-67.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-67.txt",
+      "width": 1804,
+      "height": 1014,
+      "char_count": 273
+    },
+    {
+      "page": 68,
+      "image": "/mocks/2025-august-us-v3/pages/page-68.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-68.txt",
+      "width": 1752,
+      "height": 1090,
+      "char_count": 405
+    },
+    {
+      "page": 69,
+      "image": "/mocks/2025-august-us-v3/pages/page-69.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-69.txt",
+      "width": 1860,
+      "height": 1242,
+      "char_count": 786
+    },
+    {
+      "page": 70,
+      "image": "/mocks/2025-august-us-v3/pages/page-70.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-70.txt",
+      "width": 1818,
+      "height": 1170,
+      "char_count": 412
+    },
+    {
+      "page": 71,
+      "image": "/mocks/2025-august-us-v3/pages/page-71.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-71.txt",
+      "width": 1784,
+      "height": 1096,
+      "char_count": 460
+    },
+    {
+      "page": 72,
+      "image": "/mocks/2025-august-us-v3/pages/page-72.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-72.txt",
+      "width": 1836,
+      "height": 1044,
+      "char_count": 183
+    },
+    {
+      "page": 73,
+      "image": "/mocks/2025-august-us-v3/pages/page-73.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-73.txt",
+      "width": 1862,
+      "height": 1052,
+      "char_count": 205
+    },
+    {
+      "page": 74,
+      "image": "/mocks/2025-august-us-v3/pages/page-74.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-74.txt",
+      "width": 1834,
+      "height": 1092,
+      "char_count": 367
+    },
+    {
+      "page": 75,
+      "image": "/mocks/2025-august-us-v3/pages/page-75.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-75.txt",
+      "width": 1692,
+      "height": 992,
+      "char_count": 306
+    },
+    {
+      "page": 76,
+      "image": "/mocks/2025-august-us-v3/pages/page-76.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-76.txt",
+      "width": 1776,
+      "height": 984,
+      "char_count": 168
+    },
+    {
+      "page": 77,
+      "image": "/mocks/2025-august-us-v3/pages/page-77.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-77.txt",
+      "width": 1742,
+      "height": 1104,
+      "char_count": 470
+    },
+    {
+      "page": 78,
+      "image": "/mocks/2025-august-us-v3/pages/page-78.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-78.txt",
+      "width": 1662,
+      "height": 1082,
+      "char_count": 685
+    },
+    {
+      "page": 79,
+      "image": "/mocks/2025-august-us-v3/pages/page-79.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-79.txt",
+      "width": 1770,
+      "height": 1028,
+      "char_count": 283
+    },
+    {
+      "page": 80,
+      "image": "/mocks/2025-august-us-v3/pages/page-80.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-80.txt",
+      "width": 1780,
+      "height": 1018,
+      "char_count": 244
+    },
+    {
+      "page": 81,
+      "image": "/mocks/2025-august-us-v3/pages/page-81.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-81.txt",
+      "width": 1718,
+      "height": 1046,
+      "char_count": 203
+    },
+    {
+      "page": 82,
+      "image": "/mocks/2025-august-us-v3/pages/page-82.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-82.txt",
+      "width": 1782,
+      "height": 1070,
+      "char_count": 113
+    },
+    {
+      "page": 83,
+      "image": "/mocks/2025-august-us-v3/pages/page-83.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-83.txt",
+      "width": 1828,
+      "height": 1088,
+      "char_count": 159
+    },
+    {
+      "page": 84,
+      "image": "/mocks/2025-august-us-v3/pages/page-84.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-84.txt",
+      "width": 1846,
+      "height": 1130,
+      "char_count": 130
+    },
+    {
+      "page": 85,
+      "image": "/mocks/2025-august-us-v3/pages/page-85.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-85.txt",
+      "width": 1864,
+      "height": 1052,
+      "char_count": 190
+    },
+    {
+      "page": 86,
+      "image": "/mocks/2025-august-us-v3/pages/page-86.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-86.txt",
+      "width": 1842,
+      "height": 1072,
+      "char_count": 397
+    },
+    {
+      "page": 87,
+      "image": "/mocks/2025-august-us-v3/pages/page-87.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-87.txt",
+      "width": 1832,
+      "height": 1170,
+      "char_count": 167
+    },
+    {
+      "page": 88,
+      "image": "/mocks/2025-august-us-v3/pages/page-88.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-88.txt",
+      "width": 1866,
+      "height": 1074,
+      "char_count": 114
+    },
+    {
+      "page": 89,
+      "image": "/mocks/2025-august-us-v3/pages/page-89.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-89.txt",
+      "width": 1776,
+      "height": 1056,
+      "char_count": 197
+    },
+    {
+      "page": 90,
+      "image": "/mocks/2025-august-us-v3/pages/page-90.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-90.txt",
+      "width": 1866,
+      "height": 1056,
+      "char_count": 175
+    },
+    {
+      "page": 91,
+      "image": "/mocks/2025-august-us-v3/pages/page-91.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-91.txt",
+      "width": 1848,
+      "height": 864,
+      "char_count": 188
+    },
+    {
+      "page": 92,
+      "image": "/mocks/2025-august-us-v3/pages/page-92.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-92.txt",
+      "width": 1868,
+      "height": 1002,
+      "char_count": 194
+    },
+    {
+      "page": 93,
+      "image": "/mocks/2025-august-us-v3/pages/page-93.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-93.txt",
+      "width": 1802,
+      "height": 1038,
+      "char_count": 202
+    },
+    {
+      "page": 94,
+      "image": "/mocks/2025-august-us-v3/pages/page-94.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-94.txt",
+      "width": 1702,
+      "height": 1090,
+      "char_count": 274
+    },
+    {
+      "page": 95,
+      "image": "/mocks/2025-august-us-v3/pages/page-95.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-95.txt",
+      "width": 1768,
+      "height": 1116,
+      "char_count": 277
+    },
+    {
+      "page": 96,
+      "image": "/mocks/2025-august-us-v3/pages/page-96.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-96.txt",
+      "width": 1726,
+      "height": 1020,
+      "char_count": 165
+    },
+    {
+      "page": 97,
+      "image": "/mocks/2025-august-us-v3/pages/page-97.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-97.txt",
+      "width": 1822,
+      "height": 1090,
+      "char_count": 297
+    },
+    {
+      "page": 98,
+      "image": "/mocks/2025-august-us-v3/pages/page-98.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-98.txt",
+      "width": 1740,
+      "height": 1146,
+      "char_count": 427
+    },
+    {
+      "page": 99,
+      "image": "/mocks/2025-august-us-v3/pages/page-99.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-99.txt",
+      "width": 1854,
+      "height": 1148,
+      "char_count": 156
+    },
+    {
+      "page": 100,
+      "image": "/mocks/2025-august-us-v3/pages/page-100.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-100.txt",
+      "width": 1822,
+      "height": 1102,
+      "char_count": 252
+    },
+    {
+      "page": 101,
+      "image": "/mocks/2025-august-us-v3/pages/page-101.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-101.txt",
+      "width": 1862,
+      "height": 1178,
+      "char_count": 186
+    },
+    {
+      "page": 102,
+      "image": "/mocks/2025-august-us-v3/pages/page-102.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-102.txt",
+      "width": 1844,
+      "height": 1134,
+      "char_count": 144
+    },
+    {
+      "page": 103,
+      "image": "/mocks/2025-august-us-v3/pages/page-103.png",
+      "text_file": "C:/Users/user/Desktop/purplebook.cc/public/mocks/2025-august-us-v3/pages/page-103.txt",
+      "width": 1848,
+      "height": 1134,
+      "char_count": 373
+    }
+  ],
+  "figures_dir": "/mocks/2025-august-us-v3/figures"
+}

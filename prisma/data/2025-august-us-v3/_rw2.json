@@ -1,0 +1,362 @@
+{
+  "1": {
+    "order": 1,
+    "stimulus": "Because blue holes (such as the Lost Blue Hole in the Bahamas) and cenotes (such as Cenote Dos Ojos in Mexico) differ in their size, water composition, and type of location, they are not usually viewed as being ______, but both are water-filled sinkholes typically produced by the natural dissolution and collapse of rocks.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "distinct",
+      "B": "explicable",
+      "C": "analogous",
+      "D": "incongruous"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 28,
+    "reason": "Despite differences, both are water-filled sinkholes, so they are analogous."
+  },
+  "2": {
+    "order": 2,
+    "stimulus": "Run by researchers in Australia, the Longitudinal Study of Indigenous Children (LSIC) is an examination of childhood development that has attempted to track approximately 1,700 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ______: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "impartiality",
+      "B": "replicability",
+      "C": "attrition",
+      "D": "circumspection"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 29,
+    "reason": "Participants withdrawing or falling out of contact is attrition."
+  },
+  "3": {
+    "order": 3,
+    "stimulus": "Disproportionate emphasis on instances of invention, such as the emergence of potter’s wheels circa 4500 BCE, contributes to a pro-innovation bias that ______ studies of the history of technology. More attention to technological discontinuance (e.g., the loss of various hunting and fishing implements in Tasmania over thousands of years) is thus a necessary corrective to the dominant view that innovations are steadily and inevitably adopted.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "supersedes",
+      "B": "pervades",
+      "C": "abridges",
+      "D": "foments"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 30,
+    "reason": "A dominant pro-innovation bias that needs correction pervades the field."
+  },
+  "4": {
+    "order": 4,
+    "stimulus": "Paleontologists think that Tyrannosaurus, Sauroposeidon, and other long-extinct theropods and sauropods may have breathed using air sacs connected to tubelike extensions inside the animals’ bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as ______ those of Tyrannosaurus, Sauroposeidon, and other theropods and sauropods.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "harbingers of",
+      "B": "emissaries for",
+      "C": "proxies for",
+      "D": "subordinates of"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 31,
+    "reason": "Birds’ similar structures are used as stand-ins-proxies-for extinct dinosaurs’ respiration."
+  },
+  "5": {
+    "order": 5,
+    "stimulus": "The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes Vib-Ribbon from 1999, which museum visitors can play on site, and SimCity 2000 from 1994, which visitors can see only in a video presentation. <u>MOMA claims the video presentations are only for games that would be impractical to display in a playable form</u>, but video games are an inherently interactive medium, a feature that is grossly absent in a video-only presentation.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It provides MOMA’s rationale for a decision that the author critiques.",
+      "B": "It introduces a fact about video games that the author thinks MOMA did not appropriately consider when choosing which video games to exhibit.",
+      "C": "It details a criticism of MOMA that the author defends against in the remainder of the sentence.",
+      "D": "It presents a misconception about video games that the author believes is evident in MOMA’s choice about which video games to exhibit."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 32,
+    "reason": "Underlined claim is MOMA’s reason for video-only display; “but” critiques that decision."
+  },
+  "6": {
+    "order": 6,
+    "stimulus": "Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept-for example, Victoria Bonnell and Lynn Hunt have noted that “many critics have pointed to the vagueness of the concept of culture.” <u>Does the concept of culture encompass knowledge, or laws, or both these things and others?</u> For casual usage, such haziness is permissible-we know culture when we see it-but for researchers, a standardization of the term is called for if sociology is to truly progress.",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It lists two essential components of what is referred to by Bonnell and Hunt as “culture.”",
+      "B": "It presents a point regarding the definition of “culture” on which nonspecialists and specialists tend to disagree.",
+      "C": "It describes the questions first raised by Bonnell and Hunt’s inquiry into the meaning of the word “culture.”",
+      "D": "It illustrates a difficulty associated with the meaning of “culture” that the author believes holds back an academic field."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 33,
+    "reason": "The question exemplifies vagueness that, without standardization, holds back sociology."
+  },
+  "7": {
+    "order": 7,
+    "stimulus": "Text 1\nThe land that became Grande Terre island split from remnants of the former supercontinent Gondwana approximately 80 million years ago, carrying Gondwanan biota with it, and experienced periodic submersion until 37 million years ago. Some researchers posit that the island’s current biota includes members of Gondwanan clades (i.e., clades predating the split) that persisted by seeking temporary refuge on nearby islands during submergence events.\n\nText 2\nIn a recent study, Prashant Sharma and Gonzalo Giribet found that the crown age-the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)-is 48.9 million years for Grande Terre’s clade of harvest spiders. Most of the island’s extant biota belong to clades with younger crown ages, however: Jérôme Murienne et al. found that the crown age of Grande Terre’s clade of cockroaches is 2.7 million years, for example.",
+    "text": "Taken together, Text 1 and Text 2 best support which statement about the clades of harvest spiders and cockroaches on Grande Terre?",
+    "choices": {
+      "A": "The clade of harvest spiders must have originated on Gondwana, but the clade of cockroaches may or may not have.",
+      "B": "Both the clade of harvest spiders and the clade of cockroaches originated elsewhere and colonized Grande Terre.",
+      "C": "Neither the clade of harvest spiders nor the clade of cockroaches originated on Gondwana.",
+      "D": "The clade of harvest spiders originated before Grande Terre split from Gondwana, whereas the clade of cockroaches originated after the split but before the periodic submergence events began."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 34,
+    "reason": "Crown ages (48.9 mya and 2.7 mya) are both younger than the ~80 mya Gondwana split, so neither clade originated on Gondwana."
+  },
+  "8": {
+    "order": 8,
+    "stimulus": "Radamés Cordero et al. have confirmed that twenty mushroom species (including Coprinellus micaceus and species from the genus Russula) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium-a difference that persisted even after fruited bodies were detached-the researchers speculate that thermoregulation in the mycelium may influence reproductive success.",
+    "text": "Which statement about the mycelium of the twenty mushroom species is best supported by the text?",
+    "choices": {
+      "A": "Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies.",
+      "B": "The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium.",
+      "C": "Temperatures in the fruiting areas of the mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter.",
+      "D": "The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 35,
+    "reason": "Fruiting vs nonfruiting temperature difference persisted after fruited bodies were detached."
+  },
+  "9": {
+    "order": 9,
+    "stimulus": "Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor’s daughter from a previous marriage. Chekhov portrays Vanya as feeling underappreciated by the professor, as is evident when ______",
+    "text": "Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?",
+    "choices": {
+      "A": "Vanya says to Professor Serebrakoff, “For twenty-five years I have managed this place [the estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one-neither in my youth nor now.”",
+      "B": "Professor Serebrakoff says to Helena, “Of course I see that it is foolish for me to live so long, but wait! I shall soon set you all free. My life cannot drag on much longer.”",
+      "C": "Vanya says to Professor Serebrakoff, “We used to think of you as almost superhuman, but now the scales have fallen from my eyes and I see you as you are! You write on art without knowing anything about it. Those books of yours which I used to admire are not worth one copper kopeck. You are a hoax!”",
+      "D": "Vanya says to himself, “I was proud of [Professor Serebrakoff] and of his learning; I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank!”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 36,
+    "reason": "Vanya’s complaint of never receiving thanks directly shows feeling underappreciated."
+  },
+  "10": {
+    "order": 10,
+    "stimulus": "Few of the most commercially successful films in US movie theaters are in a language other than English. One journalist claims that to overcome what director Bong Joon-ho calls “the one-inch-tall barrier of subtitles,” it is essential for a film to receive an Oscar nomination: non-English language films that are not given this public indication of high quality will struggle to find an audience compared with those that do receive Oscar nominations.",
+    "text": "Which choice best describes data from the table that weaken the journalist’s claim?",
+    "choices": {
+      "A": "Crouching Tiger, Hidden Dragon, which was recognized by the Oscars, had lower opening weekend earnings but higher lifetime earnings than Huevos: Little Rooster’s Egg-cellent Adventure, which was not recognized by the Oscars.",
+      "B": "Instructions Not Included was not recognized by the Oscars but had higher lifetime earnings than Eat Drink Man Woman, which was recognized by the Oscars.",
+      "C": "Although the opening weekend earnings were $7,846,426 for Instructions Not Included and $3,424,702 for Huevos: Little Rooster’s Egg-cellent Adventure, neither film was recognized by the Oscars.",
+      "D": "Although both Crouching Tiger, Hidden Dragon and Eat Drink Man Woman were recognized by the Oscars, Crouching Tiger, Hidden Dragon had higher lifetime earnings."
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/eng2-q10-films-table.svg",
+    "correctAnswer": "B",
+    "page": 37,
+    "reason": "A non-Oscar-nominated film out-earning an Oscar-nominated one weakens the claim that nominations are essential for audience success."
+  },
+  "11": {
+    "order": 11,
+    "stimulus": "“The Monster” is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, is playing in his yard while his father mows the lawn; while playing, Jim accidentally damages a peony (a flower). Crane emphasizes Jim’s energy and his distracted absorption in his play by writing, ______",
+    "text": "Which quotation from “The Monster” most effectively illustrates the claim?",
+    "choices": {
+      "A": "“[Jim] went on to the lawn, very slowly, and kicking wretchedly at the turf. Presently his father came along with the whirring machine, while the sweet, new grass blades spun from the knives.”",
+      "B": "“Jim could do no reparation. He looked again towards his father.”",
+      "C": "“[W]hen [Jim] swung around the curve at the flower-bed, a wheel of his cart destroyed a peony.”",
+      "D": "“Little Jim was, for the time, engine Number 36, and he was making the run between Syracuse and Rochester. He was fourteen minutes behind time, and the throttle was wide open.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 38,
+    "reason": "Imagining himself as a speeding train shows energetic, absorbed play."
+  },
+  "12": {
+    "order": 12,
+    "stimulus": "In 2008, the US state of Hawaii enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Hawaii’s RSRs may ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "benefit policyholders at the expense of nonpolicyholders seeking to acquire policies.",
+      "B": "reduce premium price volatility once policies are in effect but increase risks for policyholders.",
+      "C": "prevent large increases in premium prices for new policies despite leading to fewer insurers offering such policies in the affected market.",
+      "D": "be more advantageous for insurers than they are for either current or prospective policyholders."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 39,
+    "reason": "Existing policyholders gain price stability while new buyers may face fewer insurers and less price competition."
+  },
+  "13": {
+    "order": 13,
+    "stimulus": "Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product’s risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Vietnam, investigating participants’ intentions to purchase a new skin-care product, and found that, on average, parents of small children had the lowest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh’s study are broadly applicable, this finding suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "parents of small children likely prioritize other factors over a product’s environmental sustainability when making purchasing decisions.",
+      "B": "there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study.",
+      "C": "the new skin-care product is less appealing to parents of small children than other similar products on the market are.",
+      "D": "parents of small children might be more likely than participants in the other demographic groups to purchase the skin-care product."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 40,
+    "reason": "Lower perceived environmental risk → higher purchase likelihood under Tarabieh’s finding."
+  },
+  "14": {
+    "order": 14,
+    "stimulus": "Trade with neighboring civilizations contributed to the success of the Neo-Assyrian Empire, which reigned in Mesopotamia from around 911 BCE to 609 BCE. By supplying grain, textiles, and tin to societies that lacked these valuable ______ Neo-Assyrian Empire grew not only in wealth but also in power and influence.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "items. The",
+      "B": "items the",
+      "C": "items; the",
+      "D": "items, the"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 41,
+    "reason": "Introductory “By supplying…” phrase needs a comma before the main clause “the Neo-Assyrian Empire grew…”."
+  },
+  "15": {
+    "order": 15,
+    "stimulus": "Released in 1987, the Acorn ARM2 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. ______ a “power wall” in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Hitting",
+      "B": "When they hit",
+      "C": "They hit",
+      "D": "Upon hitting"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 42,
+    "reason": "Gerund subject “Hitting a ‘power wall’…” correctly leads the verb “led.”"
+  },
+  "16": {
+    "order": 16,
+    "stimulus": "In a 2018 study, Ceri Shipton et al. concluded that stone tools excavated from an archaeological site in Saudi Arabia date to between 197,000 and 276,000 years ago. The reliability of the dates that Shipton et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the tools were last exposed to sunlight, ______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "depending",
+      "B": "depend",
+      "C": "depends",
+      "D": "having depended"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 43,
+    "reason": "Singular subject “The reliability” takes singular verb “depends.”"
+  },
+  "17": {
+    "order": 17,
+    "stimulus": "In a chemical equation, converting between the mass of the reactants and the mass of the product requires knowing each component’s molar mass, a quantification of the average mass of the atoms in a compound. The liquid ______ has a molar mass of 170.33 g/mol.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "compound, dodecane (C12H26),",
+      "B": "compound, dodecane (C12H26)",
+      "C": "compound dodecane (C12H26),",
+      "D": "compound dodecane (C12H26)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 44,
+    "reason": "Essential appositive needs no commas; no trailing comma before “has.”"
+  },
+  "18": {
+    "order": 18,
+    "stimulus": "Writer Silvia Moreno-Garcia’s love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she later would become a prolific short story writer herself, publishing pieces like “Jackals” (2015) and “Year of the Monkey” (2008). Yet she’s best ______ ever since her 2020 novel Mexican Gothic saw widespread critical and commercial success, as a novelist.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "known,",
+      "B": "known",
+      "C": "known;",
+      "D": "known:"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 45,
+    "reason": "No punctuation needed between “known” and the following adverbial phrase (highlighted answer)."
+  },
+  "19": {
+    "order": 19,
+    "stimulus": "Conceiving of a communal gathering space in the style of European town centers, ______ recalled those he saw in his native Vienna.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "architect Victor Gruen’s designs for Pennsylvania’s South Hills Village, an indoor shopping mall completed in 1965, contained promenades, fountains, and greenery that",
+      "B": "South Hills Village, an indoor shopping mall in Pennsylvania completed in 1965, was designed by architect Victor Gruen with promenades, fountains, and greenery that",
+      "C": "the promenades, fountains, and greenery of Pennsylvania’s South Hills Village, an indoor shopping mall designed by architect Victor Gruen and completed in 1965,",
+      "D": "architect Victor Gruen designed Pennsylvania’s South Hills Village, an indoor shopping mall completed in 1965, with promenades, fountains, and greenery that"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 46,
+    "reason": "Only Gruen (a person) can logically be the subject of “Conceiving… recalled.”"
+  },
+  "20": {
+    "order": 20,
+    "stimulus": "Among the small magazines animating Boston’s vibrant literary scene in the early twentieth century was ______ by William Stanley Braithwaite and featuring poetry by John Gould Fletcher, Louis Untermeyer, and Richard Aldington; essays by Amy Lowell and Jeanette Marks; and reviews of recent books, this magazine publicized the work of influential avant-garde writers and artists of the day.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the Poetry Review of America. Edited",
+      "B": "the Poetry Review of America, edited",
+      "C": "the Poetry Review of America; edited",
+      "D": "the Poetry Review of America edited"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 47,
+    "reason": "Period ends the first sentence after the title; “Edited by…” begins a second sentence about the magazine."
+  },
+  "21": {
+    "order": 21,
+    "stimulus": "In contrast to first-past-the-post electoral processes, the proportional representation system by which Bolivia’s Chamber of Senators is elected begins with citizens casting their votes not for specific candidates but for political parties. ______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In other words,",
+      "B": "Conversely,",
+      "C": "Then,",
+      "D": "However,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 48,
+    "reason": "“Then” marks the next sequential step after votes are cast."
+  },
+  "22": {
+    "order": 22,
+    "stimulus": "Voxel modeling and kitbashing approaches to three-dimensional digital modeling for video games yield graphics that accurately represent the relative sizes and proportions of real-world objects, but since these graphics are rendered from perfect geometric shapes, they tend to lack organic realism. ______ these 3D elements may display unnaturally precise angles and curves as compared to their real-world counterparts.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "In addition,",
+      "C": "In conclusion,",
+      "D": "As such,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 49,
+    "reason": "Precise angles/curves follow as a consequence of lacking organic realism."
+  },
+  "23": {
+    "order": 23,
+    "stimulus": "Srivijaya, a Buddhist sea power based in Sumatra in Indonesia that reached the height of its influence around 800 CE, is classified as a thalassocracy. Thalassocracies are generally considered distinct from tellurocracies, or land-based powers. ______ the British Empire (1600s-1900s CE) notably extended its hegemony across both land and sea.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Underscoring this difference,",
+      "B": "Exemplifying this distinction,",
+      "C": "Supporting this claim,",
+      "D": "Blurring this line,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 50,
+    "reason": "An empire spanning land and sea blurs the thalassocracy/tellurocracy distinction."
+  },
+  "24": {
+    "order": 24,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Brussels sprouts are vegetables that contain ascorbic acid, an essential nutrient for humans.\n• Cranberries are fruits that contain ascorbic acid.\n• There is 80 milligrams (mg) of ascorbic acid per every 100 grams (g) of brussels sprouts.\n• There is 13 mg of ascorbic acid per every 100 g of cranberries.\n• Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.\n• Ascorbic acid is also known as vitamin C.",
+    "text": "The student wants to refute a claim that cranberries are a better source of vitamin C than brussels sprouts are. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Brussels sprouts contain ascorbic acid (also known as vitamin C), and cranberries do too.",
+      "B": "Brussels sprouts contain vitamin C (also known as ascorbic acid); in fact, there is 80 mg of vitamin C in every 100 g of brussels sprouts.",
+      "C": "With 80 mg of vitamin C per every 100 g, brussels sprouts are actually a better source of vitamin C than cranberries, which contain only 13 mg per every 100 g.",
+      "D": "Humans cannot make ascorbic acid in their bodies, but they can get it from brussels sprouts and cranberries."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 51,
+    "reason": "Compares 80 mg vs 13 mg per 100 g to refute the cranberries-are-better claim."
+  }
+}

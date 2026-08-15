@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <polygon points="90,40 90,250 300,250" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="90" y="232" width="18" height="18" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="72" y="48" font-family="Georgia, serif" font-size="16">A</text>
+  <text x="72" y="272" font-family="Georgia, serif" font-size="16">B</text>
+  <text x="308" y="272" font-family="Georgia, serif" font-size="16">C</text>
+  <text x="60" y="150.0" font-family="Arial" font-size="14">26</text>
+  <text x="207.0" y="145.0" font-family="Arial" font-size="14">41</text>
+  <text x="180.0" y="308" text-anchor="middle" font-family="Arial" font-size="12">Note: Figure not drawn to scale.</text>
+</svg>

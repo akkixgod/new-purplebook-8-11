@@ -1,0 +1,336 @@
+{
+  "1": {
+    "order": 1,
+    "page": 61,
+    "stimulus": null,
+    "text": "Nina is selling coins from her coin collection. When she started selling the coins, there were 3,400 coins in the collection. At the end of each week for 3 weeks after Nina started selling the coins, the number of coins in the collection had decreased by 1/2 of the coins in the collection at the end of the previous week. Which equation gives the number of coins, c, in the collection w weeks after Nina started selling the coins, where 0 ≤ w ≤ 3?",
+    "choices": {
+      "A": "c = w^(1/2)",
+      "B": "c = 3,400^w",
+      "C": "c = 1,700(1/2)^w",
+      "D": "c = 3,400(1/2)^w"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Start with 3,400; multiply by 1/2 each week → c = 3,400(1/2)^w."
+  },
+  "2": {
+    "order": 2,
+    "page": 61,
+    "stimulus": null,
+    "text": "Triangle ABC is dilated by a scale factor of 2 to obtain triangle A′B′C′ (not shown). What is the length of side A′B′?",
+    "choices": {
+      "A": "22",
+      "B": "44",
+      "C": "48",
+      "D": "96"
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/math2-q02-triangle-abc.svg",
+    "figure": "Right triangle ABC with right angle at C (square mark). Angle A = 48° at top vertex. Hypotenuse AB labeled 22. Vertex B at base. Note: Figure not drawn to scale.",
+    "correctAnswer": "B",
+    "showWork": "AB = 22; dilation by 2 → A′B′ = 44."
+  },
+  "3": {
+    "order": 3,
+    "page": 62,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 12x^4 + 15x^3y + 16xy + 20y^2?",
+    "choices": {
+      "A": "(6x^3 + 5y)(2x + 4y)",
+      "B": "(4x^3 + 5y)(3x + 4y)",
+      "C": "(3x^3 + 4y)(4x + 5y)",
+      "D": "(2x^3 + 4y)(6x + 5y)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "(3x^3 + 4y)(4x + 5y) = 12x^4 + 15x^3y + 16xy + 20y^2."
+  },
+  "4": {
+    "order": 4,
+    "page": 62,
+    "stimulus": null,
+    "text": "The function f is defined by the equation f(x) = 5|x - 3| - 13. What is the value of f(-3)?",
+    "choices": {
+      "A": "-43",
+      "B": "-13",
+      "C": "17",
+      "D": "43"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "f(−3) = 5|−3 − 3| − 13 = 5(6) − 13 = 17."
+  },
+  "5": {
+    "order": 5,
+    "page": 63,
+    "stimulus": "f(x) = 50x + 9",
+    "text": "The given function f estimates the distance a train has traveled, in kilometers, from a station in a certain city x hours after crossing the city border. What is the best interpretation of 9 in this context?",
+    "choices": {
+      "A": "Between the station and the city border, the train traveled an estimated total distance of 9 kilometers.",
+      "B": "After crossing the city border, the train traveled at an estimated speed of 9 kilometers per hour.",
+      "C": "After crossing the city border, the train traveled an estimated total distance of 9 kilometers.",
+      "D": "Between the station and the city border, the train traveled at an estimated speed of 9 kilometers per hour."
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "When x = 0 (at the border), f(0) = 9 km already traveled from the station."
+  },
+  "6": {
+    "order": 6,
+    "page": 64,
+    "stimulus": null,
+    "text": "An x-intercept of the graph shown is (x, 0). What is a possible value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/math2-q06-parabola.svg",
+    "figure": "Coordinate plane: x from −7 to 7, y from −10 to 10. Downward-opening parabola with vertex at (5/2, 25/4), passing through (0, 0) and (5, 0). Solid dots at those three points. Axis labels x and y; origin O.",
+    "correctAnswer": "5",
+    "showWork": "x-intercepts at (0, 0) and (5, 0); key shows 5 (0 also valid)."
+  },
+  "7": {
+    "order": 7,
+    "page": 65,
+    "stimulus": "3(x + b/3 - 20) = 3x",
+    "text": "In the given equation, b is a constant. The equation has infinitely many solutions. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "60",
+    "showWork": "3x + b − 60 = 3x → b − 60 = 0 → b = 60."
+  },
+  "8": {
+    "order": 8,
+    "page": 66,
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of f(x), where f(x) = (kx + 48)/(x + 3) and k is a constant. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/math2-q08-fx-table.svg",
+    "figure": "Two-column table headers x and f(x). Rows: (−27, 7), (−6, 0), (21, 9).",
+    "correctAnswer": "8",
+    "showWork": "Use (−6, 0): (−6k + 48)/(−3) = 0 → −6k + 48 = 0 → k = 8."
+  },
+  "9": {
+    "order": 9,
+    "page": 67,
+    "stimulus": null,
+    "text": "The product of two positive integers is 114. If the first integer is 7 greater than twice the second integer, what is the smaller of the two integers?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "19",
+      "D": "38"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Let second = n: n(2n + 7) = 114 → 2n² + 7n − 114 = 0 → n = 6."
+  },
+  "10": {
+    "order": 10,
+    "page": 67,
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = -x/5 + 11. What is the x-intercept of the graph of y = g(x) + 4 in the xy-plane?",
+    "choices": {
+      "A": "(75, 0)",
+      "B": "(55, 0)",
+      "C": "(-75, 0)",
+      "D": "(-55, 0)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "−x/5 + 15 = 0 → x/5 = 15 → x = 75."
+  },
+  "11": {
+    "order": 11,
+    "page": 68,
+    "stimulus": null,
+    "text": "A store sells bottles of water for $0.95 each and makes a profit of $0.42 on each bottle sold. During the first three days of a week, the store sold 113 bottles of water. The rest of the week, the store sold w bottles of water. The store made a total profit of $172.20 from selling bottles of water during the week. Which equation represents this situation?",
+    "choices": {
+      "A": "(0.95 - 0.42)(w + 113) = 172.20",
+      "B": "(0.95 - 0.42)(w - 113) = 172.20",
+      "C": "0.42(w + 113) = 172.20",
+      "D": "0.42(w - 113) = 172.20"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Total bottles w + 113; profit $0.42 each → 0.42(w + 113) = 172.20."
+  },
+  "12": {
+    "order": 12,
+    "page": 68,
+    "stimulus": null,
+    "text": "In a set of three consecutive integers, where the integers are ordered from least to greatest, the first integer is represented by x. The sum of 4 and the second integer is less than the product of 15 and the third integer. Which inequality represents this situation?",
+    "choices": {
+      "A": "4 + (x + 1) > 15(x + 2)",
+      "B": "4 + (x + 1) < 15(x + 2)",
+      "C": "4 + (x + 2) > 15(x + 3)",
+      "D": "4 + (x + 2) < 15(x + 3)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Integers x, x+1, x+2; 4 + (x+1) < 15(x+2)."
+  },
+  "13": {
+    "order": 13,
+    "page": 69,
+    "stimulus": null,
+    "text": "To qualify for free shipping, the cost of the products in a customer's online order must total at least $40. The total cost of the products in a customer's current online order is $15. What is the minimum cost, in dollars, of the products the customer must add to this online order to qualify for free shipping?",
+    "choices": {
+      "A": "0",
+      "B": "15",
+      "C": "25",
+      "D": "40"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "40 − 15 = 25."
+  },
+  "14": {
+    "order": 14,
+    "page": 70,
+    "stimulus": null,
+    "text": "A researcher surveyed undergraduate students, graduate students, and postdoctoral students. The number of undergraduate students surveyed was 7,450% of the number of postdoctoral students surveyed and the number of graduate students surveyed was 35% of the number of undergraduate students surveyed. If there were 5,215 graduate students surveyed, what was the sum of the number of undergraduate students and postdoctoral students surveyed?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "15100",
+    "showWork": "U = 5215/0.35 = 14,900; P = 14,900/74.5 = 200; sum = 15,100."
+  },
+  "15": {
+    "order": 15,
+    "page": 71,
+    "stimulus": "2x = 12y - 8",
+    "text": "One of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+    "choices": {
+      "A": "x = 3y",
+      "B": "(1/2)x = 3y",
+      "C": "x = 6y - 4",
+      "D": "(1/2)x = 6y - 4"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Given → x = 6y − 4; (1/2)x = 3y → x = 6y (same slope, different intercept) → no solution."
+  },
+  "16": {
+    "order": 16,
+    "page": 71,
+    "stimulus": null,
+    "text": "In the xy-plane, lines k and j are perpendicular and intersect at the point (5, 31). Line j passes through the origin, and line k passes through the point (p, 0), where p is a constant. What is the value of p?",
+    "choices": {
+      "A": "-187.2",
+      "B": "-186.8",
+      "C": "196.8",
+      "D": "197.2"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Slope j = 31/5; slope k = −5/31. Through (5, 31) and (p, 0): p = 197.2."
+  },
+  "17": {
+    "order": 17,
+    "page": 72,
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between x and y for the 10 data points in data set G. Data set H is created by multiplying the y-value of each data point from data set G by 15. Which of the following equations is the most appropriate model for data set H?",
+    "choices": {
+      "A": "y = 15(0.30)^x + 15",
+      "B": "y = 27(0.30)^x",
+      "C": "y = 27(0.30)^x + 15",
+      "D": "y = 406(0.30)^x"
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/math2-q17-scatter-g.svg",
+    "figure": "Scatterplot: x from −4 to 4, y from 0 to 160 (labels every 40). Ten filled points in decreasing exponential pattern ≈ 26(0.25)^x, e.g. near (−1.25, 147), (−1, 104), (−0.5, 52), (0, 26), (0.5, 13), (1, 6), (1.5, 3), (2, 2), (2.5, 1), (3, 1).",
+    "correctAnswer": "D",
+    "showWork": "G ≈ 27(0.30)^x; H multiplies y by 15 → ≈ 405(0.30)^x ≈ 406(0.30)^x."
+  },
+  "18": {
+    "order": 18,
+    "page": 72,
+    "stimulus": "f(x) = 3x^2 + 30x + 76",
+    "text": "The function g is defined by g(x) = f(x + 8). What is the minimum value of g(x)?",
+    "choices": {
+      "A": "-13",
+      "B": "-5",
+      "C": "1",
+      "D": "9"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "f(x) = 3(x + 5)^2 + 1; horizontal shift preserves min value 1."
+  },
+  "19": {
+    "order": 19,
+    "page": 74,
+    "stimulus": null,
+    "text": "A zoologist observed the nests of wood ducks in an area. Each year, the zoologist recorded the number of eggs in each of the first 30 nests that were observed and created a frequency table for the data set. Which of the following frequency tables represents the data set with the smallest standard deviation?",
+    "choices": {
+      "A": "Number of eggs|Frequency: 7|7, 8|6, 9|4, 10|6, 11|7",
+      "B": "Number of eggs|Frequency: 7|6, 8|6, 9|6, 10|6, 11|6",
+      "C": "Number of eggs|Frequency: 7|2, 8|7, 9|12, 10|7, 11|2",
+      "D": "Number of eggs|Frequency: 7|0, 8|5, 9|20, 10|5, 11|0"
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/math2-q19-frequency-tables.svg",
+    "figure": "Four labeled frequency tables (A–D), each with columns Number of eggs and Frequency for values 7–11. A: 7,6,4,6,7. B: 6,6,6,6,6. C: 2,7,12,7,2. D: 0,5,20,5,0.",
+    "correctAnswer": "D",
+    "showWork": "D is most concentrated at 9 → smallest SD."
+  },
+  "20": {
+    "order": 20,
+    "page": 74,
+    "stimulus": "The table summarizes the distribution of age and assigned group for 105 participants in a study.",
+    "text": "One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least 10 years of age?",
+    "choices": {
+      "A": "2/7",
+      "B": "3/7",
+      "C": "19/35",
+      "D": "6/7"
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/math2-q20-age-group-table.svg",
+    "figure": "Contingency table: columns 0–9 years, 10–19 years, 20+ years, Total. Group A: 5, 19, 11, 35. Group B: 9, 6, 20, 35. Group C: 21, 10, 4, 35. Total: 35, 35, 35, 105.",
+    "correctAnswer": "B",
+    "showWork": "P(A | ≥10) = (19+11)/(35+35) = 30/70 = 3/7."
+  },
+  "21": {
+    "order": 21,
+    "page": 76,
+    "stimulus": "15(w - a)(w + 7) = 5(w + 7)",
+    "text": "In the given equation, a is a constant. The sum of the solutions to the equation is 37/3. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "19",
+    "showWork": "Solutions w = −7 and w = a + 1/3; sum = a − 20/3 = 37/3 → a = 19."
+  },
+  "22": {
+    "order": 22,
+    "page": 76,
+    "stimulus": null,
+    "text": "Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 46 square centimeters (cm²), and the surface area of right rectangular prism Y is 1,150 cm². The volume of right rectangular prism Y is 2,500 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "2520",
+    "showWork": "SA ratio 1150/46 = 25 → linear scale 5 → volume scale 125; V_X = 2500/125 = 20; sum = 2520."
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "1": {
+    "order": 1,
+    "page": 52,
+    "stimulus": null,
+    "text": "3x = 18y - 45\n\nOne of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+    "choices": {
+      "A": "x = 2y",
+      "B": "(1/3)x = 2y",
+      "C": "x = 6y - 15",
+      "D": "(1/3)x = 6y - 15"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Divide the given equation by 3: x = 6y − 15. For no solution, the second equation must have the same slope but a different intercept. (1/3)x = 2y ⇒ x = 6y, which is parallel to x = 6y − 15 and distinct, so no solution."
+  },
+  "2": {
+    "order": 2,
+    "page": 53,
+    "stimulus": null,
+    "text": "In the xy-plane, lines k and j are perpendicular and intersect at the point (5, 26). Line j passes through the origin, and line k passes through the point (p, 0), where p is a constant. What is the value of p?",
+    "choices": {
+      "A": "-130.2",
+      "B": "-129.8",
+      "C": "139.8",
+      "D": "140.2"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Slope of j through (0,0) and (5,26) is 26/5. Slope of k is −5/26. Through (5,26) and (p,0): (0−26)/(p−5) = −5/26 ⇒ 26/(p−5) = 5/26 ⇒ 676 = 5(p−5) ⇒ p = 140.2."
+  },
+  "3": {
+    "order": 3,
+    "page": 54,
+    "stimulus": null,
+    "text": "In 2010, a skating team had a total of 34 skaters, each classified as either advanced or intermediate. From 2010 to 2020, the number of advanced skaters on the team increased by approximately 67%, and the number of intermediate skaters on the team increased by approximately 44%. The total number of skaters on the team increased by approximately 56%. Which equation best represents this situation, where a represents the number of advanced skaters on the team in 2010 and b represents the number of intermediate skaters on the team in 2010?",
+    "choices": {
+      "A": "1.44a + 1.67b = 34(1.56)",
+      "B": "1.67a + 1.44b = 34(1.56)",
+      "C": "1.56a + 0.67b = 34(1.44)",
+      "D": "1.67a + 1.56b = 34(1.44)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Advanced become 1.67a; intermediate become 1.44b; total becomes 34(1.56). So 1.67a + 1.44b = 34(1.56)."
+  },
+  "4": {
+    "order": 4,
+    "page": 55,
+    "stimulus": null,
+    "text": "For a survey, a sample of 562 people was selected at random from all registered voters in a county. Based on the survey, it is estimated that 73% of all registered voters in the county are in favor of a new law, with an associated margin of error of 3.67%. Which of the following best describes the plausible values for the percent of all registered voters in the county who are in favor of the new law?",
+    "choices": {
+      "A": "Any value greater than 69.33% and less than 76.67%",
+      "B": "Any value less than 69.33% or greater than 76.67%",
+      "C": "Any value greater than 69.33%",
+      "D": "Any value less than 76.67%"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "Plausible values are within the margin of error: 73% ± 3.67% → between 69.33% and 76.67%."
+  },
+  "5": {
+    "order": 5,
+    "page": 56,
+    "stimulus": null,
+    "text": "For the linear function g, the table shows four values of x and their corresponding values of g(x). The function can be written as g(x) = mx + b, where m and b are constants. What is the value of b?",
+    "choices": {
+      "A": "7",
+      "B": "17",
+      "C": "34",
+      "D": "41"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q05.svg",
+    "figure": "Two-column table. Headers: x | g(x). Rows: 1 | 34; 2 | 27; 3 | 20; 4 | 13.",
+    "correctAnswer": "D",
+    "showWork": "Slope m = (27−34)/(2−1) = −7. Using (1,34): 34 = −7(1) + b ⇒ b = 41. Check: g(x) = −7x + 41."
+  },
+  "6": {
+    "order": 6,
+    "page": 57,
+    "stimulus": null,
+    "text": "h(x) = (1/2)(x)(83)\n\nThe given function h represents the area, in square inches, of a triangle with a base of x inches and a fixed height. What is the height, in inches, of the triangle?",
+    "choices": {
+      "A": "1/83",
+      "B": "83/2",
+      "C": "83",
+      "D": "166"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Area = (1/2)·base·height = (1/2)·x·83, so the fixed height is 83."
+  },
+  "7": {
+    "order": 7,
+    "page": 58,
+    "stimulus": null,
+    "text": "y - x = 16\ny = x² - 14x\n\nThe graphs of the equations in the given system intersect at the point (x, y) in the xy-plane. What is a possible value of y?",
+    "choices": {
+      "A": "16",
+      "B": "17",
+      "C": "31",
+      "D": "32"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "From the first equation, y = x + 16. Substitute: x + 16 = x² − 14x ⇒ x² − 15x − 16 = 0 ⇒ (x − 16)(x + 1) = 0. When x = 16, y = 32."
+  },
+  "8": {
+    "order": 8,
+    "page": 59,
+    "stimulus": null,
+    "text": "An object travels x inches in y seconds. At this rate, which expression represents the time, in seconds, it takes the object to travel a distance of 29x inches?",
+    "choices": {
+      "A": "29/y",
+      "B": "y/29",
+      "C": "29y",
+      "D": "y + 29"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Rate is x/y inches per second. Time for 29x inches is (29x)/(x/y) = 29y."
+  },
+  "9": {
+    "order": 9,
+    "page": 60,
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 27 - x. What is the value of g(3)?",
+    "choices": {
+      "A": "3",
+      "B": "24",
+      "C": "27",
+      "D": "30"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "g(3) = 27 − 3 = 24."
+  },
+  "10": {
+    "order": 10,
+    "page": 61,
+    "stimulus": null,
+    "text": "Micah deposited a total of $3,600 into two retirement accounts last year by depositing x dollars once each month into one account and y dollars twice each month into the other account. Which equation represents this situation?",
+    "choices": {
+      "A": "3,600 = 12x + 12y",
+      "B": "3,600 = 12x + 24y",
+      "C": "3,600 = 24x + 12y",
+      "D": "3,600 = 24x + 24y"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Once each month for 12 months: 12x. Twice each month: 24y. Total: 12x + 24y = 3,600."
+  },
+  "11": {
+    "order": 11,
+    "page": 62,
+    "stimulus": null,
+    "text": "The ratio 10 to 3 is equivalent to the ratio 40 to 3k, where k is a constant. What is the value of k?",
+    "choices": {
+      "A": "0.75",
+      "B": "4",
+      "C": "12",
+      "D": "120"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "10/3 = 40/(3k) ⇒ 10·3k = 3·40 ⇒ 30k = 120 ⇒ k = 4."
+  },
+  "12": {
+    "order": 12,
+    "page": 63,
+    "stimulus": null,
+    "text": "Which expression is equivalent to (3nr² + 6nr) + (4n²r + 2nr)?",
+    "choices": {
+      "A": "7n²r² + 8nr",
+      "B": "7n³r³ + 8n²r²",
+      "C": "12n³r³ + 12n²r²",
+      "D": "3nr² + 4n²r + 8nr"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Combine like terms: 3nr² + 4n²r + (6nr + 2nr) = 3nr² + 4n²r + 8nr."
+  },
+  "13": {
+    "order": 13,
+    "page": 64,
+    "stimulus": null,
+    "text": "R = 0.45ℓ / A\n\nThe given equation relates the resistance R, in ohms, of a wire to its length ℓ, in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?",
+    "choices": {
+      "A": "ℓ = AR / 0.45",
+      "B": "ℓ = 0.45R / A",
+      "C": "ℓ = (R + A) / 0.45",
+      "D": "ℓ = (R - A) / 0.45"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "R = 0.45ℓ / A ⇒ RA = 0.45ℓ ⇒ ℓ = AR / 0.45."
+  },
+  "14": {
+    "order": 14,
+    "page": 65,
+    "stimulus": null,
+    "text": "The graphs of y = -3x + 5 and y = x - 3 are shown. Point P (not shown) has coordinates (2, -3) and lies in the shaded region. The coordinates of P satisfy which of the following inequalities?\n\nI. y < -3x + 5\nII. y > x - 3",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q14.svg",
+    "figure": "xy-plane with unit grid; x from about −7 to 11 (labels every 2), y from about −7 to 10 (labels every 2), origin O. Line y = −3x + 5 (negative slope through (0,5)) and line y = x − 3 (positive slope through (0,−3)); intersect at (2,−1). Region below both lines (downward V) lightly shaded.",
+    "correctAnswer": "A",
+    "showWork": "At P(2,−3): I → −3 < −3(2)+5 = −1, true. II → −3 > 2−3 = −1, false. So I only."
+  },
+  "15": {
+    "order": 15,
+    "page": 66,
+    "stimulus": null,
+    "text": "If ((1/2)x - 23/2)² - 81 = 0, what is the value of (x - 23)²?",
+    "choices": {
+      "A": "324",
+      "B": "162",
+      "C": "23",
+      "D": "9"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "((1/2)(x − 23))² = 81 ⇒ (1/4)(x − 23)² = 81 ⇒ (x − 23)² = 324."
+  },
+  "16": {
+    "order": 16,
+    "page": 67,
+    "stimulus": null,
+    "text": "Rectangles ABCD and EFGH are similar. The length of each side of EFGH is 7 times the length of the corresponding side of ABCD. The area of ABCD is 84 square units. What is the area, in square units, of EFGH?",
+    "choices": {
+      "A": "12",
+      "B": "49",
+      "C": "588",
+      "D": "4,116"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Area scale factor is 7² = 49. Area of EFGH = 84 × 49 = 4,116."
+  },
+  "17": {
+    "order": 17,
+    "page": 68,
+    "stimulus": null,
+    "text": "On a plot of land, 48.0% of the square footage is farmland and the remaining square footage is pasture. There are buildings on exactly 28.5% of the square footage of the farmland, and there are buildings on exactly 11.0% of the square footage of the pasture. If there are buildings on exactly p% of the square footage of the plot of land, what is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "19.4",
+    "showWork": "Pasture is 52.0%. Buildings: 0.480(0.285) + 0.520(0.110) = 0.1368 + 0.0572 = 0.194 = 19.4%."
+  },
+  "18": {
+    "order": 18,
+    "page": 69,
+    "stimulus": null,
+    "text": "The scatterplot shows data set A, which consists of the weights y, in pounds, of a Labrador retriever puppy at various ages, x, in months. The equation of a line of best fit for the relationship in data set A can be written as y = -5.0 + 8.7x, where 2 ≤ x ≤ 6.\n\nThe puppy was weighed again at 9 months old and weighed 52 pounds. Data set B consists of all the data points in data set A as well as the data point (9, 52). The equation of a line of best fit for data set B can be written as y = r + sx, where r and s are constants and 2 ≤ x ≤ 9. Assuming the equations of the lines of best fit are calculated in the same way, which of the following is the best estimate for the value of s?",
+    "choices": {
+      "A": "5.8",
+      "B": "8.7",
+      "C": "13.7",
+      "D": "17.7"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q18.svg",
+    "figure": "Scatterplot first quadrant. x-axis 0–10 labeled every 1; y-axis 0–60 labeled every 10; origin O. Five filled points approx (2,12), (3,22), (4,28), (5,41), (6,46). No trend line drawn.",
+    "correctAnswer": "A",
+    "showWork": "Original slope ≈ 8.7. New point (9,52) lies well below the old line’s prediction (−5 + 8.7·9 ≈ 73.3), so the new best-fit slope decreases; 5.8 is the only smaller plausible estimate."
+  },
+  "19": {
+    "order": 19,
+    "page": 70,
+    "stimulus": null,
+    "text": "A book-of-the-month club charges $17 for the first book purchased during the month and an additional $13 for each book after the first. Which equation describes this situation, where y is the total cost, in dollars, for books purchased during a month, x is the number of books purchased during the month, and x > 0?",
+    "choices": {
+      "A": "y = x + 17",
+      "B": "y = 13x + 17",
+      "C": "y = 13(x - 1) + 17",
+      "D": "y = (x - 1) + 17"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "First book $17 plus $13 for each of the remaining (x − 1) books: y = 13(x − 1) + 17."
+  },
+  "20": {
+    "order": 20,
+    "page": 71,
+    "stimulus": null,
+    "text": "A company developed a plan to set the selling price of a product. The company determined that for a selling price of $120.00, zero products would be sold. For each $1.50 decrease in the selling price, the number of products sold would increase by one. For a revenue of exactly $1,966.50, which of the following could be the number of products sold? (revenue = price × number of products sold)",
+    "choices": {
+      "A": "23",
+      "B": "40",
+      "C": "1,231",
+      "D": "2,400"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "If n products are sold, price = 120 − 1.50n. Revenue: n(120 − 1.50n) = 1,966.50. For n = 23: 23(120 − 34.50) = 23(85.50) = 1,966.50."
+  },
+  "21": {
+    "order": 21,
+    "page": 72,
+    "stimulus": null,
+    "text": "The equation of the graph shown is y = a^x + b, where a and b are constants. What is the value of a - b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q21.svg",
+    "figure": "xy-plane unit grid; x from −4 to 4 (labels every 2), y from −6 to 10 (labels every 2), origin O. Exponential growth curve y = a^x + b with horizontal asymptote y = −3; filled points at (0,−2) and (1,6).",
+    "correctAnswer": "12",
+    "showWork": "At x = 0: −2 = 1 + b ⇒ b = −3. At x = 1: 6 = a − 3 ⇒ a = 9. Then a − b = 9 − (−3) = 12."
+  },
+  "22": {
+    "order": 22,
+    "page": 73,
+    "stimulus": null,
+    "text": "y = 4x² - bx - 5\n\nWhich of the following equations is equivalent to the given equation, where b is a positive constant?",
+    "choices": {
+      "A": "y = 4(x - b/8)² - 5 - b²/16",
+      "B": "y = 4(x + b/8)² - 5",
+      "C": "y = 4(x - b/8)² - 5",
+      "D": "y = 4(x + b/8)² - 5 - b²/16"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "y = 4(x² − (b/4)x) − 5 = 4((x − b/8)² − (b/8)²) − 5 = 4(x − b/8)² − b²/16 − 5."
+  },
+  "23": {
+    "order": 23,
+    "page": 74,
+    "stimulus": null,
+    "text": "The equation d = 6t + 270 gives the distance d, in feet, from a reference point on the surface of Mars to a Mars rover, where t is the number of minutes after the start of a period of observation. By how many feet does the Mars rover's distance from the reference point increase over a period of 20 minutes?",
+    "choices": {
+      "A": "390",
+      "B": "290",
+      "C": "120",
+      "D": "6"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Distance increases by 6 feet per minute, so in 20 minutes: 6 × 20 = 120 feet."
+  },
+  "24": {
+    "order": 24,
+    "page": 75,
+    "stimulus": null,
+    "text": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is (9x - 650)°. The sum of the measures of one of the acute angles and three of the obtuse angles is (-18x + w)°. What is the value of w?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "1840",
+    "showWork": "Each obtuse angle is 180° − acute. Acute + 3·obtuse = acute + 3(180 − acute) = 540 − 2·acute = 540 − 2(9x − 650) = 1840 − 18x. So w = 1840."
+  }
+}

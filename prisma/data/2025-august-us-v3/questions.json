@@ -1,0 +1,1117 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak-terraces, canals, and water temples-are ______: they are joined together into a single cohesive unit.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "interconnected",
+          "B": "outmoded",
+          "C": "optional",
+          "D": "informal"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "an imposing",
+          "B": "an embellished",
+          "C": "a quintessential",
+          "D": "an unprecedented"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "The Egyptian plover-a bird native to Africa-has a symbiotic relationship with the Nile crocodile. While a crocodile rests on land with its mouth open for extended periods of time, the plover eats the food that is stuck in the crocodile's teeth. This ______ relationship provides a nutritious meal for the bird and removes potentially dangerous bacteria from the crocodile's mouth.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "inefficient",
+          "B": "reciprocal",
+          "C": "interchangeable",
+          "D": "unequal"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Until 1917, there was no formal measure in the United States Senate that could be ______ to end a debate that had been excessively prolonged as a tactic to block voting on a matter. In that year, a procedure was created to allow a majority of senators to curtail deliberation and force a vote.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "improvised",
+          "B": "invoked",
+          "C": "abolished",
+          "D": "partitioned"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "The following text is adapted from Akwaeke Emezi's 2019 novel Pet. Jam is a teenager who lives with her father, Aloe, and her mother, Bitter, who is a painter.\n\nBitter finished the painting in the dark morning of a day-it was well past midnight when Jam heard the studio door creak open. She stared into the velvet black of her room and listened to her mother's footsteps walking in her [mother] and Aloe's bedroom. There was a weight thrumming through the floorboards in a low song, and that was how Jam knew the painting was done. <u>Bitter's feet were singing the news.</u>\n\n©2019 by Akwaeke Emezi",
+        "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It adds to the idea that Bitter's footsteps reveal something to Jam.",
+          "B": "It indicates that Jam is more interested in music than in art.",
+          "C": "It indicates that Bitter always sings when working on a painting.",
+          "D": "It describes Aloe's reaction upon seeing the painting for the first time."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "In 2011 Ingrid L. Cripps and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of Pseudochromis fuscus, a species of fish. However, Cripps and colleagues' study relied on a mean sample size of only about 9 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Josefin Sundin and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "To explain how the behavior of a fish species has changed over time",
+          "B": "To note a potential concern about the findings of a scientific study",
+          "C": "To present a debate between two research teams about a cause of ocean acidification",
+          "D": "To discuss an aspect of ocean acidification that is frequently overlooked"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Habitat navigation is a skill that helps animals reach food or safety. To test how navigation works in fish, Shachar Givon and colleagues taught goldfish to drive a vehicle-a motorized fish tank with wheels-on land. The vehicle was programmed to move in the same direction that the fish swam in within the tank. In the experiment, the fish were tasked with driving their tank to a pink board. They received a treat when they succeeded, and they often did. Because the fish could move their tank to the board, Givon concludes that their navigational skills aren't specific to an aquatic environment.",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "Research shows that although they live in the water, fish can navigate on land with a little mechanical help.",
+          "B": "Fish can navigate only within their natural aquatic environment in order to find food and safety.",
+          "C": "Researchers can train animals to complete many different tasks when they offer the animals treats.",
+          "D": "An animal's navigational skills directly depend on that animal's particular environment."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Deposits of valuable objects, or hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Some of these hoards were discovered before 2000; for example, ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "the Broighter Hoard was discovered in 1896, and the Balline Hoard was discovered in 1940.",
+          "B": "the Broighter Hoard was one of several hoards discovered in the 1800s.",
+          "C": "the Dooyork Hoard was discovered in 1940, and the Balline Hoard was discovered in 2001.",
+          "D": "the Balline Hoard and the Dooyork Hoard were both discovered in the 2000s."
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/eng1-q08-hoards-table.svg"
+      },
+      "9": {
+        "stimulus": "Researcher Helen O'Neill and her team were studying sponges in the family Irciniidae when they discovered that three of the sponges were functioning as microhabitats for banded sand catsharks (Atelomycterus fasciatus). Additionally, <u>the team found that male and female A. fasciatus share the same sponge (the same microhabitat)</u>, a behavior not found among Port Jackson sharks (Heterodontus portusjacksoni), another seabed-dwelling species.",
+        "text": "Which choice best describes data from the graph that support the underlined claim?",
+        "choices": {
+          "A": "Each of the three sponges was inhabited by at least one male A. fasciatus and at least one undetermined A. fasciatus.",
+          "B": "Each of the three sponges was inhabited by at least one male A. fasciatus and at least one female A. fasciatus.",
+          "C": "Sponge 1 was inhabited by 13 female A. fasciatus.",
+          "D": "Sponge 1 was inhabited by 17 male A. fasciatus."
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/eng1-q09-sharks-chart.svg"
+      },
+      "10": {
+        "stimulus": "Olms are salamanders that live in underwater caves. Scientists once thought that olms stay in their caves all their lives. However, Raoul Manenti and team claim that <u>olms regularly come to the surface to perform important activities such as finding food.</u>",
+        "text": "Which finding, if true, would most strongly support the underlined claim?",
+        "choices": {
+          "A": "Researchers learn that olms' brains differ from other salamanders' brains.",
+          "B": "Researchers determine that olms don't breed often.",
+          "C": "Researchers confirm that olms live in only a few cave systems.",
+          "D": "Researchers discover that earthworms from surface soils are a major part of olms' diet."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tomentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.",
+        "text": "Which statement about hummingbird preferences is most strongly supported by the text?",
+        "choices": {
+          "A": "Hummingbirds consistently prefer plant species whose flowers have physical traits that are compatible with their bills but offer relatively low nectar rewards.",
+          "B": "The floral traits that most strongly influence which plant species hummingbirds prefer may result in certain hummingbird species visiting flowers with relatively low nectar rewards over those with higher nectar rewards.",
+          "C": "Hummingbirds' preferences are primarily driven by trait-matching between their bills and flower corollas, though nectar qualities are a secondary factor driving their preferences.",
+          "D": "Physical compatibility between flower corollas and hummingbird bills becomes an important factor that influences hummingbird preferences when hummingbirds are uncertain about which plants produce high-reward nectar."
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "Twinflower (Linnaea borealis) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, goosefoot (Chenopodium album) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked L. borealis and C. album, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.",
+        "text": "Which finding, if true, would most directly support Mulder and Spellman's conclusion?",
+        "choices": {
+          "A": "Although L. borealis and C. album tended to stop producing leaves at about the same time in years with historically typical temperature patterns, C. album stopped producing leaves sooner than L. borealis did in years with late subfreezing temperature onset.",
+          "B": "Although significant interannual variations in subfreezing temperature onset were observed during the study, neither C. album nor L. borealis showed any significant interannual variation in the cessation of leaf production.",
+          "C": "Although L. borealis and C. album both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for C. album than for L. borealis.",
+          "D": "Although L. borealis and C. album both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring."
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "Eastern Ohio's Monroe County is among the most rural counties in the United States: the US Census Bureau classified it as 97.7% rural in 2010. Researchers studying populations of counties like Monroe often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "snowball sampling is more likely to improve retention rates among rural participants than among nonrural participants.",
+          "B": "being recruited to participate in a study by someone with whom one is socially connected may impart a feeling of obligation to persist with participation in the study.",
+          "C": "social networks can become large enough that two people can share a network but nevertheless regard each other as strangers.",
+          "D": "people with relatively small social networks are inherently less likely to be recruited to participate in a study via snowball sampling than are people with relatively large social networks."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "The glossy ibis and the little blue heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D'Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds' habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only glossy ibises prefer areas with deep water during breeding season, both glossy ibises and little blue herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "there is relatively deep water during the breeding season.",
+          "B": "there are any features that attract the other species.",
+          "C": "species with breeding seasons longer than 60 days are likely to be present.",
+          "D": "there is standing water for far fewer than 60 days per year."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "In the periodic table, an element's atomic number indicates how many protons there are in an atom of the element. For example, a calcium atom ______ 20 protons. Professor Raymond Chang explains this concept in more detail in the textbook Chemistry.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is having",
+          "B": "had",
+          "C": "has had",
+          "D": "has"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Yvonne Adhiambo Owuor, born in 1968, is a novelist from Nairobi, Kenya. In recent years more writers from Kenya, including Owuor, ______ to reach audiences beyond the African nation's borders.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "begins",
+          "B": "is beginning",
+          "C": "has begun",
+          "D": "have begun"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "The Hereford map is a mappa mundi from the fourteenth century. Currently held at Hereford Cathedral in Hereford, England, it is one of over 1,000 such world maps from the European Middle Ages still remaining, with the even older Theodulf of Orleans map from the eleventh century (now held at the Vatican Library in Vatican City) ______ another one.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is",
+          "B": "has been",
+          "C": "being",
+          "D": "was"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "The African baobab (Adansonia digitata) known as Panke Baobab, located in Zimbabwe, was one of the oldest known trees in the world, at 2,419 years old. With over two millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "rings. A",
+          "B": "rings and a",
+          "C": "rings, a",
+          "D": "rings; a"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Topographical prominence is a measure of a mountain's independence from other mountains. Having 9,721 feet of prominence, ______",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Pico do Ramelau, a peak located in Timor-Leste, is ranked by geographers as the world's 98th most prominent mountain.",
+          "B": "the list of mountains geographers rank as the world's most prominent includes Pico do Ramelau, a peak located in Timor-Leste, at number 98.",
+          "C": "geographers have ranked Pico do Ramelau, a peak in Timor-Leste, as the world's 98th most prominent mountain.",
+          "D": "the ranking given by geographers to Pico do Ramelau, a peak located in Timor-Leste, is 98th most prominent mountain in the world."
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The radial velocity method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the Neptune-like planet DMPP-1 b; at 296 light-years away, the gas giant 42 Draconis b; and, as of 2023, over 1,000 other exoplanets that are too far away and dim to be observed directly.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Earth, at 204 light-years away,",
+          "B": "Earth at 204 light-years away,",
+          "C": "Earth at 204 light-years away:",
+          "D": "Earth: at 204 light-years away,"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "L. Leann Kanda, a researcher and sewing enthusiast, experimented with several techniques in her attempt to replicate the famous pleating of the Fortuny Delphos gown. The specific method, which the fashion ______ developed in the early twentieth century, is considered lost.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "designers Henriette Nigrin and Mariano Fortuny y Madrazo,",
+          "B": "designers Henriette Nigrin and Mariano Fortuny y Madrazo",
+          "C": "designers, Henriette Nigrin and Mariano Fortuny y Madrazo",
+          "D": "designers, Henriette Nigrin and Mariano Fortuny y Madrazo,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "On February 1, 2018, a Florida-based research team-Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez-compiled climate data from several sites in Puerto Rico's Luquillo Mountains. At site CC1, the site with the highest elevation, the air temperature fluctuated slightly throughout the day, registering ______ and 16.2°C at 8:30 p.m.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "17.9°C, at 3:00 p.m. 16°C, at 5:00 p.m.",
+          "B": "17.9°C at 3:00 p.m., 16°C at 5:00 p.m.,",
+          "C": "17.9°C at 3:00 p.m. 16°C at 5:00 p.m.",
+          "D": "17.9°C at 3:00 p.m. 16°C at 5:00 p.m.,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "While studying joro spiders, a large species originally from East Asia, University of Georgia researchers wondered if the spiders' rapid spread throughout the southeastern US was a result of aggressive behavior. ______ they discovered that joro spiders are gentle giants who react to even minor disturbances by “freezing” in place for an hour or more.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Instead,",
+          "B": "Therefore,",
+          "C": "For example,",
+          "D": "In other words,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "Some bands choose a name that's as unique as possible to distinguish themselves from other bands. The experimental rock band Boris, ______ took a different approach. They chose to name themselves after a song by a well-known band, the Melvins.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "therefore,",
+          "B": "secondly,",
+          "C": "by contrast,",
+          "D": "for example,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "Portuguese researcher Isabel C.F.R. Ferreira reports that the cinnamic acid in termite mushrooms benefits the mushroom by combating harmful molecules called free radicals. ______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "For example,",
+          "B": "Moreover,",
+          "C": "Conversely,",
+          "D": "Rather,"
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "The Eloi are not real: they are fictional creatures that feature in H.G. Wells's acclaimed science fiction novella The Time Machine. ______ the Eloi were prime candidates for inclusion in Jorge Luis Borges and Margarita Guerrero's The Book of Imaginary Beings, a compendium of fantastical entities from legend and literature.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In reality,",
+          "B": "Granted,",
+          "C": "For example,",
+          "D": "As such,"
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Claude McKay (1890-1948) was a Jamaican American poet.\n• McKay also worked as a novelist and journalist.\n• \"Labor's Day\" is a poem by McKay.\n• It was published in the September 1919 issue of The Messenger.\n• The Messenger was an influential Black literary magazine.",
+        "text": "The student wants to provide an example of a poem by McKay. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "McKay was a Jamaican American poet, novelist, and journalist.",
+          "B": "One example of a poem by McKay is \"Labor's Day\" (1919).",
+          "C": "McKay published poetry in a literary magazine called The Messenger.",
+          "D": "The Messenger was an influential Black literary magazine that published poetry."
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "Because blue holes (such as the Lost Blue Hole in the Bahamas) and cenotes (such as Cenote Dos Ojos in Mexico) differ in their size, water composition, and type of location, they are not usually viewed as being ______, but both are water-filled sinkholes typically produced by the natural dissolution and collapse of rocks.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "distinct",
+          "B": "explicable",
+          "C": "analogous",
+          "D": "incongruous"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Run by researchers in Australia, the Longitudinal Study of Indigenous Children (LSIC) is an examination of childhood development that has attempted to track approximately 1,700 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ______: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "impartiality",
+          "B": "replicability",
+          "C": "attrition",
+          "D": "circumspection"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "Disproportionate emphasis on instances of invention, such as the emergence of potter’s wheels circa 4500 BCE, contributes to a pro-innovation bias that ______ studies of the history of technology. More attention to technological discontinuance (e.g., the loss of various hunting and fishing implements in Tasmania over thousands of years) is thus a necessary corrective to the dominant view that innovations are steadily and inevitably adopted.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "supersedes",
+          "B": "pervades",
+          "C": "abridges",
+          "D": "foments"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Paleontologists think that Tyrannosaurus, Sauroposeidon, and other long-extinct theropods and sauropods may have breathed using air sacs connected to tubelike extensions inside the animals’ bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as ______ those of Tyrannosaurus, Sauroposeidon, and other theropods and sauropods.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "harbingers of",
+          "B": "emissaries for",
+          "C": "proxies for",
+          "D": "subordinates of"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes Vib-Ribbon from 1999, which museum visitors can play on site, and SimCity 2000 from 1994, which visitors can see only in a video presentation. <u>MOMA claims the video presentations are only for games that would be impractical to display in a playable form</u>, but video games are an inherently interactive medium, a feature that is grossly absent in a video-only presentation.",
+        "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It provides MOMA’s rationale for a decision that the author critiques.",
+          "B": "It introduces a fact about video games that the author thinks MOMA did not appropriately consider when choosing which video games to exhibit.",
+          "C": "It details a criticism of MOMA that the author defends against in the remainder of the sentence.",
+          "D": "It presents a misconception about video games that the author believes is evident in MOMA’s choice about which video games to exhibit."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept-for example, Victoria Bonnell and Lynn Hunt have noted that “many critics have pointed to the vagueness of the concept of culture.” <u>Does the concept of culture encompass knowledge, or laws, or both these things and others?</u> For casual usage, such haziness is permissible-we know culture when we see it-but for researchers, a standardization of the term is called for if sociology is to truly progress.",
+        "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It lists two essential components of what is referred to by Bonnell and Hunt as “culture.”",
+          "B": "It presents a point regarding the definition of “culture” on which nonspecialists and specialists tend to disagree.",
+          "C": "It describes the questions first raised by Bonnell and Hunt’s inquiry into the meaning of the word “culture.”",
+          "D": "It illustrates a difficulty associated with the meaning of “culture” that the author believes holds back an academic field."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Text 1\nThe land that became Grande Terre island split from remnants of the former supercontinent Gondwana approximately 80 million years ago, carrying Gondwanan biota with it, and experienced periodic submersion until 37 million years ago. Some researchers posit that the island’s current biota includes members of Gondwanan clades (i.e., clades predating the split) that persisted by seeking temporary refuge on nearby islands during submergence events.\n\nText 2\nIn a recent study, Prashant Sharma and Gonzalo Giribet found that the crown age-the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)-is 48.9 million years for Grande Terre’s clade of harvest spiders. Most of the island’s extant biota belong to clades with younger crown ages, however: Jérôme Murienne et al. found that the crown age of Grande Terre’s clade of cockroaches is 2.7 million years, for example.",
+        "text": "Taken together, Text 1 and Text 2 best support which statement about the clades of harvest spiders and cockroaches on Grande Terre?",
+        "choices": {
+          "A": "The clade of harvest spiders must have originated on Gondwana, but the clade of cockroaches may or may not have.",
+          "B": "Both the clade of harvest spiders and the clade of cockroaches originated elsewhere and colonized Grande Terre.",
+          "C": "Neither the clade of harvest spiders nor the clade of cockroaches originated on Gondwana.",
+          "D": "The clade of harvest spiders originated before Grande Terre split from Gondwana, whereas the clade of cockroaches originated after the split but before the periodic submergence events began."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Radamés Cordero et al. have confirmed that twenty mushroom species (including Coprinellus micaceus and species from the genus Russula) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium-a difference that persisted even after fruited bodies were detached-the researchers speculate that thermoregulation in the mycelium may influence reproductive success.",
+        "text": "Which statement about the mycelium of the twenty mushroom species is best supported by the text?",
+        "choices": {
+          "A": "Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies.",
+          "B": "The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium.",
+          "C": "Temperatures in the fruiting areas of the mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter.",
+          "D": "The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor’s daughter from a previous marriage. Chekhov portrays Vanya as feeling underappreciated by the professor, as is evident when ______",
+        "text": "Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?",
+        "choices": {
+          "A": "Vanya says to Professor Serebrakoff, “For twenty-five years I have managed this place [the estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one-neither in my youth nor now.”",
+          "B": "Professor Serebrakoff says to Helena, “Of course I see that it is foolish for me to live so long, but wait! I shall soon set you all free. My life cannot drag on much longer.”",
+          "C": "Vanya says to Professor Serebrakoff, “We used to think of you as almost superhuman, but now the scales have fallen from my eyes and I see you as you are! You write on art without knowing anything about it. Those books of yours which I used to admire are not worth one copper kopeck. You are a hoax!”",
+          "D": "Vanya says to himself, “I was proud of [Professor Serebrakoff] and of his learning; I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank!”"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "Few of the most commercially successful films in US movie theaters are in a language other than English. One journalist claims that to overcome what director Bong Joon-ho calls “the one-inch-tall barrier of subtitles,” it is essential for a film to receive an Oscar nomination: non-English language films that are not given this public indication of high quality will struggle to find an audience compared with those that do receive Oscar nominations.",
+        "text": "Which choice best describes data from the table that weaken the journalist’s claim?",
+        "choices": {
+          "A": "Crouching Tiger, Hidden Dragon, which was recognized by the Oscars, had lower opening weekend earnings but higher lifetime earnings than Huevos: Little Rooster’s Egg-cellent Adventure, which was not recognized by the Oscars.",
+          "B": "Instructions Not Included was not recognized by the Oscars but had higher lifetime earnings than Eat Drink Man Woman, which was recognized by the Oscars.",
+          "C": "Although the opening weekend earnings were $7,846,426 for Instructions Not Included and $3,424,702 for Huevos: Little Rooster’s Egg-cellent Adventure, neither film was recognized by the Oscars.",
+          "D": "Although both Crouching Tiger, Hidden Dragon and Eat Drink Man Woman were recognized by the Oscars, Crouching Tiger, Hidden Dragon had higher lifetime earnings."
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/eng2-q10-films-table.svg"
+      },
+      "11": {
+        "stimulus": "“The Monster” is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, is playing in his yard while his father mows the lawn; while playing, Jim accidentally damages a peony (a flower). Crane emphasizes Jim’s energy and his distracted absorption in his play by writing, ______",
+        "text": "Which quotation from “The Monster” most effectively illustrates the claim?",
+        "choices": {
+          "A": "“[Jim] went on to the lawn, very slowly, and kicking wretchedly at the turf. Presently his father came along with the whirring machine, while the sweet, new grass blades spun from the knives.”",
+          "B": "“Jim could do no reparation. He looked again towards his father.”",
+          "C": "“[W]hen [Jim] swung around the curve at the flower-bed, a wheel of his cart destroyed a peony.”",
+          "D": "“Little Jim was, for the time, engine Number 36, and he was making the run between Syracuse and Rochester. He was fourteen minutes behind time, and the throttle was wide open.”"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "In 2008, the US state of Hawaii enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Hawaii’s RSRs may ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "benefit policyholders at the expense of nonpolicyholders seeking to acquire policies.",
+          "B": "reduce premium price volatility once policies are in effect but increase risks for policyholders.",
+          "C": "prevent large increases in premium prices for new policies despite leading to fewer insurers offering such policies in the affected market.",
+          "D": "be more advantageous for insurers than they are for either current or prospective policyholders."
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product’s risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Vietnam, investigating participants’ intentions to purchase a new skin-care product, and found that, on average, parents of small children had the lowest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh’s study are broadly applicable, this finding suggests that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "parents of small children likely prioritize other factors over a product’s environmental sustainability when making purchasing decisions.",
+          "B": "there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study.",
+          "C": "the new skin-care product is less appealing to parents of small children than other similar products on the market are.",
+          "D": "parents of small children might be more likely than participants in the other demographic groups to purchase the skin-care product."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Trade with neighboring civilizations contributed to the success of the Neo-Assyrian Empire, which reigned in Mesopotamia from around 911 BCE to 609 BCE. By supplying grain, textiles, and tin to societies that lacked these valuable ______ Neo-Assyrian Empire grew not only in wealth but also in power and influence.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "items. The",
+          "B": "items the",
+          "C": "items; the",
+          "D": "items, the"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Released in 1987, the Acorn ARM2 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. ______ a “power wall” in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Hitting",
+          "B": "When they hit",
+          "C": "They hit",
+          "D": "Upon hitting"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "In a 2018 study, Ceri Shipton et al. concluded that stone tools excavated from an archaeological site in Saudi Arabia date to between 197,000 and 276,000 years ago. The reliability of the dates that Shipton et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the tools were last exposed to sunlight, ______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "depending",
+          "B": "depend",
+          "C": "depends",
+          "D": "having depended"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "In a chemical equation, converting between the mass of the reactants and the mass of the product requires knowing each component’s molar mass, a quantification of the average mass of the atoms in a compound. The liquid ______ has a molar mass of 170.33 g/mol.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "compound, dodecane (C12H26),",
+          "B": "compound, dodecane (C12H26)",
+          "C": "compound dodecane (C12H26),",
+          "D": "compound dodecane (C12H26)"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Writer Silvia Moreno-Garcia’s love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she later would become a prolific short story writer herself, publishing pieces like “Jackals” (2015) and “Year of the Monkey” (2008). Yet she’s best ______ ever since her 2020 novel Mexican Gothic saw widespread critical and commercial success, as a novelist.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "known,",
+          "B": "known",
+          "C": "known;",
+          "D": "known:"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Conceiving of a communal gathering space in the style of European town centers, ______ recalled those he saw in his native Vienna.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "architect Victor Gruen’s designs for Pennsylvania’s South Hills Village, an indoor shopping mall completed in 1965, contained promenades, fountains, and greenery that",
+          "B": "South Hills Village, an indoor shopping mall in Pennsylvania completed in 1965, was designed by architect Victor Gruen with promenades, fountains, and greenery that",
+          "C": "the promenades, fountains, and greenery of Pennsylvania’s South Hills Village, an indoor shopping mall designed by architect Victor Gruen and completed in 1965,",
+          "D": "architect Victor Gruen designed Pennsylvania’s South Hills Village, an indoor shopping mall completed in 1965, with promenades, fountains, and greenery that"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "Among the small magazines animating Boston’s vibrant literary scene in the early twentieth century was ______ by William Stanley Braithwaite and featuring poetry by John Gould Fletcher, Louis Untermeyer, and Richard Aldington; essays by Amy Lowell and Jeanette Marks; and reviews of recent books, this magazine publicized the work of influential avant-garde writers and artists of the day.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "the Poetry Review of America. Edited",
+          "B": "the Poetry Review of America, edited",
+          "C": "the Poetry Review of America; edited",
+          "D": "the Poetry Review of America edited"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "In contrast to first-past-the-post electoral processes, the proportional representation system by which Bolivia’s Chamber of Senators is elected begins with citizens casting their votes not for specific candidates but for political parties. ______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In other words,",
+          "B": "Conversely,",
+          "C": "Then,",
+          "D": "However,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "Voxel modeling and kitbashing approaches to three-dimensional digital modeling for video games yield graphics that accurately represent the relative sizes and proportions of real-world objects, but since these graphics are rendered from perfect geometric shapes, they tend to lack organic realism. ______ these 3D elements may display unnaturally precise angles and curves as compared to their real-world counterparts.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "However,",
+          "B": "In addition,",
+          "C": "In conclusion,",
+          "D": "As such,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "Srivijaya, a Buddhist sea power based in Sumatra in Indonesia that reached the height of its influence around 800 CE, is classified as a thalassocracy. Thalassocracies are generally considered distinct from tellurocracies, or land-based powers. ______ the British Empire (1600s-1900s CE) notably extended its hegemony across both land and sea.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Underscoring this difference,",
+          "B": "Exemplifying this distinction,",
+          "C": "Supporting this claim,",
+          "D": "Blurring this line,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Brussels sprouts are vegetables that contain ascorbic acid, an essential nutrient for humans.\n• Cranberries are fruits that contain ascorbic acid.\n• There is 80 milligrams (mg) of ascorbic acid per every 100 grams (g) of brussels sprouts.\n• There is 13 mg of ascorbic acid per every 100 g of cranberries.\n• Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.\n• Ascorbic acid is also known as vitamin C.",
+        "text": "The student wants to refute a claim that cranberries are a better source of vitamin C than brussels sprouts are. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Brussels sprouts contain ascorbic acid (also known as vitamin C), and cranberries do too.",
+          "B": "Brussels sprouts contain vitamin C (also known as ascorbic acid); in fact, there is 80 mg of vitamin C in every 100 g of brussels sprouts.",
+          "C": "With 80 mg of vitamin C per every 100 g, brussels sprouts are actually a better source of vitamin C than cranberries, which contain only 13 mg per every 100 g.",
+          "D": "Humans cannot make ascorbic acid in their bodies, but they can get it from brussels sprouts and cranberries."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": null,
+        "text": "3x = 18y - 45\n\nOne of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+        "choices": {
+          "A": "x = 2y",
+          "B": "(1/3)x = 2y",
+          "C": "x = 6y - 15",
+          "D": "(1/3)x = 6y - 15"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "In the xy-plane, lines k and j are perpendicular and intersect at the point (5, 26). Line j passes through the origin, and line k passes through the point (p, 0), where p is a constant. What is the value of p?",
+        "choices": {
+          "A": "-130.2",
+          "B": "-129.8",
+          "C": "139.8",
+          "D": "140.2"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "In 2010, a skating team had a total of 34 skaters, each classified as either advanced or intermediate. From 2010 to 2020, the number of advanced skaters on the team increased by approximately 67%, and the number of intermediate skaters on the team increased by approximately 44%. The total number of skaters on the team increased by approximately 56%. Which equation best represents this situation, where a represents the number of advanced skaters on the team in 2010 and b represents the number of intermediate skaters on the team in 2010?",
+        "choices": {
+          "A": "1.44a + 1.67b = 34(1.56)",
+          "B": "1.67a + 1.44b = 34(1.56)",
+          "C": "1.56a + 0.67b = 34(1.44)",
+          "D": "1.67a + 1.56b = 34(1.44)"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "For a survey, a sample of 562 people was selected at random from all registered voters in a county. Based on the survey, it is estimated that 73% of all registered voters in the county are in favor of a new law, with an associated margin of error of 3.67%. Which of the following best describes the plausible values for the percent of all registered voters in the county who are in favor of the new law?",
+        "choices": {
+          "A": "Any value greater than 69.33% and less than 76.67%",
+          "B": "Any value less than 69.33% or greater than 76.67%",
+          "C": "Any value greater than 69.33%",
+          "D": "Any value less than 76.67%"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "For the linear function g, the table shows four values of x and their corresponding values of g(x). The function can be written as g(x) = mx + b, where m and b are constants. What is the value of b?",
+        "choices": {
+          "A": "7",
+          "B": "17",
+          "C": "34",
+          "D": "41"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q05.svg"
+      },
+      "6": {
+        "stimulus": null,
+        "text": "h(x) = (1/2)(x)(83)\n\nThe given function h represents the area, in square inches, of a triangle with a base of x inches and a fixed height. What is the height, in inches, of the triangle?",
+        "choices": {
+          "A": "1/83",
+          "B": "83/2",
+          "C": "83",
+          "D": "166"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "y - x = 16\ny = x² - 14x\n\nThe graphs of the equations in the given system intersect at the point (x, y) in the xy-plane. What is a possible value of y?",
+        "choices": {
+          "A": "16",
+          "B": "17",
+          "C": "31",
+          "D": "32"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "An object travels x inches in y seconds. At this rate, which expression represents the time, in seconds, it takes the object to travel a distance of 29x inches?",
+        "choices": {
+          "A": "29/y",
+          "B": "y/29",
+          "C": "29y",
+          "D": "y + 29"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "The function g is defined by g(x) = 27 - x. What is the value of g(3)?",
+        "choices": {
+          "A": "3",
+          "B": "24",
+          "C": "27",
+          "D": "30"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "Micah deposited a total of $3,600 into two retirement accounts last year by depositing x dollars once each month into one account and y dollars twice each month into the other account. Which equation represents this situation?",
+        "choices": {
+          "A": "3,600 = 12x + 12y",
+          "B": "3,600 = 12x + 24y",
+          "C": "3,600 = 24x + 12y",
+          "D": "3,600 = 24x + 24y"
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "The ratio 10 to 3 is equivalent to the ratio 40 to 3k, where k is a constant. What is the value of k?",
+        "choices": {
+          "A": "0.75",
+          "B": "4",
+          "C": "12",
+          "D": "120"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to (3nr² + 6nr) + (4n²r + 2nr)?",
+        "choices": {
+          "A": "7n²r² + 8nr",
+          "B": "7n³r³ + 8n²r²",
+          "C": "12n³r³ + 12n²r²",
+          "D": "3nr² + 4n²r + 8nr"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "R = 0.45ℓ / A\n\nThe given equation relates the resistance R, in ohms, of a wire to its length ℓ, in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?",
+        "choices": {
+          "A": "ℓ = AR / 0.45",
+          "B": "ℓ = 0.45R / A",
+          "C": "ℓ = (R + A) / 0.45",
+          "D": "ℓ = (R - A) / 0.45"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "The graphs of y = -3x + 5 and y = x - 3 are shown. Point P (not shown) has coordinates (2, -3) and lies in the shaded region. The coordinates of P satisfy which of the following inequalities?\n\nI. y < -3x + 5\nII. y > x - 3",
+        "choices": {
+          "A": "I only",
+          "B": "II only",
+          "C": "I and II",
+          "D": "Neither I nor II"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q14.svg"
+      },
+      "15": {
+        "stimulus": null,
+        "text": "If ((1/2)x - 23/2)² - 81 = 0, what is the value of (x - 23)²?",
+        "choices": {
+          "A": "324",
+          "B": "162",
+          "C": "23",
+          "D": "9"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "Rectangles ABCD and EFGH are similar. The length of each side of EFGH is 7 times the length of the corresponding side of ABCD. The area of ABCD is 84 square units. What is the area, in square units, of EFGH?",
+        "choices": {
+          "A": "12",
+          "B": "49",
+          "C": "588",
+          "D": "4,116"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "On a plot of land, 48.0% of the square footage is farmland and the remaining square footage is pasture. There are buildings on exactly 28.5% of the square footage of the farmland, and there are buildings on exactly 11.0% of the square footage of the pasture. If there are buildings on exactly p% of the square footage of the plot of land, what is the value of p?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "The scatterplot shows data set A, which consists of the weights y, in pounds, of a Labrador retriever puppy at various ages, x, in months. The equation of a line of best fit for the relationship in data set A can be written as y = -5.0 + 8.7x, where 2 ≤ x ≤ 6.\n\nThe puppy was weighed again at 9 months old and weighed 52 pounds. Data set B consists of all the data points in data set A as well as the data point (9, 52). The equation of a line of best fit for data set B can be written as y = r + sx, where r and s are constants and 2 ≤ x ≤ 9. Assuming the equations of the lines of best fit are calculated in the same way, which of the following is the best estimate for the value of s?",
+        "choices": {
+          "A": "5.8",
+          "B": "8.7",
+          "C": "13.7",
+          "D": "17.7"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q18.svg"
+      },
+      "19": {
+        "stimulus": null,
+        "text": "A book-of-the-month club charges $17 for the first book purchased during the month and an additional $13 for each book after the first. Which equation describes this situation, where y is the total cost, in dollars, for books purchased during a month, x is the number of books purchased during the month, and x > 0?",
+        "choices": {
+          "A": "y = x + 17",
+          "B": "y = 13x + 17",
+          "C": "y = 13(x - 1) + 17",
+          "D": "y = (x - 1) + 17"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "A company developed a plan to set the selling price of a product. The company determined that for a selling price of $120.00, zero products would be sold. For each $1.50 decrease in the selling price, the number of products sold would increase by one. For a revenue of exactly $1,966.50, which of the following could be the number of products sold? (revenue = price × number of products sold)",
+        "choices": {
+          "A": "23",
+          "B": "40",
+          "C": "1,231",
+          "D": "2,400"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "The equation of the graph shown is y = a^x + b, where a and b are constants. What is the value of a - b?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/m1-q21.svg"
+      },
+      "22": {
+        "stimulus": null,
+        "text": "y = 4x² - bx - 5\n\nWhich of the following equations is equivalent to the given equation, where b is a positive constant?",
+        "choices": {
+          "A": "y = 4(x - b/8)² - 5 - b²/16",
+          "B": "y = 4(x + b/8)² - 5",
+          "C": "y = 4(x - b/8)² - 5",
+          "D": "y = 4(x + b/8)² - 5 - b²/16"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": null,
+        "text": "The equation d = 6t + 270 gives the distance d, in feet, from a reference point on the surface of Mars to a Mars rover, where t is the number of minutes after the start of a period of observation. By how many feet does the Mars rover's distance from the reference point increase over a period of 20 minutes?",
+        "choices": {
+          "A": "390",
+          "B": "290",
+          "C": "120",
+          "D": "6"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": null,
+        "text": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is (9x - 650)°. The sum of the measures of one of the acute angles and three of the obtuse angles is (-18x + w)°. What is the value of w?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?\n\n-x² + bx - 49 = 0?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "To win a game show, a contestant needs to score at least 80 total points from two rounds. Correct responses in the first round are worth 4 points each, and correct responses in the second round are worth 5 points each. Which inequality models this situation, where f is the number of correct responses in the first round and s is the number of correct responses in the second round?",
+        "choices": {
+          "A": "f + s ≤ 80",
+          "B": "4f + 5s ≥ 80",
+          "C": "5f + s ≥ 80",
+          "D": "5f + 4s ≤ 80"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "In 2010, a skating team had a total of 35 skaters, each classified as either advanced or intermediate. From 2010 to 2020, the number of advanced skaters on the team increased by approximately 39%, and the number of intermediate skaters on the team increased by approximately 47%. The total number of skaters on the team increased by approximately 43%. Which equation best represents this situation, where a represents the number of advanced skaters on the team in 2010 and b represents the number of intermediate skaters on the team in 2010?",
+        "choices": {
+          "A": "1.47a + 1.39b = 35(1.43)",
+          "B": "1.39a + 1.47b = 35(1.43)",
+          "C": "1.43a + 0.39b = 35(1.47)",
+          "D": "1.39a + 1.43b = 35(1.47)"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "For the linear function g, the table shows four values of x and their corresponding values of g(x). The function can be written as g(x) = mx + b, where m and b are constants. What is the value of b?",
+        "choices": {
+          "A": "3",
+          "B": "26",
+          "C": "52",
+          "D": "55"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q04-gx-table.svg"
+      },
+      "5": {
+        "stimulus": null,
+        "text": "The given function h represents the area, in square inches, of a triangle with a base of x inches and a fixed height. What is the height, in inches, of the triangle?\n\nh(x) = (1/2)(x)(99)?",
+        "choices": {
+          "A": "1/99",
+          "B": "99/2",
+          "C": "99",
+          "D": "198"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "The graphs of the equations in the given system intersect at the point (x, y) in the xy-plane. What is a possible value of y?\n\ny - x = 40\ny = x² - 38x?",
+        "choices": {
+          "A": "40",
+          "B": "41",
+          "C": "79",
+          "D": "80"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "What is the solution to the given equation?\n\n√w + 22 = 32?",
+        "choices": {
+          "A": "100",
+          "B": "20",
+          "C": "5",
+          "D": "2"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to (x³ + 4x² - 4x) + 7(x² + 8)?",
+        "choices": {
+          "A": "x³ + 7x² - 4x + 56",
+          "B": "x³ + 4x² - 4x + 56",
+          "C": "x³ + 11x² - 4x + 56",
+          "D": "x³ + 8x² - 4x + 56"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "The function g is defined by g(x) = 19 - 3x. What is the value of g(0)?",
+        "choices": {
+          "A": "0",
+          "B": "3",
+          "C": "16",
+          "D": "19"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "The list gives the mass, in grams, of 5 ruffed lemurs.\n3,910; 3,910; 3,430; 3,950; 3,450\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "A model predicts that a certain elephant calf weighed 249 pounds when it was born and that the calf gained 2 pounds per day in its first year of life. This model is defined by an equation in the form f(x) = a + bx, where f(x) is the predicted weight, in pounds, of the elephant calf x days after it was born, and a and b are constants. What is the value of a?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "In the right triangle shown, what is the value of sin x°?",
+        "choices": {
+          "A": "116/63",
+          "B": "53/63",
+          "C": "10/63",
+          "D": "1/63"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q12-right-triangle.svg"
+      },
+      "13": {
+        "stimulus": null,
+        "text": "If 34 + 8(x + 3) = 7(x + 3) - 34, what is the value of x + 3?",
+        "choices": {
+          "A": "68",
+          "B": "34",
+          "C": "0",
+          "D": "-68"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "In the given equation, c is a constant. A solution to the equation is k + 7√2, where k is an integer. What is the value of c?\n\nx(x - 18) = c?",
+        "choices": {
+          "A": "98",
+          "B": "17",
+          "C": "9",
+          "D": "-67"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "An equation of the graph shown is y = -(1/4)(x - p)² + 4, where p is an integer constant. What is the value of p?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q15-parabola.svg"
+      },
+      "16": {
+        "stimulus": null,
+        "text": "For two acute angles A and B, cos A - sin B = 0. The measure of angle A is x degrees, where 8x - 13 = 321. What is the measure of angle B, in degrees?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "The point (0, 0) lies on a circle in the xy-plane. An equation of this circle is x² + (y + 6)² = p + 3, where p is a positive constant. What is the value of p?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "The given equation relates the positive numbers x, y, and z. Which equation correctly expresses z in terms of x and y?\n\ny = 4z / (x + 7)",
+        "choices": {
+          "A": "z = xy/4",
+          "B": "z = (x + 7)/(4y)",
+          "C": "z = 4y/(x + 7)",
+          "D": "z = (x + 7)y/4"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "△QPR is similar to △STR. The lengths represented by ST, QP, PR, and QR in the figure are 10, 16, 30, and 34, respectively. What is the length of SR?",
+        "choices": {
+          "A": "340/16",
+          "B": "340/30",
+          "C": "160/30",
+          "D": "160/34"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q19-similar-triangles.svg"
+      },
+      "20": {
+        "stimulus": null,
+        "text": "The function f(t) = 80,000(2)^(t/490) gives the number of bacteria in a population t minutes after an initial observation. How much time, in minutes, does it take for the number of bacteria in the population to double?",
+        "choices": {
+          "A": "2",
+          "B": "490",
+          "C": "980",
+          "D": "80,000"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "The function h is defined by h(x) = ax + b, where a and b are constants. If h(3) = 21 and h(5) = 25, what is the value of b?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "In the xy-plane, which of the following does NOT contain any points (x, y) that are solutions to the inequality -5x < 70y - 75?",
+        "choices": {
+          "A": "The region where x < 0 and y > 0",
+          "B": "The region where x < 0 and y < 0",
+          "C": "The region where x > 0 and y > 0",
+          "D": "The region where x > 0 and y < 0"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": null,
+        "text": "In the figure, a hollow steel pipe is in the shape of a right circular cylinder. The steel pipe has an outside diameter of 48 inches, a wall thickness of 3/8 inches, and a height of 138 inches. Which of the following is closest to the volume, in cubic inches, of the wall of this steel pipe?",
+        "choices": {
+          "A": "61",
+          "B": "325",
+          "C": "1,242",
+          "D": "7,743"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q23-hollow-pipe.svg"
+      },
+      "24": {
+        "stimulus": null,
+        "text": "Which quadratic equation has no real solutions?",
+        "choices": {
+          "A": "x² + 24x - 144 = 0",
+          "B": "x² - 24x + 144 = 0",
+          "C": "7x² - 24x - 144 = 0",
+          "D": "7x² - 24x + 144 = 0"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": null,
+        "text": "The function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1, 9) and passes through the points (2, 32) and (-1, 101). What is the value of f(-2) - f(0)?",
+        "choices": {
+          "A": "78",
+          "B": "124",
+          "C": "184",
+          "D": "216"
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": null,
+        "text": "The graph of the function f is shown, where y = f(x). What is the value of f(0)?",
+        "choices": {
+          "A": "-7",
+          "B": "-5",
+          "C": "5",
+          "D": "7"
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q26-w-graph.svg"
+      },
+      "27": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 15x + 60. What is the value of f(x) when x = 2?",
+        "choices": {
+          "A": "30",
+          "B": "77",
+          "C": "90",
+          "D": "150"
+        },
+        "imageUrl": null
+      },
+      "28": {
+        "stimulus": null,
+        "text": "The frequency tables represent data sets A and B, where c is a negative integer constant. The mean of data set A is r and the mean of data set B is q. What is the value of r/q?",
+        "choices": {
+          "A": "-4/3",
+          "B": "1",
+          "C": "4/3",
+          "D": "There is not enough information to determine the value of r/q."
+        },
+        "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q28-frequency-tables.svg"
+      }
+    }
+  }
+}

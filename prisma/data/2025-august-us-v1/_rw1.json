@@ -1,0 +1,380 @@
+{
+  "1": {
+    "order": 1,
+    "stimulus": "The following text is from Lilliam Rivera’s 2020 novel Never Look Back. The text describes the narrator’s friend Pheus, a young musician, after finishing a performance during a church service.\n\nPheus pulls a handkerchief from his back pocket and wipes his forehead. I mime a quiet clap for him. He does a slight bow and flashes his dimples. This is where Pheus <u>truly</u> shines. When Pheus is in front of an audience, it’s as if he becomes another person, a more heightened version of himself.\n\n©2020 by Lilliam Rivera",
+    "text": "As used in the text, what does the word “truly” most nearly mean?",
+    "choices": {
+      "A": "Really",
+      "B": "Mildly",
+      "C": "Impolitely",
+      "D": "Hardly"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "In context, “truly” intensifies how Pheus shines on stage—he really shines when performing."
+  },
+  "2": {
+    "order": 2,
+    "stimulus": "The discoveries of natural satellites by Scott S. Sheppard’s team of astronomers have been ______: S/2017 J 2, which the group of researchers found orbiting Jupiter in 2017, is just one of over one hundred that they have spotted, while many astronomers have been happy to discover only one or two.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "plentiful",
+      "B": "random",
+      "C": "likely",
+      "D": "inferior"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Finding over one hundred satellites shows their discoveries have been plentiful."
+  },
+  "3": {
+    "order": 3,
+    "stimulus": "Certain features are almost always included in the designs of mosques, like the ablution (ritual cleansing) area, which is considered to be a ______ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Al-Masjid an-Nabawi, which incorporates elements from the Islamic, Ottoman, and Mamluk revivalist styles, will also include several of these standard features.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "motivation",
+      "B": "hallmark",
+      "C": "rejection",
+      "D": "duplicate"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Features almost always included are hallmarks of mosque architecture."
+  },
+  "4": {
+    "order": 4,
+    "stimulus": "______ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar volume and flower orientation, hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations have led some ecologists to express reservations about the utility of those descriptions.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "Proclamations of",
+      "B": "Recurrences of",
+      "C": "Discrepancies between",
+      "D": "Affinities between"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Reservations about utility imply mismatches between traditional descriptions and recent observations."
+  },
+  "5": {
+    "order": 5,
+    "stimulus": "<u>Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship.</u> While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Enterococcus cecorum and Lactobacillus curvatus—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.",
+    "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It explains a biological process by contrasting it with a somewhat similar process.",
+      "B": "It explains why a common perception of a biological process is flawed.",
+      "C": "It argues that two biological phenomena are more similar than they may initially appear to be.",
+      "D": "It proposes a direction for future research into a biological phenomenon."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "The underlined sentence defines horizontal gene transfer by contrasting it with vertical gene transfer."
+  },
+  "6": {
+    "order": 6,
+    "stimulus": "Puck and other nineteenth- and early twentieth-century US general-interest periodicals included contributions by various individual writers but often strove to display a single, broadly appealing style and perspective. Accordingly, scholars long characterized the genre of mass-media periodicals as having <u>erased the distinctiveness of individual voices in service of commercial aims</u>. More recently, scholars have complicated this picture by showing that Half-Century Magazine and other titles from the period that were marketed to Black women featured a more heterogeneous mix of voices.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It notes an enduring tension within commercial publishing that the text later attempts to resolve.",
+      "B": "It presents a broad critique of nineteenth- and early twentieth-century US periodicals that is explained in more detail later in the text.",
+      "C": "It presents a negative view of nineteenth- and early twentieth-century US periodicals that is qualified later in the text.",
+      "D": "It reveals why the publications referenced earlier in the text have historically been neglected by literary scholars."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "The underlined claim is a negative scholarly characterization later qualified by examples of more heterogeneous magazines."
+  },
+  "7": {
+    "order": 7,
+    "stimulus": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of La Paz, Bolivia, and Caracas, Venezuela, were surveyed about parks in their cities. Of the 528 respondents from La Paz, 67.5% indicated that they use the city’s parks, and of the 1,043 respondents from Caracas, 44.7% indicated using city parks. Given that the percentage of La Paz respondents who reported having access to desired nonpark amenities near parks was much lower than that reported by Caracas respondents, the difference in park use can’t be explained by La Paz residents having more access to desired nonpark amenities near parks.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "An unresolved question about park planning is described, and then examples from a study of La Paz and Caracas are used to answer that question.",
+      "B": "A study of park use in La Paz is described, and then a similar study of park use in Caracas is analyzed to corroborate the findings of the La Paz study.",
+      "C": "An unexpected finding is described, and then that finding is attributed to the method used to collect survey data in La Paz and Caracas.",
+      "D": "A study involving surveys in La Paz and Caracas is introduced, and then a possible explanation for some of the results is considered and rejected."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "The text presents survey results, then considers and rejects amenity access as an explanation for the park-use difference."
+  },
+  "8": {
+    "order": 8,
+    "stimulus": "LaRose is a 2016 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North Dakota. LaRose is typical of Erdrich’s work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her novels have fantastical plots and take place outside Ojibwe communities. For example, her 1991 novel The Crown of Columbus is essentially adventure fiction, and the thrilling events in its plot are set largely on a Caribbean island.",
+    "text": "According to the text, what is one way that The Crown of Columbus differs from most of Erdrich’s work?",
+    "choices": {
+      "A": "Its main characters are Ojibwe.",
+      "B": "It has been adapted into a movie.",
+      "C": "It isn’t set in a rural Ojibwe community.",
+      "D": "It contains very little dialogue."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Unlike most of Erdrich’s work set in Ojibwe communities, The Crown of Columbus is set largely on a Caribbean island."
+  },
+  "9": {
+    "order": 9,
+    "stimulus": "The following text is adapted from Rupa Bajwa’s 2004 novel The Sari Shop. Ramchand works as an assistant in a shop in Amritsar, India.\n\nEven at ten in the morning, the bazaar was throbbing with activity. The halwai [baker] was already installed in front of the Mishthaan Sweet Shop, pressing jalebi batter into squiggly shapes that floated and simmered in the oil in a big iron cauldron. All the shops had opened for the day and, Ramchand noted guiltily, all the shop assistants were already in place, trying to sell things with fixed, attentive smiles on their shiny, bathed faces.\n\n©2004 by Rupa Bajwa",
+    "text": "Based on the text, what can most reasonably be inferred about Ramchand?",
+    "choices": {
+      "A": "Ramchand is happy about being at work after seeing shop assistants who are satisfied with their jobs.",
+      "B": "Ramchand is overwhelmed by a bazaar after seeing the chaos of other shop assistants selling goods.",
+      "C": "Ramchand is remorseful about arriving to work later than other shop assistants he sees.",
+      "D": "Ramchand is enchanted by frying jalebi batter while going to work as a shop assistant."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Ramchand “noted guiltily” that other assistants were already in place, implying remorse about being late."
+  },
+  "10": {
+    "order": 10,
+    "stimulus": "Lin-Tai Ho and colleagues tracked fish populations in three tide pool–monitoring stations in Taiwan from 1999 to 2018. Although a total of only 48 Bengal sergeants were observed at station 3, that was not the lowest count at any station: ______",
+    "text": "Which choice most effectively uses data from the table to complete the assertion?",
+    "choices": {
+      "A": "there were 39 rippled rockskippers observed at station 3.",
+      "B": "there were 136 blackspot sergeants observed at station 3.",
+      "C": "there were 39 striated rockskippers observed at station 2.",
+      "D": "there were 453 rippled rockskippers observed at station 1."
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/eng1-q10-table.svg",
+    "correctAnswer": "C",
+    "reason": "39 striated rockskippers at station 2 is lower than 48, supporting that 48 was not the lowest count."
+  },
+  "11": {
+    "order": 11,
+    "stimulus": "Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Australia and Iran, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.",
+    "text": "Which potential finding from the team’s study, if true, would most directly support the team’s conclusion?",
+    "choices": {
+      "A": "The overall rate of correct judgments by participants was 64%, substantially better than chance, and spontaneous and volitional laughs were recognized at similar rates in Australia, Iran, and the other societies in the study.",
+      "B": "Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies.",
+      "C": "An assessment of the effect of demographic variables on judgments of laughter type in Australia, Iran, and the other societies in the study revealed that participants’ evaluations were correlated with the economic conditions of the societies in which participants live.",
+      "D": "A variety of people from Australia and Iran evaluated the recordings in the study, and no significant differences in listeners’ judgments of laughter types were found."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Above-chance accuracy across all studied societies most directly supports a universal ability to distinguish laughter types."
+  },
+  "12": {
+    "order": 12,
+    "stimulus": "Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction’s size and position, and fish sense these vortices to navigate around the obstructions. Using models of three fish-head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish’s snout are greater.",
+    "text": "Which finding, if true, would most directly support the second research team’s hypothesis?",
+    "choices": {
+      "A": "A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed longnose gar (Lepisosteus osseus) bumped into the obstructions just as often as the wide-headed oyster toadfish (Opsanus tau) did.",
+      "B": "A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed oyster toadfish (Opsanus tau) bumped into obstructions more often than the narrow-headed longnose gar (Lepisosteus osseus) did.",
+      "C": "A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the narrow-headed longnose gar (Lepisosteus osseus) bumped into the obstructions more often than other specimens of the same fish did.",
+      "D": "A study using obstructions that created large vortices in low-visibility conditions found that the oyster toadfish (Opsanus tau), which has a relatively wide head, bumped into more than half of the obstructions."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Wide-headed fish have lower snout pressure fluctuations, so bumping more often than narrow-headed fish supports the hypothesis."
+  },
+  "13": {
+    "order": 13,
+    "stimulus": "Myoglobin (Mb) is a protein that primarily aids in oxygen storage and diffusion across the mitochondrial membrane in cardiac muscle cells; these are necessary functions in aerobic organisms, including teleost fish. Carrying out these functions typically requires Mb to be expressed at high levels, evidenced by red heart tissue. The table shows the average Mb levels and their standard deviations (indicating how dispersed the Mb levels of individual fish are in relation to the average) of three teleost fish species, as calculated by Daniel J. Macqueen et al. Based on the data, the researchers concluded that for some teleost species, oxygen storage and diffusion may occur with negligible assistance from Mb.",
+    "text": "Which choice most effectively uses data from the table to support Macqueen et al.’s conclusion?",
+    "choices": {
+      "A": "P. buchholzi had very low Mb levels in their cardiac tissue.",
+      "B": "Greater average Mb levels in a certain species were associated with greater variance in Mb levels among individuals of that species.",
+      "C": "Less variation in Mb levels was observed among P. buchholzi individuals than among G. petersii and D. rerio individuals.",
+      "D": "On average, G. petersii had higher Mb levels in their cardiac tissue than D. rerio and P. buchholzi had."
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/eng1-q13-table.svg",
+    "correctAnswer": "A",
+    "reason": "Very low Mb in P. buchholzi (white heart tissue, 0.02) supports negligible Mb assistance in some teleosts."
+  },
+  "14": {
+    "order": 14,
+    "stimulus": "Right-handedness is overwhelmingly prevalent in humans. Among studies of laterality in nonhuman primates, Dulce D. Shafer’s 1988 study of captive gorillas reported no tendency toward right-handedness, while Margaret E. Redshaw’s 1993 study of captive gorillas did. However, the latter study included only 2 individuals, and a meta-analysis of primate-laterality studies demonstrated that a minimum sample size of 176 individuals is required to be confident that a finding of population-level handedness is not mere statistical noise. The claim of right-handedness in the 1993 study should therefore be treated skeptically given that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the study that did not find right-handedness in gorillas was also based on an insufficient population size.",
+      "B": "right-handedness does not occur frequently enough among gorillas to reliably appear in a sample of only 2 individuals.",
+      "C": "the apparent difference between the two studies’ results may be partly attributable to the 1988 study using a different standard to determine handedness than the 1993 study did.",
+      "D": "the sample size on which the claim is based is far below the threshold identified in the meta-analysis."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "The 1993 claim rests on only 2 individuals, far below the meta-analysis threshold of 176."
+  },
+  "15": {
+    "order": 15,
+    "stimulus": "When we arrived in Orofino, Idaho, we ______ a large hillside geoglyph of the letter O. Later that day, our hosts remarked that such geoglyphs are quite common in the state.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "noticed",
+      "B": "notice",
+      "C": "will notice",
+      "D": "are noticing"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Past-tense “arrived” and “remarked” require past-tense “noticed.”"
+  },
+  "16": {
+    "order": 16,
+    "stimulus": "On February 1, 2018, a Florida-based research team—Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez—compiled climate data from several sites in Puerto Rico’s Luquillo Mountains. At site CC1, the site with the highest elevation, the air temperature fluctuated slightly throughout the day, registering ______ and 16.4°C at 10:00 p.m.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "15.7°C at 8:00 a.m. 18.5°C at 12:00 p.m.,",
+      "B": "15.7°C, at 8:00 a.m. 18.5°C, at 12:00 p.m.",
+      "C": "15.7°C at 8:00 a.m., 18.5°C at 12:00 p.m.,",
+      "D": "15.7°C at 8:00 a.m. 18.5°C at 12:00 p.m."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Commas correctly separate the three temperature readings in the series."
+  },
+  "17": {
+    "order": 17,
+    "stimulus": "An emulsifier is a type of compound that serves to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together, like oil and water. Though modern chemists commonly use emulsifiers like 12-hydroxystearic acid in their formulations, emulsifiers that have been employed for millennia, such as beeswax and egg yolk, ______ used to this day by chemists as well.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "are",
+      "C": "would have been",
+      "D": "were being"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "“Used to this day” requires present-tense “are.”"
+  },
+  "18": {
+    "order": 18,
+    "stimulus": "Justo Bolekia Boleka, born in 1954, is a poet and essayist from Santiago de Baney, Equatorial Guinea. In recent years more writers from Equatorial Guinea, including Boleka, ______ to reach audiences beyond the African nation’s borders.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have begun",
+      "B": "begins",
+      "C": "is beginning",
+      "D": "has begun"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Plural subject “more writers” takes plural “have begun.”"
+  },
+  "19": {
+    "order": 19,
+    "stimulus": "Among the world’s largest deserts are the Great Basin Desert, ranked ______ and the Atacama Desert, ranked twenty-sixth.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "tenth in size, the Namib Desert; ranked twenty-third,",
+      "B": "tenth in size; the Namib Desert; ranked twenty-third;",
+      "C": "tenth in size; the Namib Desert, ranked twenty-third;",
+      "D": "tenth in size the Namib Desert, ranked twenty-third"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Semicolons separate list items that contain internal commas."
+  },
+  "20": {
+    "order": 20,
+    "stimulus": "Was the Greek mythological figure Chronos, god of time, based on a real person? That was the question posed by the writer Euhemerus (fourth century BCE). Euhemerus claimed that Chronos and the other Greek deities were based on real-life heroes or leaders, tales of whose exploits, told and retold over time, ______ myths—a position later known as euhemerism.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "having eventually become",
+      "B": "eventually became",
+      "C": "eventually becoming",
+      "D": "to eventually become"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Finite verb “became” completes the relative clause parallel to “were based.”"
+  },
+  "21": {
+    "order": 21,
+    "stimulus": "In 1929, scientists first isolated a sample of the steroid hormone progesterone, which they knew existed in animals—and, they assumed, <u>only</u> in animals. ______ researchers would find progesterone in silver jade plants (Crassula arborescens), but this discovery wouldn’t come until decades later.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Earlier,",
+      "B": "For example,",
+      "C": "In other words,",
+      "D": "Eventually,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "“Eventually” fits a discovery that came decades later."
+  },
+  "22": {
+    "order": 22,
+    "stimulus": "Many past Olympic Games featured demonstration sports—nonmedal events—to showcase sports related to the host country. These events included sumō, a Japanese form of wrestling, and bandy, a hockey-like sport popular in Norway. ______ they were chosen as demonstration sports at the Olympic Games in Tokyo, Japan, and Oslo, Norway, respectively.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "By contrast,",
+      "B": "Fittingly,",
+      "C": "Additionally,",
+      "D": "Nevertheless,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Hosting cities matching each sport’s country makes “Fittingly” the logical transition."
+  },
+  "23": {
+    "order": 23,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• India Arie is an African American singer and songwriter.\n• The media outlet All Music has described her music as having “glistening acoustic guitar, churchy organ, and smooth, supple beats.”\n• Her acclaimed albums feature many talented musicians.\n• David Davidson played violin on her second studio album, Voyage to India (2002).\n• John Catchings played cello on her first studio album, Acoustic Soul (2001).",
+    "text": "The student wants to emphasize a difference between David Davidson and John Catchings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Acoustic Soul and Voyage to India, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie.",
+      "B": "David Davidson played on India Arie’s second studio album, Voyage to India, which was released one year after her album Acoustic Soul.",
+      "C": "Both musicians have played on India Arie albums, but David Davidson played violin, whereas John Catchings played cello.",
+      "D": "David Davidson and John Catchings have both lent their musical talents to albums by India Arie."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Only C contrasts their instruments (violin vs. cello)."
+  },
+  "24": {
+    "order": 24,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.\n• It is also known as a land bridge.\n• The Yanakie Isthmus is located in Australia.\n• It connects Wilsons Promontory to mainland Victoria.\n• The Tayabas Isthmus is located in the Philippines.\n• It connects the Bicol Peninsula to northern Luzon Island.",
+    "text": "The student wants to emphasize a similarity between the Yanakie Isthmus and the Tayabas Isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The Tayabas Isthmus connects the Bicol Peninsula to northern Luzon Island.",
+      "B": "An isthmus, or land bridge, is a strip of land that connects two larger pieces of land across an expanse of water.",
+      "C": "The Yanakie Isthmus is a land bridge, located in Australia.",
+      "D": "The Yanakie Isthmus and the Tayabas Isthmus both connect two larger pieces of land across an expanse of water."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "D states the shared connecting function of both isthmuses."
+  },
+  "25": {
+    "order": 25,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Aenos National Park is a Dark Sky Park located on the Greek island of Kefalonia.\n• Aotea Great Barrier Island is a Dark Sky Sanctuary located on the North Island of New Zealand.\n• Dark Sky Sanctuaries and Dark Sky Parks are two types of areas where the night sky has very little light pollution, as designated by the International Dark Sky Places (IDSP) program.\n• The luminance (brightness) of the sky can be measured in magnitudes per square arcsecond (mag/arcsec²), with a higher number indicating a darker sky.\n• The average nighttime luminance of a Dark Sky Park must meet or exceed 21.2 mag/arcsec².\n• The average nighttime luminance of a Dark Sky Sanctuary must meet or exceed 21.5 mag/arcsec².",
+    "text": "The student wants to emphasize a difference between Dark Sky Sanctuaries and Dark Sky Parks. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The required average nighttime luminance of a Dark Sky Sanctuary exceeds that of a Dark Sky Park.",
+      "B": "The luminance of Aotea Great Barrier Island exceeds 21.5 mag/arcsec², while Aenos National Park, by contrast, has very little light pollution.",
+      "C": "A Dark Sky Park must have very little light pollution and a luminance of 21.2 mag/arcsec² or greater—a decidedly stricter set of criteria than those required of a Dark Sky Sanctuary.",
+      "D": "Though Aotea Great Barrier Island is a Dark Sky Sanctuary, IDSP also designates Dark Sky Parks."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Sanctuary threshold (21.5) exceeds Park threshold (21.2), stating the luminance difference."
+  },
+  "26": {
+    "order": 26,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Body positions are an important part of dance.\n• In Royal Academy of Dance ballet, there is a position called demi-seconde position.\n• It is one of several positions for the dancer’s arms.",
+    "text": "The student wants to provide an example of a position in Royal Academy of Dance ballet. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Demi-seconde position is an example of a position in Royal Academy of Dance ballet.",
+      "B": "Royal Academy of Dance ballet includes several dance positions for the dancer’s arms.",
+      "C": "In dance, some positions are for the dancer’s arms.",
+      "D": "Body positions are an important part of dance, including Royal Academy of Dance ballet."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "A names demi-seconde as an example of a RAD ballet position."
+  },
+  "27": {
+    "order": 27,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Receptors in the human tongue can detect sweetness, saltiness, sourness, bitterness, and umami.\n• Umami is a rich, savory flavor.\n• Umami is triggered by the compounds in a variety of foods, including tuna and blue cheese.\n• Participants in a research study tasted samples of bull kelp (a type of brown seaweed) collected from Bamfield, British Columbia.\n• On average, they rated its umami intensity as high.",
+    "text": "The student wants to emphasize the umami intensity of bull kelp. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Umami is triggered by compounds in bull kelp, tuna, and blue cheese.",
+      "B": "Samples of bull kelp, a brown seaweed, have been collected in Bamfield, British Columbia.",
+      "C": "Participants in a research study found the umami intensity of bull kelp, a brown seaweed, to be high.",
+      "D": "Umami is a rich, savory flavor triggered by compounds in foods such as tuna and blue cheese."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "C directly reports the high umami intensity rating for bull kelp."
+  }
+}

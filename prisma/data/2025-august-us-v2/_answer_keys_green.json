@@ -1,0 +1,1334 @@
+{
+  "byPage": {
+    "1": [
+      {
+        "page": 1,
+        "side": "L",
+        "q": 1,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.2,
+          "C": 0.135,
+          "D": 0.221
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p01_L_Q1.png"
+      },
+      {
+        "page": 1,
+        "side": "R",
+        "q": 2,
+        "letter": "D",
+        "scores": {
+          "A": 0.085,
+          "B": 0.2,
+          "C": 0.151,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p01_R_Q2.png"
+      }
+    ],
+    "2": [
+      {
+        "page": 2,
+        "side": "L",
+        "q": 3,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.2,
+          "C": 0.132,
+          "D": 0.226
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p02_L_Q3.png"
+      },
+      {
+        "page": 2,
+        "side": "R",
+        "q": 4,
+        "letter": "D",
+        "scores": {
+          "A": 0.072,
+          "B": 0.192,
+          "C": 0.13,
+          "D": 0.224
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p02_R_Q4.png"
+      }
+    ],
+    "3": [
+      {
+        "page": 3,
+        "side": "L",
+        "q": 5,
+        "letter": "D",
+        "scores": {
+          "A": 0.063,
+          "B": 0.192,
+          "C": 0.119,
+          "D": 0.212
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p03_L_Q5.png"
+      }
+    ],
+    "4": [
+      {
+        "page": 4,
+        "side": "R",
+        "q": null,
+        "letter": "B",
+        "scores": {
+          "A": 0.06,
+          "B": 0.067,
+          "C": 0.039,
+          "D": 0.044
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p04_R_Qx.png"
+      }
+    ],
+    "5": [
+      {
+        "page": 5,
+        "side": "L",
+        "q": 7,
+        "letter": "D",
+        "scores": {
+          "A": 0.057,
+          "B": 0.184,
+          "C": 0.116,
+          "D": 0.217
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p05_L_Q7.png"
+      },
+      {
+        "page": 5,
+        "side": "R",
+        "q": 8,
+        "letter": "D",
+        "scores": {
+          "A": 0.071,
+          "B": 0.192,
+          "C": 0.129,
+          "D": 0.214
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p05_R_Q8.png"
+      }
+    ],
+    "6": [
+      {
+        "page": 6,
+        "side": "L",
+        "q": 9,
+        "letter": "D",
+        "scores": {
+          "A": 0.064,
+          "B": 0.192,
+          "C": 0.119,
+          "D": 0.213
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p06_L_Q9.png"
+      }
+    ],
+    "7": [],
+    "8": [
+      {
+        "page": 8,
+        "side": "R",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.197,
+          "C": 0.134,
+          "D": 0.213
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p08_R_Qx.png"
+      }
+    ],
+    "9": [
+      {
+        "page": 9,
+        "side": "L",
+        "q": 11,
+        "letter": "D",
+        "scores": {
+          "A": 0.059,
+          "B": 0.19,
+          "C": 0.116,
+          "D": 0.213
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p09_L_Q11.png"
+      }
+    ],
+    "10": [
+      {
+        "page": 10,
+        "side": "R",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.081,
+          "B": 0.197,
+          "C": 0.135,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p10_R_Qx.png"
+      }
+    ],
+    "11": [],
+    "12": [
+      {
+        "page": 12,
+        "side": "R",
+        "q": 14,
+        "letter": "D",
+        "scores": {
+          "A": 0.066,
+          "B": 0.185,
+          "C": 0.119,
+          "D": 0.203
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p12_R_Q14.png"
+      }
+    ],
+    "13": [
+      {
+        "page": 13,
+        "side": "L",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.051,
+          "B": 0.184,
+          "C": 0.112,
+          "D": 0.205
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p13_L_Qx.png"
+      }
+    ],
+    "14": [
+      {
+        "page": 14,
+        "side": "L",
+        "q": 15,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.2,
+          "C": 0.132,
+          "D": 0.226
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p14_L_Q15.png"
+      },
+      {
+        "page": 14,
+        "side": "R",
+        "q": 16,
+        "letter": "B",
+        "scores": {
+          "A": 0.061,
+          "B": 0.074,
+          "C": 0.043,
+          "D": 0.051
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p14_R_Q16.png"
+      }
+    ],
+    "15": [
+      {
+        "page": 15,
+        "side": "L",
+        "q": 17,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.201,
+          "C": 0.132,
+          "D": 0.225
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p15_L_Q17.png"
+      },
+      {
+        "page": 15,
+        "side": "R",
+        "q": 18,
+        "letter": "D",
+        "scores": {
+          "A": 0.085,
+          "B": 0.2,
+          "C": 0.15,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p15_R_Q18.png"
+      }
+    ],
+    "16": [
+      {
+        "page": 16,
+        "side": "L",
+        "q": 19,
+        "letter": "D",
+        "scores": {
+          "A": 0.066,
+          "B": 0.193,
+          "C": 0.128,
+          "D": 0.233
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p16_L_Q19.png"
+      },
+      {
+        "page": 16,
+        "side": "R",
+        "q": 20,
+        "letter": "B",
+        "scores": {
+          "A": 0.058,
+          "B": 0.067,
+          "C": 0.043,
+          "D": 0.046
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p16_R_Q20.png"
+      }
+    ],
+    "17": [
+      {
+        "page": 17,
+        "side": "L",
+        "q": 21,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.2,
+          "C": 0.135,
+          "D": 0.221
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p17_L_Q21.png"
+      },
+      {
+        "page": 17,
+        "side": "R",
+        "q": 22,
+        "letter": "B",
+        "scores": {
+          "A": 0.061,
+          "B": 0.072,
+          "C": 0.044,
+          "D": 0.049
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p17_R_Q22.png"
+      }
+    ],
+    "18": [
+      {
+        "page": 18,
+        "side": "L",
+        "q": 23,
+        "letter": "D",
+        "scores": {
+          "A": 0.067,
+          "B": 0.19,
+          "C": 0.128,
+          "D": 0.231
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p18_L_Q23.png"
+      },
+      {
+        "page": 18,
+        "side": "R",
+        "q": 24,
+        "letter": "B",
+        "scores": {
+          "A": 0.06,
+          "B": 0.069,
+          "C": 0.04,
+          "D": 0.046
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p18_R_Q24.png"
+      }
+    ],
+    "19": [
+      {
+        "page": 19,
+        "side": "L",
+        "q": 25,
+        "letter": "D",
+        "scores": {
+          "A": 0.061,
+          "B": 0.189,
+          "C": 0.12,
+          "D": 0.21
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p19_L_Q25.png"
+      },
+      {
+        "page": 19,
+        "side": "R",
+        "q": 26,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.202,
+          "C": 0.15,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p19_R_Q26.png"
+      }
+    ],
+    "20": [
+      {
+        "page": 20,
+        "side": "L",
+        "q": 27,
+        "letter": "D",
+        "scores": {
+          "A": 0.068,
+          "B": 0.197,
+          "C": 0.131,
+          "D": 0.215
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p20_L_Q27.png"
+      }
+    ],
+    "21": [
+      {
+        "page": 21,
+        "side": "L",
+        "q": 1,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.202,
+          "C": 0.149,
+          "D": 0.224
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p21_L_Q1.png"
+      },
+      {
+        "page": 21,
+        "side": "R",
+        "q": 2,
+        "letter": "B",
+        "scores": {
+          "A": 0.065,
+          "B": 0.067,
+          "C": 0.045,
+          "D": 0.044
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p21_R_Q2.png"
+      }
+    ],
+    "22": [
+      {
+        "page": 22,
+        "side": "L",
+        "q": 3,
+        "letter": "D",
+        "scores": {
+          "A": 0.066,
+          "B": 0.192,
+          "C": 0.128,
+          "D": 0.233
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p22_L_Q3.png"
+      }
+    ],
+    "23": [
+      {
+        "page": 23,
+        "side": "R",
+        "q": null,
+        "letter": "B",
+        "scores": {
+          "A": 0.057,
+          "B": 0.065,
+          "C": 0.04,
+          "D": 0.042
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p23_R_Qx.png"
+      }
+    ],
+    "24": [
+      {
+        "page": 24,
+        "side": "L",
+        "q": 5,
+        "letter": "D",
+        "scores": {
+          "A": 0.066,
+          "B": 0.194,
+          "C": 0.13,
+          "D": 0.215
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p24_L_Q5.png"
+      },
+      {
+        "page": 24,
+        "side": "R",
+        "q": 6,
+        "letter": "D",
+        "scores": {
+          "A": 0.056,
+          "B": 0.18,
+          "C": 0.114,
+          "D": 0.202
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p24_R_Q6.png"
+      }
+    ],
+    "25": [],
+    "26": [
+      {
+        "page": 26,
+        "side": "L",
+        "q": 7,
+        "letter": "D",
+        "scores": {
+          "A": 0.068,
+          "B": 0.197,
+          "C": 0.128,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p26_L_Q7.png"
+      },
+      {
+        "page": 26,
+        "side": "R",
+        "q": 8,
+        "letter": "B",
+        "scores": {
+          "A": 0.059,
+          "B": 0.066,
+          "C": 0.038,
+          "D": 0.044
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p26_R_Q8.png"
+      }
+    ],
+    "27": [],
+    "28": [
+      {
+        "page": 28,
+        "side": "L",
+        "q": 9,
+        "letter": "D",
+        "scores": {
+          "A": 0.068,
+          "B": 0.195,
+          "C": 0.129,
+          "D": 0.214
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p28_L_Q9.png"
+      }
+    ],
+    "29": [
+      {
+        "page": 29,
+        "side": "R",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.078,
+          "B": 0.193,
+          "C": 0.134,
+          "D": 0.213
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p29_R_Qx.png"
+      }
+    ],
+    "30": [
+      {
+        "page": 30,
+        "side": "R",
+        "q": 12,
+        "letter": "D",
+        "scores": {
+          "A": 0.067,
+          "B": 0.188,
+          "C": 0.118,
+          "D": 0.208
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p30_R_Q12.png"
+      }
+    ],
+    "31": [
+      {
+        "page": 31,
+        "side": "L",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.058,
+          "B": 0.19,
+          "C": 0.118,
+          "D": 0.211
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p31_L_Qx.png"
+      }
+    ],
+    "32": [
+      {
+        "page": 32,
+        "side": "L",
+        "q": 13,
+        "letter": "D",
+        "scores": {
+          "A": 0.05,
+          "B": 0.182,
+          "C": 0.112,
+          "D": 0.204
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p32_L_Q13.png"
+      },
+      {
+        "page": 32,
+        "side": "R",
+        "q": 14,
+        "letter": "D",
+        "scores": {
+          "A": 0.048,
+          "B": 0.182,
+          "C": 0.113,
+          "D": 0.206
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p32_R_Q14.png"
+      }
+    ],
+    "33": [],
+    "34": [
+      {
+        "page": 34,
+        "side": "L",
+        "q": 15,
+        "letter": "D",
+        "scores": {
+          "A": 0.082,
+          "B": 0.208,
+          "C": 0.143,
+          "D": 0.229
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p34_L_Q15.png"
+      },
+      {
+        "page": 34,
+        "side": "R",
+        "q": 16,
+        "letter": "D",
+        "scores": {
+          "A": 0.078,
+          "B": 0.196,
+          "C": 0.135,
+          "D": 0.213
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p34_R_Q16.png"
+      }
+    ],
+    "35": [
+      {
+        "page": 35,
+        "side": "L",
+        "q": 17,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.208,
+          "C": 0.146,
+          "D": 0.234
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p35_L_Q17.png"
+      },
+      {
+        "page": 35,
+        "side": "R",
+        "q": 18,
+        "letter": "D",
+        "scores": {
+          "A": 0.076,
+          "B": 0.197,
+          "C": 0.135,
+          "D": 0.214
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p35_R_Q18.png"
+      }
+    ],
+    "36": [
+      {
+        "page": 36,
+        "side": "L",
+        "q": 19,
+        "letter": "D",
+        "scores": {
+          "A": 0.067,
+          "B": 0.19,
+          "C": 0.128,
+          "D": 0.231
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p36_L_Q19.png"
+      },
+      {
+        "page": 36,
+        "side": "R",
+        "q": 20,
+        "letter": "D",
+        "scores": {
+          "A": 0.078,
+          "B": 0.192,
+          "C": 0.136,
+          "D": 0.211
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p36_R_Q20.png"
+      }
+    ],
+    "37": [
+      {
+        "page": 37,
+        "side": "L",
+        "q": 21,
+        "letter": "D",
+        "scores": {
+          "A": 0.072,
+          "B": 0.2,
+          "C": 0.146,
+          "D": 0.24
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p37_L_Q21.png"
+      },
+      {
+        "page": 37,
+        "side": "R",
+        "q": 22,
+        "letter": "B",
+        "scores": {
+          "A": 0.06,
+          "B": 0.069,
+          "C": 0.04,
+          "D": 0.046
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p37_R_Q22.png"
+      }
+    ],
+    "38": [
+      {
+        "page": 38,
+        "side": "L",
+        "q": 23,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.2,
+          "C": 0.135,
+          "D": 0.22
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p38_L_Q23.png"
+      },
+      {
+        "page": 38,
+        "side": "R",
+        "q": 24,
+        "letter": "B",
+        "scores": {
+          "A": 0.066,
+          "B": 0.07,
+          "C": 0.048,
+          "D": 0.047
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p38_R_Q24.png"
+      }
+    ],
+    "39": [
+      {
+        "page": 39,
+        "side": "L",
+        "q": 25,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.2,
+          "C": 0.133,
+          "D": 0.222
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p39_L_Q25.png"
+      },
+      {
+        "page": 39,
+        "side": "R",
+        "q": 26,
+        "letter": "D",
+        "scores": {
+          "A": 0.069,
+          "B": 0.191,
+          "C": 0.129,
+          "D": 0.21
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p39_R_Q26.png"
+      }
+    ],
+    "40": [],
+    "41": [
+      {
+        "page": 41,
+        "side": "L",
+        "q": 27,
+        "letter": "D",
+        "scores": {
+          "A": 0.053,
+          "B": 0.186,
+          "C": 0.118,
+          "D": 0.215
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p41_L_Q27.png"
+      }
+    ],
+    "42": [],
+    "43": [],
+    "44": [
+      {
+        "page": 44,
+        "side": "L",
+        "q": 2,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.206,
+          "C": 0.151,
+          "D": 0.227
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p44_L_Q2.png"
+      }
+    ],
+    "45": [
+      {
+        "page": 45,
+        "side": "L",
+        "q": 3,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.203,
+          "C": 0.149,
+          "D": 0.225
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p45_L_Q3.png"
+      },
+      {
+        "page": 45,
+        "side": "R",
+        "q": 4,
+        "letter": "B",
+        "scores": {
+          "A": 0.056,
+          "B": 0.064,
+          "C": 0.036,
+          "D": 0.041
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p45_R_Q4.png"
+      }
+    ],
+    "46": [
+      {
+        "page": 46,
+        "side": "R",
+        "q": 6,
+        "letter": "D",
+        "scores": {
+          "A": 0.081,
+          "B": 0.201,
+          "C": 0.133,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p46_R_Q6.png"
+      }
+    ],
+    "47": [
+      {
+        "page": 47,
+        "side": "L",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.066,
+          "B": 0.193,
+          "C": 0.127,
+          "D": 0.233
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p47_L_Qx.png"
+      }
+    ],
+    "48": [
+      {
+        "page": 48,
+        "side": "L",
+        "q": 7,
+        "letter": "D",
+        "scores": {
+          "A": 0.067,
+          "B": 0.19,
+          "C": 0.128,
+          "D": 0.231
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p48_L_Q7.png"
+      }
+    ],
+    "49": [],
+    "50": [
+      {
+        "page": 50,
+        "side": "L",
+        "q": 9,
+        "letter": "D",
+        "scores": {
+          "A": 0.044,
+          "B": 0.181,
+          "C": 0.11,
+          "D": 0.209
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p50_L_Q9.png"
+      },
+      {
+        "page": 50,
+        "side": "R",
+        "q": 10,
+        "letter": "D",
+        "scores": {
+          "A": 0.083,
+          "B": 0.198,
+          "C": 0.151,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p50_R_Q10.png"
+      }
+    ],
+    "51": [],
+    "52": [
+      {
+        "page": 52,
+        "side": "L",
+        "q": 11,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.195,
+          "C": 0.134,
+          "D": 0.216
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p52_L_Q11.png"
+      },
+      {
+        "page": 52,
+        "side": "R",
+        "q": 12,
+        "letter": "B",
+        "scores": {
+          "A": 0.066,
+          "B": 0.069,
+          "C": 0.048,
+          "D": 0.046
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p52_R_Q12.png"
+      }
+    ],
+    "53": [],
+    "54": [
+      {
+        "page": 54,
+        "side": "L",
+        "q": 13,
+        "letter": "D",
+        "scores": {
+          "A": 0.073,
+          "B": 0.201,
+          "C": 0.13,
+          "D": 0.218
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p54_L_Q13.png"
+      },
+      {
+        "page": 54,
+        "side": "R",
+        "q": 14,
+        "letter": "B",
+        "scores": {
+          "A": 0.06,
+          "B": 0.067,
+          "C": 0.037,
+          "D": 0.044
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p54_R_Q14.png"
+      }
+    ],
+    "55": [],
+    "56": [
+      {
+        "page": 56,
+        "side": "L",
+        "q": 16,
+        "letter": "D",
+        "scores": {
+          "A": 0.073,
+          "B": 0.195,
+          "C": 0.138,
+          "D": 0.233
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p56_L_Q16.png"
+      },
+      {
+        "page": 56,
+        "side": "R",
+        "q": 17,
+        "letter": "D",
+        "scores": {
+          "A": 0.098,
+          "B": 0.21,
+          "C": 0.146,
+          "D": 0.229
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p56_R_Q17.png"
+      }
+    ],
+    "57": [
+      {
+        "page": 57,
+        "side": "L",
+        "q": 18,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.208,
+          "C": 0.146,
+          "D": 0.235
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p57_L_Q18.png"
+      }
+    ],
+    "58": [
+      {
+        "page": 58,
+        "side": "R",
+        "q": 20,
+        "letter": "D",
+        "scores": {
+          "A": 0.083,
+          "B": 0.198,
+          "C": 0.151,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p58_R_Q20.png"
+      }
+    ],
+    "59": [],
+    "60": [
+      {
+        "page": 60,
+        "side": "L",
+        "q": 22,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.207,
+          "C": 0.151,
+          "D": 0.228
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p60_L_Q22.png"
+      }
+    ],
+    "61": [
+      {
+        "page": 61,
+        "side": "L",
+        "q": 1,
+        "letter": "D",
+        "scores": {
+          "A": 0.077,
+          "B": 0.202,
+          "C": 0.137,
+          "D": 0.225
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p61_L_Q1.png"
+      },
+      {
+        "page": 61,
+        "side": "R",
+        "q": 2,
+        "letter": "D",
+        "scores": {
+          "A": 0.086,
+          "B": 0.207,
+          "C": 0.149,
+          "D": 0.228
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p61_R_Q2.png"
+      }
+    ],
+    "62": [
+      {
+        "page": 62,
+        "side": "L",
+        "q": 3,
+        "letter": "D",
+        "scores": {
+          "A": 0.077,
+          "B": 0.196,
+          "C": 0.134,
+          "D": 0.215
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p62_L_Q3.png"
+      },
+      {
+        "page": 62,
+        "side": "R",
+        "q": 4,
+        "letter": "B",
+        "scores": {
+          "A": 0.066,
+          "B": 0.079,
+          "C": 0.05,
+          "D": 0.055
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p62_R_Q4.png"
+      }
+    ],
+    "63": [
+      {
+        "page": 63,
+        "side": "L",
+        "q": 5,
+        "letter": "D",
+        "scores": {
+          "A": 0.061,
+          "B": 0.191,
+          "C": 0.126,
+          "D": 0.223
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p63_L_Q5.png"
+      }
+    ],
+    "64": [],
+    "65": [],
+    "66": [],
+    "67": [
+      {
+        "page": 67,
+        "side": "L",
+        "q": 9,
+        "letter": "D",
+        "scores": {
+          "A": 0.082,
+          "B": 0.211,
+          "C": 0.148,
+          "D": 0.234
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p67_L_Q9.png"
+      },
+      {
+        "page": 67,
+        "side": "R",
+        "q": 10,
+        "letter": "D",
+        "scores": {
+          "A": 0.078,
+          "B": 0.203,
+          "C": 0.148,
+          "D": 0.234
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p67_R_Q10.png"
+      }
+    ],
+    "68": [
+      {
+        "page": 68,
+        "side": "L",
+        "q": 11,
+        "letter": "D",
+        "scores": {
+          "A": 0.077,
+          "B": 0.196,
+          "C": 0.134,
+          "D": 0.215
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p68_L_Q11.png"
+      },
+      {
+        "page": 68,
+        "side": "R",
+        "q": 12,
+        "letter": "B",
+        "scores": {
+          "A": 0.059,
+          "B": 0.065,
+          "C": 0.039,
+          "D": 0.044
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p68_R_Q12.png"
+      }
+    ],
+    "69": [
+      {
+        "page": 69,
+        "side": "L",
+        "q": 13,
+        "letter": "D",
+        "scores": {
+          "A": 0.077,
+          "B": 0.195,
+          "C": 0.132,
+          "D": 0.219
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p69_L_Q13.png"
+      }
+    ],
+    "70": [],
+    "71": [
+      {
+        "page": 71,
+        "side": "L",
+        "q": 15,
+        "letter": "D",
+        "scores": {
+          "A": 0.084,
+          "B": 0.208,
+          "C": 0.146,
+          "D": 0.235
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p71_L_Q15.png"
+      },
+      {
+        "page": 71,
+        "side": "R",
+        "q": 16,
+        "letter": "B",
+        "scores": {
+          "A": 0.063,
+          "B": 0.071,
+          "C": 0.045,
+          "D": 0.047
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p71_R_Q16.png"
+      }
+    ],
+    "72": [
+      {
+        "page": 72,
+        "side": "R",
+        "q": 18,
+        "letter": "B",
+        "scores": {
+          "A": 0.063,
+          "B": 0.074,
+          "C": 0.048,
+          "D": 0.051
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p72_R_Q18.png"
+      }
+    ],
+    "73": [],
+    "74": [
+      {
+        "page": 74,
+        "side": "R",
+        "q": 20,
+        "letter": "D",
+        "scores": {
+          "A": 0.079,
+          "B": 0.197,
+          "C": 0.137,
+          "D": 0.22
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p74_R_Q20.png"
+      }
+    ],
+    "75": [
+      {
+        "page": 75,
+        "side": "L",
+        "q": null,
+        "letter": "D",
+        "scores": {
+          "A": 0.041,
+          "B": 0.182,
+          "C": 0.111,
+          "D": 0.204
+        },
+        "crop": "prisma/data/2025-august-us-v2/_green_crops/p75_L_Qx.png"
+      }
+    ],
+    "76": []
+  },
+  "flat": {
+    "p01-Q1": "D",
+    "p01-Q2": "D",
+    "p02-Q3": "D",
+    "p02-Q4": "D",
+    "p03-Q5": "D",
+    "p05-Q7": "D",
+    "p05-Q8": "D",
+    "p06-Q9": "D",
+    "p09-Q11": "D",
+    "p12-Q14": "D",
+    "p14-Q15": "D",
+    "p14-Q16": "B",
+    "p15-Q17": "D",
+    "p15-Q18": "D",
+    "p16-Q19": "D",
+    "p16-Q20": "B",
+    "p17-Q21": "D",
+    "p17-Q22": "B",
+    "p18-Q23": "D",
+    "p18-Q24": "B",
+    "p19-Q25": "D",
+    "p19-Q26": "D",
+    "p20-Q27": "D",
+    "p21-Q1": "D",
+    "p21-Q2": "B",
+    "p22-Q3": "D",
+    "p24-Q5": "D",
+    "p24-Q6": "D",
+    "p26-Q7": "D",
+    "p26-Q8": "B",
+    "p28-Q9": "D",
+    "p30-Q12": "D",
+    "p32-Q13": "D",
+    "p32-Q14": "D",
+    "p34-Q15": "D",
+    "p34-Q16": "D",
+    "p35-Q17": "D",
+    "p35-Q18": "D",
+    "p36-Q19": "D",
+    "p36-Q20": "D",
+    "p37-Q21": "D",
+    "p37-Q22": "B",
+    "p38-Q23": "D",
+    "p38-Q24": "B",
+    "p39-Q25": "D",
+    "p39-Q26": "D",
+    "p41-Q27": "D",
+    "p44-Q2": "D",
+    "p45-Q3": "D",
+    "p45-Q4": "B",
+    "p46-Q6": "D",
+    "p48-Q7": "D",
+    "p50-Q9": "D",
+    "p50-Q10": "D",
+    "p52-Q11": "D",
+    "p52-Q12": "B",
+    "p54-Q13": "D",
+    "p54-Q14": "B",
+    "p56-Q16": "D",
+    "p56-Q17": "D",
+    "p57-Q18": "D",
+    "p58-Q20": "D",
+    "p60-Q22": "D",
+    "p61-Q1": "D",
+    "p61-Q2": "D",
+    "p62-Q3": "D",
+    "p62-Q4": "B",
+    "p63-Q5": "D",
+    "p67-Q9": "D",
+    "p67-Q10": "D",
+    "p68-Q11": "D",
+    "p68-Q12": "B",
+    "p69-Q13": "D",
+    "p71-Q15": "D",
+    "p71-Q16": "B",
+    "p72-Q18": "B",
+    "p74-Q20": "D"
+  }
+}

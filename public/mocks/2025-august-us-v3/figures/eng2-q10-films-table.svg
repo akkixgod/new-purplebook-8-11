@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="460" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Highest-Grossing Films in a Language Other than English at US Box Office</text>
+  <!-- header row -->
+  <rect x="12" y="36" width="896" height="52" fill="#f3f4f6" stroke="#111"/>
+  <line x1="200" y1="36" x2="200" y2="88" stroke="#111"/>
+  <line x1="330" y1="36" x2="330" y2="88" stroke="#111"/>
+  <line x1="470" y1="36" x2="470" y2="88" stroke="#111"/>
+  <line x1="590" y1="36" x2="590" y2="88" stroke="#111"/>
+  <line x1="800" y1="36" x2="800" y2="88" stroke="#111"/>
+  <text x="106" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Title</text>
+  <text x="265" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Lifetime</text>
+  <text x="265" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">gross earnings</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Opening weekend</text>
+  <text x="400" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">box office gross earnings</text>
+  <text x="530" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">US release</text>
+  <text x="530" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">date</text>
+  <text x="695" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Director</text>
+  <text x="854" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Oscar</text>
+  <text x="854" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">nominated?</text>
+  <!-- row 1 -->
+  <rect x="12" y="88" width="896" height="44" fill="#fff" stroke="#111"/>
+  <line x1="200" y1="88" x2="200" y2="132" stroke="#111"/>
+  <line x1="330" y1="88" x2="330" y2="132" stroke="#111"/>
+  <line x1="470" y1="88" x2="470" y2="132" stroke="#111"/>
+  <line x1="590" y1="88" x2="590" y2="132" stroke="#111"/>
+  <line x1="800" y1="88" x2="800" y2="132" stroke="#111"/>
+  <text x="106" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12"><tspan font-style="italic">Eat Drink Man Woman</tspan></text>
+  <text x="265" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">$7,294,403</text>
+  <text x="400" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">$155,512</text>
+  <text x="530" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">August 3, 1994</text>
+  <text x="695" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">Ang Lee</text>
+  <text x="854" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12">Yes</text>
+  <!-- row 2 -->
+  <rect x="12" y="132" width="896" height="52" fill="#fff" stroke="#111"/>
+  <line x1="200" y1="132" x2="200" y2="184" stroke="#111"/>
+  <line x1="330" y1="132" x2="330" y2="184" stroke="#111"/>
+  <line x1="470" y1="132" x2="470" y2="184" stroke="#111"/>
+  <line x1="590" y1="132" x2="590" y2="184" stroke="#111"/>
+  <line x1="800" y1="132" x2="800" y2="184" stroke="#111"/>
+  <text x="106" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="11"><tspan font-style="italic">Huevos: Little Rooster-s</tspan></text>
+  <text x="106" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="11"><tspan font-style="italic">Egg-cellent Adventure</tspan></text>
+  <text x="265" y="162" text-anchor="middle" font-family="Georgia, serif" font-size="12">$9,080,818</text>
+  <text x="400" y="162" text-anchor="middle" font-family="Georgia, serif" font-size="12">$3,424,702</text>
+  <text x="530" y="162" text-anchor="middle" font-family="Georgia, serif" font-size="12">September 4, 2015</text>
+  <text x="695" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="10">Gabriel Riva Palacio Alatriste</text>
+  <text x="695" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="10">and Rodolfo Riva Palacio Alatriste</text>
+  <text x="854" y="162" text-anchor="middle" font-family="Georgia, serif" font-size="12">No</text>
+  <!-- row 3 -->
+  <rect x="12" y="184" width="896" height="44" fill="#fff" stroke="#111"/>
+  <line x1="200" y1="184" x2="200" y2="228" stroke="#111"/>
+  <line x1="330" y1="184" x2="330" y2="228" stroke="#111"/>
+  <line x1="470" y1="184" x2="470" y2="228" stroke="#111"/>
+  <line x1="590" y1="184" x2="590" y2="228" stroke="#111"/>
+  <line x1="800" y1="184" x2="800" y2="228" stroke="#111"/>
+  <text x="106" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12"><tspan font-style="italic">Instructions Not Included</tspan></text>
+  <text x="265" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">$44,467,206</text>
+  <text x="400" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">$7,846,426</text>
+  <text x="530" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">August 30, 2013</text>
+  <text x="695" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">Eugenio Derbez</text>
+  <text x="854" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="12">No</text>
+  <!-- row 4 -->
+  <rect x="12" y="228" width="896" height="44" fill="#fff" stroke="#111"/>
+  <line x1="200" y1="228" x2="200" y2="272" stroke="#111"/>
+  <line x1="330" y1="228" x2="330" y2="272" stroke="#111"/>
+  <line x1="470" y1="228" x2="470" y2="272" stroke="#111"/>
+  <line x1="590" y1="228" x2="590" y2="272" stroke="#111"/>
+  <line x1="800" y1="228" x2="800" y2="272" stroke="#111"/>
+  <text x="106" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="12"><tspan font-style="italic">Crouching Tiger, Hidden Dragon</tspan></text>
+  <text x="265" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="12">$128,078,872</text>
+  <text x="400" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="12">$663,205</text>
+  <text x="530" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="12">December 8, 2000</text>
+  <text x="695" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="12">Ang Lee</text>
+  <text x="854" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="12">Yes</text>
+</svg>

@@ -1,0 +1,407 @@
+{
+  "1": {
+    "order": 1,
+    "page": 1,
+    "stimulus": "The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak-terraces, canals, and water temples-are ______: they are joined together into a single cohesive unit.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "interconnected",
+      "B": "outmoded",
+      "C": "optional",
+      "D": "informal"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "The elements are “joined together into a single cohesive unit,” so “interconnected” fits."
+  },
+  "2": {
+    "order": 2,
+    "page": 2,
+    "stimulus": "The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "an imposing",
+      "B": "an embellished",
+      "C": "a quintessential",
+      "D": "an unprecedented"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "A foundational, standard feature is a quintessential aspect of mosque design."
+  },
+  "3": {
+    "order": 3,
+    "page": 3,
+    "stimulus": "The Egyptian plover-a bird native to Africa-has a symbiotic relationship with the Nile crocodile. While a crocodile rests on land with its mouth open for extended periods of time, the plover eats the food that is stuck in the crocodile's teeth. This ______ relationship provides a nutritious meal for the bird and removes potentially dangerous bacteria from the crocodile's mouth.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "inefficient",
+      "B": "reciprocal",
+      "C": "interchangeable",
+      "D": "unequal"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Both parties benefit, so the relationship is reciprocal."
+  },
+  "4": {
+    "order": 4,
+    "page": 4,
+    "stimulus": "Until 1917, there was no formal measure in the United States Senate that could be ______ to end a debate that had been excessively prolonged as a tactic to block voting on a matter. In that year, a procedure was created to allow a majority of senators to curtail deliberation and force a vote.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "improvised",
+      "B": "invoked",
+      "C": "abolished",
+      "D": "partitioned"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "A formal measure would be invoked (called upon / put into effect) to end debate."
+  },
+  "5": {
+    "order": 5,
+    "page": 5,
+    "stimulus": "The following text is adapted from Akwaeke Emezi's 2019 novel Pet. Jam is a teenager who lives with her father, Aloe, and her mother, Bitter, who is a painter.\n\nBitter finished the painting in the dark morning of a day-it was well past midnight when Jam heard the studio door creak open. She stared into the velvet black of her room and listened to her mother's footsteps walking in her [mother] and Aloe's bedroom. There was a weight thrumming through the floorboards in a low song, and that was how Jam knew the painting was done. <u>Bitter's feet were singing the news.</u>\n\n©2019 by Akwaeke Emezi",
+    "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It adds to the idea that Bitter's footsteps reveal something to Jam.",
+      "B": "It indicates that Jam is more interested in music than in art.",
+      "C": "It indicates that Bitter always sings when working on a painting.",
+      "D": "It describes Aloe's reaction upon seeing the painting for the first time."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "The underlined sentence extends the idea that Bitter's footsteps tell Jam the painting is finished."
+  },
+  "6": {
+    "order": 6,
+    "page": 6,
+    "stimulus": "In 2011 Ingrid L. Cripps and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of Pseudochromis fuscus, a species of fish. However, Cripps and colleagues' study relied on a mean sample size of only about 9 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Josefin Sundin and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To explain how the behavior of a fish species has changed over time",
+      "B": "To note a potential concern about the findings of a scientific study",
+      "C": "To present a debate between two research teams about a cause of ocean acidification",
+      "D": "To discuss an aspect of ocean acidification that is frequently overlooked"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "The text flags small sample size as a reason Cripps's findings may be biased or exaggerated."
+  },
+  "7": {
+    "order": 7,
+    "page": 7,
+    "stimulus": "Habitat navigation is a skill that helps animals reach food or safety. To test how navigation works in fish, Shachar Givon and colleagues taught goldfish to drive a vehicle-a motorized fish tank with wheels-on land. The vehicle was programmed to move in the same direction that the fish swam in within the tank. In the experiment, the fish were tasked with driving their tank to a pink board. They received a treat when they succeeded, and they often did. Because the fish could move their tank to the board, Givon concludes that their navigational skills aren't specific to an aquatic environment.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Research shows that although they live in the water, fish can navigate on land with a little mechanical help.",
+      "B": "Fish can navigate only within their natural aquatic environment in order to find food and safety.",
+      "C": "Researchers can train animals to complete many different tasks when they offer the animals treats.",
+      "D": "An animal's navigational skills directly depend on that animal's particular environment."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "The goldfish successfully navigated on land using the wheeled tank, supporting Givon's conclusion."
+  },
+  "8": {
+    "order": 8,
+    "page": 8,
+    "stimulus": "Deposits of valuable objects, or hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Some of these hoards were discovered before 2000; for example, ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "the Broighter Hoard was discovered in 1896, and the Balline Hoard was discovered in 1940.",
+      "B": "the Broighter Hoard was one of several hoards discovered in the 1800s.",
+      "C": "the Dooyork Hoard was discovered in 1940, and the Balline Hoard was discovered in 2001.",
+      "D": "the Balline Hoard and the Dooyork Hoard were both discovered in the 2000s."
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/eng1-q08-hoards-table.svg",
+    "correctAnswer": "A",
+    "reason": "Broighter (1896) and Balline (1940) were both found before 2000, matching the claim."
+  },
+  "9": {
+    "order": 9,
+    "page": 9,
+    "stimulus": "Researcher Helen O'Neill and her team were studying sponges in the family Irciniidae when they discovered that three of the sponges were functioning as microhabitats for banded sand catsharks (Atelomycterus fasciatus). Additionally, <u>the team found that male and female A. fasciatus share the same sponge (the same microhabitat)</u>, a behavior not found among Port Jackson sharks (Heterodontus portusjacksoni), another seabed-dwelling species.",
+    "text": "Which choice best describes data from the graph that support the underlined claim?",
+    "choices": {
+      "A": "Each of the three sponges was inhabited by at least one male A. fasciatus and at least one undetermined A. fasciatus.",
+      "B": "Each of the three sponges was inhabited by at least one male A. fasciatus and at least one female A. fasciatus.",
+      "C": "Sponge 1 was inhabited by 13 female A. fasciatus.",
+      "D": "Sponge 1 was inhabited by 17 male A. fasciatus."
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/eng1-q09-sharks-chart.svg",
+    "correctAnswer": "B",
+    "reason": "Every sponge has at least one male and one female, supporting cohabitation of both sexes."
+  },
+  "10": {
+    "order": 10,
+    "page": 10,
+    "stimulus": "Olms are salamanders that live in underwater caves. Scientists once thought that olms stay in their caves all their lives. However, Raoul Manenti and team claim that <u>olms regularly come to the surface to perform important activities such as finding food.</u>",
+    "text": "Which finding, if true, would most strongly support the underlined claim?",
+    "choices": {
+      "A": "Researchers learn that olms' brains differ from other salamanders' brains.",
+      "B": "Researchers determine that olms don't breed often.",
+      "C": "Researchers confirm that olms live in only a few cave systems.",
+      "D": "Researchers discover that earthworms from surface soils are a major part of olms' diet."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Surface-soil earthworms in the diet imply olms leave caves to find food."
+  },
+  "11": {
+    "order": 11,
+    "page": 11,
+    "stimulus": "High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tomentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.",
+    "text": "Which statement about hummingbird preferences is most strongly supported by the text?",
+    "choices": {
+      "A": "Hummingbirds consistently prefer plant species whose flowers have physical traits that are compatible with their bills but offer relatively low nectar rewards.",
+      "B": "The floral traits that most strongly influence which plant species hummingbirds prefer may result in certain hummingbird species visiting flowers with relatively low nectar rewards over those with higher nectar rewards.",
+      "C": "Hummingbirds' preferences are primarily driven by trait-matching between their bills and flower corollas, though nectar qualities are a secondary factor driving their preferences.",
+      "D": "Physical compatibility between flower corollas and hummingbird bills becomes an important factor that influences hummingbird preferences when hummingbirds are uncertain about which plants produce high-reward nectar."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Bill-corolla fit, not nectar traits, drove visits, so birds may visit lower-nectar flowers that match physically."
+  },
+  "12": {
+    "order": 12,
+    "page": 12,
+    "stimulus": "Twinflower (Linnaea borealis) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, goosefoot (Chenopodium album) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked L. borealis and C. album, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.",
+    "text": "Which finding, if true, would most directly support Mulder and Spellman's conclusion?",
+    "choices": {
+      "A": "Although L. borealis and C. album tended to stop producing leaves at about the same time in years with historically typical temperature patterns, C. album stopped producing leaves sooner than L. borealis did in years with late subfreezing temperature onset.",
+      "B": "Although significant interannual variations in subfreezing temperature onset were observed during the study, neither C. album nor L. borealis showed any significant interannual variation in the cessation of leaf production.",
+      "C": "Although L. borealis and C. album both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for C. album than for L. borealis.",
+      "D": "Although L. borealis and C. album both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "A greater autumn growth extension for the invasive than the native supports an invasive advantage from delayed freeze."
+  },
+  "13": {
+    "order": 13,
+    "page": 13,
+    "stimulus": "Eastern Ohio's Monroe County is among the most rural counties in the United States: the US Census Bureau classified it as 97.7% rural in 2010. Researchers studying populations of counties like Monroe often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "snowball sampling is more likely to improve retention rates among rural participants than among nonrural participants.",
+      "B": "being recruited to participate in a study by someone with whom one is socially connected may impart a feeling of obligation to persist with participation in the study.",
+      "C": "social networks can become large enough that two people can share a network but nevertheless regard each other as strangers.",
+      "D": "people with relatively small social networks are inherently less likely to be recruited to participate in a study via snowball sampling than are people with relatively large social networks."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Higher retention when recruited by social contacts suggests obligation to continue participating."
+  },
+  "14": {
+    "order": 14,
+    "page": 14,
+    "stimulus": "The glossy ibis and the little blue heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D'Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds' habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only glossy ibises prefer areas with deep water during breeding season, both glossy ibises and little blue herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "there is relatively deep water during the breeding season.",
+      "B": "there are any features that attract the other species.",
+      "C": "species with breeding seasons longer than 60 days are likely to be present.",
+      "D": "there is standing water for far fewer than 60 days per year."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Both prefer standing water >60 days/year, so neither is drawn to areas with far less standing water."
+  },
+  "15": {
+    "order": 15,
+    "page": 15,
+    "stimulus": "In the periodic table, an element's atomic number indicates how many protons there are in an atom of the element. For example, a calcium atom ______ 20 protons. Professor Raymond Chang explains this concept in more detail in the textbook Chemistry.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is having",
+      "B": "had",
+      "C": "has had",
+      "D": "has"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Present-tense general fact: a calcium atom has 20 protons."
+  },
+  "16": {
+    "order": 16,
+    "page": 16,
+    "stimulus": "Yvonne Adhiambo Owuor, born in 1968, is a novelist from Nairobi, Kenya. In recent years more writers from Kenya, including Owuor, ______ to reach audiences beyond the African nation's borders.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "begins",
+      "B": "is beginning",
+      "C": "has begun",
+      "D": "have begun"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Plural subject “more writers from Kenya” takes “have begun.”"
+  },
+  "17": {
+    "order": 17,
+    "page": 17,
+    "stimulus": "The Hereford map is a mappa mundi from the fourteenth century. Currently held at Hereford Cathedral in Hereford, England, it is one of over 1,000 such world maps from the European Middle Ages still remaining, with the even older Theodulf of Orleans map from the eleventh century (now held at the Vatican Library in Vatican City) ______ another one.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is",
+      "B": "has been",
+      "C": "being",
+      "D": "was"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "A participial phrase (“being another one”) correctly continues the “with …” modifier."
+  },
+  "18": {
+    "order": 18,
+    "page": 18,
+    "stimulus": "The African baobab (Adansonia digitata) known as Panke Baobab, located in Zimbabwe, was one of the oldest known trees in the world, at 2,419 years old. With over two millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "rings. A",
+      "B": "rings and a",
+      "C": "rings, a",
+      "D": "rings; a"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "A comma correctly joins the introductory phrase to the independent clause that follows."
+  },
+  "19": {
+    "order": 19,
+    "page": 19,
+    "stimulus": "Topographical prominence is a measure of a mountain's independence from other mountains. Having 9,721 feet of prominence, ______",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Pico do Ramelau, a peak located in Timor-Leste, is ranked by geographers as the world's 98th most prominent mountain.",
+      "B": "the list of mountains geographers rank as the world's most prominent includes Pico do Ramelau, a peak located in Timor-Leste, at number 98.",
+      "C": "geographers have ranked Pico do Ramelau, a peak in Timor-Leste, as the world's 98th most prominent mountain.",
+      "D": "the ranking given by geographers to Pico do Ramelau, a peak located in Timor-Leste, is 98th most prominent mountain in the world."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "The modifier “Having 9,721 feet of prominence” must modify the mountain, Pico do Ramelau."
+  },
+  "20": {
+    "order": 20,
+    "page": 20,
+    "stimulus": "The radial velocity method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the Neptune-like planet DMPP-1 b; at 296 light-years away, the gas giant 42 Draconis b; and, as of 2023, over 1,000 other exoplanets that are too far away and dim to be observed directly.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Earth, at 204 light-years away,",
+      "B": "Earth at 204 light-years away,",
+      "C": "Earth at 204 light-years away:",
+      "D": "Earth: at 204 light-years away,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "A colon after Earth correctly introduces the first listed exoplanet and its distance."
+  },
+  "21": {
+    "order": 21,
+    "page": 21,
+    "stimulus": "L. Leann Kanda, a researcher and sewing enthusiast, experimented with several techniques in her attempt to replicate the famous pleating of the Fortuny Delphos gown. The specific method, which the fashion ______ developed in the early twentieth century, is considered lost.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "designers Henriette Nigrin and Mariano Fortuny y Madrazo,",
+      "B": "designers Henriette Nigrin and Mariano Fortuny y Madrazo",
+      "C": "designers, Henriette Nigrin and Mariano Fortuny y Madrazo",
+      "D": "designers, Henriette Nigrin and Mariano Fortuny y Madrazo,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Essential appositive needs no commas; no comma before “developed.”"
+  },
+  "22": {
+    "order": 22,
+    "page": 22,
+    "stimulus": "On February 1, 2018, a Florida-based research team-Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez-compiled climate data from several sites in Puerto Rico's Luquillo Mountains. At site CC1, the site with the highest elevation, the air temperature fluctuated slightly throughout the day, registering ______ and 16.2°C at 8:30 p.m.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "17.9°C, at 3:00 p.m. 16°C, at 5:00 p.m.",
+      "B": "17.9°C at 3:00 p.m., 16°C at 5:00 p.m.,",
+      "C": "17.9°C at 3:00 p.m. 16°C at 5:00 p.m.",
+      "D": "17.9°C at 3:00 p.m. 16°C at 5:00 p.m.,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Items in a series need commas between them; choice B correctly punctuates the list."
+  },
+  "23": {
+    "order": 23,
+    "page": 23,
+    "stimulus": "While studying joro spiders, a large species originally from East Asia, University of Georgia researchers wondered if the spiders' rapid spread throughout the southeastern US was a result of aggressive behavior. ______ they discovered that joro spiders are gentle giants who react to even minor disturbances by “freezing” in place for an hour or more.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Instead,",
+      "B": "Therefore,",
+      "C": "For example,",
+      "D": "In other words,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "“Instead” contrasts the aggression hypothesis with the finding that the spiders are gentle."
+  },
+  "24": {
+    "order": 24,
+    "page": 24,
+    "stimulus": "Some bands choose a name that's as unique as possible to distinguish themselves from other bands. The experimental rock band Boris, ______ took a different approach. They chose to name themselves after a song by a well-known band, the Melvins.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "therefore,",
+      "B": "secondly,",
+      "C": "by contrast,",
+      "D": "for example,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Boris’s approach contrasts with bands that pick uniquely distinguishing names."
+  },
+  "25": {
+    "order": 25,
+    "page": 25,
+    "stimulus": "Portuguese researcher Isabel C.F.R. Ferreira reports that the cinnamic acid in termite mushrooms benefits the mushroom by combating harmful molecules called free radicals. ______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Moreover,",
+      "C": "Conversely,",
+      "D": "Rather,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "“Moreover” adds a further benefit (for humans) to the mushroom benefit already stated."
+  },
+  "26": {
+    "order": 26,
+    "page": 26,
+    "stimulus": "The Eloi are not real: they are fictional creatures that feature in H.G. Wells's acclaimed science fiction novella The Time Machine. ______ the Eloi were prime candidates for inclusion in Jorge Luis Borges and Margarita Guerrero's The Book of Imaginary Beings, a compendium of fantastical entities from legend and literature.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In reality,",
+      "B": "Granted,",
+      "C": "For example,",
+      "D": "As such,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "“As such” links their fictional/fantastical nature to why they fit a book of imaginary beings."
+  },
+  "27": {
+    "order": 27,
+    "page": 27,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Claude McKay (1890-1948) was a Jamaican American poet.\n• McKay also worked as a novelist and journalist.\n• \"Labor's Day\" is a poem by McKay.\n• It was published in the September 1919 issue of The Messenger.\n• The Messenger was an influential Black literary magazine.",
+    "text": "The student wants to provide an example of a poem by McKay. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "McKay was a Jamaican American poet, novelist, and journalist.",
+      "B": "One example of a poem by McKay is \"Labor's Day\" (1919).",
+      "C": "McKay published poetry in a literary magazine called The Messenger.",
+      "D": "The Messenger was an influential Black literary magazine that published poetry."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Only B directly gives an example of a McKay poem."
+  }
+}

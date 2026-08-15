@@ -1,0 +1,380 @@
+{
+  "1": {
+    "order": 1,
+    "stimulus": "Studying menus from nineteenth-century restaurants, old coupons clipped out of newspapers, and posters promoting concerts by long-forgotten musicians may seem like a frivolous pursuit, but ephemeral objects like these are useful as evidence of cultural change: they can ______ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "dissociate from",
+      "B": "collude with",
+      "C": "compensate for",
+      "D": "attest to"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Ephemeral objects are useful as evidence of cultural change, so they attest to shifts in norms and values."
+  },
+  "2": {
+    "order": 2,
+    "stimulus": "In the architectural process called modular construction, a building is manufactured in modules under controlled conditions and then assembled at its intended location. ______ of this approach cite the production of less material waste and a faster return on investment.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "Components",
+      "B": "Safeguards",
+      "C": "Proponents",
+      "D": "Epitomes"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Those who cite advantages of modular construction are proponents of the approach."
+  },
+  "3": {
+    "order": 3,
+    "stimulus": "Run by researchers in Europe, the Survey of Health, Ageing, and Retirement in Europe (SHARE) is an examination of aging that has attempted to track approximately 120,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ______: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "attrition",
+      "B": "circumspection",
+      "C": "impartiality",
+      "D": "replicability"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Participants withdrawing or falling out of contact over time is attrition."
+  },
+  "4": {
+    "order": 4,
+    "stimulus": "Some ethicists challenge the concept of personal character, claiming that if it were meaningful, situational factors could not, as they clearly can, induce behavior contrary to that character. As Rachana Kamtekar observes, this argument is difficult to reconcile with our lay conception of character: we expect a person of helpful character to be frequently helpful, not ______ helpful.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "self-servingly",
+      "B": "sporadically",
+      "C": "grudgingly",
+      "D": "unfailingly"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Lay conception requires frequent help, not the absolute standard of being unfailingly helpful that the challenge assumes."
+  },
+  "5": {
+    "order": 5,
+    "stimulus": "The Reckoning and Resilience (2022) exhibition at Duke University's Nasher Museum of Art in Durham, North Carolina, was curated to feature the work of thirty North Carolina artists. The included artists represent a wide variety of artistic disciplines, from painters such as Juan Logan to the sculptor Stephen Hayes. In its inclusion of many borrowed works, the exhibition is atypical for the Nasher Museum, which tends to curate its exhibitions around the permanent collection of contemporary art that it owns.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It explains how an art exhibition differs from many other exhibitions, then analyzes the significance of that difference.",
+      "B": "It presents the unusual goals curators had for an art exhibition, then evaluates whether the curators achieved those goals.",
+      "C": "It provides an overview of an art exhibition, then explains what makes the exhibition unusual for the institution that organized it.",
+      "D": "It discusses the wide range of disciplines represented in an art exhibition, then explains why curators included works in those disciplines."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "The text first summarizes the exhibition, then notes that borrowing works makes it atypical for the Nasher."
+  },
+  "6": {
+    "order": 6,
+    "stimulus": "The Heege Manuscript (HM) is a collection of booklets of once-unbound paper sheets on which Richard Heege copied various texts at his fifteenth-century home between Derbyshire and Nottinghamshire in England. <u>Most other contemporaneous personal manuscripts like the Findern Anthology (FA) consist primarily of pieces by celebrated medieval authors like Hoccleve and other readings favored by elites,</u> whereas the HM has a distinctive emphasis on the popular, including entertainments like crude comedies, and the practical, with advice about manners.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "To suggest that the FA is a poor point of comparison for a collection like the HM",
+      "B": "To emphasize the ubiquity of hand-copied collections like the FA and the HM in medieval England",
+      "C": "To provide context for the text's suggestion that the HM is an outlier among collections of its time",
+      "D": "To illustrate how the discussion of the HM earlier in the text can improve historians' understanding of the FA"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "The underlined portion describes typical elite-focused manuscripts to contrast with the HM's popular/practical focus."
+  },
+  "7": {
+    "order": 7,
+    "stimulus": "Text 1 is T.L. Hulme's 1912 poem \"Above the Dock.\" Text 2 is from Amy Lowell's 1912 poem \"The Crescent Moon.\"\n\nText 1\nAbove the quiet dock in mid night,\nTangled in the tall mast's corded height,\nHangs the moon. What seemed so far away\nIs but a child's balloon, forgotten after play.\n\nText 2\nSlipping softly through the sky\nLittle horned, happy moon,\nCan you hear me up so high?\nWill you come down soon?",
+    "text": "Which choice best describes a notable difference in how the speaker of Text 1 and the speaker of Text 2 portray the moon?",
+    "choices": {
+      "A": "While both speakers characterize the moon as an entrapped figure, only the speaker of Text 2 describes the moon as being content with this fate.",
+      "B": "While both speakers present the moon as a tangible object, only the speaker of Text 1 addresses the moon's beauty.",
+      "C": "While the speaker of Text 1 presents the moon as an object of play, the speaker of Text 2 presents the moon as an object of serious study.",
+      "D": "While the speaker of Text 1 presents the moon as seeming to be very close, the speaker of Text 2 emphasizes the moon's distance from the speaker."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Text 1 makes the moon seem close like a balloon; Text 2 stresses that it is 'up so high' and asks it to come down."
+  },
+  "8": {
+    "order": 8,
+    "stimulus": "Mauricio Drelichman and Hans-Joachim Voth's research into the debt defaults of Philip II (who ruled an empire including Spain and much of Belgium from 1556 to 1598) relates to other work on European early modern state finance, including Hoffman and Norberg's research on the relationship between state finance and political development. But Drelichman and Voth's unique contribution to the field is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, demonstrating in turn that Philip's defaults were caused by short-term cash shortages, not long-term unsustainable debts.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Analysis of the earliest available records of a sovereign state's finances can be found not in the work of Hoffman and Norberg but in that of Drelichman and Voth.",
+      "B": "Drelichman and Voth advanced the field of research on European early modern state finance by assembling a novel collection of evidence that gave them insight into Philip II's debt defaults.",
+      "C": "The research by Drelichman and Voth suggests that the logistics of ruling both Spain and much of Belgium led to short-term problems with cash that forced Philip II to default on his debts.",
+      "D": "Drelichman and Voth's research on Philip II's debt defaults builds on earlier work by Hoffman and Norberg, adding nuance to the earlier work's findings."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "The main claim is their unique reconstruction of fiscal records, which yielded insight into Philip II's defaults."
+  },
+  "9": {
+    "order": 9,
+    "stimulus": "The following text is adapted from William Shakespeare's 1597 play The Tragedy of King Richard III. Richard is reflecting on the recent arrest of his brother, the Duke of Clarence, on suspicion of treason against King Edward IV. Derby, Hastings, Buckingham, Rivers, Dorset, and Grey are also members of the English nobility.\n\nRICHARD: I do the wrong, and first begin to brawl.\nThe secret mischiefs that I set [flowing]\nI lay unto the grievous charge of others.\nClarence, whom I indeed have cast in darkness,\nI do beweep to many simple [gullible people],\nNamely, to Derby, Hastings, Buckingham;\nAnd tell them 'tis the Queen and her allies\nThat stir the King against the Duke my brother.\nNow they believe it, and withal whet me\nTo be revenged on Rivers, Dorset, Grey.",
+    "text": "Which choice best describes what happens in the text?",
+    "choices": {
+      "A": "Richard attributes Clarence's troubles to both his own secret plotting and the distrust of Clarence that the queen and her allies Derby, Hastings, and Buckingham have planted in the king's mind.",
+      "B": "Richard describes having wept as he informed Derby, Hastings, and Buckingham that the queen and her allies convinced the king to act against Clarence, and says that the earnestness of his grief caused them to accept his version of events.",
+      "C": "Richard acknowledges that his mischievous nature has spurred him to commit misdeeds in the past, including instigating enmity between the king and Clarence, but he reports that he has hitherto not lost the trust of the queen and her allies.",
+      "D": "Richard indicates that he has pretended to be aggrieved about Clarence's situation and has proclaimed it to be the fault of the queen and her allies, but in reality, he has caused the hostility the king feels toward Clarence."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Richard admits he cast Clarence in darkness while feigning grief and blaming the queen's allies."
+  },
+  "10": {
+    "order": 10,
+    "stimulus": "A student is writing a research paper on the global rise of the home video game industry during the 1970s and 1980s. The student is surprised by differences in the number of units sold by some systems compared to those sold by others. Most remarkably, the ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "MSX sold approximately 4,000,000 units, whereas the Intellivision sold only approximately 3,000,000 units.",
+      "B": "MSX sold approximately 18,600,000 units, whereas the Intellivision sold only approximately 2,000,000 units.",
+      "C": "Game & Watch sold approximately 4,000,000 units, whereas the ColecoVision sold only approximately 3,000,000 units.",
+      "D": "Game & Watch sold approximately 18,600,000 units, whereas the ColecoVision sold only approximately 2,000,000 units."
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/eng2-q10-table.svg",
+    "correctAnswer": "D",
+    "reason": "Game & Watch (18.6M) vs ColecoVision (2M) is the largest accurate contrast matching most remarkably."
+  },
+  "11": {
+    "order": 11,
+    "stimulus": "In what is now southern Florida, the Calusa people (circa 1000–1600 CE) supported their relatively large population's dietary needs with hydrological engineering rather than terrestrial farming methods. They constructed watercourts (gated coastal enclosures) out of shells and sediments to trap a variety of fish as waters rose and fell with tides and seasonal sea-level shifts; watercourt pools then held the fish for later consumption. Archaeologist Theresa Schober has posited an additional purpose of these enclosures, suggesting that they were intended to foster conch. She ties this hypothesis to the high value the sea snails would have had for the Calusa, both nutritionally and as a building material (conch shells are highly durable).",
+    "text": "Which finding, if true, would most directly weaken Schober's hypothesis?",
+    "choices": {
+      "A": "Samples of animal remains collected at Calusa sites reflect a greater diversity of marine species, particularly among sea snails, within the perimeter of watercourts than in locations known to have been devoted to the preparation and consumption of food.",
+      "B": "Historical population-size estimates suggest that the sea snails and fish most common in the Calusa diet were plentiful in open coastal waters when the watercourts were constructed but decreased in abundance in the years immediately after construction.",
+      "C": "Radar surveys of Calusa sites reveal watercourt dimensions suitable for sustaining fish of many local species but not conducive for maintaining the shallow environments with ample seagrasses that allow sea snails to thrive.",
+      "D": "Sediment layers excavated from Calusa watercourt sites contain heterogeneous mixtures of scales from multiple species of fish and fragments of shells from various types of sea snails, but conch shells do not constitute the majority of the mixture in most of those layers."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "If watercourts cannot sustain seagrass habitats conch need, that weakens the claim they were intended to foster conch."
+  },
+  "12": {
+    "order": 12,
+    "stimulus": "The mating environment hypothesis predicts that populations of flowering plants compensate for reduced mating opportunities due to dichogamy (a plant's expression of male and female functions at separate times to prevent self-pollination) by adjusting the bias of floral sex allocation during the flowering period, increasing the probability of successful cross-plant pollination. Researchers tested the hypothesis by examining a population of broadleaf arrowhead, a plant for which bloom onset generally takes longer for male flowers than for female flowers, during the flowering season. They concluded that the mating environment hypothesis is not well supported by their observational data.",
+    "text": "Which choice best describes data from the table that support the researchers' conclusion?",
+    "choices": {
+      "A": "Whereas the total number of open flowers per growth unit peaked on day 15, the proportion of male flowers experienced a peak earlier in the flowering season, on day 10.",
+      "B": "Despite the sharp reduction in the total number of open flowers per growth unit from day 15 to 20, there was no decline in the estimated reproductive success rate of male flowers in that interval.",
+      "C": "Sex allocations were largely evenly distributed on days 10 and 15 but were female biased on days 5 and 20.",
+      "D": "Although sex allocations became overwhelmingly female biased by day 20, male flowers' estimated reproductive success rate did not vary from day 5 to 20."
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/eng2-q12-table.svg",
+    "correctAnswer": "D",
+    "reason": "Sex allocation shifted heavily female by day 20 while male reproductive success stayed constant, undermining the compensation hypothesis."
+  },
+  "13": {
+    "order": 13,
+    "stimulus": "Although Grant Tavinor concludes that computer games are art by virtue of their forming a subcategory of fiction, and Berys Gaut similarly places them within the realm of cinema, neither approach adequately captures a central aspect of playing these games: when the player no longer attends to the narrative and is instead simply absorbed in the instrumentalities of gameplay. This is among the reasons philosopher C. Thi Nguyen contends that the work of computer-game designers is in what he calls the medium of player agency, which the designer prescribes through rules and goals, and which elicits positive aesthetic experiences in the player who agrees to adopt it. Therefore, Nguyen's position is that Tavinor's and Gaut's frameworks ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "are helpful starting points for studying computer games as art, even though these frameworks are overly simplistic.",
+      "B": "are useful for analyzing the narrative aspects of computer games, even if neither attempts to address player agency.",
+      "C": "overstate the influence of fiction and cinema on the narrative elements of computer games.",
+      "D": "subsume computer games under other categories of media that do not address a feature of games that is integral to player enjoyment."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Nguyen argues fiction/cinema frameworks miss player agency, a feature central to gameplay enjoyment."
+  },
+  "14": {
+    "order": 14,
+    "stimulus": "As observed in a 2011 study by Emilio García-Robledo and Alfonso Corzo, macroalgal proliferation may have a suppressive effect on the abundance of cyanobacteria and other microphytobenthos (MPB)—chlorophyll-producing microbes inhabiting marine sediment—in part by reducing the amount of sunlight available to MPB. Examining benthic chlorophyll concentrations (a widely used proxy for MPB biomass) in mudflats in Curlew Bay and other coastal sites in Virginia, Alice F. Besterman and Michael L. Pace found that those concentrations did not negatively correlate with macroalgal proliferation. However, they noted that MPB may respond to low-light conditions by producing higher-than-normal concentrations of chlorophyll, and they thus concluded that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "researchers ought to account for the possibility that because MPB have the capacity to compensate for reduced sunlight availability, benthic chlorophyll concentrations may not always be a reliable indicator of MPB biomass.",
+      "B": "although their finding was inconsistent with that of García-Robledo and Corzo, this discrepancy was not attributable to the ability of MPB to accelerate chlorophyll production to mitigate the negative impact of macroalgal accumulations.",
+      "C": "although elevated levels of macroalgae do not always correspond to increased levels of benthic chlorophyll, there is likely a larger trend in MPB biomass that is related to macroalgal presence but unrelated to light conditions.",
+      "D": "the effect of macroalgal concentrations on MPB abundance that García-Robledo and Corzo reported was not observed in Curlew Bay and other Virginia sites because low-light conditions likely are not generalizable across the sites in the studies."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "If MPB boost chlorophyll under low light, chlorophyll may not reliably track biomass when macroalgae reduce light."
+  },
+  "15": {
+    "order": 15,
+    "stimulus": "Neuroscientist Artin Arshamian and his team sought to determine what affects a person's perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Maniq people from a small community in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than diethyl disulfide, which smells like garlic. The team's study thus undermined the idea that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "a person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness.",
+      "B": "culture significantly influences whether a person perceives an odor as pleasant or unpleasant.",
+      "C": "personal taste has little influence on whether odors are perceived as pleasant or unpleasant.",
+      "D": "people agree in their perception of odors as pleasant or unpleasant regardless of where they live."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Cross-cultural agreement in odor ratings undermines the idea that culture strongly shapes pleasantness judgments."
+  },
+  "16": {
+    "order": 16,
+    "stimulus": "Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerngren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "levels of dissolved organic carbon and mercury are both much higher in bodies of fresh water impacted by wastewater than they are in bodies of fresh water disturbed by urban development.",
+      "B": "Guédron, Tisserand, and colleagues' study used different methods to measure the concentration of mercury in fresh water than Tjerngren and colleagues' study did.",
+      "C": "the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.",
+      "D": "disturbances linked to wastewater affect significantly more bodies of fresh water than disturbances linked to urban development do."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Urban disturbance preserved the association that wastewater disrupted, so wastewater effects are not general to all human disturbance."
+  },
+  "17": {
+    "order": 17,
+    "stimulus": "Branching in Jurisprudential Schools is one of the hundreds of thousands of manuscripts that have survived from roughly the sixteenth century to the present ______ being passed down through private libraries in the city of Timbuktu, Mali. Many of these manuscripts can be found at the Al-Wangari Manuscript Library.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "day by",
+      "B": "day; by",
+      "C": "day. By",
+      "D": "day by,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "present day by being passed down needs no pause; other choices create fragments or bad punctuation."
+  },
+  "18": {
+    "order": 18,
+    "stimulus": "The terms included in Barry Lopez and Debra Gwartney's Home Ground: A Guide to the American ______ such as \"karst,\" which refers to limestone terrain riddled with caves or sinkholes—illustrate the rich vocabulary used to describe the landforms of North America.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Landscape,",
+      "B": "Landscape:",
+      "C": "Landscape—",
+      "D": "Landscape"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "The parenthetical such as...sinkholes is closed with an em dash, so it needs a matching opening em dash after Landscape."
+  },
+  "19": {
+    "order": 19,
+    "stimulus": "Following the formation of the European Union (EU) that same year, the organizers of the 1992 Tour de France wanted the bike race to reflect the cross-national flow of people and trade that the EU had made possible. The resulting course was 2,500 miles long ______ seven separate borders of neighboring countries, modeled a vision of the EU's unifying aims.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "and, crossed",
+      "B": "and had crossed",
+      "C": "and crossed",
+      "D": "and, crossing"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "was ... long and, crossing ..., modeled pairs predicates with a comma-set participial phrase."
+  },
+  "20": {
+    "order": 20,
+    "stimulus": "As part of his I GOT UP series, Japanese conceptual artist On Kawara spent over a decade—with near daily consistency—mailing postcards to friends declaring what time he got up each day, resulting in pieces such as I Got Up at 7.19 A.M., Jun 6 1977. Such meticulous documentation of mundane ______ artworks that \"resonate with existential, psychological and scientific implications about the time-space continuum,\" according to the New York Times, became Kawara's life's work.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "information, has generated",
+      "B": "information generates",
+      "C": "information, generating",
+      "D": "information generated"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "documentation ... became is the main clause; generating introduces a nonrestrictive participial modifier."
+  },
+  "21": {
+    "order": 21,
+    "stimulus": "For her film I Am Somebody (1970), a documentary about a successful months-long strike held by Black female hospital workers in Charleston, South Carolina, director Madeline Anderson chose a narrator who had participated in the ______ by allowing the narrative to be shaped by one of their own, amplified the agency and power the workers possessed.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "protest a decision that,",
+      "B": "protest. A decision that",
+      "C": "protest; a decision that,",
+      "D": "protest, a decision that,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "protest, a decision that, sets off the appositive explaining how choosing that narrator amplified the workers' agency."
+  },
+  "22": {
+    "order": 22,
+    "stimulus": "At a time when many women writers used male pseudonyms to gain greater freedom of self-expression by evading gender conventions, Katherine Bradley and Edith Cooper adapted the practice by publishing poetry, prose, and drama for four decades under the shared name Michael Field. ______ the duo was able to express the joint creative vision that sustained their long personal and professional partnership.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In this way,",
+      "B": "For instance,",
+      "C": "Later,",
+      "D": "On the other hand,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "In this way links the shared-pseudonym method to the resulting ability to express a joint vision."
+  },
+  "23": {
+    "order": 23,
+    "stimulus": "In a 2005 study by Mellado et al., the researchers' aim was to analyze the diet composition of cattle in Coahuila, Mexico. ______ they aimed to analyze the ratio of three different plant subtypes within these animals' diet: graminoids, forbs, and browse.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Instead,",
+      "B": "All the same,",
+      "C": "Therefore,",
+      "D": "Specifically,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Specifically narrows the general diet-composition aim to the three plant subtypes."
+  },
+  "24": {
+    "order": 24,
+    "stimulus": "John Quincy Adams employed the pseudonym \"Marcellus\"—a reference to a leader of an ancient Roman army—in political essays he wrote in 1793, a choice that accomplished far more than simply concealing his authorship. ______ it wasn't an arbitrary pen name but rather a complex rhetorical strategy through which Adams aligned his political views with the venerated republican ideals of the ancient world, thereby bolstering the authority of his writing.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Conversely,",
+      "B": "In addition,",
+      "C": "However,",
+      "D": "Indeed,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Indeed intensifies the claim that the pen name did far more than conceal authorship."
+  },
+  "25": {
+    "order": 25,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n• Kale is a vegetable that contains ascorbic acid, an essential nutrient for humans.\n• Apricots are fruits that contain ascorbic acid.\n• There is 120 milligrams (mg) of ascorbic acid per every 100 grams (g) of kale.\n• There is 10 mg of ascorbic acid per every 100 g of apricot.\n• Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.\n• Ascorbic acid is also known as vitamin C.",
+    "text": "The student wants to refute a claim that apricots are a better source of vitamin C than kale is. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Kale contains vitamin C (also known as ascorbic acid); in fact, there is 120 mg of vitamin C in every 100 g of kale.",
+      "B": "Kale contains ascorbic acid (also known as vitamin C), and apricots do too.",
+      "C": "Humans cannot make ascorbic acid in their bodies, but they can get it from kale and apricots.",
+      "D": "With 120 mg of vitamin C per every 100 g, kale is actually a better source of vitamin C than apricots, which contain only 10 mg per every 100 g."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "D directly compares vitamin C amounts to refute the claim that apricots are the better source."
+  },
+  "26": {
+    "order": 26,
+    "stimulus": "Snow hydrologist Julie Koeberle helps maintain automated snow measurement stations.\n• They are called SNOTEL sites.\n• There are around 90 stations throughout Wyoming.\n• One is at Bear Trap Meadow.\n• The data collected can help researchers make downstream water supply predictions.",
+    "text": "Which choice most effectively uses information from the given sentences to provide an example of a SNOTEL site?",
+    "choices": {
+      "A": "The data collected by SNOTEL sites can help researchers predict downstream water supplies.",
+      "B": "The SNOTEL site at Bear Trap Meadow is one of around 90 automated snow measurement stations in Wyoming.",
+      "C": "Snow hydrologist Julie Koeberle helps maintain automated snow monitoring stations known as SNOTEL sites.",
+      "D": "Located throughout Wyoming, SNOTEL sites monitor snow conditions."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "B names Bear Trap Meadow as a concrete example of a SNOTEL site among Wyoming's stations."
+  },
+  "27": {
+    "order": 27,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n• The nautical mile (6,076 feet) is the measure of distance used in seafaring navigation.\n• A nautical mile directly correlates to one minute (1/60th of a degree) of latitude.\n• The curvature of Earth affects the accurate measurement of long distances when using flat maps.\n• Measuring distances with latitude and longitude coordinates takes into account Earth's curvature.\n• Mariners use nautical charts marked with latitude and longitude to quickly calculate distances and positions.",
+    "text": "The student wants to explain why nautical miles are used to measure distances in seafaring navigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Nautical miles are a measure of distance equal to one minute of latitude, which is a feature nautical charts use to calculate distances and positions.",
+      "B": "Nautical charts use latitude and longitude to measure long distances; these charts are more accurate than flat maps for measuring distances in seafaring navigation because they account for Earth's curvature.",
+      "C": "Since they directly correlate to the coordinates on nautical charts, which take into account Earth's curvature, nautical miles are an efficient way to calculate distances at sea.",
+      "D": "Using nautical miles for navigation at sea takes Earth's curvature into account, whereas measuring distances with latitude and longitude coordinates does not."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "C links nautical miles to chart coordinates and Earth's curvature, explaining why they suit seafaring distance measurement."
+  }
+}

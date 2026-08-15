@@ -1,0 +1,305 @@
+{
+  "1": {
+    "order": 1,
+    "page": 78,
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 19 - x. What is the value of g(4)?",
+    "choices": {
+      "A": "4",
+      "B": "15",
+      "C": "19",
+      "D": "23"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B"
+  },
+  "2": {
+    "order": 2,
+    "page": 79,
+    "stimulus": null,
+    "text": "Micah deposited a total of $6,600 into two retirement accounts last year by depositing x dollars once each month into one account and y dollars twice each month into the other account. Which equation represents this situation?",
+    "choices": {
+      "A": "6,600 = 12x + 12y",
+      "B": "6,600 = 12x + 24y",
+      "C": "6,600 = 24x + 12y",
+      "D": "6,600 = 24x + 24y"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B"
+  },
+  "3": {
+    "order": 3,
+    "page": 80,
+    "stimulus": null,
+    "text": "The measure of angle G is π/10 radians. If the measure of angle G is 9n degrees, where n is a constant, what is the value of n?",
+    "choices": {
+      "A": "2",
+      "B": "9",
+      "C": "10",
+      "D": "18"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A"
+  },
+  "4": {
+    "order": 4,
+    "page": 81,
+    "stimulus": null,
+    "text": "The ratio 6 to 3 is equivalent to the ratio 24 to 3k, where k is a constant. What is the value of k?",
+    "choices": {
+      "A": "0.75",
+      "B": "4",
+      "C": "12",
+      "D": "72"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B"
+  },
+  "5": {
+    "order": 5,
+    "page": 82,
+    "stimulus": null,
+    "text": "Which expression is equivalent to (8nr² + 2nr) + (4n²r + 3nr)?",
+    "choices": {
+      "A": "12n²r² + 5nr",
+      "B": "12n³r³ + 5n²r²",
+      "C": "32n³r³ + 6n²r²",
+      "D": "8nr² + 4n²r + 5nr"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D"
+  },
+  "6": {
+    "order": 6,
+    "page": 83,
+    "stimulus": "R = (0.43ℓ)/A",
+    "text": "The given equation relates the resistance R, in ohms, of a wire to its length ℓ, in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?",
+    "choices": {
+      "A": "ℓ = (R - A)/0.43",
+      "B": "ℓ = (R + A)/0.43",
+      "C": "ℓ = (0.43R)/A",
+      "D": "ℓ = AR/0.43"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D"
+  },
+  "7": {
+    "order": 7,
+    "page": 84,
+    "stimulus": null,
+    "text": "The graphs of y = -3x + 7 and y = x - 5 are shown. Point P (not shown) has coordinates (3, -5) and lies in the shaded region. The coordinates of P satisfy which of the following inequalities?\nI. y < -3x + 7\nII. y > x - 5",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/math2-q07-linear-inequalities.svg",
+    "figure": "Coordinate plane graph. x-axis from -6 to 10 (tick labels every 2 units: -6, -4, -2, 0, 2, 4, 6, 8, 10); y-axis from -6 to 8 (tick labels every 2 units: -6, -4, -2, 0, 2, 4, 6, 8). Light grid every 1 unit. Draw solid line y = -3x + 7 through (0, 7) and (3, -2). Draw solid line y = x - 5 through (0, -5), (3, -2), and (5, 0). Shade the region below both lines (intersection of y ≤ -3x + 7 and y ≤ x - 5) in medium gray (#cccccc). Mark intersection point (3, -2) with a small open dot. Axis labels x (right) and y (top). No watermark.",
+    "correctAnswer": "A"
+  },
+  "8": {
+    "order": 8,
+    "page": 85,
+    "stimulus": null,
+    "text": "There is a linear relationship between x and y. The table shows three values of x and their corresponding values of y in terms of a constant n. What is the slope of the line that represents this relationship in the xy-plane?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/math2-q08-xy-table.svg",
+    "figure": "Two-column table with headers x and y. Row 1: x = 0, y = n. Row 2: x = 5, y = n + 24. Row 3: x = 10, y = n + 48. Clean SAT-style table with thin black borders, centered in viewBox 240×120. No duplicate table in stimulus.",
+    "correctAnswer": "4.8"
+  },
+  "9": {
+    "order": 9,
+    "page": 86,
+    "stimulus": null,
+    "text": "If (1/2 x - 21/2)² - 81 = 0, what is the value of (x - 21)²?",
+    "choices": {
+      "A": "324",
+      "B": "162",
+      "C": "21",
+      "D": "9"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A"
+  },
+  "10": {
+    "order": 10,
+    "page": 87,
+    "stimulus": null,
+    "text": "Rectangles ABCD and EFGH are similar. The length of each side of EFGH is 6 times the length of the corresponding side of ABCD. The area of ABCD is 90 square units. What is the area, in square units, of EFGH?",
+    "choices": {
+      "A": "15",
+      "B": "36",
+      "C": "540",
+      "D": "3,240"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D"
+  },
+  "11": {
+    "order": 11,
+    "page": 88,
+    "stimulus": null,
+    "text": "On a plot of land, 48.0% of the square footage is farmland and the remaining square footage is pasture. There are buildings on exactly 23.5% of the square footage of the farmland, and there are buildings on exactly 16.0% of the square footage of the pasture. If there are buildings on exactly p% of the square footage of the plot of land, what is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "19.6"
+  },
+  "12": {
+    "order": 12,
+    "page": 89,
+    "stimulus": "The scatterplot shows data set A, which consists of the weights y, in pounds, of a Labrador retriever puppy at various ages, x, in months. The equation of a line of best fit for the relationship in data set A can be written as y = -5.1 + 8.7x, where 2 ≤ x ≤ 6.",
+    "text": "The puppy was weighed again at 9 months old and weighed 52 pounds. Data set B consists of all the data points in data set A as well as the data point (9, 52). The equation of a line of best fit for data set B can be written as y = r + sx, where r and s are constants and 2 ≤ x ≤ 9. Assuming the equations of the lines of best fit are calculated in the same way, which of the following is the best estimate for the value of s?",
+    "choices": {
+      "A": "5.9",
+      "B": "8.7",
+      "C": "13.8",
+      "D": "17.7"
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/math2-q12-puppy-scatter.svg",
+    "figure": "Scatterplot on coordinate plane. x-axis labeled x, from 0 to 10 (major ticks every 1 unit). y-axis labeled y, from 0 to 60 (major ticks every 10: 10, 20, 30, 40, 50, 60). Light grid. Plot 5 solid black circles at (2, 12), (3, 22), (4, 28), (5, 41), (6, 46). Do NOT plot (9, 52) — that point is described in the text only. viewBox ~280×220. No watermark.",
+    "correctAnswer": "A"
+  },
+  "13": {
+    "order": 13,
+    "page": 90,
+    "stimulus": null,
+    "text": "If |16 - 2x| = 58, which of the following is a value of 8 - x?",
+    "choices": {
+      "A": "0",
+      "B": "8",
+      "C": "29",
+      "D": "42"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C"
+  },
+  "14": {
+    "order": 14,
+    "page": 91,
+    "stimulus": null,
+    "text": "A book-of-the-month club charges $16 for the first book purchased during the month and an additional $11 for each book after the first. Which equation describes this situation, where y is the total cost, in dollars, for books purchased during a month, x is the number of books purchased during the month, and x > 0?",
+    "choices": {
+      "A": "y = x + 16",
+      "B": "y = 11x + 16",
+      "C": "y = 11(x - 1) + 16",
+      "D": "y = (x - 1) + 16"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C"
+  },
+  "15": {
+    "order": 15,
+    "page": 92,
+    "stimulus": null,
+    "text": "A company developed a plan to set the selling price of a product. The company determined that for a selling price of $120.00, zero products would be sold. For each $2.50 decrease in the selling price, the number of products sold would increase by one. For a revenue of exactly $1,437.50, which of the following could be the number of products sold? (revenue = price × number of products sold)",
+    "choices": {
+      "A": "23",
+      "B": "24",
+      "C": "527",
+      "D": "1,440"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A"
+  },
+  "16": {
+    "order": 16,
+    "page": 93,
+    "stimulus": null,
+    "text": "The equation of the graph shown is y = aˣ + b, where a and b are constants. What is the value of a - b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/math2-q16-exponential-graph.svg",
+    "figure": "Coordinate plane with grid. x-axis from -4 to 4 (labels at -4, -2, 0, 2, 4; grid every 1 unit). y-axis from -6 to 10 (labels at -6, -4, -2, 0, 2, 4, 6, 8, 10; grid every 2 units). Plot exponential curve y = 9ˣ - 2. Mark solid dots at y-intercept (0, -1) and point (1, 7). Draw dashed horizontal asymptote at y = -2. Curve rises steeply to the right, approaches y = -2 from above on the left. viewBox ~320×280. No watermark.",
+    "correctAnswer": "11"
+  },
+  "17": {
+    "order": 17,
+    "page": 94,
+    "stimulus": "y = 7x² - bx - 6",
+    "text": "Which of the following equations is equivalent to the given equation, where b is a positive constant?",
+    "choices": {
+      "A": "y = 7(x - b/14)² - 6 - b²/28",
+      "B": "y = 7(x - b/14)² - 6",
+      "C": "y = 7(x + b/14)² - 6 - b²/28",
+      "D": "y = 7(x + b/14)² - 6"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A"
+  },
+  "18": {
+    "order": 18,
+    "page": 95,
+    "stimulus": null,
+    "text": "The equation d = 6t + 210 gives the distance d, in feet, from a reference point on the surface of Mars to a Mars rover, where t is the number of minutes after the start of a period of observation. By how many feet does the Mars rover's distance from the reference point increase over a period of 20 minutes?",
+    "choices": {
+      "A": "330",
+      "B": "230",
+      "C": "120",
+      "D": "6"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C"
+  },
+  "19": {
+    "order": 19,
+    "page": 96,
+    "stimulus": null,
+    "text": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is (7x - 410)°. The sum of the measures of one of the acute angles and three of the obtuse angles is (-14x + w)°. What is the value of w?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "1360"
+  },
+  "20": {
+    "order": 20,
+    "page": 97,
+    "stimulus": "The table summarizes the distribution of age and assigned group for 90 participants in a study.",
+    "text": "One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least 10 years of age?",
+    "choices": {
+      "A": "1/6",
+      "B": "1/4",
+      "C": "11/30",
+      "D": "1/2"
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/math2-q20-age-group-table.svg",
+    "figure": "Five-column table. Column headers: blank (row label), 0–9 years, 10–19 years, 20+ years, Total. Row Group A: 15, 11, 4, 30. Row Group B: 4, 5, 21, 30. Row Group C: 11, 14, 5, 30. Row Total: 30, 30, 30, 90. Clean SAT-style borders, centered. viewBox ~360×160. No duplicate table in stimulus beyond the intro sentence.",
+    "correctAnswer": "B"
+  },
+  "21": {
+    "order": 21,
+    "page": 98,
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (2, 9). Line t is tangent to this circle at the point (a, -4), where a is a constant. The slope of line t is 6/5. What is the value of a?",
+    "choices": {
+      "A": "-68/5",
+      "B": "-53/6",
+      "C": "77/6",
+      "D": "88/5"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D"
+  }
+}

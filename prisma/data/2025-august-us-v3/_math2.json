@@ -1,0 +1,429 @@
+{
+  "1": {
+    "order": 1,
+    "page": 76,
+    "stimulus": null,
+    "text": "In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?\n\n-x² + bx - 49 = 0?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "-13",
+    "showWork": "Rewrite as x² − bx + 49 = 0. Discriminant b² − 196 < 0 ⇒ |b| < 14. Least integer: −13."
+  },
+  "2": {
+    "order": 2,
+    "page": 77,
+    "stimulus": null,
+    "text": "To win a game show, a contestant needs to score at least 80 total points from two rounds. Correct responses in the first round are worth 4 points each, and correct responses in the second round are worth 5 points each. Which inequality models this situation, where f is the number of correct responses in the first round and s is the number of correct responses in the second round?",
+    "choices": {
+      "A": "f + s ≤ 80",
+      "B": "4f + 5s ≥ 80",
+      "C": "5f + s ≥ 80",
+      "D": "5f + 4s ≤ 80"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Points: 4f + 5s; at least 80 means ≥ 80."
+  },
+  "3": {
+    "order": 3,
+    "page": 78,
+    "stimulus": null,
+    "text": "In 2010, a skating team had a total of 35 skaters, each classified as either advanced or intermediate. From 2010 to 2020, the number of advanced skaters on the team increased by approximately 39%, and the number of intermediate skaters on the team increased by approximately 47%. The total number of skaters on the team increased by approximately 43%. Which equation best represents this situation, where a represents the number of advanced skaters on the team in 2010 and b represents the number of intermediate skaters on the team in 2010?",
+    "choices": {
+      "A": "1.47a + 1.39b = 35(1.43)",
+      "B": "1.39a + 1.47b = 35(1.43)",
+      "C": "1.43a + 0.39b = 35(1.47)",
+      "D": "1.39a + 1.43b = 35(1.47)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "New totals: 1.39a + 1.47b equals original total grown by 43%: 35(1.43)."
+  },
+  "4": {
+    "order": 4,
+    "page": 79,
+    "stimulus": null,
+    "text": "For the linear function g, the table shows four values of x and their corresponding values of g(x). The function can be written as g(x) = mx + b, where m and b are constants. What is the value of b?",
+    "choices": {
+      "A": "3",
+      "B": "26",
+      "C": "52",
+      "D": "55"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q04-gx-table.svg",
+    "figure": "Table: x | g(x): 1→52, 2→49, 3→46, 4→43",
+    "correctAnswer": "D",
+    "showWork": "Slope m = −3; g(x) = −3x + 55 ⇒ b = 55."
+  },
+  "5": {
+    "order": 5,
+    "page": 80,
+    "stimulus": null,
+    "text": "The given function h represents the area, in square inches, of a triangle with a base of x inches and a fixed height. What is the height, in inches, of the triangle?\n\nh(x) = (1/2)(x)(99)?",
+    "choices": {
+      "A": "1/99",
+      "B": "99/2",
+      "C": "99",
+      "D": "198"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Area = (1/2)·base·height = (1/2)(x)(99) ⇒ height = 99."
+  },
+  "6": {
+    "order": 6,
+    "page": 81,
+    "stimulus": null,
+    "text": "The graphs of the equations in the given system intersect at the point (x, y) in the xy-plane. What is a possible value of y?\n\ny - x = 40\ny = x² - 38x?",
+    "choices": {
+      "A": "40",
+      "B": "41",
+      "C": "79",
+      "D": "80"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "x² − 39x − 40 = 0 ⇒ (x − 40)(x + 1) = 0; y = 80 or 39. Possible: 80."
+  },
+  "7": {
+    "order": 7,
+    "page": 82,
+    "stimulus": null,
+    "text": "What is the solution to the given equation?\n\n√w + 22 = 32?",
+    "choices": {
+      "A": "100",
+      "B": "20",
+      "C": "5",
+      "D": "2"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "√w = 10 ⇒ w = 100."
+  },
+  "8": {
+    "order": 8,
+    "page": 83,
+    "stimulus": null,
+    "text": "Which expression is equivalent to (x³ + 4x² - 4x) + 7(x² + 8)?",
+    "choices": {
+      "A": "x³ + 7x² - 4x + 56",
+      "B": "x³ + 4x² - 4x + 56",
+      "C": "x³ + 11x² - 4x + 56",
+      "D": "x³ + 8x² - 4x + 56"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Distribute: x³ + 4x² − 4x + 7x² + 56 = x³ + 11x² − 4x + 56."
+  },
+  "9": {
+    "order": 9,
+    "page": 84,
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 19 - 3x. What is the value of g(0)?",
+    "choices": {
+      "A": "0",
+      "B": "3",
+      "C": "16",
+      "D": "19"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "g(0) = 19."
+  },
+  "10": {
+    "order": 10,
+    "page": 85,
+    "stimulus": null,
+    "text": "The list gives the mass, in grams, of 5 ruffed lemurs.\n3,910; 3,910; 3,430; 3,950; 3,450\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "3730",
+    "showWork": "Sum = 18,650; mean = 18,650/5 = 3,730."
+  },
+  "11": {
+    "order": 11,
+    "page": 86,
+    "stimulus": null,
+    "text": "A model predicts that a certain elephant calf weighed 249 pounds when it was born and that the calf gained 2 pounds per day in its first year of life. This model is defined by an equation in the form f(x) = a + bx, where f(x) is the predicted weight, in pounds, of the elephant calf x days after it was born, and a and b are constants. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "249",
+    "showWork": "Birth weight is the intercept a = 249."
+  },
+  "12": {
+    "order": 12,
+    "page": 87,
+    "stimulus": null,
+    "text": "In the right triangle shown, what is the value of sin x°?",
+    "choices": {
+      "A": "116/63",
+      "B": "53/63",
+      "C": "10/63",
+      "D": "1/63"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q12-right-triangle.svg",
+    "figure": "Right triangle: right angle bottom-left; angle x° at top; opposite side 53; hypotenuse 63. Note: Figure not drawn to scale.",
+    "correctAnswer": "B",
+    "showWork": "sin x° = opposite/hypotenuse = 53/63."
+  },
+  "13": {
+    "order": 13,
+    "page": 88,
+    "stimulus": null,
+    "text": "If 34 + 8(x + 3) = 7(x + 3) - 34, what is the value of x + 3?",
+    "choices": {
+      "A": "68",
+      "B": "34",
+      "C": "0",
+      "D": "-68"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Let u = x + 3: 34 + 8u = 7u − 34 ⇒ u = −68."
+  },
+  "14": {
+    "order": 14,
+    "page": 89,
+    "stimulus": null,
+    "text": "In the given equation, c is a constant. A solution to the equation is k + 7√2, where k is an integer. What is the value of c?\n\nx(x - 18) = c?",
+    "choices": {
+      "A": "98",
+      "B": "17",
+      "C": "9",
+      "D": "-67"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "x = 9 ± √(81 + c). Match 9 + 7√2 ⇒ 81 + c = 98 ⇒ c = 17."
+  },
+  "15": {
+    "order": 15,
+    "page": 90,
+    "stimulus": null,
+    "text": "An equation of the graph shown is y = -(1/4)(x - p)² + 4, where p is an integer constant. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q15-parabola.svg",
+    "figure": "Downward parabola vertex (8,4); x-intercepts at 4 and 12; axes x: 0–16, y: 0–10",
+    "correctAnswer": "8",
+    "showWork": "Vertex form: vertex at (p, 4); graph peaks at x = 8 ⇒ p = 8."
+  },
+  "16": {
+    "order": 16,
+    "page": 91,
+    "stimulus": null,
+    "text": "For two acute angles A and B, cos A - sin B = 0. The measure of angle A is x degrees, where 8x - 13 = 321. What is the measure of angle B, in degrees?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "48.25",
+    "showWork": "8x = 334 ⇒ x = 41.75. cos A = sin B ⇒ B = 90 − A = 48.25."
+  },
+  "17": {
+    "order": 17,
+    "page": 92,
+    "stimulus": null,
+    "text": "The point (0, 0) lies on a circle in the xy-plane. An equation of this circle is x² + (y + 6)² = p + 3, where p is a positive constant. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "33",
+    "showWork": "0 + 36 = p + 3 ⇒ p = 33."
+  },
+  "18": {
+    "order": 18,
+    "page": 93,
+    "stimulus": null,
+    "text": "The given equation relates the positive numbers x, y, and z. Which equation correctly expresses z in terms of x and y?\n\ny = 4z / (x + 7)",
+    "choices": {
+      "A": "z = xy/4",
+      "B": "z = (x + 7)/(4y)",
+      "C": "z = 4y/(x + 7)",
+      "D": "z = (x + 7)y/4"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "y(x + 7) = 4z ⇒ z = (x + 7)y/4."
+  },
+  "19": {
+    "order": 19,
+    "page": 94,
+    "stimulus": null,
+    "text": "△QPR is similar to △STR. The lengths represented by ST, QP, PR, and QR in the figure are 10, 16, 30, and 34, respectively. What is the length of SR?",
+    "choices": {
+      "A": "340/16",
+      "B": "340/30",
+      "C": "160/30",
+      "D": "160/34"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q19-similar-triangles.svg",
+    "figure": "Two right triangles on a line PRT: △QPR right at P with ∠R = x°; △STR right at T with ∠R = x°. Note: Figure not drawn to scale.",
+    "correctAnswer": "A",
+    "showWork": "Corresponding sides: SR/QR = ST/QP ⇒ SR = 34·(10/16) = 340/16."
+  },
+  "20": {
+    "order": 20,
+    "page": 95,
+    "stimulus": null,
+    "text": "The function f(t) = 80,000(2)^(t/490) gives the number of bacteria in a population t minutes after an initial observation. How much time, in minutes, does it take for the number of bacteria in the population to double?",
+    "choices": {
+      "A": "2",
+      "B": "490",
+      "C": "980",
+      "D": "80,000"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Doubles when exponent = 1: t/490 = 1 ⇒ t = 490."
+  },
+  "21": {
+    "order": 21,
+    "page": 96,
+    "stimulus": null,
+    "text": "The function h is defined by h(x) = ax + b, where a and b are constants. If h(3) = 21 and h(5) = 25, what is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "15",
+    "showWork": "3a + b = 21, 5a + b = 25 ⇒ a = 2, b = 15."
+  },
+  "22": {
+    "order": 22,
+    "page": 97,
+    "stimulus": null,
+    "text": "In the xy-plane, which of the following does NOT contain any points (x, y) that are solutions to the inequality -5x < 70y - 75?",
+    "choices": {
+      "A": "The region where x < 0 and y > 0",
+      "B": "The region where x < 0 and y < 0",
+      "C": "The region where x > 0 and y > 0",
+      "D": "The region where x > 0 and y < 0"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "y > (−x + 15)/14. For x < 0, RHS > 15/14 > 0, so no solutions with y < 0."
+  },
+  "23": {
+    "order": 23,
+    "page": 98,
+    "stimulus": null,
+    "text": "In the figure, a hollow steel pipe is in the shape of a right circular cylinder. The steel pipe has an outside diameter of 48 inches, a wall thickness of 3/8 inches, and a height of 138 inches. Which of the following is closest to the volume, in cubic inches, of the wall of this steel pipe?",
+    "choices": {
+      "A": "61",
+      "B": "325",
+      "C": "1,242",
+      "D": "7,743"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q23-hollow-pipe.svg",
+    "figure": "Hollow right circular cylinder (pipe) with labels: outside diameter, wall thickness, height. Note: Figure not drawn to scale.",
+    "correctAnswer": "D",
+    "showWork": "Outer r = 24; inner r = 24 − 3/8 = 95/4. V ≈ π(24² − (95/4)²)(138) ≈ 7,743."
+  },
+  "24": {
+    "order": 24,
+    "page": 99,
+    "stimulus": null,
+    "text": "Which quadratic equation has no real solutions?",
+    "choices": {
+      "A": "x² + 24x - 144 = 0",
+      "B": "x² - 24x + 144 = 0",
+      "C": "7x² - 24x - 144 = 0",
+      "D": "7x² - 24x + 144 = 0"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Discriminant of D: 576 − 4(7)(144) = 576 − 4032 < 0."
+  },
+  "25": {
+    "order": 25,
+    "page": 100,
+    "stimulus": null,
+    "text": "The function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1, 9) and passes through the points (2, 32) and (-1, 101). What is the value of f(-2) - f(0)?",
+    "choices": {
+      "A": "78",
+      "B": "124",
+      "C": "184",
+      "D": "216"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "f(x) = 23(x − 1)² + 9; f(−2) − f(0) = 216 − 32 = 184."
+  },
+  "26": {
+    "order": 26,
+    "page": 101,
+    "stimulus": null,
+    "text": "The graph of the function f is shown, where y = f(x). What is the value of f(0)?",
+    "choices": {
+      "A": "-7",
+      "B": "-5",
+      "C": "5",
+      "D": "7"
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q26-w-graph.svg",
+    "figure": "W-shaped curve; local minima near (−5,2) and (5,2); y-intercept at (0,7); x from −10 to 10, y from 0 to 12",
+    "correctAnswer": "D",
+    "showWork": "Graph crosses y-axis at 7."
+  },
+  "27": {
+    "order": 27,
+    "page": 102,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 15x + 60. What is the value of f(x) when x = 2?",
+    "choices": {
+      "A": "30",
+      "B": "77",
+      "C": "90",
+      "D": "150"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "f(2) = 30 + 60 = 90."
+  },
+  "28": {
+    "order": 28,
+    "page": 103,
+    "stimulus": null,
+    "text": "The frequency tables represent data sets A and B, where c is a negative integer constant. The mean of data set A is r and the mean of data set B is q. What is the value of r/q?",
+    "choices": {
+      "A": "-4/3",
+      "B": "1",
+      "C": "4/3",
+      "D": "There is not enough information to determine the value of r/q."
+    },
+    "imageUrl": "/mocks/2025-august-us-v3/figures/math2-q28-frequency-tables.svg",
+    "figure": "Two frequency tables Data Set A and Data Set B with values c, 2c, 3c and frequencies 12/21/30 and 30/21/12",
+    "correctAnswer": "C",
+    "showWork": "r = 144c/63, q = 108c/63 ⇒ r/q = 4/3."
+  }
+}

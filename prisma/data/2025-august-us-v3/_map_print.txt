@@ -1,0 +1,103 @@
+﻿001 bank=52 ---- The unique subak water management system used to irrigate the rice paddy fields | of the Indonesian 
+002 bank=53 ---- The mihrab (or niche) is one of many features that are foundational to traditional | mosque architec
+003 bank=54 ---- The Egyptian plover-a bird native to Africa-has a symbiotic relationship with the | Nile crocodile. 
+004 bank=55 ---- Until 1917, there was no formal measure in the United States Senate that could be | _ to end a debat
+005 bank=None ---- The following text is adapted from Akwaeke Emezi's 2019 novel Pet. Jam is a | teenager who lives wit
+006 bank=57 ---- In 2011 Ingrid L. Cripps and colleagues published a study concluding that ocean | acidification has 
+007 bank=58 ---- Habitat navigation is a skillthat helps animals reach food or safety. To test how | navigation works
+008 bank=59 ---- Examples of Hoards found in Ireland and Northern Ireland | 59 | Which choice most effectively uses d
+009 bank=18 ---- Number | of | sharks | 18 | 16 | 14
+010 bank=61 ---- Olms are salamanders that live in underwater caves. Scientists once thought that | olms stay in thei
+011 bank=None ---- High-reward flowers that produce nectar with relatively high sugar concentrations | are thought to b
+012 bank=62 ---- Twinflower (Linnaea borealis) plants are native to Alaska, where harsh conditions | have historicall
+013 bank=63 ---- Eastern Ohio's Monroe County is among the most rural counties in the United | States: the US Census 
+014 bank=75 ---- The glossy ibis and the little blue heron are long-legged birds that live in wetlands, | like the Ev
+015 bank=20 ---- In the periodic table, an element's atomic number indicates how many protons | there are in an atom 
+016 bank=65 ---- Yvonne Adhiambo Owuor, born in 1968, is a novelist from Nairobi, Kenya. In recent | years more write
+017 bank=66 ---- The Hereford map is a mappa mundi from the fourteenth century. Currently held | at Hereford Cathedra
+018 bank=67 ---- The African baobab (Adansonia digitata) known as Panke Baobab, located in | Zimbabwe, was one of the
+019 bank=76 ---- Topographical prominence is a measure of a mountain's independence from other | mountains. Having 9,
+020 bank=68 ---- The radial velocity method, a means of indirect planetary discovery, has detected | previously unkno
+021 bank=69 ---- L. Leann Kanda, a researcher and sewing enthusiast, experimented with several | techniques in her at
+022 bank=78 ---- On February 1, 2018, a Florida-based research team-Martha A. Scholl, Maoya | Bassiouni, and Angel J.
+023 bank=70 ---- While studying jor? spiders, a large species originally from East Asia, University of | Georgia rese
+024 bank=71 ---- Some bands choose a name that's as unique as possible to distinguish themselves | from other bands. 
+025 bank=72 ---- Portuguese researcher Isabel C.F.R. Ferreira reports that the cinnamic acid in | termite mushrooms b
+026 bank=73 ---- The Eloi are not real: they are fictional creatures that feature in H.G. Wells's | acclaimed science
+027 bank=74 ---- While researching a topic, a student has taken the following notes: | Claude McKay (1890-1948) was a
+028 bank=None RW2 *** RW2 *** Section 1, Module 2: Reading and Writing | hard | A- A+ 21:19:23 | Because blue holes (such as the L
+029 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:19:28 | Run by researchers in Australia, 
+030 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | Disproportionate emphasis on instances of inventio
+031 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:19:39 | Paleontologists think that Tyrann
+032 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ | 21:19:45 | The Museum of Modern Art (MOMA)
+033 bank=27 RW2 Section 1, Module 2: Reading and Writing | hard | Several sociologists have observed that the word "
+034 bank=272 RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:19:56 | Text 1 | The land that became Gra
+035 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:20:01 | Radam?s Cordero et al. have confi
+036 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ | 21:20:06 | Uncle Vanya: Scenes from Countr
+037 bank=1994 RW2 Section 1, Module 2: Reading and Writing | hard | A+ | 21:20:12 | Highest-Grossing Films in a Langua
+038 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | "The Monster" is an 1898 story by Stephen Crane. I
+039 bank=27 RW2 Section 1, Module 2: Reading and Writing | hard | In 2008, the US state of Hawaii enacted rate stabi
+040 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | Saeed M.Z.A. Tarabieh conducted a study of consume
+041 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:20:33 | Trade with neighboring civilizati
+042 bank=280 RW2 Section 1, Module 2: Reading and Writing | hard | Released in 1987, the Acorn ARM2 microchip contain
+043 bank=28 RW2 Section 1, Module 2: Reading and Writing | hard | In a 2018 study, Ceri Shipton et al. concluded tha
+044 bank=26 RW2 Section 1, Module 2: Reading and Writing | hard | In a chemical equation, converting between the mas
+045 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:20:50 | Writer Silvia Moreno-Garcia's lov
+046 bank=283 RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:20:56 | Conceiving of a communal gatherin
+047 bank=28 RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:21:02 | Among the small magazines animati
+048 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | In contrast to first-past-the-post electoral proce
+049 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | Voxel modeling and kitbashing approaches to three-
+050 bank=None RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:21:19 | Srivijaya, a Buddhist sea power b
+051 bank=288 RW2 Section 1, Module 2: Reading and Writing | hard | A- A+ 21:21:24 | While researching a topic, a stud
+052 bank=60 ---- 60 | 3x = 18y -45 | One of the two equations in a system of linear equations is given. The system ha
+053 bank=602 ---- 602 | In the xy-plane, lines k and j are perpendicular and intersect at the point (5, 26). Line j pa
+054 bank=603 ---- 603 | In 2010, a skating team had a total of 34 skaters, each classified as either advanced or inter
+055 bank=604 ---- 604 | For a survey, a sample of 562 people was selected at random from all registered voters in a co
+056 bank=None ---- 609 xg(x) | 1 34 | 2 27 | 3 20 | 4 13 | For the linear function g, the table shows four values of
+057 bank=600 ---- 600 | h(x) = (2) (83) | The given function h represents the area, in square inches, of a triangle wi
+058 bank=607 ---- 607 | y-x=16 | y=x2-14x | The graphs of the equations in the given system intersect at the point (x,
+059 bank=29 ---- 608 An object travels | inches in y seconds. At this rate, which expression represents the time, in 
+060 bank=None ---- The function g is defined by g(x) = 27 - .What is the value of g(3)? | A. 3 | B. 24 | C. 27 | D. 30 
+061 bank=610 ---- 610 | Micah deposited a total of $3,600 into two retirement accounts last year by depositing | dolla
+062 bank=61 ---- 61 | The ratio 10 to 3 ?s equivalent to the ratio 40 to 3k, where k is a constant. What is the value
+063 bank=None ---- Which expression is equivalent to (3nr? + 6nr) + (4n2r + 2nr)? | A. 7n?2+8nr | B. 7n?3+8n22 | C. 12n
+064 bank=613 ---- 613 | R 0.45 | A | The given equation relates the resistance R, in ohms, of a wire to its length e, 
+065 bank=614 ---- 614 | y | 614-2 | 4 | 2- | -X
+066 bank=None ---- 615 If (?)- 81 = 0, what is the value of (2 - 23)? | A. 324 | B. 162 | C. 23 | D. 9 | https://t.me/d
+067 bank=None ---- 616 Rectangles ABCD and EFGH are similar. The length of each side of EFGH is 7 times the length of t
+068 bank=617 ---- 617 | On a plot of land, 48.0% of the square footage is farmland and the remaining square footage is
+069 bank=60 ---- 618 The scatterplot shows data set A, which consists of the weights y, in pounds, of a Labrador retr
+070 bank=None ---- 619 A book-of-the-month club charges $17 for the first book purchased during the month and an additi
+071 bank=None ---- 620 A company developed a plan to set the selling price of a product. The company determined that fo
+072 bank=62 ---- 62 | -10- | -8- | -6- | 12 | 4-
+073 bank=62 ---- 62 | y=4x?-bx-5 | Which of the following equations is equivalent to the given equation, where b is a
+074 bank=62 ---- 62 | The equation d = 6t +270 gives the distance d, in feet, from areference point on the surface of
+075 bank=1840 ---- 624 A line intersects two parallel lines, forming four acute angles and four obtuse angles. The meas
+076 bank=629 ---- 629 | -13 | -x2+bx-49=0 | In the given equation, b is an integer. The equation has no real solutions
+077 bank=620 ---- 620 | To win a game show, a contestant needs to score at least 80 total points from two rounds. Corr
+078 bank=627 ---- 627 | In 2010, a skating team had a total of 35 skaters, each classified as either advanced or inter
+079 bank=None ---- 628 xg(x) | 1 52 | 2 49 | 3 46 | 4 43 | For the linear function g, the table shows four values of
+080 bank=629 ---- 629 | h(x) = (x) (99) | The given function h represents the area, in square inches, of a triangle wi
+081 bank=630 ---- 630 | y-x=40 | y= x2-38x | The graphs of the equations in the given system intersect at the point (x
+082 bank=378 ---- 378 | ?w+22=32 | What is the solution to the given equation? | A. 100 | ?. 20 | C. 5
+083 bank=379 ---- 379 | Which expression is equivalent to (x?+4x2-4x) +7(x2+8)? | A. 23+7x2-4x+56 | B. x?+4x2-4x+56 | 
+084 bank=None ---- 380 The function g is defined by g(x) = 19- 3x. What is the value of g(0)? | A. 0 | B. 3 | C. 16 | D
+085 bank=381 ---- 381 | The list gives the mass, in grams, of 5 ruffed lemurs. | 3,910; 3,910; 3,430; 3,950; 3,450 | W
+086 bank=382 ---- 382 | 249 | A model predicts that a certain elephant calf weighed 249 pounds when it was born and th
+087 bank=383 ---- 383 | x | 63 | 53 | Note: Figure not drawn to scale. | In the right triangle shown, what is the valu
+088 bank=None ---- 384 If 34+8(x+3) =7(x+3) -34, what is the value of x +3? | A. 68 | B. 34 | C. 0 | D. -68 | https://t
+089 bank=389 ---- 389 | x(x -18) = c | In the given equation, c is a constant. A solution to the equation is k+7?2, wh
+090 bank=386 ---- 386 | 10 | 8 | 8 | 6 | 4-
+091 bank=387 ---- 387 | For two acute angles A and B, cos A - sin B = 0. The measure of angle A is | degrees, where | 
+092 bank=388 ---- 388 | 33 | The point (0,0) lies on a circle in the xy-plane. An equation of this circle is x?+ (y+6)
+093 bank=389 ---- 389 | 4z | The given equation relates the positive numbers x, y, and z.Which equation correctly expr
+094 bank=340 ---- 390 Q | P | S | R | jo | ?
+095 bank=None ---- 391 The function f(t) = 80,000(2) gives the number of bacteria in a population t minutes after an in
+096 bank=392 ---- 392 | 15 | The function h is defined by h(x) = ax + b, where a and b are constants. If h(3) = 21 and
+097 bank=393 ---- 393 | In the xy-plane, which of the following does NOT contain any points (x, y) that are solutions 
+098 bank=39 ---- 39 | outside | diameter | wall thickness | height | Note: Figure not drawn to scale.
+099 bank=None ---- 394 Which quadratic equation has no real solutions? | A. x2 +24x-144= | ?. x2-24x +144 = 0 | ?. 722-
+100 bank=None ---- 396 The function ? is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (
+101 bank=39 ---- 39 | 12- | 10- | -8 | -4- | -2-
+102 bank=None ---- 398 The function f is defined by f(x) = 15x +60. What is the value of f(x) when x =2? | A. 30 | ?. 7
+103 bank=399 ---- 399 | Data Set A | Value Frequency | C | 12 | 2c

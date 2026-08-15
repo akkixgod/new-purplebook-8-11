@@ -1,0 +1,407 @@
+{
+  "1": {
+    "order": 1,
+    "stimulus": "The chili pepper was domesticated in Mexico. It differs physically from the wild plant it is descended from. In terms of physical structure, summer squash also differs from its wild ancestor. Summer squash is known for its soft rind and mild-tasting flesh. Yet its ancestor, the wild Johnny gourd, ______ a hard rind and bitter flesh.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "assists",
+      "B": "refuses",
+      "C": "requests",
+      "D": "possesses"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 1,
+    "reason": "The wild ancestor has a hard rind and bitter flesh, so “possesses” fits."
+  },
+  "2": {
+    "order": 2,
+    "stimulus": "The Apollo Moon landings (1969-1972) brought radiation detectors and lunar dust detectors to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Philip Metzger, who is investigating the long-term effects of being on the Moon.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "amend",
+      "B": "improve",
+      "C": "simplify",
+      "D": "salvage"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 1,
+    "reason": "Data on obsolete media must be recovered/saved, so “salvage” fits."
+  },
+  "3": {
+    "order": 3,
+    "stimulus": "New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are ______, the effect on blood chemistry of living in locations below sea level, such as the California towns of Niland and Imperial, has received comparatively little notice.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "equivocal",
+      "B": "copious",
+      "C": "sporadic",
+      "D": "preliminary"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 2,
+    "reason": "Contrast with “comparatively little notice” implies high-altitude studies are plentiful (“copious”)."
+  },
+  "4": {
+    "order": 4,
+    "stimulus": "In the architectural process called modular construction, a building is manufactured in modules under controlled conditions and then assembled at its intended location. ______ of this approach cite fewer weather delays and a greater potential for reuse and recycling.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "Proponents",
+      "B": "Components",
+      "C": "Epitomes",
+      "D": "Safeguards"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 2,
+    "reason": "Those who cite advantages of the approach are its proponents."
+  },
+  "5": {
+    "order": 5,
+    "stimulus": "Land art, or earth art, is characterized by its large scale and the fact that it’s often placed in remote or surprising locations. Land art is also notable for the wildly diverse ways in which it is created: Robert Smithson’s Spiral Jetty, for instance, was created by arranging rocks in a large spiral in Utah’s Great Salt Lake, whereas for Circular Surface Planar Displacement Drawing, Michael Heizer made lines in a desert lake bed by driving a motorcycle in certain patterns.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "The text outlines a common misconception about a kind of art, then offers an explanation for why that misconception persists.",
+      "B": "The text compares two works of art, then provides details about the lives of the artists who created them.",
+      "C": "The text conveys a definition of a kind of art, then addresses a well-established criticism of the art.",
+      "D": "The text describes a particular genre of art, then cites examples illustrating an important characteristic of that genre."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 3,
+    "reason": "Defines/describes land art, then gives examples of diverse creation methods."
+  },
+  "6": {
+    "order": 6,
+    "stimulus": "Fossil evidence indicates that the End-Triassic mass extinction-the relatively sudden die-off of about 80 percent of species (including many species of dinosaurs)-occurred approximately 201 million years ago. Researchers have identified the effects of volcanic activity as a possible initial cause of this mass extinction. But mass extinctions, <u>while abrupt in geological terms</u>, unfold over thousands or millions of years: it’s likely that multiple factors drove extensive species loss.",
+    "text": "Which choice best states the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It expands on the uncertainty mentioned earlier regarding the pace of extinction of species of dinosaurs relative to that of other species.",
+      "B": "It offers support for an earlier claim about the primary cause of a mass extinction that is then qualified by the information that follows.",
+      "C": "It emphasizes that a question about the beginning of a mass extinction raised by the researchers mentioned earlier is still unresolved.",
+      "D": "It concedes that the pace of mass extinctions as described in the information that follows is perceived differently when considered from another point of view."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 3,
+    "reason": "The underline concedes extinctions look abrupt geologically even though they unfold over long periods."
+  },
+  "7": {
+    "order": 7,
+    "stimulus": "Dust aboard the International Space Station (ISS) contains many microbes common in dust on Earth, and scientists found that the levels of Aspergillus sydowii fungal spores and Lactobacillus helveticus bacteria in ISS dust were not concerning when relative humidity (RH) was kept within the ISS’s standard range (25%-75%). When exposed to constant RH of 85% and above (which can happen where handwashing occurs), however, these microbial populations expanded rapidly.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To describe an effect of RH on the growth of one fungal species and one bacterial species in ISS dust",
+      "B": "To explain why RH on the ISS can reach levels high enough to promote bacterial and fungal growth",
+      "C": "To outline the methods the ISS crew uses to monitor RH levels and microbial growth aboard the ISS",
+      "D": "To demonstrate that A. sydowii and L. helveticus respond differently to elevated RH conditions aboard the ISS than they do on Earth"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 5,
+    "reason": "The passage reports how RH affects growth of those two microbes in ISS dust."
+  },
+  "8": {
+    "order": 8,
+    "stimulus": "The following text is from Yung Wing’s 1909 memoir My Life in China and America.\n\nWe landed in New York on the 12th of April, 1847, after a passage of ninety-eight days of unprecedented fair weather. The New York of 1847 was altogether a different city from the New York of 1909. It was a city of only 250,000 or 300,000 inhabitants; now it is a metropolis rivaling London in population, wealth and commerce. The whole of Manhattan Island is turned into a city of skyscrapers, churches and palatial residences.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "The journey to New York City was extremely demanding for Yung.",
+      "B": "New York City has become more developed and populated since Yung’s arrival in 1847.",
+      "C": "The architecture in New York City is more beautiful than that in London.",
+      "D": "Yung has experienced significant personal growth in the time since his arrival to New York City in 1847."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 5,
+    "reason": "The contrast between 1847 and 1909 New York emphasizes growth in population and development."
+  },
+  "9": {
+    "order": 9,
+    "stimulus": "Pollination syndromes are suites of floral traits that have independently evolved as a result of selection pressure exerted by pollinators; psychophilous (butterfly-pollinated) flowers, for example, frequently exhibit a narrow, tubular shape. In a review of previous studies covering 417 plant species, Victor Rosas-Guerrero et al. concluded that the syndromes reliably predict angiosperms’ most effective pollinators. However, in a response paper, Jeff Ollerton et al. note that Rosas-Guerrero et al. may have inadvertently excluded studies published before the term “pollinator effectiveness” came into common use.",
+    "text": "What does the text most strongly suggest about the study conducted by Rosas-Guerrero et al.?",
+    "choices": {
+      "A": "Because the study contained data on a limited number of plant species, its conclusion is accurate for those species but cannot be applied to species not in the study.",
+      "B": "A limitation in the methodology used by the researchers may entail that the study’s conclusion is not well supported.",
+      "C": "Due to the difficulty of gathering representative research on angiosperms, the study may have included previous research with a focus too heterogeneous to be comparable.",
+      "D": "The approach selected by the researchers enabled them to sort through and remove obviously incomplete or inconsistent data before conducting their analysis."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 6,
+    "reason": "Ollerton et al. flag a possible methodological exclusion that could undermine the conclusion."
+  },
+  "10": {
+    "order": 10,
+    "stimulus": "The US Department of Agriculture’s Fruit and Tree Nuts Outlook is a document that covers a variety of subjects, from the influence of changing climate on agricultural production to the effect of stinkbug damage on pear crops. A student studying agricultural economics is consulting a graph in the document that shows the prices for which several types of nuts have been sold by growers in the United States over four growing seasons from 2016 to 2020. The student wishes to determine in which season walnuts reached their lowest price. Consulting the graph, the student finds that this season was the ______",
+    "text": "Which choice most effectively uses data from the graph to complete the statement?",
+    "choices": {
+      "A": "2016/17 season.",
+      "B": "2017/18 season.",
+      "C": "2019/20 season.",
+      "D": "2018/19 season."
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/eng1-q10-nuts-prices.svg",
+    "correctAnswer": "D",
+    "page": 6,
+    "reason": "Walnuts’ lowest price is $0.68 in 2018/19."
+  },
+  "11": {
+    "order": 11,
+    "stimulus": "Peter Pan is a 1911 novel by J.M. Barrie. In the fantasy novel, a dog named Nana is a nurse (nanny) for the children in the Darling family-Wendy, John, and Michael. The narrator describes Nana as planning for events like a human would: ______",
+    "text": "Which quotation from Peter Pan best illustrates the claim?",
+    "choices": {
+      "A": "“The Darlings had become acquainted with [Nana] in Kensington Gardens.”",
+      "B": "“On John’s [soccer] days [Nana] never once forgot his sweater, and she usually carried an umbrella in her mouth in case of rain.”",
+      "C": "“Mrs. Darling loved to have everything just so, and Mr. Darling had a passion for being exactly like his neighbours.”",
+      "D": "“While [Mrs. Darling] slept she had a dream.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 9,
+    "reason": "Remembering the sweater and umbrella shows Nana planning ahead like a human."
+  },
+  "12": {
+    "order": 12,
+    "stimulus": "Lin-Tai Ho and colleagues counted fish in a tide pool in Taiwan at several times during the year and found that some species had a significantly higher maximum population count than others. For example, the highest count for the combtooth blenny was 62 individuals in January of 2001, whereas the highest count for the three-lined rainbowfish was ______",
+    "text": "Which choice most effectively uses data from the graph to complete the example?",
+    "choices": {
+      "A": "16 individuals in October of 2001.",
+      "B": "3 individuals in October of 2001.",
+      "C": "72 individuals in January of 2001.",
+      "D": "13 individuals in October of 2001."
+    },
+    "imageUrl": "/mocks/2025-august-us-v2/figures/eng1-q12-tide-pool.svg",
+    "correctAnswer": "B",
+    "page": 9,
+    "reason": "Three-lined rainbowfish peaks at 3 individuals in October 2001."
+  },
+  "13": {
+    "order": 13,
+    "stimulus": "Twinflower (Linnaea borealis) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, narrowleaf hawksbeard (Crepis tectorum) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked L. borealis and C. tectorum, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.",
+    "text": "Which finding, if true, would most directly support Mulder and Spellman’s conclusion?",
+    "choices": {
+      "A": "Although L. borealis and C. tectorum both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring.",
+      "B": "Although significant interannual variations in subfreezing temperature onset were observed during the study, neither C. tectorum nor L. borealis showed any significant interannual variation in the cessation of leaf production.",
+      "C": "Although L. borealis and C. tectorum tended to stop producing leaves at about the same time in years with historically typical temperature patterns, C. tectorum stopped producing leaves sooner than L. borealis did in years with late subfreezing temperature onset.",
+      "D": "Although L. borealis and C. tectorum both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for C. tectorum than for L. borealis."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 12,
+    "reason": "A greater autumn leaf-production extension for the invasive supports its advantage from delayed freeze onset."
+  },
+  "14": {
+    "order": 14,
+    "stimulus": "India has classified the spiraling whitefly as an invasive species that could harm some of the country’s native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that “invasive” and “native” are labels that describe temporary circumstances. Changes in Earth’s climate may force animals from their current ranges. Climate changes may also create good habitats in areas where a species couldn’t live previously. These observations suggest that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "changes in Earth’s climate are likely to result in the spiraling whitefly establishing itself as a native species in locations other than India.",
+      "B": "India was previously home to some spiraling whiteflies but they were outcompeted by invading species.",
+      "C": "it’s appropriate for India to designate certain species as invasive but the country should designate the spiraling whitefly as native.",
+      "D": "India may eventually need to reexamine its designation of the spiraling whitefly as invasive."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 12,
+    "reason": "If invasive/native are temporary, India’s designation may later need reexamination."
+  },
+  "15": {
+    "order": 15,
+    "stimulus": "Many ranching terms come from Spanish. For example, the word “hackamore” (a halter) ______ from the Spanish word jáquima, and “rodeo” (a roundup) derives from rodear. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican vaqueros, or cowboys.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were deriving",
+      "B": "derives",
+      "C": "derive",
+      "D": "have derived"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 14,
+    "reason": "Singular subject “word” needs present-tense “derives,” parallel to “derives” later."
+  },
+  "16": {
+    "order": 16,
+    "stimulus": "A preserved specimen of the marine protist G. ungulata collected from the Caribbean has been identified as the species holotype, a term ______ that this specimen serves as the basis for all formal scientific descriptions of the species.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "indicated",
+      "B": "has indicated",
+      "C": "indicating",
+      "D": "is indicating"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 14,
+    "reason": "Participial “indicating” correctly modifies “term.”"
+  },
+  "17": {
+    "order": 17,
+    "stimulus": "Debuting in 1982, Children’s Art: Traveling Through the Imagination is just one of the ______ that have been curated by the staff of the San Francisco International Airport.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "hundred’s of exhibits",
+      "B": "hundreds of exhibits",
+      "C": "hundreds of exhibit’s",
+      "D": "hundreds of exhibits’"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 15,
+    "reason": "Plural “hundreds of exhibits” needs no apostrophes."
+  },
+  "18": {
+    "order": 18,
+    "stimulus": "After touching down on Mars on September 3, 1976, the Viking 2 lander spent almost four years exploring the geology of the red planet, including its many ______ To aid in communication, scientists gave informal names like Doc and Plymouth to some of the smaller yet notable rocks discovered.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "craters and rock’s.",
+      "B": "crater’s and rocks.",
+      "C": "crater’s and rock’s.",
+      "D": "craters and rocks."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 15,
+    "reason": "Plural nouns “craters and rocks” need no apostrophes."
+  },
+  "19": {
+    "order": 19,
+    "stimulus": "Leptoptilos dubius, also known as the greater ______ can be found in places like the Inner Gulf of Thailand and Stung Kampong Smach in Cambodia, but more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of a conservation effort that aims to bring adjutants back from near extinction.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "adjutant,",
+      "B": "adjutant;",
+      "C": "adjutant",
+      "D": "adjutant-"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 16,
+    "reason": "A comma closes the nonrestrictive appositive before “can be found.”"
+  },
+  "20": {
+    "order": 20,
+    "stimulus": "In July 2021, consumer goods cost less in Latvia than in ______ to data from the Organisation for Economic Co-operation and Development. A set of consumer goods priced at 100 US dollars (USD) in the United States would cost 66 USD in Latvia but 112 USD in Ireland.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Ireland, and according",
+      "B": "Ireland, according",
+      "C": "Ireland. According",
+      "D": "Ireland; according"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "page": 16,
+    "reason": "“according to…” is a nonrestrictive modifier set off by a comma, continuing the same sentence."
+  },
+  "21": {
+    "order": 21,
+    "stimulus": "Broadcasting from the Yakama Nation’s lands in central Washington, the Native-run radio station KYNR 1490 AM does much to serve the local Sahaptin-speaking community. ______ it broadcasts local news and music as well as programming in the Sahaptin language.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Nevertheless,",
+      "B": "As a result,",
+      "C": "Instead,",
+      "D": "Specifically,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 17,
+    "reason": "The second sentence specifies how the station serves the community."
+  },
+  "22": {
+    "order": 22,
+    "stimulus": "From mountains to monuments, deserts to rainforests, and isolated islands to teeming cities, the sites on UNESCO’s World Heritage List are chosen because they hold cultural or natural value that the organization wishes to preserve for future generations. ______ in 2010, UNESCO recognized the importance of Kiribati’s Phoenix Islands Protected Area, home to one of the world’s largest oceanic coral ecosystems, by adding it to the list as a natural heritage site.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Accordingly,",
+      "B": "In other words,",
+      "C": "Next,",
+      "D": "By contrast,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 17,
+    "reason": "Adding the Protected Area follows from UNESCO’s preservation purpose-Accordingly."
+  },
+  "23": {
+    "order": 23,
+    "stimulus": "Some bands choose a name that’s as unique as possible to distinguish themselves from other bands. The punkabilly band the Living End, ______ took a different approach. They chose to name themselves after a song by a well-known band, the Stray Cats.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "by contrast,",
+      "B": "secondly,",
+      "C": "for example,",
+      "D": "therefore,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 18,
+    "reason": "Their approach contrasts with choosing a uniquely distinctive name."
+  },
+  "24": {
+    "order": 24,
+    "stimulus": "The Brahin meteorite, discovered in Belarus in 1810, weighs approximately 1,814 pounds and is the seventh-largest stony-iron meteorite ever discovered on Earth. The Morito meteorite, discovered in Mexico in 1600, is much larger at 22,300 pounds. ______ the latter is an iron meteorite, and a size difference between meteorites of different compositions isn’t unexpected.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Admittedly,",
+      "B": "As a result,",
+      "C": "In conclusion,",
+      "D": "In other words,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "page": 18,
+    "reason": "“Admittedly” concedes the size gap is unsurprising given different compositions."
+  },
+  "25": {
+    "order": 25,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• People in Central America first began domesticating turkeys around 1,800 years ago.\n• They raised turkeys for their eggs and as guards.\n• People in eastern Europe first began domesticating horses around 6,000 years ago.\n• They raised horses for transportation and for plowing fields.",
+    "text": "The student wants to emphasize a difference between the domestication of turkeys and that of horses. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Though turkeys were domesticated longer ago than horses, both were raised for the same purposes.",
+      "B": "People in Central America and eastern Europe first began domesticating turkeys and horses around 1,800 years ago.",
+      "C": "While horses were first domesticated 6,000 years ago, turkeys were domesticated more recently, around 1,800 years ago.",
+      "D": "Turkeys were first domesticated in eastern Europe, whereas the domestication of horses first occurred in Central America."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "page": 19,
+    "reason": "C correctly contrasts the timing of horse vs. turkey domestication."
+  },
+  "26": {
+    "order": 26,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.\n• It is also known as a land bridge.\n• The Isthmus of Avalon is located in Canada.\n• It connects the Avalon Peninsula to Newfoundland.",
+    "text": "The student wants to provide a specific example of an isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In Canada, the Avalon Peninsula is connected to Newfoundland.",
+      "B": "There is a land bridge in Canada.",
+      "C": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water.",
+      "D": "One example of an isthmus is the Isthmus of Avalon in Canada."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 19,
+    "reason": "D names a specific isthmus example as requested."
+  },
+  "27": {
+    "order": 27,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• India Arie is an African American singer and songwriter.\n• The media outlet All Music has described her music as having “glistening acoustic guitar, churchy organ, and smooth, supple beats.”\n• Her first studio album, Acoustic Soul, was released in 2001.\n• It features the song “Strength, Courage & Wisdom.”\n• Judeth Insel played viola on the album.",
+    "text": "Which choice most effectively uses information from the given sentences to specify Judeth Insel’s contribution to India Arie’s music?",
+    "choices": {
+      "A": "India Arie is an African American singer and songwriter whose music has been described as having “glistening acoustic guitar, churchy organ, and smooth, supple beats.”",
+      "B": "Featuring the song “Strength, Courage & Wisdom,” Acoustic Soul is India Arie’s first studio album.",
+      "C": "Acoustic Soul, India Arie’s first studio album, features Judeth Insel.",
+      "D": "Judeth Insel played viola on India Arie’s 2001 album Acoustic Soul."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "page": 20,
+    "reason": "D specifies Insel’s contribution: viola on Acoustic Soul (2001)."
+  }
+}

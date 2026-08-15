@@ -115,7 +115,11 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
         setError(null);
         requestAnimationFrame(() => calc?.resize());
       } catch (e) {
-        console.error("Desmos graphing init failed, using embed fallback:", e);
+        // Soft log — avoid console.error(Error) which triggers the Next.js redbox in dev.
+        console.warn(
+          "Desmos graphing API unavailable, using embed fallback:",
+          e instanceof Error ? e.message : e
+        );
         if (!cancelled) {
           setGraphFallback(true);
           setReadyGraph(true);
@@ -168,7 +172,10 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
         setReadySci(true);
         requestAnimationFrame(() => calc?.resize());
       } catch (e) {
-        console.error("Desmos scientific init failed, using embed fallback:", e);
+        console.warn(
+          "Desmos scientific API unavailable, using embed fallback:",
+          e instanceof Error ? e.message : e
+        );
         if (!cancelled) {
           setSciFallback(true);
           setReadySci(true);
@@ -305,6 +312,12 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
     (mode === "graphing" && !readyGraph && !error) ||
     (mode === "scientific" && !readySci && !error);
 
+  // Pane visibility must NOT force `visible` while the shell is closed.
+  // Descendants with visibility:visible override an ancestor's visibility:hidden,
+  // which left the Desmos iframe painted on screen after dismiss.
+  const graphPaneOpen = open && mode === "graphing";
+  const sciPaneOpen = open && mode === "scientific";
+
   return (
     <>
       {/* Click-outside backdrop — only while open */}
@@ -312,9 +325,8 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
         <div
           className="fixed inset-0 z-[119] bg-black/20"
           aria-hidden
-          onClick={() => handleClose()}
           onPointerDown={(e) => {
-            // Close on pointer down so Desmos cannot steal the gesture.
+            // Close on pointer down (not click) so nothing under the overlay steals the gesture.
             if (e.button === 0) handleClose(e);
           }}
         />
@@ -326,14 +338,17 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
         aria-label="Calculator"
         aria-modal={open}
         aria-hidden={!open}
-        className="fixed z-[120] flex flex-col overflow-hidden rounded-md border border-gray-400/40 bg-white shadow-[0_8px_32px_rgba(0,0,0,0.28)]"
+        // Keep mounted when closed so calculator state persists; display:none
+        // reliably hides iframes (visibility:hidden alone does not when children
+        // set visibility:visible).
+        className={`fixed z-[120] flex flex-col overflow-hidden rounded-md border border-gray-400/40 bg-white shadow-[0_8px_32px_rgba(0,0,0,0.28)] ${
+          open ? "" : "hidden"
+        }`}
         style={{
           left: pos.x,
           top: pos.y,
           width: size.w,
           height: size.h,
-          // Keep mounted when closed so calculator state persists
-          visibility: open ? "visible" : "hidden",
           pointerEvents: open ? "auto" : "none",
         }}
         onPointerDown={(e) => e.stopPropagation()}
@@ -437,11 +452,11 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
           <div
             className="absolute inset-0"
             style={{
-              visibility: mode === "graphing" ? "visible" : "hidden",
-              pointerEvents: mode === "graphing" ? "auto" : "none",
-              zIndex: mode === "graphing" ? 1 : 0,
+              visibility: graphPaneOpen ? "visible" : "hidden",
+              pointerEvents: graphPaneOpen ? "auto" : "none",
+              zIndex: graphPaneOpen ? 1 : 0,
             }}
-            aria-hidden={mode !== "graphing"}
+            aria-hidden={!graphPaneOpen}
           >
             {graphFallback ? (
               <iframe
@@ -459,11 +474,11 @@ export function DesmosCalculatorModal({ open, onClose }: Props) {
           <div
             className="absolute inset-0"
             style={{
-              visibility: mode === "scientific" ? "visible" : "hidden",
-              pointerEvents: mode === "scientific" ? "auto" : "none",
-              zIndex: mode === "scientific" ? 1 : 0,
+              visibility: sciPaneOpen ? "visible" : "hidden",
+              pointerEvents: sciPaneOpen ? "auto" : "none",
+              zIndex: sciPaneOpen ? 1 : 0,
             }}
-            aria-hidden={mode !== "scientific"}
+            aria-hidden={!sciPaneOpen}
           >
             {sciFallback ? (
               <iframe

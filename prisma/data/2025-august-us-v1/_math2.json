@@ -1,0 +1,339 @@
+{
+  "1": {
+    "order": 1,
+    "page": 59,
+    "stimulus": null,
+    "text": "To win a game show, a contestant needs to score at least 70 total points from two rounds. Correct responses in the first round are worth 4 points each, and correct responses in the second round are worth 5 points each. Which inequality models this situation, where f is the number of correct responses in the first round and s is the number of correct responses in the second round?",
+    "choices": {
+      "A": "f + s ≤ 70",
+      "B": "4f + 5s ≥ 70",
+      "C": "5f + s ≥ 70",
+      "D": "5f + 4s ≤ 70"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Points: 4f + 5s; at least 70 means ≥ 70."
+  },
+  "2": {
+    "order": 2,
+    "page": 59,
+    "stimulus": null,
+    "text": "In the figure shown, the length of AB is 22. Which statement provides sufficient information to prove that triangle ABC is isosceles?",
+    "choices": {
+      "A": "The length of AC is 11.",
+      "B": "The length of BC is 22.",
+      "C": "The measure of angle A is 70°.",
+      "D": "The sum of the measures of angles A, B, and C is 180°."
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/math2-q02-triangle-abc.svg",
+    "figure": "Triangle ABC with vertex B at top, A bottom-left, C bottom-right. Note: Figure not drawn to scale. No side lengths marked on figure.",
+    "correctAnswer": "B",
+    "showWork": "AB = 22; if BC = 22 then two sides equal → isosceles."
+  },
+  "3": {
+    "order": 3,
+    "page": 60,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 5(4)^(-x/6). What is the value of f(12)?",
+    "choices": {
+      "A": "-80",
+      "B": "-40",
+      "C": "1/400",
+      "D": "5/16"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "f(12) = 5(4)^(-2) = 5/16."
+  },
+  "4": {
+    "order": 4,
+    "page": 60,
+    "stimulus": null,
+    "text": "In 2010, a skating team had a total of 48 skaters, each classified as either advanced or intermediate. From 2010 to 2020, the number of advanced skaters on the team increased by approximately 27%, and the number of intermediate skaters on the team increased by approximately 54%. The total number of skaters on the team increased by approximately 42%. Which equation best represents this situation, where a represents the number of advanced skaters on the team in 2010 and b represents the number of intermediate skaters on the team in 2010?",
+    "choices": {
+      "A": "1.27a + 1.42b = 48(1.54)",
+      "B": "1.42a + 0.27b = 48(1.54)",
+      "C": "1.27a + 1.54b = 48(1.42)",
+      "D": "1.54a + 1.27b = 48(1.42)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "New totals: 1.27a + 1.54b equals original total grown by 42%: 48(1.42)."
+  },
+  "5": {
+    "order": 5,
+    "page": 61,
+    "stimulus": null,
+    "text": "For a survey, a sample of 996 people was selected at random from all registered voters in a county. Based on the survey, it is estimated that 42% of all registered voters in the county are in favor of a new law, with an associated margin of error of 3.07%. Which of the following best describes the plausible values for the percent of all registered voters in the county who are in favor of the new law?",
+    "choices": {
+      "A": "Any value greater than 38.93% and less than 45.07%",
+      "B": "Any value greater than 38.93%",
+      "C": "Any value less than 38.93% or greater than 45.07%",
+      "D": "Any value less than 45.07%"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "42% ± 3.07% → (38.93%, 45.07%)."
+  },
+  "6": {
+    "order": 6,
+    "page": 61,
+    "stimulus": null,
+    "text": "An artist made 13 pieces of pottery using 42 pounds of clay. The pottery included only bowls and vases. Each bowl used 2 pounds of clay and each vase used 4 pounds of clay. How many vases did the artist make?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "b + v = 13 and 2b + 4v = 42 → b + 2v = 21 → v = 8, b = 5."
+  },
+  "7": {
+    "order": 7,
+    "page": 62,
+    "stimulus": null,
+    "text": "For the linear function g, the table shows four values of x and their corresponding values of g(x). The function can be written as g(x) = mx + b, where m and b are constants. What is the value of b?",
+    "choices": {
+      "A": "6",
+      "B": "22",
+      "C": "44",
+      "D": "50"
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/math2-q07-gx-table.svg",
+    "figure": "Two-column table headers x and g(x). Rows: (1, 44), (2, 38), (3, 32), (4, 26). Do not duplicate table in stimulus.",
+    "correctAnswer": "D",
+    "showWork": "m = (38 − 44)/(2 − 1) = −6; 44 = −6(1) + b → b = 50."
+  },
+  "8": {
+    "order": 8,
+    "page": 62,
+    "stimulus": "h(x) = (1/2)(x)(77)",
+    "text": "The given function h represents the area, in square inches, of a triangle with a base of x inches and a fixed height. What is the height, in inches, of the triangle?",
+    "choices": {
+      "A": "1/77",
+      "B": "77/2",
+      "C": "77",
+      "D": "154"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Area = (1/2)bh with base x → height = 77."
+  },
+  "9": {
+    "order": 9,
+    "page": 63,
+    "stimulus": null,
+    "text": "Which expression is a factor of x^5 + x^4y + xy^8 + y^9?",
+    "choices": {
+      "A": "x^4 + y^8",
+      "B": "x^4 + y^9",
+      "C": "x^5 + y^8",
+      "D": "x^5 + y^9"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "x^4(x + y) + y^8(x + y) = (x^4 + y^8)(x + y)."
+  },
+  "10": {
+    "order": 10,
+    "page": 63,
+    "stimulus": null,
+    "text": "The measure of angle S is (7π)/17 radians. The measure of angle T is 2 times the measure of angle S. Which expression represents the measure, in degrees, of angle T?",
+    "choices": {
+      "A": "(7/17)(90)(2)",
+      "B": "(7/17)(180)(2)",
+      "C": "(7/(17π))(90)(2)",
+      "D": "(7π/17)(180)(2)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "T = 2·(7π/17) rad → degrees: 2·(7π/17)·(180/π) = (7/17)(180)(2)."
+  },
+  "11": {
+    "order": 11,
+    "page": 64,
+    "stimulus": "|a + 10| = 21",
+    "text": "What is a possible solution to the given equation?",
+    "choices": {
+      "A": "-21",
+      "B": "-10",
+      "C": "0",
+      "D": "11"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "a + 10 = 21 or a + 10 = −21 → a = 11 or a = −31; 11 is listed."
+  },
+  "12": {
+    "order": 12,
+    "page": 64,
+    "stimulus": null,
+    "text": "For the positive quantities h, j, and k, 11% of h is equivalent to 33% of j, and j is equivalent to 14% of k. What percentage of k is h? (Disregard the % sign when entering your answer. For example, if your answer is 39%, enter 39)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "42",
+    "showWork": "0.11h = 0.33j → h = 3j; j = 0.14k → h = 0.42k → 42%."
+  },
+  "13": {
+    "order": 13,
+    "page": 65,
+    "stimulus": "y − x = 46\ny = x² − 44x",
+    "text": "The graphs of the equations in the given system intersect at the point (x, y) in the xy-plane. What is a possible value of y?",
+    "choices": {
+      "A": "46",
+      "B": "47",
+      "C": "91",
+      "D": "92"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "x + 46 = x² − 44x → x² − 45x − 46 = 0 → x = 46 or −1; y = 92 or 45."
+  },
+  "14": {
+    "order": 14,
+    "page": 65,
+    "stimulus": null,
+    "text": "An object travels x inches in y seconds. At this rate, which expression represents the time, in seconds, it takes the object to travel a distance of 22x inches?",
+    "choices": {
+      "A": "22/y",
+      "B": "y/22",
+      "C": "22y",
+      "D": "y + 22"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Rate x/y; time for 22x is 22x ÷ (x/y) = 22y."
+  },
+  "15": {
+    "order": 15,
+    "page": 66,
+    "stimulus": null,
+    "text": "The number of bacteria in a growth medium is expected to increase by 160% every 2 hours during a period of observation. The number of bacteria in the growth medium was estimated to be 8,000 when the period of observation began. Which function P gives the expected number of bacteria in this growth medium t hours after the period of observation began?",
+    "choices": {
+      "A": "P(t) = 8,000(1.60)^(t/2)",
+      "B": "P(t) = 8,000(1.60)^(2t)",
+      "C": "P(t) = 8,000(2.60)^(t/2)",
+      "D": "P(t) = 8,000(2.60)^(2t)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Increase by 160% → multiply by 2.60 every 2 hours → (2.60)^(t/2)."
+  },
+  "16": {
+    "order": 16,
+    "page": 66,
+    "stimulus": null,
+    "text": "The graph shows the estimated number of cell phone subscribers, y, in a town x years since 1990. Which equation represents the exponential relationship between the number of cell phone subscribers in the town and the number of years since 1990, where 0 ≤ x ≤ 10?",
+    "choices": {
+      "A": "y = 370(0.17)^x",
+      "B": "y = 370(1.17)^x",
+      "C": "y = 1,779(0.83)^x",
+      "D": "y = 1,779(1.83)^x"
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/math2-q16-cell-phone-subscribers.svg",
+    "figure": "Exponential growth graph. y-axis: Cell phone subscribers, 0 to 1,800 (ticks every 300). x-axis: Years since 1990, 0 to 10 (ticks every 2). Curve through approx (0, 370), (5, 811), (10, 1,779). Rising through Q1.",
+    "correctAnswer": "B",
+    "showWork": "y-intercept 370 and growth: 811/370 ≈ 2.19 ≈ 1.17^5."
+  },
+  "17": {
+    "order": 17,
+    "page": 67,
+    "stimulus": null,
+    "text": "Line p is defined by kx + 8y = 17. Line p passes through the points (r, 0) and (0, t) in the xy-plane, where k, r, and t are nonzero constants and r is not equal to t. Which expression represents the value of k?",
+    "choices": {
+      "A": "17/t",
+      "B": "17/r",
+      "C": "8/t",
+      "D": "8/r"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "At (r, 0): kr = 17 → k = 17/r."
+  },
+  "18": {
+    "order": 18,
+    "page": 68,
+    "stimulus": "nx + 7t = −7x + 8n",
+    "text": "In the given equation, n and t are constants. The equation has no solution. What CANNOT be the value of n + t?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "-15",
+    "showWork": "x(n + 7) = 8n − 7t. No solution when n = −7 and t ≠ −8 → n + t ≠ −15."
+  },
+  "19": {
+    "order": 19,
+    "page": 69,
+    "stimulus": "The scatterplot shows the relationship between two variables, t and d.",
+    "text": "Which of the following equations is the most appropriate linear model for the data shown?",
+    "choices": {
+      "A": "d = −62.1 + 2.02t",
+      "B": "d = 162.1 + 2.02t",
+      "C": "d = 357.8 + 2.02t",
+      "D": "d = 392.8 + 2.02t"
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/math2-q19-td-scatter.svg",
+    "figure": "Scatterplot of t (x, 230–270, break before 230) vs d (y, 245–525, break before 245). 7 points in upward linear pattern. Line of best fit through approx (230, 403), (250, 443), (265, 473).",
+    "correctAnswer": "A",
+    "showWork": "Slope ≈ 2; at t = 230, d ≈ 403 → intercept ≈ 403 − 2.02(230) ≈ −62.1."
+  },
+  "20": {
+    "order": 20,
+    "page": 71,
+    "stimulus": null,
+    "text": "The table shows the volume of two similar solids, right circular cylinder A and right circular cylinder B. The radius of right circular cylinder A is 4 units. The surface area of right circular cylinder A is kπ square units, and the surface area of right circular cylinder B is nπ square units, where k and n are constants. What is the value of n − k? (The surface area of a right circular cylinder with radius r and height h is 2πr² + 2πrh.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/math2-q20-cylinder-volumes.svg",
+    "figure": "Two-column table. Header: blank | Volume (cubic units). Row: Right circular cylinder A | 32π. Row: Right circular cylinder B | 4,000π.",
+    "correctAnswer": "1152",
+    "showWork": "π·16·h_A = 32π → h_A = 2; SA_A = 48π → k = 48. Volume scale 125 → linear scale 5; SA_B = 48π·25 = 1200π → n − k = 1152."
+  },
+  "21": {
+    "order": 21,
+    "page": 72,
+    "stimulus": null,
+    "text": "A quadratic function models the height, in feet, of an object above the ground in terms of the time, in seconds, after the object was launched. According to the model, the object was launched from a height of 0 feet and reached its maximum height of 400 feet 5 seconds after it was launched. Based on the model, what was the height, in feet, of the object 4 seconds after it was launched?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "384",
+    "showWork": "h(t) = a(t − 5)² + 400; h(0) = 0 → a = −16; h(4) = −16(1) + 400 = 384."
+  },
+  "22": {
+    "order": 22,
+    "page": 73,
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y, where y = f(x) + 3 and f is a quadratic function. What is the y-coordinate of the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/math2-q22-xy-table.svg",
+    "figure": "Two-column table headers x and y. Rows: (16, −4), (18, 12), (20, −4). Do not duplicate table in stimulus.",
+    "correctAnswer": "-1287",
+    "showWork": "f(x) = y − 3 → points (−7), (9), (−7) at x = 16, 18, 20. f(x) = −4(x − 18)² + 9; f(0) = −4(324) + 9 = −1287."
+  }
+}

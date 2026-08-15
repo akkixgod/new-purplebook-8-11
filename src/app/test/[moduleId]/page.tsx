@@ -88,6 +88,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     setShowDesmos(true);
   }, []);
 
+  const closeCalculator = useCallback(() => {
+    setShowDesmos(false);
+  }, []);
+
   const toggleCalculator = useCallback(() => {
     setDesmosMounted(true);
     setShowDesmos((v) => !v);
@@ -620,7 +624,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                 </button>
                 <button
                   type="button"
-                  onClick={() => (showDesmos ? setShowDesmos(false) : openCalculator())}
+                  onClick={() => (showDesmos ? closeCalculator() : openCalculator())}
                   title="Graphing Calculator (Alt+C)"
                   className={`flex items-center gap-1.5 px-2.5 py-1 rounded text-xs font-medium border transition-colors ${
                     showDesmos
@@ -1106,7 +1110,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
       {/* ── Desmos Graphing Calculator (kept mounted for state persistence) ── */}
       {isMath && desmosMounted && (
-        <DesmosCalculatorModal open={showDesmos} onClose={() => setShowDesmos(false)} />
+        <DesmosCalculatorModal open={showDesmos} onClose={closeCalculator} />
       )}
     </div>
   );

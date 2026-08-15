@@ -1,0 +1,380 @@
+{
+  "1": {
+    "order": 1,
+    "stimulus": "Because blue holes (such as the Great Blue Hole near Belize) and cenotes (such as Cenote Calavera in Mexico) differ in their size, water composition, and type of location, they are not usually viewed as being ______, but both are water-filled sinkholes typically produced by the natural dissolution and collapse of rocks.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "explicable",
+      "B": "distinct",
+      "C": "analogous",
+      "D": "incongruous"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Despite differences, both are water-filled sinkholes, so they are analogous rather than usually seen as such."
+  },
+  "2": {
+    "order": 2,
+    "stimulus": "Run by researchers in Australia, the Australian Longitudinal Study on Women's Health (ALSWH) is an examination of women's health that has attempted to track approximately 50,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ______: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "attrition",
+      "B": "replicability",
+      "C": "impartiality",
+      "D": "circumspection"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Participants withdrawing or falling out of contact over time is attrition."
+  },
+  "3": {
+    "order": 3,
+    "stimulus": "Disproportionate emphasis on instances of invention, such as the emergence of potter's wheels circa 4500 BCE, contributes to a pro-innovation bias that ______ studies of the history of technology. More attention to technological discontinuance (e.g., the disappearance of Roman concrete as a construction material around 500 CE) is thus a necessary corrective to the dominant view that innovations are steadily and inevitably adopted.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "pervades",
+      "B": "foments",
+      "C": "abridges",
+      "D": "supersedes"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "A pro-innovation bias that runs throughout technology-history studies pervades those studies."
+  },
+  "4": {
+    "order": 4,
+    "stimulus": "Paleontologists think that Tyrannosaurus, Dsungaripterus, and other long-extinct theropods and pterosaurs may have breathed using air sacs connected to tubelike extensions inside the animals' bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as ______ those of Tyrannosaurus, Dsungaripterus, and other theropods and pterosaurs.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "emissaries for",
+      "B": "harbingers of",
+      "C": "subordinates of",
+      "D": "proxies for"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Bird respiratory systems stand in as proxies for those of the extinct animals that share similar structures."
+  },
+  "5": {
+    "order": 5,
+    "stimulus": "Like all hummingbirds, Heliodoxa jacula has high metabolic needs and is thus expected to prefer flowers with copious nectar, but María A. Maglianesi et al. found that nectar volume poorly predicted interaction frequencies between plants and hummingbirds, including H. jacula. If, they concluded, nectar volume does in fact mediate hummingbirds' foraging, its precise role remains ______.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "ephemeral",
+      "B": "incredulous",
+      "C": "incipient",
+      "D": "elusive"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Because nectar volume poorly predicted interactions, any precise mediating role remains elusive."
+  },
+  "6": {
+    "order": 6,
+    "stimulus": "The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes Portal from 2007, which museum visitors can play on site, and Myst from 1993, which visitors can see only in a video presentation. <u>MOMA claims the video presentations are only for games that would be impractical to display in a playable form,</u> but video games are an inherently interactive medium, a feature that is grossly absent in a video-only presentation.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It provides MOMA's rationale for a decision that the author critiques.",
+      "B": "It presents a misconception about video games that the author believes is evident in MOMA's choice about which video games to exhibit.",
+      "C": "It details a criticism of MOMA that the author defends against in the remainder of the sentence.",
+      "D": "It introduces a fact about video games that the author thinks MOMA did not appropriately consider when choosing which video games to exhibit."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "The underlined claim is MOMA's rationale; the author then critiques the video-only presentation."
+  },
+  "7": {
+    "order": 7,
+    "stimulus": "Several sociologists have observed that the word \"culture,\" though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word \"culture\" represents \"an amazing variety of often-discordant ideas.\" <u>Does the concept of culture encompass knowledge, or habits, or both these things and others?</u> For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It lists two essential components of what is referred to by Smith as \"culture.\"",
+      "B": "It describes the questions first raised by Smith's inquiry into the meaning of the word \"culture.\"",
+      "C": "It illustrates a difficulty associated with the meaning of \"culture\" that the author believes holds back an academic field.",
+      "D": "It presents a point regarding the definition of \"culture\" on which nonspecialists and specialists tend to disagree."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "The rhetorical questions exemplify the haziness that the author says sociology must fix to progress."
+  },
+  "8": {
+    "order": 8,
+    "stimulus": "Text 1\nThe land that became Grande Terre island split from remnants of the former supercontinent Gondwana approximately 80 million years ago, carrying Gondwanan biota with it, and experienced periodic submersion until 37 million years ago. Some researchers posit that the island's current biota includes members of Gondwanan clades (i.e., clades predating the split) that persisted by seeking temporary refuge on nearby islands during submergence events.\n\nText 2\nIn a recent study, Anna Papadopoulou et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade's founder)—is 59.9 million years for Grande Terre's clade of leaf beetles. Most of the island's extant biota belong to clades with younger crown ages, however: Igor V. Bartish et al. found that the crown age of Grande Terre's clade of Pycnandra plants is 22.9 million years, for example.",
+    "text": "Taken together, Text 1 and Text 2 best support which statement about the clades of leaf beetles and Pycnandra plants on Grande Terre?",
+    "choices": {
+      "A": "The clade of leaf beetles originated before Grande Terre split from Gondwana, whereas the clade of Pycnandra plants originated after the split but before the periodic submergence events began.",
+      "B": "The clade of leaf beetles must have originated on Gondwana, but the clade of Pycnandra plants may or may not have.",
+      "C": "Neither the clade of leaf beetles nor the clade of Pycnandra plants originated on Gondwana.",
+      "D": "Both the clade of leaf beetles and the clade of Pycnandra plants originated elsewhere and colonized Grande Terre."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Leaf beetles' 59.9-mya crown age is after the 80-mya split but during the period when Gondwanan clades could have persisted via refuge; the younger Pycnandra crown age need not be Gondwanan."
+  },
+  "9": {
+    "order": 9,
+    "stimulus": "Ellie Rose Mattoon et al. have confirmed that twenty mushroom species (including Marasmius capillaris and species from the genus Cantharellus) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium—a difference that persisted even after fruited bodies were detached—the researchers speculate that thermoregulation in the mycelium may influence reproductive success.",
+    "text": "Which statement about the mycelium of the twenty mushroom species is best supported by the text?",
+    "choices": {
+      "A": "Temperatures in the fruiting areas of the mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter.",
+      "B": "The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites.",
+      "C": "The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium.",
+      "D": "Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "The fruiting/nonfruiting temperature difference persisted after fruited bodies were detached, so mycelium variation need not depend on their presence."
+  },
+  "10": {
+    "order": 10,
+    "stimulus": "Because they penetrate the visible surface of a painting, ultraviolet and other nonvisible spectra of light enable the detection of otherwise imperceptible features of the work. Beneath the surface of Michelangelo Merisi da Caravaggio's The Cardsharps (ca. 1594), art historians found that Caravaggio had altered the position of the figure on the right side of the painting. Furthermore, nonvisible spectra can be used for chemical analysis to identify specific pigments and thus, in some cases, reveal forgeries: if, for example, titanium oxide—which wasn't developed until the 20th century—is evident throughout the layers of a painting attributed to an 18th-century artist, that work can only be a forgery.",
+    "text": "What does the text most strongly suggest about how analyzing a painting with nonvisible light can inform a judgment about who that painting is attributed to?",
+    "choices": {
+      "A": "It can show how the work is similar to others attributed to the same artist.",
+      "B": "It can definitively undermine that attribution.",
+      "C": "It can confirm that attribution with a high degree of confidence.",
+      "D": "It can provide new information about the attributed artist's practices."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Finding anachronistic pigments can show a work can only be a forgery, definitively undermining the attribution."
+  },
+  "11": {
+    "order": 11,
+    "stimulus": "Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays Vanya as feeling underappreciated by the professor, as is evident when ______",
+    "text": "Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?",
+    "choices": {
+      "A": "Professor Serebrakoff says, \"I hate this house. It is a regular labyrinth. Every one is always scattered through the twenty-six enormous rooms; one never can find a soul.\"",
+      "B": "Vanya says to Professor Serebrakoff, \"We used to think of you as almost superhuman, but now the scales have fallen from my eyes and I see you as you are! You write on art without knowing anything about it. Those books of yours which I used to admire are not worth one copper kopeck. You are a hoax!\"",
+      "C": "Vanya says of Professor Serebrakoff, \"He is everlastingly whining about his hard lot, though, as a matter of fact, he is extraordinarily lucky.\"",
+      "D": "Vanya says to Professor Serebrakoff, \"For twenty-five years I have managed this place [the estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one—neither in my youth nor now.\""
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Vanya explicitly complains that he has never been thanked for managing the estate, showing he feels underappreciated."
+  },
+  "12": {
+    "order": 12,
+    "stimulus": "Few of the most commercially successful films in US movie theaters are in a language other than English. One journalist claims that to overcome what director Bong Joon-ho calls \"the one-inch-tall barrier of subtitles,\" it is essential for a film to receive an Oscar nomination: non-English language films that are not given this public indication of high quality will struggle to find an audience compared with those that do receive Oscar nominations.",
+    "text": "Which choice best describes data from the table that weaken the journalist's claim?",
+    "choices": {
+      "A": "Como agua para chocolate was not recognized by the Oscars but had higher lifetime earnings than Cinema Paradiso, which was recognized by the Oscars.",
+      "B": "Although the opening weekend earnings were $23,600 for Como agua para chocolate and $3,424,702 for Huevos: Little Rooster's Egg-cellent Adventure, neither film was recognized by the Oscars.",
+      "C": "Although both The Motorcycle Diaries and Cinema Paradiso were recognized by the Oscars, The Motorcycle Diaries had higher lifetime earnings.",
+      "D": "The Motorcycle Diaries, which was recognized by the Oscars, had lower opening weekend earnings but higher lifetime earnings than Huevos: Little Rooster's Egg-cellent Adventure, which was not recognized by the Oscars."
+    },
+    "imageUrl": "/mocks/2025-august-us-v1/figures/eng2-q12-table.svg",
+    "correctAnswer": "A",
+    "reason": "A non-nominated film out-earning a nominated one weakens the claim that an Oscar nomination is essential for audience success."
+  },
+  "13": {
+    "order": 13,
+    "stimulus": "\"The Monster\" is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, is playing in his yard while his father mows the lawn; while playing, Jim accidentally damages a peony (a flower). Crane emphasizes Jim's energy and his distracted absorption in his play by writing, ______",
+    "text": "Which quotation from \"The Monster\" most effectively illustrates the claim?",
+    "choices": {
+      "A": "\"[W]hen [Jim] swung around the curve at the flower-bed, a wheel of his cart destroyed a peony.\"",
+      "B": "\"Finally [Jim] went to the peony and tried to stand it on its pins, resuscitated, but the spine of it was hurt, and it could only hang limply from his hand.\"",
+      "C": "\"[Jim's father] was shaving this lawn as if it were a priest's chin.\"",
+      "D": "\"Little Jim was, for the time, engine Number 36, and he was making the run between Syracuse and Rochester. He was fourteen minutes behind time, and the throttle was wide open.\""
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Imagining himself as a wide-open throttle locomotive shows Jim's energetic, absorbed play."
+  },
+  "14": {
+    "order": 14,
+    "stimulus": "Northern Michigan's Alcona County is among the most rural counties in the United States: the US Census Bureau classified it as 98.9% rural in 2010. Researchers studying populations of counties like Alcona often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "people with relatively small social networks are inherently less likely to be recruited to participate in a study via snowball sampling than are people with relatively large social networks.",
+      "B": "snowball sampling is more likely to improve retention rates among rural participants than among nonrural participants.",
+      "C": "being recruited to participate in a study by someone with whom one is socially connected may impart a feeling of obligation to persist with participation in the study.",
+      "D": "social networks can become large enough that two people can share a network but nevertheless regard each other as strangers."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Higher retention when recruited by social contacts suggests obligation to stay in the study."
+  },
+  "15": {
+    "order": 15,
+    "stimulus": "In 2006, the US state of Oregon enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Oregon's RSRs may ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "prevent large increases in premium prices for new policies despite leading to fewer insurers offering such policies in the affected market.",
+      "B": "reduce premium price volatility once policies are in effect but increase risks for policyholders.",
+      "C": "be more advantageous for insurers than they are for either current or prospective policyholders.",
+      "D": "benefit policyholders at the expense of nonpolicyholders seeking to acquire policies."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Existing policyholders gain price stability while reduced competition can hurt those seeking new policies."
+  },
+  "16": {
+    "order": 16,
+    "stimulus": "Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product's risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Vietnam, investigating participants' intentions to purchase a new skin-care product, and found that, on average, parents of small children had the lowest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh's study are broadly applicable, this finding suggests that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "parents of small children might be more likely than participants in the other demographic groups to purchase the skin-care product.",
+      "B": "the new skin-care product is less appealing to parents of small children than other similar products on the market are.",
+      "C": "there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study.",
+      "D": "parents of small children likely prioritize other factors over a product's environmental sustainability when making purchasing decisions."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "Lower perceived environmental risk implies higher purchase likelihood if Tarabieh's finding applies."
+  },
+  "17": {
+    "order": 17,
+    "stimulus": "Trade with neighboring civilizations contributed to the success of the Srivijaya Empire, which reigned in Southeast Asia from around 600 CE to 1200 CE. By supplying tin, medicines, and wood to societies that lacked these valuable ______ Srivijaya Empire grew not only in wealth but also in power and influence.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "items, the",
+      "B": "items. The",
+      "C": "items; the",
+      "D": "items the"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "reason": "A comma correctly joins the introductory participial phrase to the main clause beginning with \"the Srivijaya Empire.\""
+  },
+  "18": {
+    "order": 18,
+    "stimulus": "Released in 1998, the Alpha 21264 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. ______ a \"power wall\" in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Upon hitting",
+      "B": "When they hit",
+      "C": "Hitting",
+      "D": "They hit"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "\"Hitting a power wall...\" is a gerund phrase that correctly serves as the subject of \"led.\""
+  },
+  "19": {
+    "order": 19,
+    "stimulus": "In a 2020 study, Matthew Stewart et al. concluded that fossilized footprints excavated from ancient lake beds in Saudi Arabia date to between 112,000 and 121,000 years ago. The reliability of the dates that Stewart et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the footprints were last exposed to sunlight, ______ in part upon the researchers' exclusion of mineral grains that lacked adequate sun exposure before burial.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "having depended",
+      "B": "depending",
+      "C": "depend",
+      "D": "depends"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Singular subject \"reliability\" takes the verb \"depends.\""
+  },
+  "20": {
+    "order": 20,
+    "stimulus": "Writer Silvia Moreno-Garcia's love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she later would become a prolific short story writer herself, publishing pieces like \"Phrase Book\" (2014) and \"River, Dreaming\" (2013). Yet she's best ______ ever since her 2020 novel Mexican Gothic saw widespread critical and commercial success, as a novelist.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "known:",
+      "B": "known;",
+      "C": "known,",
+      "D": "known"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "Commas set off the interrupting phrase \"ever since her 2020 novel Mexican Gothic saw widespread critical and commercial success.\""
+  },
+  "21": {
+    "order": 21,
+    "stimulus": "Conceiving of a communal gathering space in the style of European town centers, ______ recalled those he saw in his native Vienna.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "architect Victor Gruen's designs for Illinois's Yorktown Center, an indoor shopping mall completed in 1968, contained promenades, fountains, and greenery that",
+      "B": "architect Victor Gruen designed Illinois's Yorktown Center, an indoor shopping mall completed in 1968, with promenades, fountains, and greenery that",
+      "C": "the promenades, fountains, and greenery of Illinois's Yorktown Center, an indoor shopping mall designed by architect Victor Gruen and completed in 1968,",
+      "D": "Yorktown Center, an indoor shopping mall in Illinois completed in 1968, was designed by architect Victor Gruen with promenades, fountains, and greenery that"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "Only B makes Gruen the subject who conceived the space and whose designs recalled Vienna."
+  },
+  "22": {
+    "order": 22,
+    "stimulus": "Among the small magazines animating Dublin's vibrant literary scene in the early twentieth century was ______ by L.K. Emery and featuring essays on James Joyce, Pablo Picasso, and Mainie Jellett; poems by F.R. Higgins and Percival Arland Ussher; and translations of Irish-language plays, this magazine publicized the work of influential avant-garde writers and artists of the day.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "The Klaxon; edited",
+      "B": "The Klaxon. Edited",
+      "C": "The Klaxon, edited",
+      "D": "The Klaxon edited"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "reason": "A period correctly ends the first sentence after The Klaxon and starts a new sentence with \"Edited.\""
+  },
+  "23": {
+    "order": 23,
+    "stimulus": "In contrast to first-past-the-post electoral processes, the proportional representation system by which Uruguay's Chamber of Representatives is elected begins with citizens casting their votes not for specific candidates but for political parties. ______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Conversely,",
+      "B": "In other words,",
+      "C": "Then,",
+      "D": "However,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "\"Then\" marks the next step after votes are cast: seats are awarded."
+  },
+  "24": {
+    "order": 24,
+    "stimulus": "Box modeling and contour modeling approaches to three-dimensional digital modeling for video games yield graphics that accurately represent the relative sizes and proportions of real-world objects, but since these graphics are rendered from perfect geometric shapes, they tend to lack organic realism. ______ these 3D elements may display unnaturally precise angles and curves as compared to their real-world counterparts.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "In addition,",
+      "C": "In conclusion,",
+      "D": "As such,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "\"As such\" presents the unnatural angles as a consequence of lacking organic realism."
+  },
+  "25": {
+    "order": 25,
+    "stimulus": "The Yapese Empire, a sea power in the Caroline Islands of Micronesia that reached the height of its influence around 1000 CE, is classified as a thalassocracy. Thalassocracies are generally considered distinct from tellurocracies, or land-based powers. ______ the British Empire (1600s–1900s CE) notably extended its hegemony across both land and sea.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Supporting this claim,",
+      "B": "Exemplifying this distinction,",
+      "C": "Blurring this line,",
+      "D": "Underscoring this difference,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "reason": "An empire spanning land and sea blurs the thalassocracy/tellurocracy distinction."
+  },
+  "26": {
+    "order": 26,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Broccoli is a vegetable that contains ascorbic acid, an essential nutrient for humans.\n• Blueberries are fruits that contain ascorbic acid.\n• There is 90 milligrams (mg) of ascorbic acid per every 100 grams (g) of broccoli.\n• There is 10 mg of ascorbic acid per every 100 g of blueberries.\n• Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.\n• Ascorbic acid is also known as vitamin C.",
+    "text": "The student wants to refute a claim that blueberries are a better source of vitamin C than broccoli is. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Broccoli contains vitamin C (also known as ascorbic acid); in fact, there is 90 mg of vitamin C in every 100 g of broccoli.",
+      "B": "Broccoli contains ascorbic acid (also known as vitamin C), and blueberries do too.",
+      "C": "Humans cannot make ascorbic acid in their bodies, but they can get it from broccoli and blueberries.",
+      "D": "With 90 mg of vitamin C per every 100 g, broccoli is actually a better source of vitamin C than blueberries, which contain only 10 mg per every 100 g."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Comparing 90 mg vs 10 mg directly refutes the claim that blueberries are the better vitamin C source."
+  },
+  "27": {
+    "order": 27,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Refrigerants are chemical compounds used in cooling technologies, such as air conditioners.\n• Air conditioners can use refrigerants to absorb heat and release cold air.\n• The refrigerant ethylene is a hydroolefin (HO).\n• HOs are composed of the elements hydrogen and carbon.\n• The refrigerant hexachloroethane is a perchlorocarbon (PCC).\n• PCCs are composed of chlorine and carbon.",
+    "text": "The student wants to contrast ethylene and hexachloroethane. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Ethylene and hexachloroethane are chemical compounds used in cooling technologies; the compounds are known as refrigerants.",
+      "B": "Hexachloroethane, a refrigerant, can be used in cooling technologies to absorb heat and release cold air.",
+      "C": "The hydroolefin ethylene and the perchlorocarbon hexachloroethane are both refrigerants that can be used in cooling technologies like air conditioners.",
+      "D": "Ethylene, a hydroolefin, is composed of hydrogen and carbon; hexachloroethane, a perchlorocarbon, is composed of chlorine and carbon."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "reason": "Only D contrasts the two refrigerants by their elemental compositions."
+  }
+}

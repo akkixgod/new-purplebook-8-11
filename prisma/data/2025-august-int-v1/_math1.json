@@ -1,0 +1,333 @@
+{
+  "1": {
+    "order": 1,
+    "page": 55,
+    "stimulus": null,
+    "text": "The length of each side of triangle A is 270 millimeters. The length of each side of triangle B is double the length of each side of triangle A. What is the length, in millimeters, of each side of triangle B?",
+    "choices": {
+      "A": "270",
+      "B": "272",
+      "C": "540",
+      "D": "1,080"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Each side of B is 2 × 270 = 540 mm."
+  },
+  "2": {
+    "order": 2,
+    "page": 56,
+    "stimulus": null,
+    "text": "Carrie has c dollars and Marjani has m dollars. Carrie has 4 times as many dollars as Marjani, and together they have a total of $40.00. Which system of equations represents this situation?",
+    "choices": {
+      "A": "c = 4m\nc + m = 40",
+      "B": "m = 4c\nc + m = 40",
+      "C": "c = 40m\nc + m = 4",
+      "D": "m = 40c\nc + m = 4"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "Carrie has 4 times Marjani's amount → c = 4m; together they have $40 → c + m = 40."
+  },
+  "3": {
+    "order": 3,
+    "page": 57,
+    "stimulus": null,
+    "text": "Anton is selling toys from his toy collection. When he started selling the toys, there were 2,800 toys in the collection. At the end of each week for 3 weeks after Anton started selling the toys, the number of toys in the collection had decreased by 1/2 of the toys in the collection at the end of the previous week. Which equation gives the number of toys, c, in the collection w weeks after Anton started selling the toys, where 0 ≤ w ≤ 3?",
+    "choices": {
+      "A": "c = w^(1/2)",
+      "B": "c = 2,800^w",
+      "C": "c = 1,400(1/2)^w",
+      "D": "c = 2,800(1/2)^w"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Each week the count is halved: c = 2800(1/2)^w."
+  },
+  "4": {
+    "order": 4,
+    "page": 58,
+    "stimulus": null,
+    "text": "√w + 22 = 28\n\nWhat is the solution to the given equation?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "12",
+      "D": "36"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "√w = 6, so w = 36."
+  },
+  "5": {
+    "order": 5,
+    "page": 59,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 7x³ + 6. What is the value of f(2)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "62",
+    "showWork": "f(2) = 7(8) + 6 = 62."
+  },
+  "6": {
+    "order": 6,
+    "page": 60,
+    "stimulus": null,
+    "text": "The function f(x) = -30x + 310 gives the predicted height above the ground f(x), in feet, of a model airplane x minutes after it begins to descend. What is the predicted height above the ground, in feet, of the model airplane 2 minutes after it begins to descend?",
+    "choices": {
+      "A": "60",
+      "B": "250",
+      "C": "280",
+      "D": "370"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "f(2) = -30(2) + 310 = 250."
+  },
+  "7": {
+    "order": 7,
+    "page": 62,
+    "stimulus": null,
+    "text": "2x = 9 + 7y\n-2x = 3 + 7y\n\nThe solution to the given system of equations is (x, y). What is the value of 4x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "6",
+    "showWork": "Subtract the equations: 4x = 9 - 3 = 6."
+  },
+  "8": {
+    "order": 8,
+    "page": 63,
+    "stimulus": "A bank account was opened with an initial deposit. Over the next several months, regular deposits were made into this account, and there were no withdrawals made during this time. The graph of the function f shown, where y = f(x), estimates the account balance, in dollars, in this bank account x months since the initial deposit.",
+    "text": "To the nearest whole dollar, what is the amount of the initial deposit estimated by the graph?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/m1-q08.svg",
+    "figure": "Coordinate plane. x-axis labeled \"Time since initial deposit (months)\", 0 to 10, tick labels every 2 (0,2,4,6,8,10), grid lines every 1 unit. y-axis labeled \"Bank account balance (dollars)\", 0 to 80, tick labels at 10,20,30,40,50,60,70,80, grid lines every 5 units. Solid line through (0,15), (5,35), and (10,55); slope 4 dollars per month.",
+    "correctAnswer": "15",
+    "showWork": "Initial deposit is the y-intercept at x = 0, which is 15 dollars."
+  },
+  "9": {
+    "order": 9,
+    "page": 64,
+    "stimulus": null,
+    "text": "y = -12x + 16\ny = -20x + 24\n\nWhat is the solution (x, y) to the given system of equations?",
+    "choices": {
+      "A": "(1, 4)",
+      "B": "(16, 24)",
+      "C": "(24, 16)",
+      "D": "(4, 1)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "-12x + 16 = -20x + 24 → x = 1, y = 4."
+  },
+  "10": {
+    "order": 10,
+    "page": 65,
+    "stimulus": null,
+    "text": "A rectangle has a length that is 73 times its width. The function y = (73w)(w) represents this situation, where y is the area, in square feet, of the rectangle and y > 0. Which of the following is the best interpretation of 73w in this context?",
+    "choices": {
+      "A": "The length of the rectangle, in feet",
+      "B": "The area of the rectangle, in square feet",
+      "C": "The difference between the length and the width of the rectangle, in feet",
+      "D": "The width of the rectangle, in feet"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "A",
+    "showWork": "Area = length × width and length = 73w, so 73w is the length."
+  },
+  "11": {
+    "order": 11,
+    "page": 66,
+    "stimulus": null,
+    "text": "An entomologist placed an initial population of 40 Tenebrio molitor, a type of beetle, into a habitat and monitored the population over time. When the number of Tenebrio molitor in the habitat reached 170% of the initial population, the entomologist moved 75% of the Tenebrio molitor to a second habitat. How many Tenebrio molitor did the entomologist move to the second habitat at this time?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "51",
+    "showWork": "170% of 40 = 68 beetles; 75% of 68 = 51 moved."
+  },
+  "12": {
+    "order": 12,
+    "page": 67,
+    "stimulus": null,
+    "text": "For the polynomial function f, the graph of y = f(x) in the xy-plane passes through the points (-3, 0), (1, 0), and (4, 0). Which of the following must be a factor of f(x)?",
+    "choices": {
+      "A": "x + 1",
+      "B": "x + 4",
+      "C": "x - 1",
+      "D": "x - 3"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Zero at x = 1 means (x - 1) is a factor."
+  },
+  "13": {
+    "order": 13,
+    "page": 68,
+    "stimulus": null,
+    "text": "A circle has a circumference of 89π centimeters. What is the diameter, in centimeters, of the circle?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "89",
+    "showWork": "C = πd → 89π = πd → d = 89."
+  },
+  "14": {
+    "order": 14,
+    "page": 69,
+    "stimulus": null,
+    "text": "If (x - 17)/18 = (x - 17)/6, what is the value of x + 17?",
+    "choices": {
+      "A": "0",
+      "B": "3",
+      "C": "17",
+      "D": "34"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Equal fractions with different denominators require x - 17 = 0, so x = 17 and x + 17 = 34."
+  },
+  "15": {
+    "order": 15,
+    "page": 70,
+    "stimulus": null,
+    "text": "For what value of a is the a-th root of r^42 equivalent to r^(6/7), where r > 1?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "49",
+    "showWork": "r^(42/a) = r^(6/7) → 42/a = 6/7 → a = 49."
+  },
+  "16": {
+    "order": 16,
+    "page": 71,
+    "stimulus": null,
+    "text": "In the xy-plane, line s passes through the point (0, 0) and is parallel to the line represented by the equation y = 36x + 6. If line s also passes through the point (9, d), what is the value of d?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "324",
+    "showWork": "Parallel line through origin: y = 36x; at x = 9, d = 36(9) = 324."
+  },
+  "17": {
+    "order": 17,
+    "page": 72,
+    "stimulus": null,
+    "text": "Circles A and B are graphed in the xy-plane. Circle A is represented by the equation (x + 8)² + (y - 8)² = 64 and intersects the x-axis at the point (r, s). Circle B has its center at (r, s) and has a radius of the same length as circle A. Which equation represents circle B?",
+    "choices": {
+      "A": "x² + (y + 8)² = 64",
+      "B": "x² + (y - 8)² = 64",
+      "C": "(x + 8)² + y² = 64",
+      "D": "(x - 8)² + y² = 64"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "C",
+    "showWork": "Circle A meets the x-axis at (-8, 0); center B = (-8, 0), radius 8 → (x + 8)² + y² = 64."
+  },
+  "18": {
+    "order": 18,
+    "page": 73,
+    "stimulus": "The dot plots represent the distributions of values in data sets A and B.",
+    "text": "Which of the following statements must be true?\n\nI. The median of data set A is equal to the median of data set B.\nII. The standard deviation of data set A is equal to the standard deviation of data set B.",
+    "choices": {
+      "A": "I and II",
+      "B": "I only",
+      "C": "II only",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/m1-q18.svg",
+    "figure": "Two side-by-side dot plots. Each has horizontal axis labeled \"Value\" with tick marks 4 through 10. Data Set A (left): dot counts at 4,5,6,7,8,9,10 are 1,2,4,5,4,2,1. Data Set B (right): dot counts are 2,3,4,3,4,3,2. Stack dots vertically above each value.",
+    "correctAnswer": "B",
+    "showWork": "Both medians are 7, but set B is more spread out so standard deviations differ."
+  },
+  "19": {
+    "order": 19,
+    "page": 74,
+    "stimulus": "The scatterplot shows the relationship between two variables, x and y. A line of best fit for the data is also shown.",
+    "text": "For how many of the 9 data points is the actual y-value greater than the y-value predicted by the line of best fit?",
+    "choices": {
+      "A": "8",
+      "B": "7",
+      "C": "5",
+      "D": "2"
+    },
+    "imageUrl": "/mocks/2025-august-int-v1/figures/m1-q19.svg",
+    "figure": "First-quadrant scatterplot. x-axis labeled x, 0 to 10, labels every 2, grid every 1. y-axis labeled y, 0 to 110, labels every 10, grid every 10. Line of best fit from about (0, 82) to (10, 97). Nine points approximately at (3.5, 90), (5.5, 87), (6.0, 94), (6.5, 95), (6.8, 89), (7.3, 90), (8.4, 98), (9.3, 93), (9.8, 100). Five points lie above the line.",
+    "correctAnswer": "C",
+    "showWork": "Count data points above the line of best fit: 5."
+  },
+  "20": {
+    "order": 20,
+    "page": 75,
+    "stimulus": null,
+    "text": "The side lengths of right triangle RST are given.\n\nRS = 504\nST = 128\nTR = 520\n\nTriangle RST is similar to triangle UVW, where S corresponds to V and T corresponds to W. What is the value of tan W?",
+    "choices": {
+      "A": "16/65",
+      "B": "16/63",
+      "C": "63/65",
+      "D": "63/16"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "Right angle at S; tan W = tan T = RS/ST = 504/128 = 63/16."
+  },
+  "21": {
+    "order": 21,
+    "page": 76,
+    "stimulus": null,
+    "text": "f(x) = 20(2)^x + 6(2)^x\n\nThe function f is defined by the given equation. Which of the following equivalent forms of f displays, as a coefficient or a base, the y-coordinate of the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "f(x) = 80(2)^(x-2) + 24(2)^(x-2)",
+      "B": "f(x) = 2(10(2)^x + 3(2)^x)",
+      "C": "f(x) = 20(4)^(x/2) + 6(4)^(x/2)",
+      "D": "f(x) = 26(2)^x"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "D",
+    "showWork": "f(x) = 26(2)^x; y-intercept f(0) = 26 shown as coefficient."
+  },
+  "22": {
+    "order": 22,
+    "page": 77,
+    "stimulus": null,
+    "text": "In a set of three consecutive integers, where the integers are ordered from least to greatest, the first integer is represented by x. The sum of 4 and the second integer is less than the product of 17 and the third integer. Which inequality represents this situation?",
+    "choices": {
+      "A": "4 + (x + 1) > 17(x + 2)",
+      "B": "4 + (x + 1) < 17(x + 2)",
+      "C": "4 + (x + 2) > 17(x + 3)",
+      "D": "4 + (x + 2) < 17(x + 3)"
+    },
+    "imageUrl": null,
+    "figure": null,
+    "correctAnswer": "B",
+    "showWork": "Integers are x, x+1, x+2 → 4 + (x + 1) < 17(x + 2)."
+  }
+}
