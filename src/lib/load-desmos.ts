@@ -20,6 +20,12 @@ function getApiKey(): string {
   return fromEnv || DEMO_KEY;
 }
 
+/** Undocumented controller surface used for expression-list width (Bluebook-style splitter). */
+export interface DesmosController {
+  dispatch: (action: Record<string, unknown>) => void;
+  getExpListWidth?: () => number;
+}
+
 export interface DesmosCalculatorInstance {
   resize: () => void;
   destroy: () => void;
@@ -27,6 +33,8 @@ export interface DesmosCalculatorInstance {
   setState: (state: unknown, opts?: { allowUndo?: boolean }) => void;
   setBlank: () => void;
   updateSettings: (settings: Record<string, unknown>) => void;
+  /** Present on GraphingCalculator; not part of the public typed API. */
+  controller?: DesmosController;
 }
 
 export interface DesmosAPI {
