@@ -13,7 +13,7 @@
         "imageUrl": null
       },
       "2": {
-        "stimulus": "The following text is from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Mole is returning home after a visit to Mr. Badger’s house.\n\nAs he hurried along, eagerly <u>anticipating</u> the moment when he would be at home again among the things he knew and liked, the Mole saw clearly that he was an animal of tilled field and hedge-row, linked to the ploughed furrow, the frequented pasture, the lane of evening lingerings, the cultivated garden-plot.",
+        "stimulus": "The following text is from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Mole is returning home after a visit to Mr. Badger’s house.\n\nAs he hurried along, eagerly _anticipating_ the moment when he would be at home again among the things he knew and liked, the Mole saw clearly that he was an animal of tilled field and hedge-row, linked to the ploughed furrow, the frequented pasture, the lane of evening lingerings, the cultivated garden-plot.",
         "text": "As used in the text, what does the word “anticipating” most nearly mean?",
         "choices": {
           "A": "Describing",
@@ -46,7 +46,7 @@
         "imageUrl": null
       },
       "5": {
-        "stimulus": "Benjamin Prud’homme and colleagues have explored how convergent evolution—<u>a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages</u>—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.",
+        "stimulus": "Benjamin Prud’homme and colleagues have explored how convergent evolution—_a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages_—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.",
         "text": "Which choice best states the function of the underlined portion in the text as a whole?",
         "choices": {
           "A": "It provides examples of how a phenomenon was studied by scientists in the field before Green and Extavour’s study.",
@@ -112,7 +112,7 @@
         "imageUrl": null
       },
       "11": {
-        "stimulus": "A student is researching the trends in the topics submitted to a national science fair for high school students. The graph shows the number of submissions by topic that were made each year. Based on the data in the graph, the student claims that <u>there were more medicine and health research topics submitted in 2019 than in any other year.</u>",
+        "stimulus": "A student is researching the trends in the topics submitted to a national science fair for high school students. The graph shows the number of submissions by topic that were made each year. Based on the data in the graph, the student claims that _there were more medicine and health research topics submitted in 2019 than in any other year._",
         "text": "Which choice most effectively uses data from the graph to support the underlined claim?",
         "choices": {
           "A": "In 2016, the number of cellular and molecular biology topic submissions was the same as the number of animal science topic submissions.",

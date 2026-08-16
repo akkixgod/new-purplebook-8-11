@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="360" viewBox="0 0 380 360">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="120" y1="30" x2="120" y2="310" stroke="#111" stroke-width="2"/>
+<line x1="260" y1="30" x2="260" y2="310" stroke="#111" stroke-width="2"/>
+<line x1="50" y1="50" x2="330" y2="300" stroke="#111" stroke-width="2"/>
+<text x="112" y="24" font-family="Georgia, serif" font-size="16" font-style="italic">r</text>
+<text x="252" y="24" font-family="Georgia, serif" font-size="16" font-style="italic">s</text>
+<text x="40" y="48" font-family="Georgia, serif" font-size="16" font-style="italic">k</text>
+<text x="128" y="100" font-family="Georgia, serif" font-size="15" font-style="italic">w°</text>
+<text x="128" y="145" font-family="Georgia, serif" font-size="15" font-style="italic">x°</text>
+<text x="268" y="230" font-family="Georgia, serif" font-size="15" font-style="italic">y°</text>
+<text x="268" y="275" font-family="Georgia, serif" font-size="15" font-style="italic">z°</text>
+<text x="190" y="345" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic">Note: Figure not drawn to scale.</text>
+</svg>

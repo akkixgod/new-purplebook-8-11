@@ -1,0 +1,313 @@
+{
+  "1": {
+    "order": 1,
+    "page": 76,
+    "stimulus": null,
+    "text": "The graph shows the height above ground, in meters, of a ball x seconds after the ball was launched upward from a platform. Which statement is the best interpretation of the marked point (1.0, 3.9) in this context?",
+    "choices": {
+      "A": "1.0 second after being launched, the ball's height above ground is 3.9 meters.",
+      "B": "3.9 seconds after being launched, the ball's height above ground is 1.0 meter.",
+      "C": "The ball was launched from an initial height of 1.0 meter with an initial velocity of 3.9 meters per second.",
+      "D": "The ball was launched from an initial height of 3.9 meters with an initial velocity of 1.0 meter per second."
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math2-q01-ball-height.svg",
+    "correctAnswer": "A",
+    "showWork": "On the graph x is time in seconds and y is height in meters, so the point (1.0, 3.9) means that at x = 1.0 second the height is y = 3.9 meters.",
+    "_reconstructedChoiceD": true,
+    "note": "The source screen capture is cut off below choice C, so choice D is not visible on page 76. Choice D was reconstructed as the mirror of choice C (the standard College Board pairing for this item). The key is unaffected: A is read directly off the graph."
+  },
+  "2": {
+    "order": 2,
+    "page": 77,
+    "stimulus": null,
+    "text": "In one week in 2017, a technician earned a total of $700 by working at her regular job and at a second job doing part-time work. The equation 16h + 13c = 700 represents this situation, where h is the number of hours worked at her regular job and c is the number of hours worked at her second job. Which of the following is the best interpretation of 16 in this context?",
+    "choices": {
+      "A": "The amount, in dollars, the technician earned for each hour she worked at her regular job",
+      "B": "The amount, in dollars, the technician earned for each hour she worked at her second job",
+      "C": "The number of hours the technician worked in one week at her regular job",
+      "D": "The number of hours the technician worked in one week at her second job"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "In 16h the variable h is the number of hours at the regular job, so the coefficient 16 is the dollars earned per hour at the regular job."
+  },
+  "3": {
+    "order": 3,
+    "page": 78,
+    "stimulus": null,
+    "text": "Which of the following lists represents a data set with the smallest standard deviation?",
+    "choices": {
+      "A": "44, 45, 47, 49, 50",
+      "B": "45, 45, 47, 49, 49",
+      "C": "45, 46, 47, 48, 49",
+      "D": "46, 47, 47, 47, 48"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "All four lists have mean 47. The sums of squared deviations are 26 (A), 16 (B), 10 (C), and 2 (D), so D is the least spread out and has the smallest standard deviation."
+  },
+  "4": {
+    "order": 4,
+    "page": 79,
+    "stimulus": null,
+    "text": "In the figure shown, triangle CAE is similar to triangle CBD. The measure of angle CBD is 56°, and AE = 24(BD). What is the measure of angle CAE?",
+    "choices": {
+      "A": "24°",
+      "B": "56°",
+      "C": "(24 + 56)°",
+      "D": "(24 · 56)°"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math2-q04-similar-triangles.svg",
+    "correctAnswer": "B",
+    "showWork": "The similarity statement CAE ~ CBD pairs A with B, so angle CAE corresponds to angle CBD. Corresponding angles of similar triangles are congruent, so angle CAE = 56°. The side ratio AE = 24(BD) is irrelevant because similarity scales lengths but never changes angle measures."
+  },
+  "5": {
+    "order": 5,
+    "page": 80,
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 375 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.64, and the probability of selecting a visitor who is located in room B is 0.32. How many visitors are located in room C?",
+    "choices": {
+      "A": "4",
+      "B": "15",
+      "C": "77",
+      "D": "120"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The three probabilities sum to 1, so the probability for room C is 1 − 0.64 − 0.32 = 0.04, giving 0.04(375) = 15 visitors."
+  },
+  "6": {
+    "order": 6,
+    "page": 81,
+    "stimulus": null,
+    "text": "y = x/4 + 6\ny = −x/4 + 20\n\nThe solution to the given system of equations is (x, y). What is the value of 2y?",
+    "choices": {
+      "A": "26",
+      "B": "20",
+      "C": "14",
+      "D": "6"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Setting the right sides equal: x/4 + 6 = −x/4 + 20 gives x/2 = 14, so x = 28. Then y = 28/4 + 6 = 13 and 2y = 26."
+  },
+  "7": {
+    "order": 7,
+    "page": 82,
+    "stimulus": null,
+    "text": "In 5 days, a polar bear ate 22.0 pounds of fat. Which equation describes the amount of fat y, in pounds, the polar bear ate in these 5 days?",
+    "choices": {
+      "A": "y = 22 + 5",
+      "B": "y = 22",
+      "C": "y = 22/5",
+      "D": "y = 5"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The amount eaten across the whole 5-day period is stated to be 22.0 pounds, so y = 22. Choice C would be the average pounds per day, not the total for the 5 days."
+  },
+  "8": {
+    "order": 8,
+    "page": 83,
+    "stimulus": null,
+    "text": "A researcher observes a sample of a nuclide. An exponential model estimates that the mass, in grams, of the sample decreases by 22% every 11.11 minutes. Which of the following equations could represent this model, where M is the estimated mass, in grams, of the sample t minutes after the researcher began observing the sample?",
+    "choices": {
+      "A": "M = 100(0.22)^(t + 11.11)",
+      "B": "M = 100(0.22)^(t/11.11)",
+      "C": "M = 100(0.78)^(t + 11.11)",
+      "D": "M = 100(0.78)^(t/11.11)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "A 22% decrease multiplies the mass by 1 − 0.22 = 0.78 each period, so the base must be 0.78. The period is 11.11 minutes, so the exponent counts periods as t/11.11."
+  },
+  "9": {
+    "order": 9,
+    "page": 84,
+    "stimulus": null,
+    "text": "Line k is defined by y = 8x + 7. Line j is parallel to line k in the xy-plane and passes through the point (0, 15). Which equation defines line j?",
+    "choices": {
+      "A": "y = 15x + 7",
+      "B": "y = −15x + 7",
+      "C": "y = 8x + 15",
+      "D": "y = −8x + 15"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Parallel lines have equal slopes, so line j has slope 8. Passing through (0, 15) makes 15 the y-intercept, giving y = 8x + 15."
+  },
+  "10": {
+    "order": 10,
+    "page": 85,
+    "stimulus": null,
+    "text": "For the linear function p, p(c) = −6, where c is a constant, p(5) = 42, and the slope of the graph of y = p(x) in the xy-plane is 8. For the linear function t, t(c) = −7 and t(6) = 56. What is the slope of the graph of y = t(x) in the xy-plane?",
+    "choices": {
+      "A": "−1",
+      "B": "2",
+      "C": "8",
+      "D": "9"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "For p the slope gives 8 = (42 − (−6))/(5 − c) = 48/(5 − c), so 5 − c = 6 and c = −1. Then t passes through (−1, −7) and (6, 56), so its slope is (56 − (−7))/(6 − (−1)) = 63/7 = 9."
+  },
+  "11": {
+    "order": 11,
+    "page": 86,
+    "stimulus": null,
+    "text": "If 2(4 − 5x) + 7(4 − 5x) + 9 = 8(4 − 5x) + 6, what is the value of 5x − 4?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "3",
+    "showWork": "Let u = 4 − 5x. The equation becomes 9u + 9 = 8u + 6, so u = −3. Since 5x − 4 = −(4 − 5x) = −u, the value is 3."
+  },
+  "12": {
+    "order": 12,
+    "page": 87,
+    "stimulus": null,
+    "text": "The shaded region shown represents the solutions to rx + ty ≥ −44, where r and t are constants. What is the value of r + t?",
+    "choices": {
+      "A": "−4",
+      "B": "−3",
+      "C": "3",
+      "D": "5"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math2-q12-shaded-inequality.svg",
+    "correctAnswer": "D",
+    "showWork": "The boundary line passes through the marked points (0, −11) and (−4, −10), so its slope is (−11 − (−10))/(0 − (−4)) = −1/4 and its equation is y = −x/4 − 11. Multiplying by 4 gives x + 4y = −44, so r = 1 and t = 4. The region above the line is shaded, which matches x + 4y ≥ −44 (testing (0, 0) gives 0 ≥ −44). Therefore r + t = 5."
+  },
+  "13": {
+    "order": 13,
+    "page": 88,
+    "stimulus": null,
+    "text": "f(x) = √(3x + 8)\n\nThe function f is defined by the given equation. If f(a) = −9a, where a is a constant, what is the value of a?",
+    "choices": {
+      "A": "1/3",
+      "B": "8/27",
+      "C": "−8/27",
+      "D": "−1/3"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "A square root is never negative, so −9a ≥ 0 and a ≤ 0. Squaring √(3a + 8) = −9a gives 3a + 8 = 81a², i.e. 81a² − 3a − 8 = 0. The discriminant is 9 + 4(81)(8) = 2,601 = 51², so a = (3 ± 51)/162, giving a = 1/3 or a = −8/27. Only a = −8/27 satisfies a ≤ 0."
+  },
+  "14": {
+    "stimulus": null,
+    "text": "⁷√(p⁴) = t^(4/21)\n\nIn the given equation, p > 1 and t > 1. If t = p^(2n − 1), where n is a constant, what is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "2",
+    "showWork": "p^(4/7)=t^(4/21); t=p^(2n-1) ⇒ 4/7=4(2n-1)/21 ⇒ 2n-1=3 ⇒ n=2."
+  },
+  "15": {
+    "order": 15,
+    "page": 90,
+    "stimulus": null,
+    "text": "The function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1, 6) and passes through the points (2, 40) and (−1, 142). What is the value of f(−2) − f(0)?",
+    "choices": {
+      "A": "108",
+      "B": "176",
+      "C": "272",
+      "D": "312"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Vertex form gives f(x) = a(x − 1)² + 6. From f(2) = a + 6 = 40 we get a = 34, which checks against f(−1) = 34(4) + 6 = 142. Then f(−2) = 34(9) + 6 = 312 and f(0) = 34(1) + 6 = 40, so f(−2) − f(0) = 272."
+  },
+  "16": {
+    "stimulus": "f(x) = (x − a)(x − b)",
+    "text": "The function f is defined by the given equation, where a and b are integer constants. If f(32) > 0, f(35) < 0, and f(38) > 0, which of the following could be the value of a + b?",
+    "choices": {
+      "A": "35",
+      "B": "37",
+      "C": "67",
+      "D": "69"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFromPrior": "Filled from 2025-june-int-b Math M2 Q16; source PDF missing this page."
+  },
+  "17": {
+    "order": 17,
+    "page": 91,
+    "stimulus": null,
+    "text": "The graph of y = f(x) + 2 is shown. Which equation defines function f?",
+    "choices": {
+      "A": "f(x) = −5^x + 1",
+      "B": "f(x) = −5^x + 3",
+      "C": "f(x) = −5^x + 4",
+      "D": "f(x) = −5^x + 5"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math2-q17-exponential-graph.svg",
+    "correctAnswer": "B",
+    "showWork": "The graph shown has y-intercept (0, 4) and crosses the x-axis at (1, 0), so the graphed function is y = −5^x + 5. Since the graph is y = f(x) + 2, f(x) = (−5^x + 5) − 2 = −5^x + 3."
+  },
+  "18": {
+    "order": 18,
+    "page": 92,
+    "stimulus": null,
+    "text": "A square map has a side length of 45 inches, and 1 inch on the map represents an actual distance of 13 miles. A smaller version of the same map is printed as a square with the side length 70% shorter than the side length of the previous map. On the smaller map, which of the following is closest to the actual distance, in miles, represented by 1 inch?",
+    "choices": {
+      "A": "3.90",
+      "B": "7.65",
+      "C": "31.50",
+      "D": "43.33"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The original map spans 45(13) = 585 actual miles across. The smaller map's side is 70% shorter, so it is 45(1 − 0.70) = 13.5 inches and still covers the same 585 miles. Therefore 1 inch represents 585/13.5 ≈ 43.33 miles.",
+    "note": "Page 93 is a duplicate capture of this same Q18 screen; it was used to cross-check the transcription."
+  },
+  "19": {
+    "order": 19,
+    "page": 94,
+    "stimulus": null,
+    "text": "7x^2(4x − 13)(4x − u) = 0\n\nIn the given equation, u is a positive constant. The sum of the solutions to the equation is 9. What is the value of u?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "23",
+    "showWork": "The solutions are x = 0, x = 13/4, and x = u/4, so their sum is 13/4 + u/4 = 9. Then u/4 = 9 − 13/4 = 23/4, giving u = 23, which is positive as required.",
+    "_reconstructedValue": "sum = 9",
+    "note": "The right edge of the page-94 capture is clipped: the stem line ends at '…the sum of the solutions to the equation' and the stated value is cut off. The value 9 is recovered from the test-taker's on-screen Desmos work, still visible on pages 94–96 (13/4 − 9 = −5.75 and (13/4 − 9)·4 = −23, alongside y = 7x²(4x − 13)(4x − u)). Sum = 9 gives u = 23, the only sign consistent with the stem's requirement that u be positive; sum = −9 would give u = −49. Verify against another copy if possible."
+  },
+  "20": {
+    "order": 20,
+    "page": 95,
+    "stimulus": null,
+    "text": "Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 59 square centimeters (cm²), and the surface area of right rectangular prism Y is 1,475 cm². The volume of right rectangular prism Y is 1,500 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1512",
+    "showWork": "The ratio of surface areas is 59/1,475 = 1/25, so the ratio of corresponding lengths is 1/5 and the ratio of volumes is 1/125. Then the volume of X is 1,500/125 = 12 cm³, and the sum is 12 + 1,500 = 1,512 cm³."
+  },
+  "21": {
+    "order": 21,
+    "page": 96,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = ab^(x/n), where a, b, and n are constants, and b and n are integers. If f(2) = 6 and f(5) = 162, what is the value of f(7)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1458",
+    "showWork": "Let k = b^(1/n), so f(x) = a·k^x. Dividing f(5) by f(2): k³ = 162/6 = 27, so k = 3. From f(2) = a(9) = 6 we get a = 2/3. Then f(7) = (2/3)(3⁷) = (2/3)(2,187) = 1,458."
+  },
+  "22": {
+    "stimulus": "x(kx − 112) = −8",
+    "text": "In the given equation, k is an integer constant. If the equation has two distinct real solutions, what is the greatest possible value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "391",
+    "_filledFromPrior": "Filled from 2025-june-int-b Math M2 Q22; source PDF missing this page."
+  }
+}

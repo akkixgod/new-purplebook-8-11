@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="340" viewBox="0 0 520 340">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="60" y1="280" x2="460" y2="280" stroke="#111"/>
+<line x1="60" y1="30" x2="60" y2="280" stroke="#111"/>
+<line x1="460" y1="30" x2="460" y2="280" stroke="#111"/>
+<text x="260.0" y="325" text-anchor="middle" font-family="Georgia, serif" font-size="13">Length (feet)</text>
+<text x="18" y="155.0" text-anchor="middle" transform="rotate(-90 18 155.0)" font-family="Georgia, serif" font-size="13">Frequency</text>
+<line x1="56" y1="280.0" x2="60" y2="280.0" stroke="#111"/>
+<line x1="460" y1="280.0" x2="464" y2="280.0" stroke="#111"/>
+<text x="52" y="284.0" text-anchor="end" font-family="Georgia, serif" font-size="12">0</text>
+<line x1="56" y1="230.0" x2="60" y2="230.0" stroke="#111"/>
+<line x1="460" y1="230.0" x2="464" y2="230.0" stroke="#111"/>
+<text x="52" y="234.0" text-anchor="end" font-family="Georgia, serif" font-size="12">1</text>
+<line x1="56" y1="180.0" x2="60" y2="180.0" stroke="#111"/>
+<line x1="460" y1="180.0" x2="464" y2="180.0" stroke="#111"/>
+<text x="52" y="184.0" text-anchor="end" font-family="Georgia, serif" font-size="12">2</text>
+<line x1="56" y1="130.0" x2="60" y2="130.0" stroke="#111"/>
+<line x1="460" y1="130.0" x2="464" y2="130.0" stroke="#111"/>
+<text x="52" y="134.0" text-anchor="end" font-family="Georgia, serif" font-size="12">3</text>
+<line x1="56" y1="80.0" x2="60" y2="80.0" stroke="#111"/>
+<line x1="460" y1="80.0" x2="464" y2="80.0" stroke="#111"/>
+<text x="52" y="84.0" text-anchor="end" font-family="Georgia, serif" font-size="12">4</text>
+<line x1="56" y1="30.0" x2="60" y2="30.0" stroke="#111"/>
+<line x1="460" y1="30.0" x2="464" y2="30.0" stroke="#111"/>
+<text x="52" y="34.0" text-anchor="end" font-family="Georgia, serif" font-size="12">5</text>
+<rect x="60.0" y="30.0" width="80.0" height="250.0" fill="#9ca3af" stroke="#111"/>
+<text x="60.0" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="12">0</text>
+<rect x="140.0" y="130.0" width="80.0" height="150.0" fill="#9ca3af" stroke="#111"/>
+<text x="140.0" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="12">50</text>
+<rect x="220.0" y="80.0" width="80.0" height="200.0" fill="#9ca3af" stroke="#111"/>
+<text x="220.0" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="12">100</text>
+<rect x="300.0" y="130.0" width="80.0" height="150.0" fill="#9ca3af" stroke="#111"/>
+<text x="300.0" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="12">150</text>
+<rect x="380.0" y="30.0" width="80.0" height="250.0" fill="#9ca3af" stroke="#111"/>
+<text x="380.0" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="12">200</text>
+<text x="460" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="12">250</text>
+</svg>

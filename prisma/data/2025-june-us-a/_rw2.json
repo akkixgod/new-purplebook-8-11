@@ -54,7 +54,7 @@
   "5": {
     "page": 33,
     "correctAnswer": "A",
-    "stimulus": "Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including *Coprinellus micaceus* and species from the genus *Cantharellus*) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: <u>temperature reductions were observed in the air immediately surrounding the mushrooms.</u> Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.",
+    "stimulus": "Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including *Coprinellus micaceus* and species from the genus *Cantharellus*) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: _temperature reductions were observed in the air immediately surrounding the mushrooms._ Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology.",

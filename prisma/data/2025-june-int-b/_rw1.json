@@ -3,7 +3,7 @@
     "page": 2,
     "pdfQuestion": 3,
     "correctAnswer": "B",
-    "stimulus": "The following text is adapted from Virginia Woolf’s 1919 novel Night and Day. Katharine is the granddaughter of a celebrated poet.\n\n[Katharine’s] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very <u>manifest</u>. Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.",
+    "stimulus": "The following text is adapted from Virginia Woolf’s 1919 novel Night and Day. Katharine is the granddaughter of a celebrated poet.\n\n[Katharine’s] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very _manifest_. Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.",
     "text": "As used in the text, what does the word “manifest” most nearly mean?",
     "choices": {
       "A": "Possible",
@@ -31,7 +31,7 @@
     "page": 4,
     "pdfQuestion": 5,
     "correctAnswer": "C",
-    "stimulus": "Many visitors to Yellowstone National Park need airlines, car rentals, hotels, and restaurants during their visits. These services generate carbon emissions. Emily Wilkins and Jordan Smith found that most of the environmentally harmful emissions come from travel services to and from the park. <u>Wilkins and Smith found that policymakers could help reduce these emissions by encouraging people to visit state or national parks closer to their homes to cut down on their travel.</u>",
+    "stimulus": "Many visitors to Yellowstone National Park need airlines, car rentals, hotels, and restaurants during their visits. These services generate carbon emissions. Emily Wilkins and Jordan Smith found that most of the environmentally harmful emissions come from travel services to and from the park. _Wilkins and Smith found that policymakers could help reduce these emissions by encouraging people to visit state or national parks closer to their homes to cut down on their travel._",
     "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
     "choices": {
       "A": "It presents a harm that is unique to the location described earlier in the text.",
@@ -45,7 +45,7 @@
     "page": 5,
     "pdfQuestion": 6,
     "correctAnswer": "A",
-    "stimulus": "Though John Crowley, author of Flint and Mirror, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, <u>Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naïve and sentimental modes</u>—while Schiller thought works could be classified as either naïve (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.",
+    "stimulus": "Though John Crowley, author of Flint and Mirror, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, _Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naïve and sentimental modes_—while Schiller thought works could be classified as either naïve (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It gives a reason why a critic appreciates a certain book.",
@@ -59,7 +59,7 @@
     "page": 6,
     "pdfQuestion": 7,
     "correctAnswer": "A",
-    "stimulus": "The following text is adapted from Anthony Trollope’s 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergyperson.\n\nLet us observe the well-furnished breakfast-parlour at Plumstead Episcopi, and the comfortable air of all the belongings of the rectory. Comfortable they certainly were, but neither gorgeous nor even grand; indeed, considering the money that had been spent there, the eye and taste might have been better served; there was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; <u>but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred.</u>",
+    "stimulus": "The following text is adapted from Anthony Trollope’s 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergyperson.\n\nLet us observe the well-furnished breakfast-parlour at Plumstead Episcopi, and the comfortable air of all the belongings of the rectory. Comfortable they certainly were, but neither gorgeous nor even grand; indeed, considering the money that had been spent there, the eye and taste might have been better served; there was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; _but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred._",
     "text": "Which choice best states the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It offers a potential explanation for the furnishing choices the narrator critiques.",

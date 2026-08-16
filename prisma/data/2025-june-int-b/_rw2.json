@@ -54,7 +54,7 @@
   "5": {
     "page": 31,
     "correctAnswer": "D",
-    "stimulus": "The following text is from Yung Wing’s 1909 memoir My Life in China and America. Yung Wing was the first person from China to graduate from a US university.\n\n<u>Little did I realize when in 1845 I wrote, while in the Morrison School, a composition on “An Imaginary Voyage to New York and up the Hudson,” that I was to see New York in reality.</u> This incident leads me to the reflection that sometimes our imagination foreshadows what lies uppermost in our minds and brings possibilities within the sphere of realities.",
+    "stimulus": "The following text is from Yung Wing’s 1909 memoir My Life in China and America. Yung Wing was the first person from China to graduate from a US university.\n\n_Little did I realize when in 1845 I wrote, while in the Morrison School, a composition on “An Imaginary Voyage to New York and up the Hudson,” that I was to see New York in reality._ This incident leads me to the reflection that sometimes our imagination foreshadows what lies uppermost in our minds and brings possibilities within the sphere of realities.",
     "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
     "choices": {
       "A": "It foreshadows Yung’s eventual success as a writer.",
@@ -67,7 +67,7 @@
   "6": {
     "page": 32,
     "correctAnswer": "B",
-    "stimulus": "The following text is from Jerome K. Jerome’s 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.\n\nIn a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. <u>Harris’s notion was, that it was he alone who had been working, and that both George and I had been imposing upon him.</u> George, on the other hand, ridiculed the idea of Harris’s having done anything more than eat and sleep, and had a cast-iron opinion that it was he—George himself—who had done all the labour worth speaking of.",
+    "stimulus": "The following text is from Jerome K. Jerome’s 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.\n\nIn a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. _Harris’s notion was, that it was he alone who had been working, and that both George and I had been imposing upon him._ George, on the other hand, ridiculed the idea of Harris’s having done anything more than eat and sleep, and had a cast-iron opinion that it was he—George himself—who had done all the labour worth speaking of.",
     "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
     "choices": {
       "A": "It establishes Harris’s feelings about the narrator’s idea of how boat trips usually proceed.",
@@ -80,7 +80,7 @@
   "7": {
     "page": 33,
     "correctAnswer": "B",
-    "stimulus": "Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” a technique (which in part involved swift applications of paint) that many Highwaymen, including Livingston Roberts, adopted. <u>To conclude that this approach accounts for the ethereal qualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair’s methods weren’t universally practiced by his affiliates;</u> George Buckner, for example, painted with greater deliberateness but achieved the same effects.",
+    "stimulus": "Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” a technique (which in part involved swift applications of paint) that many Highwaymen, including Livingston Roberts, adopted. _To conclude that this approach accounts for the ethereal qualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair’s methods weren’t universally practiced by his affiliates;_ George Buckner, for example, painted with greater deliberateness but achieved the same effects.",
     "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It details evidence that contradicts a claim mentioned earlier in the text about a long-standing disagreement within a group of artists.",

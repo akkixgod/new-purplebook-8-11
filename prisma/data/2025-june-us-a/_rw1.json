@@ -2,7 +2,7 @@
   "1": {
     "page": 2,
     "correctAnswer": "A",
-    "stimulus": "The following text is adapted from Jhumpa Lahiri’s 2003 novel *The Namesake*. Gogol is an elementary school student in Massachusetts.\n\nIn art class, his favorite hour of the week, he <u>carves</u> his name with paper clips into the bottoms of clay cups and bowls. He pastes uncooked pasta to cardboard, and <u>leaves</u> his signature in fat brush strokes below paintings.",
+    "stimulus": "The following text is adapted from Jhumpa Lahiri’s 2003 novel *The Namesake*. Gogol is an elementary school student in Massachusetts.\n\nIn art class, his favorite hour of the week, he _carves_ his name with paper clips into the bottoms of clay cups and bowls. He pastes uncooked pasta to cardboard, and _leaves_ his signature in fat brush strokes below paintings.",
     "text": "As used in the text, what do the words “carves” and “leaves” both most nearly mean?",
     "choices": {
       "A": "Marks",
@@ -54,7 +54,7 @@
   "5": {
     "page": 6,
     "correctAnswer": "B",
-    "stimulus": "Benjamin Prud’homme and colleagues have explored how convergent evolution—<u>a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages</u>—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.",
+    "stimulus": "Benjamin Prud’homme and colleagues have explored how convergent evolution—_a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages_—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.",
     "text": "Which choice best states the function of the underlined portion in the text as a whole?",
     "choices": {
       "A": "It provides examples of how a phenomenon was studied by scientists in the field before Green and Extavour’s study.",
@@ -119,7 +119,7 @@
   "10": {
     "page": 11,
     "correctAnswer": "D",
-    "stimulus": "Vancouver has high pedestrian traffic, but other cities cannot increase their pedestrian traffic simply by replicating a single feature of Vancouver—e.g., its <u>high number of pedestrian amenities</u>—that is associated with walkability. As urbanist Mariela Alfonzo argues, many factors influence people’s decision-making about whether to walk: some studies have shown the importance of demographic characteristics, others have shown the importance of average commuting distance, and so on, and it is clear that none of these factors in isolation fully explains pedestrian habits in a given city.",
+    "stimulus": "Vancouver has high pedestrian traffic, but other cities cannot increase their pedestrian traffic simply by replicating a single feature of Vancouver—e.g., its _high number of pedestrian amenities_—that is associated with walkability. As urbanist Mariela Alfonzo argues, many factors influence people’s decision-making about whether to walk: some studies have shown the importance of demographic characteristics, others have shown the importance of average commuting distance, and so on, and it is clear that none of these factors in isolation fully explains pedestrian habits in a given city.",
     "text": "Based on the text, the author would most likely agree with which statement about Vancouver’s “high number of pedestrian amenities”?",
     "choices": {
       "A": "It may increase walkability in Vancouver but is known to reduce walkability in other cities.",

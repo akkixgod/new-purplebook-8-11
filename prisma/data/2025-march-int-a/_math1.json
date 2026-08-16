@@ -1,0 +1,308 @@
+{
+  "1": {
+    "order": 1,
+    "page": 55,
+    "stimulus": null,
+    "text": "s = 40 + 2t\n\nThe equation gives the speed s, in miles per hour, of a certain car t seconds after it began to accelerate. What is the speed, in miles per hour, of the car 4 seconds after it began to accelerate?",
+    "choices": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "48"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Substitute t = 4: s = 40 + 2(4) = 48."
+  },
+  "2": {
+    "order": 2,
+    "page": 56,
+    "stimulus": null,
+    "text": "Which equation shows the relationship between the side lengths of the given triangle?",
+    "choices": {
+      "A": "8b = 20",
+      "B": "8 + b = 20",
+      "C": "8^2 + b^2 = 20^2",
+      "D": "8^2 − b^2 = 20^2"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math1-q02-right-triangle.svg",
+    "correctAnswer": "C",
+    "showWork": "The 20 is the hypotenuse and 8 and b are the legs, so the Pythagorean theorem gives 8^2 + b^2 = 20^2."
+  },
+  "3": {
+    "order": 3,
+    "page": 57,
+    "stimulus": null,
+    "text": "The histogram shows the distribution of 20 lengths, in feet, in a data set. The first bar represents the lengths that are less than 50 feet, the second bar represents the lengths that are at least 50 feet but less than 100 feet, and so on. Which of the following could be the maximum length, in feet, in this data set?",
+    "choices": {
+      "A": "69",
+      "B": "119",
+      "C": "169",
+      "D": "219"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math1-q03-histogram.svg",
+    "correctAnswer": "D",
+    "showWork": "The last bar (frequency 5) covers lengths at least 200 but less than 250 feet, so the maximum length is in that interval. Only 219 lies between 200 and 250."
+  },
+  "4": {
+    "stimulus": null,
+    "text": "For a certain classification, the positive mass m, in grams, of an object must be less than 510 grams. Which inequality represents this situation?",
+    "choices": {
+      "A": "m > 510",
+      "B": "m < 0",
+      "C": "−510 < m < 0",
+      "D": "0 < m < 510"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFromPrior": "Filled from 2025-june-us-a Math M1 Q4; source PDF missing this page."
+  },
+  "5": {
+    "order": 5,
+    "page": 58,
+    "stimulus": null,
+    "text": "7x + 28 = 7x + k\n\nIn the given equation, k is a constant. The equation has infinitely many solutions. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "28",
+    "showWork": "Infinitely many solutions requires the two sides to be identical, so k = 28."
+  },
+  "6": {
+    "order": 6,
+    "page": 59,
+    "stimulus": null,
+    "text": "A line segment that has a length of 113 centimeters (cm) is divided into three parts. One part is 47 cm long. The other two parts have lengths that are equal to each other. What is the length, in cm, of one of the other two parts of equal length?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "33",
+    "showWork": "113 − 47 = 66 cm remains for the two equal parts, so each is 66 ÷ 2 = 33 cm."
+  },
+  "7": {
+    "stimulus": null,
+    "text": "A group of 40 employees selected at random from all the employees at a company were surveyed about the number of books they read last year. From the data collected, it was estimated that the mean number of books employees at the company read last year is 6.8, with an associated margin of error of 1.1. Which of the following is the most appropriate conclusion?",
+    "choices": {
+      "A": "It is plausible that the actual mean number of books employees at the company read last year is less than 5.7.",
+      "B": "It is plausible that the actual mean number of books employees at the company read last year is between 5.7 and 7.9.",
+      "C": "It is plausible that every employee at the company read between 6.8 and 10.1 books last year.",
+      "D": "It is plausible that the actual mean number of books employees at the company read last year is greater than 7.9."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "_filledFromPrior": "Filled from 2025-june-us-a Math M1 Q7; source PDF missing this page."
+  },
+  "8": {
+    "order": 8,
+    "page": 60,
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown.\n\nWhich of the following equations best represents the line of best fit shown?",
+    "choices": {
+      "A": "y = x − 16.3",
+      "B": "y = −x + 16.3",
+      "C": "y = x − 2.3",
+      "D": "y = −x + 2.3"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math1-q08-scatterplot.svg",
+    "correctAnswer": "D",
+    "showWork": "The line falls from left to right, so the slope is negative. It passes through about (−14, 16) and meets the y-axis near y = 2.3, giving slope ≈ −1 and y-intercept ≈ 2.3, so y = −x + 2.3."
+  },
+  "9": {
+    "order": 9,
+    "page": 61,
+    "stimulus": null,
+    "text": "The expression 7x^6 + 9x^6 − 8x^6 is equivalent to bx^6, where b is a constant. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "8",
+    "showWork": "7 + 9 − 8 = 8, so 7x^6 + 9x^6 − 8x^6 = 8x^6 and b = 8."
+  },
+  "10": {
+    "order": 10,
+    "page": 62,
+    "stimulus": null,
+    "text": "At what point (x, y) do the graphs of the equations y = 5x + 8 and y = 6x − 2 intersect in the xy-plane?",
+    "choices": {
+      "A": "(5, 6)",
+      "B": "(6, 5)",
+      "C": "(10, 58)",
+      "D": "(58, 10)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "5x + 8 = 6x − 2 gives x = 10, and y = 5(10) + 8 = 58, so the point is (10, 58)."
+  },
+  "11": {
+    "order": 11,
+    "page": 63,
+    "stimulus": null,
+    "text": "A rectangle has a length that is 72 times its width. The function y = (72w)(w) represents this situation, where y is the area, in square feet, of the rectangle and y > 0. Which of the following is the best interpretation of 72w in this context?",
+    "choices": {
+      "A": "The length of the rectangle, in feet",
+      "B": "The area of the rectangle, in square feet",
+      "C": "The difference between the length and the width of the rectangle, in feet",
+      "D": "The width of the rectangle, in feet"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Area = length × width, and here area = (72w)(w) with w the width, so the factor 72w is the length in feet."
+  },
+  "12": {
+    "order": 12,
+    "page": 65,
+    "stimulus": null,
+    "text": "f(x) = 29\n\nFor the given linear function f, which table gives three values of x and their corresponding values of f(x)?",
+    "choices": {
+      "A": "x | f(x)\n0 | 0\n1 | 0\n2 | 0",
+      "B": "x | f(x)\n0 | 29\n1 | 29\n2 | 29",
+      "C": "x | f(x)\n0 | 0\n1 | 29\n2 | 58",
+      "D": "x | f(x)\n0 | 29\n1 | 0\n2 | −29"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "f is the constant function 29, so f(x) = 29 for every value of x."
+  },
+  "13": {
+    "order": 13,
+    "page": 66,
+    "stimulus": null,
+    "text": "In the figure shown, line k intersects lines r and s. If w = 160, which additional piece of information is sufficient to prove that lines r and s are parallel?",
+    "choices": {
+      "A": "x = 20",
+      "B": "y = 160",
+      "C": "w + y = 180",
+      "D": "y + z = 180"
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math1-q13-transversal.svg",
+    "correctAnswer": "B",
+    "showWork": "w° and y° are corresponding angles for transversal k, so r ∥ s exactly when w = y, i.e. y = 160. Choices A and D follow automatically from linear pairs (x = 180 − w, z = 180 − y) and so prove nothing."
+  },
+  "14": {
+    "order": 14,
+    "page": 68,
+    "stimulus": null,
+    "text": "x^2 − 4x + y^2 − 8y − 80 = 0\n\nIn the xy-plane, the graph of the given equation is a circle. If this circle is inscribed in a square, what is the perimeter of the square?",
+    "choices": {
+      "A": "20",
+      "B": "40",
+      "C": "80",
+      "D": "320"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Completing the square: (x − 2)^2 + (y − 4)^2 = 80 + 4 + 16 = 100, so r = 10 and the diameter is 20. An inscribed circle means the square's side equals the diameter, so the perimeter is 4(20) = 80."
+  },
+  "15": {
+    "order": 15,
+    "page": 69,
+    "stimulus": null,
+    "text": "A real estate company offers a series of three webinars. 1,250 people attended the first webinar. 46% of the people who attended the first webinar attended the second webinar, and 32% of the people who attended the first and second webinars attended the third webinar. How many people attended all three webinars?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "184",
+    "showWork": "0.46(1,250) = 575 attended the first two webinars, and 0.32(575) = 184 attended all three."
+  },
+  "16": {
+    "order": 16,
+    "page": 70,
+    "stimulus": null,
+    "text": "f(x) = 24(2)^(x/6)\n\nWhich table gives four values of x and their corresponding values of f(x) for the given exponential function?",
+    "choices": {
+      "A": "x: −6, 0, 6, 12\nf(x): 12, 0, 48, 96",
+      "B": "x: −6, 0, 6, 12\nf(x): 12, 24, 48, 96",
+      "C": "x: −6, 0, 6, 12\nf(x): −12, 24, 48, 96",
+      "D": "x: −6, 0, 6, 12\nf(x): 12, 24, 48, 72"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "f(−6) = 24(2)^(−1) = 12, f(0) = 24, f(6) = 24(2) = 48, f(12) = 24(2)^2 = 96."
+  },
+  "17": {
+    "stimulus": "(x − 7)(x − 9)/(x − 4) = 0",
+    "text": "What is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "4",
+      "B": "9",
+      "C": "16",
+      "D": "20"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "_filledFromPrior": "Filled from 2025-june-us-a Math M1 Q17; source PDF missing this page."
+  },
+  "18": {
+    "order": 18,
+    "page": 71,
+    "stimulus": null,
+    "text": "To study fluctuations in leaf water potential, samples of wood were taken from 22 trees. Each sample of wood was cut in the shape of a cube. The length of the edge of one of these cubes is 3.000 centimeters. This cube has a density of 0.250 grams per cubic centimeter. What is the mass of this cube, in grams?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "6.75",
+    "showWork": "Volume = 3.000^3 = 27 cubic centimeters, so mass = 27(0.250) = 6.75 grams."
+  },
+  "19": {
+    "order": 19,
+    "page": 72,
+    "stimulus": null,
+    "text": "−2|5x + 9| + 7 = −11\n\nWhat are all solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "0 and −7/5",
+      "C": "0 and −18/5",
+      "D": "There is no solution."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "−2|5x + 9| = −18 gives |5x + 9| = 9, so 5x + 9 = 9 (x = 0) or 5x + 9 = −9 (x = −18/5)."
+  },
+  "20": {
+    "order": 20,
+    "page": 73,
+    "stimulus": null,
+    "text": "x^2 − 84x − 14 = 0\n\nWhat is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "7",
+      "C": "14",
+      "D": "84"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "For x^2 + bx + c = 0 the sum of the solutions is −b, so the sum is −(−84) = 84."
+  },
+  "21": {
+    "order": 21,
+    "page": 74,
+    "stimulus": null,
+    "text": "For the right circular cone shown, B is a point on the circumference of the base, and the length of segment AB (not shown) is 32 centimeters. If the height of the cone is 16 centimeters and the volume of the cone is kπ cubic centimeters, what is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-march-int-a/figures/math1-q21-cone.svg",
+    "correctAnswer": "4096",
+    "showWork": "AB is the slant height, so r^2 = 32^2 − 16^2 = 1,024 − 256 = 768. Volume = (1/3)π(768)(16) = 4,096π, so k = 4,096."
+  },
+  "22": {
+    "order": 22,
+    "page": 75,
+    "stimulus": null,
+    "text": "In the xy-plane, line k and line ℓ are perpendicular and intersect at the point (2, 8). If line k is defined by the equation y = mx + b, where m and b are constants and m > 1, which of the following points lies on line ℓ?",
+    "choices": {
+      "A": "(3, 8 − 1/m)",
+      "B": "(3, 8 + 1/m)",
+      "C": "(3, 8 − m)",
+      "D": "(3, 8 + m)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Line ℓ is perpendicular to k, so its slope is −1/m, and it passes through (2, 8). Moving 1 unit right from x = 2 to x = 3 changes y by −1/m, giving the point (3, 8 − 1/m)."
+  }
+}
