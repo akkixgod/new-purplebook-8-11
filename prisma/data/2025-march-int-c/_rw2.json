@@ -1,0 +1,380 @@
+{
+  "1": {
+    "order": 1,
+    "page": 28,
+    "stimulus": "Often, the Nobel Prize in Chemistry is given to a single person, such as Richard Martin Willstätter in 1915. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ______. For instance, in 2020, Jennifer Doudna was among those awarded for \"the development of a method for genome editing.\"",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "retroactively",
+      "B": "ceremoniously",
+      "C": "jointly",
+      "D": "reluctantly"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "2": {
+    "order": 2,
+    "page": 29,
+    "stimulus": "As with other river deltas, the Krishna River delta is ______: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Bay of Bengal.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "sustainable",
+      "B": "unrivaled",
+      "C": "immutable",
+      "D": "dynamic"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "3": {
+    "order": 3,
+    "page": 30,
+    "stimulus": "Many of late nineteenth-century artist James McNeill Whistler's oil paintings and lithographs depict the streets of European cities. While his contemporaries' approaches to these subjects were often sentimental, Whistler's eye seemed ______. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "tranquil",
+      "B": "peculiar",
+      "C": "nostalgic",
+      "D": "dispassionate"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "4": {
+    "order": 4,
+    "page": 31,
+    "stimulus": "The following text is adapted from George Eliot's 1857 short story \"The Sad Fortunes of the Rev. Amos Barton.\" Mr. Ely is a clergyman in the town of Milby.\n\nBy the laity of Milby and its neighbourhood [Mr. Ely] was regarded as a man of quite remarkable powers and learning, who must make a considerable sensation in London pulpits and drawing-rooms on his occasional visit to the metropolis; and by his brother clergy he was regarded as a discreet and agreeable fellow. Mr. Ely never got into a warm discussion; he suggested what might be thought, but rarely said what he thought himself; he never let either men or women see that he was laughing at them, and he never gave any one an opportunity of laughing at him.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It relates how Mr. Ely had initially earned the respect of his colleagues and then recounts the circumstances under which their views of him began to change.",
+      "B": "It implies that Mr. Ely's neighbors are more naïve in their estimation of him than people in London are and then explains why his neighbors have been so easily misled.",
+      "C": "It presents the favorable opinion of Mr. Ely that other people hold and then describes the behaviors of Mr. Ely that enable him to maintain that favorable opinion.",
+      "D": "It highlights the disparity between Mr. Ely's public and private behavior and then conveys why he labors to obscure his true self from other people."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "5": {
+    "order": 5,
+    "page": 32,
+    "stimulus": "Mexican architect Luis Barragán's prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán shifted his style to incorporate principles of modernism, as seen in the Pizarro Suárez House. The project's unadorned geometric forms, typical of the modernist aesthetic, contrasted with the historically inspired architecture seen in his earlier projects in Guadalajara, such as the house in Calle Pedro Loza.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It summarizes the career of a particular architect, states how a journey influenced that architect's career, and then emphasizes how influential that architect's career has been.",
+      "B": "It presents a general claim about a particular architect's career, describes the early stages of the architect's career, and then explains a later shift in that career.",
+      "C": "It explains the design aesthetic of a particular architect, acknowledges the sources of those design choices, and then contrasts that aesthetic with the designs of earlier architects.",
+      "D": "It provides a general statement about the career of a particular architect, highlights a transition in that career, and then expounds on the ways that transition is evident in the architect's work."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "6": {
+    "order": 6,
+    "page": 33,
+    "stimulus": "Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of hotels, bicycle stores, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston's North End. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city's amenities.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It describes how an algorithm can predict the success of certain businesses, discusses an example of a use of that algorithm, and suggests potential uses of the algorithm in other fields.",
+      "B": "It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and identifies one key finding.",
+      "C": "It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem.",
+      "D": "It introduces a research team's study of urban neighborhoods, describes an aspect of the study's methodology, and suggests a potential application of the team's research."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "7": {
+    "order": 7,
+    "page": 34,
+    "stimulus": "Text 1\nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.\n\nText 2\nIn a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.'s calculations therefore placed the inner edge for these planets' HZ as far out as 3.85 AU.",
+    "text": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.'s research, as presented in Text 1?",
+    "choices": {
+      "A": "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
+      "B": "By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high",
+      "C": "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet's surface is unlikely to harbor liquid water",
+      "D": "By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "8": {
+    "order": 8,
+    "page": 35,
+    "stimulus": "When Kenyan writer Ngũgĩ wa Thiong'o, who had previously published four novels in English, began writing in his native language, Gĩkũyũ, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili—widely spoken in Kenya and elsewhere in Africa—would be a more practical choice. Rejecting their arguments, Ngũgĩ went on to author dozens of acclaimed works in Gĩkũyũ that have been translated into a total of more than thirty languages.",
+    "text": "Which choice best states the main idea of the text?",
+    "choices": {
+      "A": "Although Ngũgĩ insisted on publishing his first works in Gĩkũyũ, they have since been translated into many other languages.",
+      "B": "Although Ngũgĩ's decision to write in Gĩkũyũ was met with some skepticism, it didn't prevent him from achieving literary success.",
+      "C": "The reaction to Ngũgĩ's rejection of English illustrates that some literary experts believe that fame is most easily gained by writing in a widely understood language, such as Gĩkũyũ.",
+      "D": "In the 1970s, Ngũgĩ became convinced that literature ought to be written in authors' native languages, and he proceeded to publish many works in Gĩkũyũ."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "9": {
+    "order": 9,
+    "page": 36,
+    "stimulus": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Buenos Aires, Argentina, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city's parks, and of the 683 respondents from Buenos Aires, 69.9% indicated using city parks. Given that the percentage of Quito respondents who reported having access to other desired amenities near parks was much lower than that reported by Buenos Aires respondents, the difference in park use can't be explained by Quito residents having more access to desired nonpark amenities near parks.",
+    "text": "Which choice best describes the main idea of the text?",
+    "choices": {
+      "A": "The study's findings suggest that an increase in the number of amenities near city parks would likely increase park use in Quito but not in Buenos Aires.",
+      "B": "Although the study found that a greater proportion of residents use parks in Quito than in Buenos Aires, that difference isn't due to greater access to amenities near parks in Quito.",
+      "C": "Even though the study found that parks in Buenos Aires are more likely to be close to other amenities than parks in Quito are, Quito has more amenities overall than Buenos Aires does.",
+      "D": "The study's finding that a greater proportion of residents use parks in Quito than in Buenos Aires is partly due to the greater prevalence of parks in Quito."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "10": {
+    "order": 10,
+    "page": 37,
+    "stimulus": "Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that widgeon grass populations are unstable, collapsing rapidly when water quality declines, so gains that depend on widgeon grass may prove short-lived.",
+    "text": "Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?",
+    "choices": {
+      "A": "In early 2018, a fungal infection that affects widgeon grass and eelgrass but does not affect other types of seagrass spread through the bay.",
+      "B": "Water temperatures in the bay increased slowly from 2012 to 2018, but in early 2019 there was an unprecedently large increase in temperatures, which reached levels that can be tolerated by few seagrass species other than widgeon grass.",
+      "C": "Between 2012 and 2017, the total area covered by widgeon grass and the total area covered by all types of seagrass increased as water temperatures in the bay increased.",
+      "D": "In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species."
+    },
+    "imageUrl": "/mocks/2025-march-int-c/figures/eng2-q10-chesapeake-seagrass.svg",
+    "correctAnswer": "D"
+  },
+  "11": {
+    "order": 11,
+    "page": 38,
+    "stimulus": "Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.",
+    "text": "Which finding, if true, would most directly support the text's claim about wireless communication devices?",
+    "choices": {
+      "A": "The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices.",
+      "B": "The CFRP electrode is incompatible with most wireless communication devices.",
+      "C": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.",
+      "D": "The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "12": {
+    "order": 12,
+    "page": 39,
+    "stimulus": "Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.",
+      "B": "although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.",
+      "C": "although bumblebees and many other wild bees have experienced similar population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.",
+      "D": "because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "13": {
+    "order": 13,
+    "page": 40,
+    "stimulus": "Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode.",
+      "B": "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles.",
+      "C": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.",
+      "D": "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "14": {
+    "order": 14,
+    "page": 41,
+    "stimulus": "The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected.",
+      "B": "even though the model's outputs sometimes agree with observational data, Titan's real methane mole fraction is likely higher than the methane mole fraction used in the model.",
+      "C": "further observations of Titan may clarify the moon's methane mole fraction sufficiently for the model to employ a single value rather than a range.",
+      "D": "inconsistencies across the model's simulations of Titan's precipitation and humidity could be attributable to variations in the moon's methane mole fraction."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "15": {
+    "order": 15,
+    "page": 42,
+    "stimulus": "Included in What Absence Is Made Of, a 2017 group exhibition at the Hirshhorn Museum and Sculpture Garden in Washington, DC, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, and ______ she is credited with expanding the horizons of conceptual photographic art.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "memory and",
+      "B": "memory,",
+      "C": "memory, and",
+      "D": "memory"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "16": {
+    "order": 16,
+    "page": 43,
+    "stimulus": "The editors of Home Ground: A Guide to the American Landscape turned to D.J. Waldie, a nonfiction writer, to craft the entry for \"thalweg,\" a term referring to a line connecting the lowest points of a valley. For \"cape,\" however, the editors chose the ______ author of Inheritance.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "novelist Lan Samantha Chang,",
+      "B": "novelist Lan Samantha Chang",
+      "C": "novelist, Lan Samantha Chang,",
+      "D": "novelist, Lan Samantha Chang"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "17": {
+    "order": 17,
+    "page": 44,
+    "stimulus": "The Austronesian language family comprises some 1,200 languages—including the ______ Gilbertese and Tongan, which are spoken by 120,000 and 108,000 speakers, respectively—and accounts for one-fifth of the world's languages, making it of keen interest to linguists like Marian Klamer.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "languages,",
+      "B": "languages:",
+      "C": "languages",
+      "D": "languages—"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "18": {
+    "order": 18,
+    "page": 45,
+    "stimulus": "If you had turned on the radio in the summer of 1961, chances are you would have heard the hit ______ \"A Tear\" by Gene McDaniels. The song spent four straight weeks on the Billboard Hot 100 chart that year.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "song:",
+      "B": "song;",
+      "C": "song,",
+      "D": "song"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "19": {
+    "order": 19,
+    "page": 46,
+    "stimulus": "Recent analysis of 1999 OX3—an outer solar system object orbiting the Sun between Jupiter and Neptune—has determined its color to be red, suggesting a rocky composition. Such interpretations are ultimately ______ the object's red coloration may be an incidental effect of radiation, solar wind, or collisions with other objects rather than evidence of its physical makeup.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "speculative; though",
+      "B": "speculative, though,",
+      "C": "speculative, though",
+      "D": "speculative, though;"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "20": {
+    "order": 20,
+    "page": 47,
+    "stimulus": "Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ______ the organelle's decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "counteracting",
+      "B": "had counteracted",
+      "C": "counteracted",
+      "D": "counteracts"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "21": {
+    "order": 21,
+    "page": 48,
+    "stimulus": "In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian's macroanalysis ______ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "examined",
+      "B": "examining",
+      "C": "examines",
+      "D": "had examined"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "22": {
+    "order": 22,
+    "page": 49,
+    "stimulus": "Despite its great distance from Earth—it is 570 light-years away—the star Shaula is one of the brightest stars in the sky, ranking 23rd. Although not as bright as Shaula, the star Alsephina also ranks among the 50 brightest stars (45th, to be exact). ______ Alsephina's brightness is likely due to the star's relative proximity: Alsephina is only 80 light-years from Earth.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Indeed,",
+      "B": "As a result,",
+      "C": "Granted,",
+      "D": "Similarly,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "23": {
+    "order": 23,
+    "page": 50,
+    "stimulus": "In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden's 1994 poem \"Monet's Waterlilies,\" for example, meditates on Claude Monet's 1899 painting Water Lilies; Sasha Pimentel's 2017 poem \"The Kiss,\" ______ takes a painting as its subject: Gustav Klimt's 1908 work The Kiss.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "nevertheless,",
+      "B": "likewise,",
+      "C": "hence,",
+      "D": "conversely,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "24": {
+    "order": 24,
+    "page": 51,
+    "stimulus": "Contemplating the beauty of a natural landscape, the serene speaker of William Wordsworth's poem \"Lines Composed a Few Miles above Tintern Abbey\" (1798) seems wholly insulated from society. As scholars have argued, however, Wordsworth's retreat to nature was an aesthetic response to—and implicit critique of—England's rapid industrialization and urbanization at that time. ______ despite its idyllic quality, the poem bears the imprint of the dramatic changes affecting English life.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Nevertheless,",
+      "B": "For example,",
+      "C": "Moreover,",
+      "D": "As such,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "25": {
+    "order": 25,
+    "page": 52,
+    "stimulus": "• The South Sudan Workers Trade Union Federation (SSWTUF) is a national union federation for the African nation of South Sudan.\n• It helps improve conditions for workers in that nation.\n• ITUC-Africa is a regional union federation that represents national union federations across Africa.\n• It represents the SSWTUF.",
+    "text": "Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?",
+    "choices": {
+      "A": "The SSWTUF is one of the national union federations represented by ITUC-Africa.",
+      "B": "Regional union federations like ITUC-Africa represent the national union federations in a specific area.",
+      "C": "National union federations, such as the SSWTUF, work to improve conditions for workers in their member nations.",
+      "D": "The SSWTUF is a national union federation in Africa."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "26": {
+    "order": 26,
+    "page": 53,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Emphasis analysis and cultural analysis are two approaches to art criticism.\n• Emphasis analysis examines how visual elements are weighted in an artwork's composition.\n• Such an analysis of Anne Vallayer-Coster's Still Life with Lobster might consider how the painting's sharply contrasting colors place primary emphasis on the lobster in the foreground.\n• Cultural analysis considers the cultural trends, beliefs, and values of an artwork's time.\n• Such an analysis of Pablo Picasso's Les Demoiselles d'Avignon might consider how the painting's portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).",
+    "text": "The student wants to present cultural analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "An approach to art criticism, cultural analysis considers the cultural trends, beliefs, and values of an artwork's time.",
+      "B": "An emphasis analysis of Still Life with Lobster might consider how the painting's sharply contrasting colors place primary emphasis on the lobster in the foreground.",
+      "C": "Les Demoiselles d'Avignon's portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).",
+      "D": "Emphasis analysis differs from cultural analysis in that emphasis analysis examines how visual elements are weighted in an artwork's composition."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "27": {
+    "order": 27,
+    "page": 54,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.\n• 1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.\n• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.\n• 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).\n• MMH expands modularity to include all cognitive systems.",
+    "text": "The student wants to compare Fodor's hypothesis with Carruthers's. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.",
+      "B": "Following Fodor's 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems.",
+      "C": "The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular.",
+      "D": "In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor's earlier hypothesis that the mind is composed of innate neural structures."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  }
+}

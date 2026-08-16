@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="272" viewBox="0 0 580 272">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="290" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Home Video Game Systems of the 1970s and 1980s</text>
+
+  <rect x="20" y="52" width="130" height="48" fill="#f3f4f6" stroke="#111"/>
+  <text x="85" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">System</text>
+  <rect x="150" y="52" width="120" height="48" fill="#f3f4f6" stroke="#111"/>
+  <text x="210" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Manufacturer</text>
+  <rect x="270" y="52" width="110" height="48" fill="#f3f4f6" stroke="#111"/>
+  <text x="325" y="73" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">System</text>
+  <text x="325" y="87" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">type</text>
+  <rect x="380" y="52" width="180" height="48" fill="#f3f4f6" stroke="#111"/>
+  <text x="470" y="73" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Approximate number of</text>
+  <text x="470" y="87" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">units sold worldwide</text>
+
+  <rect x="20" y="100" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="85" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="12">ColecoVision</text>
+  <rect x="150" y="100" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="12">Coleco</text>
+  <rect x="270" y="100" width="110" height="36" fill="#fff" stroke="#111"/>
+  <text x="325" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="12">console</text>
+  <rect x="380" y="100" width="180" height="36" fill="#fff" stroke="#111"/>
+  <text x="470" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="12">2,000,000</text>
+
+  <rect x="20" y="136" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="85" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12">Intellivision</text>
+  <rect x="150" y="136" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12">Mattel</text>
+  <rect x="270" y="136" width="110" height="36" fill="#fff" stroke="#111"/>
+  <text x="325" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12">console</text>
+  <rect x="380" y="136" width="180" height="36" fill="#fff" stroke="#111"/>
+  <text x="470" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12">3,000,000</text>
+
+  <rect x="20" y="172" width="130" height="36" fill="#fff" stroke="#111"/>
+  <text x="85" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="12">MSX</text>
+  <rect x="150" y="172" width="120" height="36" fill="#fff" stroke="#111"/>
+  <text x="210" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="12">ASCII Corp.</text>
+  <rect x="270" y="172" width="110" height="36" fill="#fff" stroke="#111"/>
+  <text x="325" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="12">computer</text>
+  <rect x="380" y="172" width="180" height="36" fill="#fff" stroke="#111"/>
+  <text x="470" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="12">4,000,000</text>
+
+  <rect x="20" y="208" width="130" height="40" fill="#fff" stroke="#111"/>
+  <text x="85" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="12">Game &amp;</text>
+  <text x="85" y="239" text-anchor="middle" font-family="Georgia, serif" font-size="12">Watch</text>
+  <rect x="150" y="208" width="120" height="40" fill="#fff" stroke="#111"/>
+  <text x="210" y="232" text-anchor="middle" font-family="Georgia, serif" font-size="12">Nintendo</text>
+  <rect x="270" y="208" width="110" height="40" fill="#fff" stroke="#111"/>
+  <text x="325" y="232" text-anchor="middle" font-family="Georgia, serif" font-size="12">handheld</text>
+  <rect x="380" y="208" width="180" height="40" fill="#fff" stroke="#111"/>
+  <text x="470" y="232" text-anchor="middle" font-family="Georgia, serif" font-size="12">18,600,000</text>
+</svg>

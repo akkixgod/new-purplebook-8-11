@@ -1,0 +1,318 @@
+{
+  "1": {
+    "order": 1,
+    "page": 81,
+    "stimulus": null,
+    "text": "How many solutions does the equation 2x − 3 = 2x have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Subtracting 2x from both sides gives −3 = 0, which is false for every value of x. The variable cancels and no number satisfies the equation, so there are zero solutions."
+  },
+  "2": {
+    "order": 2,
+    "page": 82,
+    "stimulus": null,
+    "text": "In the linear function f, f(0) = 2 and f(7) = 2. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = 0",
+      "B": "f(x) = 7",
+      "C": "f(x) = 2",
+      "D": "f(x) = x + 2"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The slope is (2 − 2)/(7 − 0) = 0, so f is constant. Since f(0) = 2, that constant is 2 and f(x) = 2."
+  },
+  "3": {
+    "order": 3,
+    "page": 83,
+    "stimulus": null,
+    "text": "A rectangle has a length that is 92 times its width. The function y = (92w)(w) represents this situation, where y is the area, in square feet, of the rectangle and y > 0. Which of the following is the best interpretation of 92w in this context?",
+    "choices": {
+      "A": "The length of the rectangle, in feet",
+      "B": "The area of the rectangle, in square feet",
+      "C": "The difference between the length and the width of the rectangle, in feet",
+      "D": "The width of the rectangle, in feet"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Area = length × width, and the function is written as the product (92w)(w). Since w is the width, the other factor 92w must be the length, in feet — which matches the statement that the length is 92 times the width."
+  },
+  "4": {
+    "order": 4,
+    "page": 84,
+    "stimulus": null,
+    "text": "T(x) = 67 − 8x\n\nThe function T estimates the temperature, in degrees Fahrenheit (°F), in a certain city one day in January, where x is the number of hours after 10 a.m. and 1 ≤ x ≤ 5. According to the function, what was the estimated decrease in temperature each hour, in °F, in this city during this time period?",
+    "choices": {
+      "A": "4",
+      "B": "8",
+      "C": "59",
+      "D": "67"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "T is linear with slope −8, so each 1-hour increase in x lowers the estimated temperature by 8 °F. The decrease each hour is therefore 8 °F. (67 is the estimate at x = 0 and 59 = 67 − 8 is the estimate at x = 1, not the hourly change.)"
+  },
+  "5": {
+    "order": 5,
+    "page": 85,
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 375 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.68, and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+    "choices": {
+      "A": "8",
+      "B": "30",
+      "C": "61",
+      "D": "165"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The three probabilities must sum to 1, so the probability for room C is 1 − 0.68 − 0.24 = 0.08. Then 0.08(375) = 30 visitors are in room C."
+  },
+  "6": {
+    "order": 6,
+    "page": 86,
+    "stimulus": null,
+    "text": "An object is launched from a height of 121 feet above the ground. A quadratic function f models the height above the ground, in feet, of the object t seconds after it is launched. According to the model, 2 seconds after the object is launched, it reaches a maximum height of 185 feet above the ground. Which equation defines f?",
+    "choices": {
+      "A": "f(t) = −16(t + 185)² − 2",
+      "B": "f(t) = −16(t − 185)² + 2",
+      "C": "f(t) = −16(t + 2)² − 185",
+      "D": "f(t) = −16(t − 2)² + 185"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "A maximum of 185 feet at t = 2 puts the vertex at (2, 185), so vertex form is f(t) = a(t − 2)² + 185 with a < 0, which is choice D. It also checks against the launch height: f(0) = −16(4) + 185 = −64 + 185 = 121 feet."
+  },
+  "7": {
+    "order": 7,
+    "page": 87,
+    "stimulus": null,
+    "text": "7y = −6x + 2,550\n24x − 28y = 1,800\n\nThe solution to the given system of equations is (x, y). What is the value of x + y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "400",
+    "showWork": "Rewrite the first equation as 6x + 7y = 2,550. Dividing the second equation by 4 gives 6x − 7y = 450. Adding the two gives 12x = 3,000, so x = 250. Then 7y = 2,550 − 6(250) = 1,050, so y = 150. Therefore x + y = 250 + 150 = 400."
+  },
+  "8": {
+    "order": 8,
+    "page": 88,
+    "stimulus": null,
+    "text": "To study fluctuations in leaf water potential, samples of wood were taken from 21 trees and cut in the shape of a cube. The length of the edge of one of these cubes is 3.000 centimeters. This cube has a density of 0.220 grams per cubic centimeter. What is the mass of this cube, in grams?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "5.94",
+    "showWork": "The cube's volume is 3.000³ = 27 cubic centimeters. Mass = density × volume = 0.220(27) = 5.94 grams. (The 21 trees are irrelevant: the question asks about one cube.)"
+  },
+  "9": {
+    "order": 9,
+    "page": 89,
+    "stimulus": null,
+    "text": "−2|3x + 7| + 8 = −6\n\nWhat are all solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "0 and −8/3",
+      "C": "0 and −14/3",
+      "D": "There is no solution."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Subtracting 8 gives −2|3x + 7| = −14, so |3x + 7| = 7. Then 3x + 7 = 7 gives x = 0, and 3x + 7 = −7 gives 3x = −14, so x = −14/3. Both values check in the original equation."
+  },
+  "10": {
+    "order": 10,
+    "page": 90,
+    "stimulus": null,
+    "text": "The graph shows a linear relationship between x and y. Which equation represents this relationship, where R is a positive constant?",
+    "choices": {
+      "A": "Rx + 12y = 18",
+      "B": "Rx − 12y = −18",
+      "C": "12x + Ry = 18",
+      "D": "12x − Ry = −18"
+    },
+    "imageUrl": "/mocks/2025-march-int-c/figures/math2-q10-line-graph.svg",
+    "correctAnswer": "D",
+    "showWork": "The graph passes through the marked points (0, 9) and (−2, −3), so its slope is (9 − (−3))/(0 − (−2)) = 12/2 = 6 and its equation is y = 6x + 9. Rewriting: 12x − 2y = −18, which is 12x − Ry = −18 with R = 2, a positive constant. Choices A and B put 12 on y, forcing a y-intercept of ±18/12 = ±1.5 instead of 9, and choice C has negative slope.",
+    "_reconstructedChoices": ["C", "D"],
+    "note": "The page-90 capture is cut off just below choice B, and page 90 has no second/scrolled view, so only choices A (Rx + 12y = 18) and B (Rx − 12y = −18) are directly legible. Choices C and D are reconstructed as the standard College Board pairing for this item, which swaps which coefficient is the unknown constant (12x + Ry = 18 and 12x − Ry = −18). The key is well determined regardless: the graphed line is y = 6x + 9 (verified by pixel-tracing the axes and the line), and neither visible choice can produce a y-intercept of 9, while 12x − Ry = −18 does so uniquely with R = 2."
+  },
+  "11": {
+    "order": 11,
+    "page": 91,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = −10(3)^x + 1/k, where k is a constant. If y = f(x) is graphed in the xy-plane, what is the y-coordinate of the y-intercept of the graph?",
+    "choices": {
+      "A": "−10",
+      "B": "(1 − 10k)/k",
+      "C": "1/k",
+      "D": "(1 − k)/k"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The y-intercept occurs at x = 0, where 3⁰ = 1. So f(0) = −10(1) + 1/k = −10 + 1/k. Writing this over the common denominator k gives (1 − 10k)/k."
+  },
+  "12": {
+    "order": 12,
+    "page": 92,
+    "stimulus": null,
+    "text": "The shaded region shown represents the solutions to rx + ty ≥ −77, where r and t are constants. What is the value of r + t?",
+    "choices": {
+      "A": "8",
+      "B": "6",
+      "C": "−6",
+      "D": "−7"
+    },
+    "imageUrl": "/mocks/2025-march-int-c/figures/math2-q12-shaded-half-plane.svg",
+    "correctAnswer": "A",
+    "showWork": "The boundary line passes through the marked points (0, −11) and (−7, −10), so its slope is (−11 − (−10))/(0 − (−7)) = −1/7 and its equation is y = −x/7 − 11. Multiplying by 7 gives x + 7y = −77, so r = 1 and t = 7. The region above the line is shaded, which matches x + 7y ≥ −77 (testing (0, 0) gives 0 ≥ −77). Therefore r + t = 1 + 7 = 8.",
+    "note": "Page 93 is the scrolled second view of this screen and supplies choices C and D, which are clipped on page 92."
+  },
+  "13": {
+    "order": 13,
+    "page": 94,
+    "stimulus": null,
+    "text": "3x = 45y − 27\n\nOne of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+    "choices": {
+      "A": "x = 5y",
+      "B": "(1/3)x = 5y",
+      "C": "x = 15y − 9",
+      "D": "(1/3)x = 15y − 9"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Dividing the given equation by 3 gives x = 15y − 9. A system has no solution when the two lines are parallel — same coefficients but a different constant. Choice B, (1/3)x = 5y, is equivalent to x = 15y, which matches the coefficient 15 but has constant 0 instead of −9, so the lines are parallel and there is no solution. Choice C is the same equation (infinitely many solutions), while A (x = 5y) and D (x = 45y − 27) have different coefficients and each meet the given line exactly once."
+  },
+  "14": {
+    "order": 14,
+    "page": 95,
+    "stimulus": null,
+    "text": "A cooking school is offering a promotion where the first class is free, the second class is half off the regular price, and the remaining classes are regularly priced. If the regular price of a class is $22.80, which function f gives the total cost, in dollars, of x classes taken using this promotion, where x ≥ 2?",
+    "choices": {
+      "A": "f(x) = 22.80(x − 1) + 11.40",
+      "B": "f(x) = 22.80(x − 2) + 11.40",
+      "C": "f(x) = 22.80(x − 1) + 11.40(x − 2)",
+      "D": "f(x) = 22.80(x − 2) + 11.40(x − 1)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The first class costs $0 and the second costs half of $22.80, which is $11.40. That leaves x − 2 classes at the full $22.80 each, so the total is 22.80(x − 2) + 11.40. Checking x = 2 gives 22.80(0) + 11.40 = $11.40, as expected."
+  },
+  "15": {
+    "order": 15,
+    "page": 96,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 6x + 14. What is the y-coordinate of the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "14",
+    "showWork": "The y-intercept occurs where x = 0, so f(0) = 6(0) + 14 = 14. The y-intercept is (0, 14) and its y-coordinate is 14."
+  },
+  "16": {
+    "order": 16,
+    "page": 97,
+    "stimulus": null,
+    "text": "The graph of y = f(x) + 2 is shown. Which equation defines function f?",
+    "choices": {
+      "A": "f(x) = −3^x + 1",
+      "B": "f(x) = −3^x + 3",
+      "C": "f(x) = −3^x + 4",
+      "D": "f(x) = −3^x + 5"
+    },
+    "imageUrl": "/mocks/2025-march-int-c/figures/math2-q16-exponential-graph.svg",
+    "correctAnswer": "B",
+    "showWork": "The graphed curve has y-intercept (0, 4), a horizontal asymptote at y = 5, and an x-intercept just past x = 1.4 (x = log₃5 ≈ 1.465), so the graphed function is y = −3^x + 5. Since the graph is y = f(x) + 2, f(x) = (−3^x + 5) − 2 = −3^x + 3.",
+    "note": "Page 98 is the scrolled second view of this screen and supplies choices C and D, which are clipped on page 97."
+  },
+  "17": {
+    "order": 17,
+    "page": 99,
+    "stimulus": null,
+    "text": "A square map has a side length of 55 inches, and 1 inch on the map represents an actual distance of 13 miles. A smaller version of the same map is printed as a square with the side length 70% shorter than the side length of the previous map. On the smaller map, which of the following is closest to the actual distance, in miles, represented by 1 inch?",
+    "choices": {
+      "A": "3.90",
+      "B": "7.65",
+      "C": "38.50",
+      "D": "43.33"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The original map spans 55(13) = 715 actual miles across. A side length 70% shorter is 55(1 − 0.70) = 16.5 inches, and the smaller map still covers the same 715 miles. Therefore 1 inch represents 715/16.5 ≈ 43.33 miles."
+  },
+  "18": {
+    "order": 18,
+    "page": 100,
+    "stimulus": null,
+    "text": "y = x − c\ny = −4(x − 8)²\n\nIn the given system of equations, c is a constant. The system has two distinct real solutions. Which of the following could be the value of c?",
+    "choices": {
+      "A": "3",
+      "B": "7",
+      "C": "127/16",
+      "D": "13"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Setting the expressions equal gives x − c = −4(x − 8)², so 4(x² − 16x + 64) + x − c = 0, which simplifies to 4x² − 63x + (256 − c) = 0. Two distinct real solutions require a positive discriminant: (−63)² − 4(4)(256 − c) > 0, so 3,969 − 4,096 + 16c > 0 and 16c > 127, i.e. c > 127/16 = 7.9375. Of the choices only 13 exceeds 7.9375."
+  },
+  "19": {
+    "order": 19,
+    "page": 101,
+    "stimulus": null,
+    "text": "In triangle ABC, the measure of angle A is 52° and AC = 35. In triangle PQR, the measure of angle P is 52° and PR = 105. Which additional piece of information is sufficient to prove that triangle ABC is similar to triangle PQR?",
+    "choices": {
+      "A": "AB = 30 and PQ = 30.",
+      "B": "AB = 30 and QR = 90.",
+      "C": "The measures of angle B and angle R are 34° and 94°, respectively.",
+      "D": "The measures of angle B and angle Q are 52° and 34°, respectively."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "With angle B = 34°, triangle ABC has angles 52°, 34° and 94°; with angle R = 94°, triangle PQR has angles 52°, 94° and 34°. The pairs A↔P (52°), B↔Q (34°) and C↔R (94°) then match, so the triangles are similar by angle-angle. Choice A fails because AB/PQ = 30/30 = 1 while AC/PR = 35/105 = 1/3. Choice B gives QR, which is not the side included between angle P and PR, so it does not establish SAS similarity. Choice D would make ABC have angles 52°, 52°, 76° against 52°, 34°, 94° for PQR, proving the triangles are not similar."
+  },
+  "20": {
+    "order": 20,
+    "page": 102,
+    "stimulus": null,
+    "text": "The perimeter of an equilateral triangle is 876 centimeters. The three vertices of the triangle lie on a circle. The radius of the circle is w√3 centimeters. What is the value of w?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "292/3",
+    "showWork": "Each side of the equilateral triangle is 876/3 = 292 centimeters. The circumradius of an equilateral triangle with side s is R = s/√3, so R = 292/√3 = 292√3/3. Setting w√3 = 292√3/3 gives w = 292/3 ≈ 97.33."
+  },
+  "21": {
+    "order": 21,
+    "page": 103,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = |x|/a − 14, where a < 0. What is the product of f(15a) and f(8a)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "638",
+    "showWork": "Because a < 0, |15a| = −15a, so f(15a) = (−15a)/a − 14 = −15 − 14 = −29. Likewise |8a| = −8a, so f(8a) = (−8a)/a − 14 = −8 − 14 = −22. The product is (−29)(−22) = 638."
+  },
+  "22": {
+    "order": 22,
+    "page": 104,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = ab^(x/n), where a, b, and n are constants, and b and n are integers. If f(4) = 5 and f(7) = 135, what is the value of f(9)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1215",
+    "showWork": "Let k = b^(1/n), so f(x) = a·k^x. Dividing f(7) by f(4) gives k³ = 135/5 = 27, so k = 3. Then f(9) = f(7)·k² = 135(9) = 1,215. (Equivalently a·3⁴ = 5 gives a = 5/81, and f(9) = (5/81)3⁹ = 5(243) = 1,215.)"
+  }
+}

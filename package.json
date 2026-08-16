@@ -16,6 +16,8 @@
     "seed:2026-june-v2": "tsx prisma/seed-june2026-v2.ts",
     "seed:2026-june-v3": "npx tsx prisma/seed-june2026-v3.ts",
     "seed:2025-march-int-a": "npx tsx prisma/seed-march2025-inta.ts",
+    "seed:2025-march-int-b": "npx tsx prisma/seed-march2025-intb.ts",
+    "seed:2025-march-int-c": "npx tsx prisma/seed-march2025-intc.ts",
     "seed:2025-june-int-a": "npx tsx prisma/seed-june2025-int-a.ts",
     "seed:2025-june-int-b": "npx tsx prisma/seed-june2025-int-b.ts",
     "seed:2025-june-us-a": "npx tsx prisma/seed-june2025-us-a.ts",

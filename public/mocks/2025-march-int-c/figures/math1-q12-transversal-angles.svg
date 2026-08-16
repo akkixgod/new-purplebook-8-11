@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="330" viewBox="0 0 430 330">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="170" y1="40" x2="170" y2="275" stroke="#111" stroke-width="1.6"/>
+<text x="170" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-style="italic">r</text>
+<line x1="280" y1="40" x2="280" y2="275" stroke="#111" stroke-width="1.6"/>
+<text x="280" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-style="italic">s</text>
+<line x1="70" y1="42" x2="360" y2="272" stroke="#111" stroke-width="1.6"/>
+<text x="66" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-style="italic">k</text>
+<text x="186" y="107.3103448275862" font-family="Georgia, serif" font-size="14" font-style="italic">w<tspan font-style="normal">°</tspan></text>
+<text x="180" y="155.31034482758622" font-family="Georgia, serif" font-size="14" font-style="italic">x<tspan font-style="normal">°</tspan></text>
+<text x="296" y="194.55172413793105" font-family="Georgia, serif" font-size="14" font-style="italic">y<tspan font-style="normal">°</tspan></text>
+<text x="290" y="242.55172413793105" font-family="Georgia, serif" font-size="14" font-style="italic">z<tspan font-style="normal">°</tspan></text>
+<text x="215.0" y="316" text-anchor="middle" font-family="Georgia, serif" font-size="13">Note: Figure not drawn to scale.</text>
+</svg>

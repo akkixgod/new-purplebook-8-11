@@ -1,0 +1,1056 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ______ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "outdated",
+          "B": "lonely",
+          "C": "forgotten",
+          "D": "varied"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child.\n\nFor the talent show, I was to play a piece called “Pleading Child” from Schumann’s Scenes from Childhood. It was a simple, moody piece that sounded more difficult than it was. I was supposed to memorize the whole thing, playing the repeat parts twice to make the piece sound longer. But I dawdled over it, playing a few bars and then <u>cheating</u>, looking up to see what notes followed. I never really listened to what I was playing. I daydreamed about being somewhere else, about being someone else.",
+        "text": "Based on the text, when the narrator describes herself as “cheating,” what does she most likely mean?",
+        "choices": {
+          "A": "She was violating an expectation about how to perform the piece.",
+          "B": "She was deceiving her piano teacher.",
+          "C": "She was gaining an unfair advantage over other contestants in the talent show.",
+          "D": "She was lying to herself about her musical ability."
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "As with other river deltas, the Indus River delta is ______: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Arabian Sea.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "dynamic",
+          "B": "sustainable",
+          "C": "immutable",
+          "D": "unrivaled"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.\n\nThe meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour and go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "It showcases how Adam’s flexibility and consideration strengthen his relationship with his great-uncle Richard.",
+          "B": "It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.",
+          "C": "It describes why Adam and his great-uncle Richard are excited for their upcoming journey on the ship.",
+          "D": "It contrasts great-uncle Richard’s wary first impressions of Adam with his ultimate affection toward him."
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria Carnobacterium viridans and Moraxella caviae—it has rarely been observed among eukaryotes (typically multicellular organisms). <u>However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.</u>",
+        "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It argues that a particular direction of research concerning horizontal gene transfer is likely to be fruitless.",
+          "B": "It indicates a distinction between horizontal gene transfer and vertical gene transfer.",
+          "C": "It implies that a common perception of horizontal gene transfer may be inaccurate.",
+          "D": "It compares the frequencies with which horizontal gene transfer has been detected in two categories of organisms."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "Though John Crowley, author of Endless Things, is perhaps not as well known as the most widely read American writers of the past fifty years, influential figures have championed his work, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom praises the novel’s adroit blend of what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big demonstrates that a work can be both.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "To explain what inspired an author to write a particular work",
+          "B": "To present a reason why a literary critic is impressed by a certain novel",
+          "C": "To compare the work of a writer with the work of a poet who admired him",
+          "D": "To argue that all writing must be classified as belonging to one of two categories"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "The following text is from a translation of María Dueñas’s 2009 novel The Time in Between. The narrator has just rented an apartment and is entering it for the first time.\n\nOver the years there have been many times when my destiny has delivered me unexpected moments, unforeseen twists and turns that I’ve had to handle on the fly as they appeared. Occasionally I was ready for them; very often I wasn’t. Never, however, was I so aware of entering a new stage as I was that afternoon in October when I finally dared to cross the threshold and my steps sounded hollowly in the unfurnished apartment. Behind me was a complicated past, and in front of me, like an omen, I could see a space opening out, a great empty space that time would take care of filling up.",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "The narrator feels optimistic about the future success of a new business.",
+          "B": "The narrator has always had a plan for how to handle big moments in her life.",
+          "C": "The narrator recognizes that a particular moment marks a major shift in her life.",
+          "D": "The narrator wants to express her gratitude for the people who have helped her."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "The soil on Mars can make missions to explore the planet challenging, as the sand and dust are known to clog filters and lock moving parts on robotic rovers and other exploration devices. Using simulants, which are materials designed to simulate different planetary surfaces, scientists are able to study the characteristics of Mars’s surface. Simulants like the Mars Mojave simulant—which was developed using lava deposits from California’s Mojave Desert—help scientists evaluate how well their devices will handle the surface when operated on Mars.",
+        "text": "Based on the text, what is one reason why simulants are valuable for scientists?",
+        "choices": {
+          "A": "Scientists use simulants to track how the chemical properties of planetary soils have changed over time.",
+          "B": "Scientists use stimulants to compare the physical properties of Mars’s surface to those of Earth’s surface.",
+          "C": "Simulants can be mixed with soil from Earth to explore how research equipment will handle extreme terrains on Earth.",
+          "D": "Simulants allow scientists to test the ability of research equipment to withstand some of the conditions it will encounter during a mission."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ______",
+        "text": "Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?",
+        "choices": {
+          "A": "“Once more [Dorothy and her companions] could see fences built beside the road; but these were painted green, and when they came to a small house, in which a farmer evidently lived, that also was painted green.”",
+          "B": "“Then [Dorothy] went back to the house, and having helped herself and Toto to a good drink of the cool, clear water, she set about making ready for the journey to the City of Emeralds.”",
+          "C": "“Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.”",
+          "D": "“When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______",
+        "text": "Which choice most effectively uses data from the table to complete the example?",
+        "choices": {
+          "A": "the geographic size of Angola (1,246,700 square kilometers) with its relatively high population of 25,022,000 inhabitants.",
+          "B": "Angola, which has a high population of 25,022,000 inhabitants and a relatively low density of 20.1 inhabitants/square kilometer, with São Tomé and Príncipe, which has a much lower population and a higher density.",
+          "C": "Mauritania, which has a low density, with Ethiopia, which has a similar density despite both countries having different geographic sizes.",
+          "D": "the populations of both São Tomé and Príncipe and Ethiopia in 2015 with their populations in 2010."
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/eng1-q10-africa-population.svg"
+      },
+      "11": {
+        "stimulus": "To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Ajewole and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country’s total agricultural exports.",
+        "text": "Which choice best describes data from the graph that weaken the student’s claim?",
+        "choices": {
+          "A": "All the countries shown had positive growth in agricultural exports over the five years after joining their respective FTAs, but their rates of export growth varied.",
+          "B": "Although agricultural exports from Nicaragua grew over the five years after Nicaragua joined CAFTA-DR, their growth rate was even higher in the five years before CAFTA-DR.",
+          "C": "Although agricultural exports from Mexico decreased over the five years before NAFTA, a reversal in this trend was observed over the five years after Mexico joined NAFTA.",
+          "D": "Over the five years after El Salvador joined CAFTA-DR, agricultural exports from El Salvador grew at a rate of about 21.8 percent, which is higher than the rate over the five years before El Salvador joined the agreement."
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/eng1-q11-fta-export-growth.svg"
+      },
+      "12": {
+        "stimulus": "If a planet orbits in close proximity to a star and lacks an atmosphere, the planet can become so hot that magma oceans form on its surface. For three planets that could plausibly harbor magma oceans, the table shows mass, density (expressed as the ratio of the material’s volume at its current density to its maximum possible density, with higher numbers indicating lower densities), and surface temperature according to a model that assumes the absence of atmosphere.",
+        "text": "Which choice best describes how data in the table for HD 80653 b would likely differ if it had an atmosphere?",
+        "choices": {
+          "A": "It would have a mass below 5.6 Earth masses.",
+          "B": "Its surface temperature would be around 1,400 kelvins.",
+          "C": "It would have a mass above 5.6 Earth masses.",
+          "D": "Its surface temperature would be below 2,300 kelvins."
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/eng1-q12-lava-worlds.svg"
+      },
+      "13": {
+        "stimulus": "Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.",
+        "text": "Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?",
+        "choices": {
+          "A": "Productivity loss for the EET group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly increased during the same time period.",
+          "B": "Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.",
+          "C": "Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over that time.",
+          "D": "Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group."
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/eng1-q13-productivity-loss.svg"
+      },
+      "14": {
+        "stimulus": "Ningyo joruri is a form of theater that was popular in eighteenth-century Japan and that unites puppetry with playing of the shamisen, a stringed musical instrument. The popularity of ningyo joruri was due to a puppetry method called sannin zukai, in which three puppeteers operated a single puppet that was large, detailed, and capable of extensive movement and nuanced emotional expression. <u>Over the ensuing centuries, audience interest in ningyo joruri began to decline and sannin zukai became prohibitively expensive to mount, so that sannin zukai puppeteers could no longer make the profession a full-time career.</u> Eventually, ningyo joruri productions resorted to cheaper forms of puppetry, such as kuruma ningyo, which involves only one puppeteer.",
+        "text": "Which statement, if true, would most strongly support the claim in the underlined sentence?",
+        "choices": {
+          "A": "The kuruma ningyo puppeteering method is not easy: it requires fewer puppeteers to manipulate puppets that are as large as those used in sannin zukai, but each puppeteer’s work is more complex.",
+          "B": "The costs of building sannin zukai puppets were very high until the advent of machine-based production methods in the nineteenth century made them comparable to the costs of building kuruma ningyo puppets.",
+          "C": "In 1872, Japanese puppeteer Nishikawa Koryu developed a technique called kuruma ningyo, or cart puppetry, in which puppets have wooden pegs on their feet that the puppeteer can manipulate by moving his own feet.",
+          "D": "The few remaining theatrical companies with sannin zukai performers in the present day are mostly amateur troupes, in which members have other forms of employment that serve as their primary source of income."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Both Pontianak, Indonesia, and Manta, Ecuador, are located at less than one degree latitude. In other words, ______ cities basically sit right on the equator!",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "these",
+          "B": "each",
+          "C": "that",
+          "D": "this"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "An upcoming exhibition will showcase Vincent van Gogh’s drawing Sale of Building Scrap, which Van Gogh ______ in the city of Nuenen nearly 150 years ago.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "has been completing",
+          "B": "is completing",
+          "C": "will complete",
+          "D": "completed"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "The rough frog is a species of amphibian native to Australia. Currently, the frog’s range ______ parts of northern New South Wales and southeastern Queensland.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "had included",
+          "B": "will have included",
+          "C": "includes",
+          "D": "included"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "When attempting to determine a fault’s seismic history, geophysicists like Dr. Estella Atekwana at the University of Delaware rely in part on data about the fault’s physical dimensions and geological features. For the Ione Valley fault in Lander County, Nevada, the US Geological Survey compiles such data in several ______ exchanging information with state geological surveys, by linking maps of the fault with sources that offer detailed descriptions of it, and by maintaining a database of quantitative data such as the fault’s length (76 km).",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "ways. By",
+          "B": "ways: by",
+          "C": "ways; by",
+          "D": "ways by:"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "A pet rabbit is held by its owner on a beach in Boo and His Rabbit, a photograph by British ______ Chris Killip.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "artist:",
+          "B": "artist—",
+          "C": "artist",
+          "D": "artist,"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian’s macroanalysis ______ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "had examined",
+          "B": "examining",
+          "C": "examined",
+          "D": "examines"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "In 1920, the US Geological Survey determined the geographic center of Tennessee using only a cardboard cutout of the state and a piece of string. ______ this apparently crude technique yielded a relatively close approximation: when the 1920 center was compared to a center determined by a computer program nearly a hundred years later, the two diverged by just a few miles.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Still,",
+          "B": "Similarly,",
+          "C": "In other words,",
+          "D": "Fittingly,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ______ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "likewise,",
+          "B": "fittingly,",
+          "C": "for example,",
+          "D": "though,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the Panamanian golden frog and the cane toad—safely engage in migratory behavior during the day. ______ with the sun in the sky, the amphibians’ striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "However,",
+          "B": "At that time,",
+          "C": "In other words,",
+          "D": "For example,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n\n• The Niger River is the third longest river in Africa.\n• It ranks No. 14 among the longest rivers in the world.\n• It is 4,200 kilometers long.\n• The Indus River is the ninth longest river in Asia.\n• It ranks No. 19 among the longest rivers in the world.\n• It is 3,610 kilometers long.",
+        "text": "The student wants to emphasize the different locations of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The Indus River is 3,610 kilometers long.",
+          "B": "The Niger River is in Africa, whereas the Indus River is located in Asia.",
+          "C": "The Niger River ranks No. 14 among the longest rivers in the world.",
+          "D": "At 4,200 kilometers long, the Niger River is the third longest in Africa."
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "• The Mauritius Trade Union Congress (MTUC) is a national union federation for the African nation of Mauritius.\n• It helps improve conditions for workers in that nation.\n• ITUC-Africa is a regional union federation that represents national union federations across Africa.\n• It represents the MTUC.",
+        "text": "Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?",
+        "choices": {
+          "A": "The MTUC is one of the national union federations represented by ITUC-Africa.",
+          "B": "The MTUC is a national union federation in Africa.",
+          "C": "National union federations, such as the MTUC, work to improve conditions for workers in their member nations.",
+          "D": "Regional union federations like ITUC-Africa represent the national union federations in a specific area."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n\n• Tepeapulco is a municipality in the state of Hidalgo, Mexico.\n• Municipalities are governmental regions responsible for providing many public services to their residents.\n• One service they provide is water treatment.\n• Tepeapulco covers an area of roughly 243 km².\n• Hidalgo is divided into 84 municipalities.",
+        "text": "The student wants to emphasize the size of Tepeapulco. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Providing water treatment is just one example of the public services that municipalities provide.",
+          "B": "Tepeapulco—a governmental region in the state of Hidalgo, Mexico—provides many public services to its residents.",
+          "C": "Tepeapulco is one of 84 governmental regions, known as municipalities, across Hidalgo.",
+          "D": "The municipality of Tepeapulco in Hidalgo, Mexico, covers an area of roughly 243 km²."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n\n• Most of the plant and bird species in Oahu, Hawaii, are non-native.\n• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.\n• Researchers catalogued plant seeds found in fecal samples from non-native birds.\n• Pipturus albidus, a flowering shrub, was one of fifteen native species catalogued.\n• Psidium cattleyanum, a fruit tree, was one of twenty-nine non-native species catalogued.\n• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.",
+        "text": "The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Most plant species found in Oahu, Hawaii, like Psidium cattleyanum, are non-native.",
+          "B": "Though Pipturus albidus and Psidium cattleyanum can both be found in Oahu, Hawaii, only the former plant is native.",
+          "C": "A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.",
+          "D": "Seeds from Pipturus albidus and Psidium cattleyanum plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study."
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author's writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ______ to some readers of his time.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "provocative",
+          "B": "irrefutable",
+          "C": "pretentious",
+          "D": "irrelevant"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The Historical Dictionary of Science Fiction is a crowdsourced project started in 2001 by lexicographer Jesse Sheidlower to record terms that originated in science fiction. Volunteers share digitized excerpts from personal collections of sci-fi magazines not typically preserved in libraries—______ that allow the earliest uses of phrases such as \"warp speed\" (1952) to be identified and added to the dictionary.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "justifications",
+          "B": "contributions",
+          "C": "resolutions",
+          "D": "negotiations"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to administrative records located in nations in Asia, such as India, and Eastern Europe, such as Hungary.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "presuppose",
+          "B": "categorize",
+          "C": "validate",
+          "D": "mitigate"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries' central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries' policy environments seem to have been ______ swap-line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "predicated on",
+          "B": "mediated by",
+          "C": "material to",
+          "D": "decoupled from"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "The Lartington is just one of approximately three million known historical shipwrecks spread throughout the world's oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Mugge and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.",
+        "text": "Which choice best describes the overall structure of the text?",
+        "choices": {
+          "A": "It notes a general scientific interest in shipwrecks' ecological effects, describes a specific study related to that interest, and then states one of the study's findings.",
+          "B": "It states the number of known shipwrecks, describes the historical significance of one of those shipwrecks, and then comments on the various microbes found at the shipwreck site.",
+          "C": "It names a famous historical shipwreck, describes the type of wood used to build that ship, and then explains how that wood type influences underwater microbial communities.",
+          "D": "It introduces a study of microbial communities near shipwrecks that has received significant scholarly attention, summarizes the results of that study, and then describes a research team's reaction to the study."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "The following text is adapted from Matthew Arnold's 1869 nonfiction book Culture and Anarchy.\n\nThe Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behaviour of the English abroad, urges that the English ideal is that every one should be free to do and to look just as he likes. But culture indefatigably tries, not to make what each raw person may like, the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "It makes a claim about one of the principal effects of culture.",
+          "B": "It asserts that what is beautiful is a matter of objective truth rather than subjective perception.",
+          "C": "It implies that opinions regarding culture evolve over time.",
+          "D": "It explains differences in matters of taste between the English and others."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Text 1\nHycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.\n\nText 2\nIn a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.'s calculations therefore placed the inner edge for these planets' HZ as far out as 3.85 AU.",
+        "text": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.'s research, as presented in Text 1?",
+        "choices": {
+          "A": "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit",
+          "B": "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet's surface is unlikely to harbor liquid water",
+          "C": "By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high",
+          "D": "By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Mexican architect Luis Barragán's prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the houses in Avenida Parque Mexico, whose unadorned geometric forms contrast with his earlier projects in Guadalajara, such as the house in Calle Liceo, which evince the aesthetics of traditional Mediterranean and Mexican styles.",
+        "text": "Information in the text best supports which statement about the design of the house in Calle Liceo?",
+        "choices": {
+          "A": "It represents a transitional moment between the early and late phases of Barragán's development.",
+          "B": "It displays the effects of Barragán's exposure to international architectural trends in the 1930s.",
+          "C": "It reflects an approach to ornamentation and shape that Barragán later stopped using.",
+          "D": "It is characteristic of the Guadalajaran architecture that influenced Barragán throughout his career."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn't clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "Astreopora expansa, because its maximum depth of 15 meters is furthest from the mesophotic zone.",
+          "B": "Scolymia lacera, because its minimum depth of 10 meters is in the shallow zone.",
+          "C": "Acropora echinata, because its maximum depth of 25 meters is close to but doesn't reach the mesophotic zone.",
+          "D": "Heliofungia fralinae, because its minimum depth of 3 meters is the shallowest of those listed."
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/eng2-q09-coral-depths.svg"
+      },
+      "10": {
+        "stimulus": "Adelaide, Australia, has installed engineered structures along 53% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the brown pelican, the red knot, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.",
+        "text": "Which finding, if true, would most directly illustrate the researchers' finding?",
+        "choices": {
+          "A": "The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.",
+          "B": "Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap.",
+          "C": "Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.",
+          "D": "Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.",
+        "text": "Which finding, if true, would most directly support the text's claim about wireless communication devices?",
+        "choices": {
+          "A": "The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters.",
+          "B": "The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices.",
+          "C": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.",
+          "D": "The CFRP electrode is incompatible with most wireless communication devices."
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "A student is writing a research paper on the global rise of the home video game industry during the 1970s and 1980s. The student is surprised by differences in the number of units sold by some systems compared to those sold by others. Most remarkably, the ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "Game & Watch sold approximately 18,600,000 units, whereas the ColecoVision sold only approximately 2,000,000 units.",
+          "B": "Game & Watch sold approximately 4,000,000 units, whereas the ColecoVision sold only approximately 3,000,000 units.",
+          "C": "MSX sold approximately 4,000,000 units, whereas the Intellivision sold only approximately 3,000,000 units.",
+          "D": "MSX sold approximately 18,600,000 units, whereas the Intellivision sold only approximately 2,000,000 units."
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/eng2-q12-video-game-systems.svg"
+      },
+      "13": {
+        "stimulus": "Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as complex and inefficient delivery routes, persist. While innovations to mitigate these challenges have been emerging—the use of autonomous delivery robots, for instance—success has been constrained due to the additional complications that arise (e.g., robots travel relatively slowly since they must navigate many ground-level obstacles). Consequently, ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the use of autonomous delivery robots may enable delivery companies to meet consumers' expectations now but likely is not viable as a permanent solution.",
+          "B": "innovations in last-mile logistics seem poised to increase consumers' expectations for rapid delivery.",
+          "C": "delivery companies should invest more funds in proven long-distance transport technologies than in untested last-mile solutions.",
+          "D": "in the near term, delivery companies are unlikely to overcome the impediments associated with last-mile logistics."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode.",
+          "B": "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions.",
+          "C": "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles.",
+          "D": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerngren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.",
+          "B": "Guédron, Tisserand, and colleagues' study used different methods to measure the concentration of mercury in fresh water than Tjerngren and colleagues' study did.",
+          "C": "disturbances linked to wastewater affect significantly more bodies of fresh water than disturbances linked to urban development do.",
+          "D": "levels of dissolved organic carbon and mercury are both much higher in bodies of fresh water impacted by wastewater than they are in bodies of fresh water disturbed by urban development."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "even though the model's outputs sometimes agree with observational data, Titan's real methane mole fraction is likely higher than the methane mole fraction used in the model.",
+          "B": "inconsistencies across the model's simulations of Titan's precipitation and humidity could be attributable to variations in the moon's methane mole fraction.",
+          "C": "further observations of Titan may clarify the moon's methane mole fraction sufficiently for the model to employ a single value rather than a range.",
+          "D": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected."
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series Fifty Days at Iliam. In these works, Twombly's artistic style is exemplified by his use of graffiti-like ______ often incorporate words or phrases from poetry and mythology.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "scribbles; that",
+          "B": "scribbles that",
+          "C": "scribbles: that",
+          "D": "scribbles. That"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "The Proto-Atlantic-Congo language, common ancestor of 1,453 African languages with similar linguistic properties, ______ like all protolanguages, hypothetical: there's no direct evidence these ancestral languages actually existed.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "were,",
+          "B": "is,",
+          "C": "are,",
+          "D": "have been,"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "The 2020 documentary Without a Whisper—Konnon:Kwe was directed by Katsitsionni Fox. It explores how Indigenous Haudenosaunee culture shaped the woman suffrage movement in the early nineteenth ______ how the personal and political authority Haudenosaunee women had in their communities influenced the first suffragists in the US.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "century. Revealing",
+          "B": "century; revealing",
+          "C": "century, revealing",
+          "D": "century revealing"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "Although 39P/Oterma and 83982 Crantor are both classified as centaur objects—outer solar system bodies in unstable orbits—they exhibit striking differences in ______ object 39P/Oterma is considered an active centaur, showing sporadic comet-like activity (such as clouds of dust and gas on its surface), 83982 Crantor, showing no such activity, is considered dormant.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "behavior: while the",
+          "B": "behavior; the",
+          "C": "behavior, while the",
+          "D": "behavior. The"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ______ the organelle's decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "counteracting",
+          "B": "counteracted",
+          "C": "had counteracted",
+          "D": "counteracts"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "In the list \"Things That Make One's Heart Beat Faster\" from Sei Shōnagon's Pillow Book, the author delights in a cloudy mirror, rain on a window, and scented robes. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book's musings on tenth-century Japanese courtly life ______ readers a thousand years later.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "fascinate",
+          "B": "has fascinated",
+          "C": "is fascinating",
+          "D": "fascinates"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "To notice subtle variations in the progression of the still life painting genre in Europe, first consider Tomás Hiepes's \"Still Life with Birds and Hares\" from 1643; ______ compare it to Adolphe-Félix Cals's \"Still Life with Vegetables, Partridge, and a Jug\" from 1858.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "instead,",
+          "B": "next,",
+          "C": "still,",
+          "D": "therefore,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "As an anti-federalist, Pennsylvania politician and writer Samuel Bryan objected to the US Constitution's provisions for a powerful centralized government and opposed the document's ratification; ______ essays he published in the Philadelphia Independent Gazetteer in October 1787 under the pseudonym \"Centinel\" disparaged the arguments of the federalists, who supported the Constitution's adoption.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "by comparison,",
+          "B": "fittingly,",
+          "C": "nevertheless,",
+          "D": "in other words,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Hina Hanta is an online archive curated by the Choctaw Nation of Oklahoma.\n• It features images of cultural artifacts relevant to the history of the Choctaw people.\n• It features household items, including a stamp (isht inchunwa in Choctaw) made from rubber.\n• The stamp was made in the 1800s.\n• Hina Hanta features sports apparel, including a stickball collar (innuchi) made from horsehair.\n• The stickball collar was made in 2016.",
+        "text": "The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The Choctaw name for the rubber stamp is isht inchunwa.",
+          "B": "Included in the Hina Hanta online archive is a rubber stamp.",
+          "C": "Not all artifacts in the Hina Hanta archive are from the 1800s.",
+          "D": "The horsehair stickball collar (innuchi) was made in 2016."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.\n• 1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.\n• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.\n• 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).\n• MMH expands modularity to include all cognitive systems.",
+        "text": "The student wants to compare Fodor's hypothesis with Carruthers's. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Following Fodor's 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems.",
+          "B": "In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor's earlier hypothesis that the mind is composed of innate neural structures.",
+          "C": "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.",
+          "D": "The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.\n• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object's first layer takes shape.\n• Step 2: The partially cured resin object is raised, leaving a thin space (a \"dead zone\") beneath it for oxygen and liquid resin to flow through.\n• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.\n• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.",
+        "text": "The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "DLS cures 3D objects by passing through a \"dead zone,\" adding layers to the object, then curing the object in an oven.",
+          "B": "In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a \"dead zone,\" wherein the curing is completed.",
+          "C": "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.",
+          "D": "DLS is a form of additive manufacturing that creates a \"dead zone\" in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": null,
+        "text": "s = 40 + 2t\n\nThe equation gives the speed s, in miles per hour, of a certain car t seconds after it began to accelerate. What is the speed, in miles per hour, of the car 4 seconds after it began to accelerate?",
+        "choices": {
+          "A": "40",
+          "B": "42",
+          "C": "44",
+          "D": "48"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to 9(x² + 6)?",
+        "choices": {
+          "A": "9x² + 3",
+          "B": "9x² + 6",
+          "C": "9x² + 15",
+          "D": "9x² + 54"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "The solution to a system of linear equations is (3, 3). Which of the following could be the graph of the equations in the system?",
+        "choices": {
+          "A": "Lines y = x and y = −x + 3 (intersect at (1.5, 1.5))",
+          "B": "Lines y = −x + 4 and y = x − 6 (intersect at (5, −1))",
+          "C": "Lines y = x and y = −x + 6 (intersect at (3, 3))",
+          "D": "Lines y = 2x and y = −x (intersect at (0, 0))"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "7x + 21 = 7x + k\n\nIn the given equation, k is a constant. The equation has infinitely many solutions. What is the value of k?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 2x − 1/4. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+        "choices": {
+          "A": "(0, −1/4)",
+          "B": "(0, −2)",
+          "C": "(0, 2)",
+          "D": "(0, 4)"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "The list gives the mass, in grams, of 5 ruffed lemurs.\n\n3,810; 3,810; 3,530; 3,850; 3,550\n\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "The price of an object increased from $16 to $80. What was the percent increase in the price of the object?",
+        "choices": {
+          "A": "20%",
+          "B": "64%",
+          "C": "80%",
+          "D": "400%"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "In the figure shown, triangle CAE is similar to triangle CBD. The measure of angle CBD is 59°, and AE = 28(BD). What is the measure of angle CAE?",
+        "choices": {
+          "A": "(28 · 59)°",
+          "B": "(28 + 59)°",
+          "C": "59°",
+          "D": "28°"
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/math1-q08-similar-triangles.svg"
+      },
+      "9": {
+        "stimulus": null,
+        "text": "A student needs at least 190 signatures from classmates to run for class president. The student collects 30 signatures on Monday and collects enough additional signatures on Tuesday to run for class president. Which inequality represents the number of additional signatures, s, that the student collects on Tuesday?",
+        "choices": {
+          "A": "s + 30 ≤ 190",
+          "B": "s + 30 ≥ 190",
+          "C": "s − 30 ≤ 190",
+          "D": "s − 30 ≥ 190"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "Which expression is equivalent to 7x⁶ − 14x², where x > 0?",
+        "choices": {
+          "A": "7(x³ − 2x²)²",
+          "B": "x²(7x − 2)⁴",
+          "C": "7x²(x − 2)⁴",
+          "D": "7x²(x⁴ − 2)"
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "A chemist performed an experiment using a set of beakers that can each be modeled by a right circular cylinder with a height of 53 millimeters. The equation y = 53πx² gives the volume y, in cubic millimeters, of the right circular cylinder that models a beaker in this set, where x is the radius, in millimeters, of the base of the cylinder. Which graph best represents this equation in the xy-plane?",
+        "choices": {
+          "A": "A curve in the first quadrant on a grid with x from 0 to 10 and y from 0 to 5,000 marked every 500. It starts at the origin, increases and curves upward, passing through about (1, 170), (2, 670), (3, 1,500), (4, 2,650) and (5, 4,160), and leaves the top of the grid near x = 5.5.",
+          "B": "A curve on the same grid that starts at the origin and increases far more gradually, passing through about (5, 1,250) and reaching 5,000 only at x = 10.",
+          "C": "A curve on the same grid that starts at about (0, 4,500) and decreases, curving downward ever more steeply and dropping below 500 by about x = 4.",
+          "D": "NOT CAPTURED — the recording ends partway through choice C on page 65."
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "8x² + 13x = 6\n\nWhat is the positive solution to the given equation?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "Harper has $110 in an account. Each year she expects to have 2.7% more money in the account than she had the previous year. Which of the following models best describes how Harper expects the money in her account to change over time?",
+        "choices": {
+          "A": "Decreasing exponential",
+          "B": "Decreasing linear",
+          "C": "Increasing exponential",
+          "D": "Increasing linear"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "In right triangle RST, the sum of the measures of angle R and angle S is 90 degrees. The value of sin(R) is 2√10/7. What is the value of cos(S)?",
+        "choices": {
+          "A": "3√10/20",
+          "B": "2√10/7",
+          "C": "7√10/20",
+          "D": "2√10/3"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "Line t is defined by y = −(1/2)x + 14. Line s is perpendicular to line t in the xy-plane. What is the slope of line s?",
+        "choices": {
+          "A": "14",
+          "B": "2",
+          "C": "1/2",
+          "D": "1/14"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "f(x) = 8(2)^(x/4)\n\nWhich table gives four values of x and their corresponding values of f(x) for the given exponential function?",
+        "choices": {
+          "A": "x: −4, 0, 4, 8\nf(x): 4, 0, 16, 32",
+          "B": "x: −4, 0, 4, 8\nf(x): 4, 8, 16, 32",
+          "C": "x: −4, 0, 4, 8\nf(x): −4, 8, 16, 32",
+          "D": "x: −4, 0, 4, 8\nf(x): 4, 8, 16, 24"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "The measure of angle C is 3π/4 radians. What is the value of cos(C)?",
+        "choices": {
+          "A": "−√2/2",
+          "B": "−1/2",
+          "C": "√2/2",
+          "D": "√3/2"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "7y = −6x + 2,170\n24x − 28y = 1,400\n\nThe solution to the given system of equations is (x, y). What is the value of x + y?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "A researcher observes a sample of a nuclide. An exponential model estimates that the mass, in grams, of the sample decreases by 23% every 11.69 minutes. Which of the following equations could represent this model, where M is the estimated mass, in grams, of the sample t minutes after the researcher began observing the sample?",
+        "choices": {
+          "A": "M = 100(0.77)^(t/11.69)",
+          "B": "M = 100(0.77)^(t + 11.69)",
+          "C": "M = 100(0.23)^(t/11.69)",
+          "D": "M = 100(0.23)^(t + 11.69)"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "−4|5x + 4| + 2 = −14\n\nWhat are all solutions to the given equation?",
+        "choices": {
+          "A": "0",
+          "B": "0 and −1/5",
+          "C": "0 and −8/5",
+          "D": "There is no solution."
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "For the right circular cone shown, B is a point on the circumference of the base, and the length of segment AB (not shown) is 84 centimeters. If the height of the cone is 42 centimeters and the volume of the cone is kπ cubic centimeters, what is the value of k?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/math1-q21-cone.svg"
+      },
+      "22": {
+        "stimulus": null,
+        "text": "A sphere has a volume of 247.00 cubic yards. What is the volume of the sphere, in cubic meters? (Use 1 yard = 0.914 meter.)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "y = 3x + 13\ny = 3x² + 13\n\nWhich ordered pair (x, y) is a solution to the given system of equations?",
+        "choices": {
+          "A": "(0, 0)",
+          "B": "(0, 13)",
+          "C": "(26, 91)",
+          "D": "(26, 169)"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "A certain elephant calf weighed 226 pounds when it was born. The elephant calf gained an average of 3 pounds per day in its first year of life. Which equation models this situation, where y is the estimated weight of the elephant calf, in pounds, x days after it was born?",
+        "choices": {
+          "A": "y = 226 + 3x",
+          "B": "y = 226 − 3x",
+          "C": "y = 3 + 226x",
+          "D": "y = 3 − 226x"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "Audrey's hair will grow at a constant rate from a length of 7 inches to a length of 11 inches. The equation 0.6t + 7 = 11 describes this situation, where t is the number of months it will take for Audrey's hair to reach a length of 11 inches. Which of the following is the best interpretation of 0.6 in this context?",
+        "choices": {
+          "A": "The time, in months, it will take Audrey's hair to grow 1 inch",
+          "B": "The length, in inches, Audrey's hair will grow each month",
+          "C": "The time, in months, it will take Audrey's hair to reach a length of 11 inches",
+          "D": "The length, in inches, Audrey's hair will grow in 11 months"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "A rectangle has a length that is 31 times its width. The function y = (31w)(w) represents this situation, where y is the area, in square feet, of the rectangle and y > 0. Which of the following is the best interpretation of 31w in this context?",
+        "choices": {
+          "A": "The length of the rectangle, in feet",
+          "B": "The area of the rectangle, in square feet",
+          "C": "The difference between the length and the width of the rectangle, in feet",
+          "D": "The width of the rectangle, in feet"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "Which of the following expressions is equivalent to 11x¹⁰ − 11x⁹ + 77x?",
+        "choices": {
+          "A": "x(10x¹⁰ − 10x⁹ + 76x)",
+          "B": "x(11¹⁰ − 11⁹ + 77)",
+          "C": "11x(x¹⁰ − x⁹ + 7x)",
+          "D": "11x(x⁹ − x⁸ + 7)"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "For x > 0, the function f is defined as follows:\n\nf(x) equals 293% of x\n\nWhich of the following could describe this function?",
+        "choices": {
+          "A": "Decreasing exponential",
+          "B": "Decreasing linear",
+          "C": "Increasing exponential",
+          "D": "Increasing linear"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "At a convention center, there are a total of 225 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.72, and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+        "choices": {
+          "A": "4",
+          "B": "9",
+          "C": "39",
+          "D": "108"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "f(x) = 5(g(x)) − 3\ng(x) = |12x − 7|\n\nThe functions f and g are defined by the given equations. What is the value of f(−10)?",
+        "choices": {
+          "A": "−53",
+          "B": "127",
+          "C": "632",
+          "D": "643"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "In right triangle ABC, angles A and B are acute, side AC has a length of 28.2, and tan B = 1/3. What is the length of side BC, rounded to the nearest tenth?",
+        "choices": {
+          "A": "795.2",
+          "B": "84.6",
+          "C": "9.4",
+          "D": "5.3"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "If 16 − 5(3 − 7x) = 4 − 6(3 − 7x), what is the value of 3 − 7x?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "For the linear function p, p(c) = −5, where c is a constant, p(3) = 23, and the slope of the graph of y = p(x) in the xy-plane is 7. For the linear function t, t(c) = −6 and t(4) = 34. What is the slope of the graph of y = t(x) in the xy-plane?",
+        "choices": {
+          "A": "−1",
+          "B": "2",
+          "C": "7",
+          "D": "8"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "The positive number a is 2,136% of the sum of the positive numbers b and c, and b is 89% of c. What percent of b is a?",
+        "choices": {
+          "A": "4,536%",
+          "B": "2,400%",
+          "C": "40.37%",
+          "D": "22.25%"
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "F(x) = (9/5)(x − 273.15) + 32\n\nThe function F gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of x kelvins. If a temperature increased by 7.70 kelvins, by how much did the temperature increase, in degrees Fahrenheit?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "The function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1, 4) and passes through the points (2, 27) and (−1, 96). What is the value of f(−2) − f(0)?",
+        "choices": {
+          "A": "73",
+          "B": "119",
+          "C": "184",
+          "D": "211"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "The table shows three values of x and their corresponding values of y, where s is a constant. There is a linear relationship between x and y. Which of the following equations represents this relationship?",
+        "choices": {
+          "A": "sx + 5y = 18s",
+          "B": "5x + sy = 18s",
+          "C": "5x + sy = 18",
+          "D": "sx + 5y = 18"
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/math2-q15-linear-table.svg"
+      },
+      "16": {
+        "stimulus": null,
+        "text": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 7 and 10, which inequality represents the possible lengths, x, of the third side of the triangle?",
+        "choices": {
+          "A": "x < 17",
+          "B": "x > 17",
+          "C": "3 < x < 17",
+          "D": "x < 3 or x > 17"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "The graph of y = f(x) + 4 is shown. Which equation defines function f?",
+        "choices": {
+          "A": "f(x) = −6ˣ + 1",
+          "B": "f(x) = −6ˣ + 5",
+          "C": "f(x) = −6ˣ + 8",
+          "D": "f(x) = −6ˣ + 9"
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/math2-q17-exponential-graph.svg"
+      },
+      "18": {
+        "stimulus": null,
+        "text": "In the figure, LQ intersects MP at point R, and LM is parallel to PQ. The lengths of MR and RP are 8 and 14 units, respectively. The area of triangle LMR is 36 square units. What is the area of triangle PQR, in square units?",
+        "choices": {
+          "A": "576/49",
+          "B": "144/7",
+          "C": "63",
+          "D": "441/4"
+        },
+        "imageUrl": "/mocks/2025-march-int-b/figures/math2-q18-intersecting-triangles.svg"
+      },
+      "19": {
+        "stimulus": null,
+        "text": "The function g is defined by g(x) = 3x. For what value of x is g(x) = 12?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 59 square centimeters (cm²), and the surface area of right rectangular prism Y is 1,475 cm². The volume of right rectangular prism Y is 1,500 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = ab^(x/n), where a, b, and n are constants, and b and n are integers. If f(3) = 6 and f(5) = 150, what is the value of f(6)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "24x² − (12a + 2b)x + ab = 0\n\nIn the given equation, a and b are positive constants. The sum of the solutions to the given equation is k(6a + b), where k is a constant. What is the value of k?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

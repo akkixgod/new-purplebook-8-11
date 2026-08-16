@@ -1,0 +1,318 @@
+{
+  "1": {
+    "order": 1,
+    "page": null,
+    "stimulus": null,
+    "text": "s = 40 + 2t\n\nThe equation gives the speed s, in miles per hour, of a certain car t seconds after it began to accelerate. What is the speed, in miles per hour, of the car 4 seconds after it began to accelerate?",
+    "choices": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "48"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFrom": "2025-march-int-a Math M1 Q1 (source PDF missing Math M1 Q1 page)",
+    "showWork": "Substitute t = 4: s = 40 + 2(4) = 48."
+  },
+  "2": {
+    "order": 2,
+    "page": 55,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 9(x² + 6)?",
+    "choices": {
+      "A": "9x² + 3",
+      "B": "9x² + 6",
+      "C": "9x² + 15",
+      "D": "9x² + 54"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Distribute the 9 across both terms: 9(x² + 6) = 9·x² + 9·6 = 9x² + 54."
+  },
+  "3": {
+    "order": 3,
+    "page": 56,
+    "stimulus": null,
+    "text": "The solution to a system of linear equations is (3, 3). Which of the following could be the graph of the equations in the system?",
+    "choices": {
+      "A": "Lines y = x and y = −x + 3 (intersect at (1.5, 1.5))",
+      "B": "Lines y = −x + 4 and y = x − 6 (intersect at (5, −1))",
+      "C": "Lines y = x and y = −x + 6 (intersect at (3, 3))",
+      "D": "Lines y = 2x and y = −x (intersect at (0, 0))"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "_note": "Choices C–D were scrolled off the source capture; A–B match page 56. C–D reconstructed so exactly one graph has solution (3,3).",
+    "showWork": "Need both lines through (3,3). Choice C: 3=3 and 3=−3+6=3. A intersects at (1.5,1.5); B at (5,−1); D at (0,0)."
+  },
+  "4": {
+    "order": 4,
+    "page": 57,
+    "stimulus": null,
+    "text": "7x + 21 = 7x + k\n\nIn the given equation, k is a constant. The equation has infinitely many solutions. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "21",
+    "showWork": "Subtracting 7x from both sides leaves 21 = k. The equation is true for every x exactly when the two constant terms match, so k = 21."
+  },
+  "5": {
+    "order": 5,
+    "page": 58,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 2x − 1/4. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "(0, −1/4)",
+      "B": "(0, −2)",
+      "C": "(0, 2)",
+      "D": "(0, 4)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "The y-intercept is the value at x = 0: f(0) = 2(0) − 1/4 = −1/4, so the point is (0, −1/4)."
+  },
+  "6": {
+    "order": 6,
+    "page": 59,
+    "stimulus": null,
+    "text": "The list gives the mass, in grams, of 5 ruffed lemurs.\n\n3,810; 3,810; 3,530; 3,850; 3,550\n\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "3710",
+    "showWork": "The masses total 3,810 + 3,810 + 3,530 + 3,850 + 3,550 = 18,550 grams, and 18,550 ÷ 5 = 3,710 grams."
+  },
+  "7": {
+    "order": 7,
+    "page": 60,
+    "stimulus": null,
+    "text": "The price of an object increased from $16 to $80. What was the percent increase in the price of the object?",
+    "choices": {
+      "A": "20%",
+      "B": "64%",
+      "C": "80%",
+      "D": "400%"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The increase is 80 − 16 = 64 dollars. Percent increase compares that to the original price: 64/16 = 4 = 400%."
+  },
+  "8": {
+    "order": 8,
+    "page": 61,
+    "stimulus": null,
+    "text": "In the figure shown, triangle CAE is similar to triangle CBD. The measure of angle CBD is 59°, and AE = 28(BD). What is the measure of angle CAE?",
+    "choices": {
+      "A": "(28 · 59)°",
+      "B": "(28 + 59)°",
+      "C": "59°",
+      "D": "28°"
+    },
+    "imageUrl": "/mocks/2025-march-int-b/figures/math1-q08-similar-triangles.svg",
+    "correctAnswer": "C",
+    "showWork": "In the similarity CAE ~ CBD the vertices correspond in order, so angle CAE corresponds to angle CBD. Corresponding angles of similar triangles are equal regardless of the scale factor, so angle CAE = 59°. The ratio AE = 28(BD) only fixes the scale factor and does not change any angle."
+  },
+  "9": {
+    "order": 9,
+    "page": 62,
+    "stimulus": null,
+    "text": "A student needs at least 190 signatures from classmates to run for class president. The student collects 30 signatures on Monday and collects enough additional signatures on Tuesday to run for class president. Which inequality represents the number of additional signatures, s, that the student collects on Tuesday?",
+    "choices": {
+      "A": "s + 30 ≤ 190",
+      "B": "s + 30 ≥ 190",
+      "C": "s − 30 ≤ 190",
+      "D": "s − 30 ≥ 190"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The total collected is the 30 from Monday plus the s from Tuesday, so the total is s + 30. \"At least 190\" means the total is greater than or equal to 190, giving s + 30 ≥ 190."
+  },
+  "10": {
+    "order": 10,
+    "page": 63,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 7x⁶ − 14x², where x > 0?",
+    "choices": {
+      "A": "7(x³ − 2x²)²",
+      "B": "x²(7x − 2)⁴",
+      "C": "7x²(x − 2)⁴",
+      "D": "7x²(x⁴ − 2)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The greatest common factor of 7x⁶ and 14x² is 7x². Dividing gives 7x⁶ ÷ 7x² = x⁴ and 14x² ÷ 7x² = 2, so the expression factors as 7x²(x⁴ − 2)."
+  },
+  "11": {
+    "order": 11,
+    "page": 64,
+    "stimulus": null,
+    "text": "A chemist performed an experiment using a set of beakers that can each be modeled by a right circular cylinder with a height of 53 millimeters. The equation y = 53πx² gives the volume y, in cubic millimeters, of the right circular cylinder that models a beaker in this set, where x is the radius, in millimeters, of the base of the cylinder. Which graph best represents this equation in the xy-plane?",
+    "choices": {
+      "A": "A curve in the first quadrant on a grid with x from 0 to 10 and y from 0 to 5,000 marked every 500. It starts at the origin, increases and curves upward, passing through about (1, 170), (2, 670), (3, 1,500), (4, 2,650) and (5, 4,160), and leaves the top of the grid near x = 5.5.",
+      "B": "A curve on the same grid that starts at the origin and increases far more gradually, passing through about (5, 1,250) and reaching 5,000 only at x = 10.",
+      "C": "A curve on the same grid that starts at about (0, 4,500) and decreases, curving downward ever more steeply and dropping below 500 by about x = 4.",
+      "D": "NOT CAPTURED — the recording ends partway through choice C on page 65."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "y = 53πx² ≈ 166.5x², an upward-opening parabola through the origin that only makes sense for x ≥ 0. Its values are y(1) ≈ 166, y(2) ≈ 666, y(3) ≈ 1,499, y(4) ≈ 2,664, y(5) ≈ 4,162, and it reaches 5,000 at x ≈ 5.5 — exactly the curve in choice A. Choice B rises far too slowly (it is y ≈ 50x²) and choice C decreases, so neither can be the graph. Choice A is confirmed pointwise, so the uncaptured choice D is not needed.",
+    "_choiceNote": "The choices are four graphs; A is on page 64, B and C are on page 65, and D was not captured. Choice A matches y = 53πx² point by point, so the key is certain."
+  },
+  "12": {
+    "order": 12,
+    "page": 66,
+    "stimulus": null,
+    "text": "8x² + 13x = 6\n\nWhat is the positive solution to the given equation?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "3/8",
+    "showWork": "Rewrite as 8x² + 13x − 6 = 0. The discriminant is 13² − 4(8)(−6) = 169 + 192 = 361 = 19², so x = (−13 ± 19)/16. That gives x = 6/16 = 3/8 and x = −2. The positive solution is 3/8 (equivalently .375)."
+  },
+  "13": {
+    "order": 13,
+    "page": 67,
+    "stimulus": null,
+    "text": "Harper has $110 in an account. Each year she expects to have 2.7% more money in the account than she had the previous year. Which of the following models best describes how Harper expects the money in her account to change over time?",
+    "choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The balance changes by a constant percent (not a constant amount) each year, which is exponential growth: each year's balance is 1.027 times the previous year's. Since the percent change is positive, the model is increasing exponential."
+  },
+  "14": {
+    "order": 14,
+    "page": 68,
+    "stimulus": null,
+    "text": "In right triangle RST, the sum of the measures of angle R and angle S is 90 degrees. The value of sin(R) is 2√10/7. What is the value of cos(S)?",
+    "choices": {
+      "A": "3√10/20",
+      "B": "2√10/7",
+      "C": "7√10/20",
+      "D": "2√10/3"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Angles R and S are complementary, and the sine of an angle equals the cosine of its complement. So cos(S) = sin(R) = 2√10/7."
+  },
+  "15": {
+    "order": 15,
+    "page": 69,
+    "stimulus": null,
+    "text": "Line t is defined by y = −(1/2)x + 14. Line s is perpendicular to line t in the xy-plane. What is the slope of line s?",
+    "choices": {
+      "A": "14",
+      "B": "2",
+      "C": "1/2",
+      "D": "1/14"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Line t has slope −1/2. Perpendicular slopes are opposite reciprocals, so the slope of line s is −1 ÷ (−1/2) = 2."
+  },
+  "16": {
+    "order": 16,
+    "page": 70,
+    "stimulus": null,
+    "text": "f(x) = 8(2)^(x/4)\n\nWhich table gives four values of x and their corresponding values of f(x) for the given exponential function?",
+    "choices": {
+      "A": "x: −4, 0, 4, 8\nf(x): 4, 0, 16, 32",
+      "B": "x: −4, 0, 4, 8\nf(x): 4, 8, 16, 32",
+      "C": "x: −4, 0, 4, 8\nf(x): −4, 8, 16, 32",
+      "D": "x: −4, 0, 4, 8\nf(x): 4, 8, 16, 24"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "f(−4) = 8(2)^(−1) = 4, f(0) = 8(2)^0 = 8, f(4) = 8(2)^1 = 16, and f(8) = 8(2)^2 = 32. Only choice B lists 4, 8, 16, 32."
+  },
+  "17": {
+    "order": 17,
+    "page": 71,
+    "stimulus": null,
+    "text": "The measure of angle C is 3π/4 radians. What is the value of cos(C)?",
+    "choices": {
+      "A": "−√2/2",
+      "B": "−1/2",
+      "C": "√2/2",
+      "D": "√3/2"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "3π/4 radians is 135°, a second-quadrant angle with reference angle 45°. Cosine is negative in the second quadrant, so cos(3π/4) = −cos(45°) = −√2/2."
+  },
+  "18": {
+    "order": 18,
+    "page": 72,
+    "stimulus": null,
+    "text": "7y = −6x + 2,170\n24x − 28y = 1,400\n\nThe solution to the given system of equations is (x, y). What is the value of x + y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "340",
+    "showWork": "Rewrite the first equation as 6x + 7y = 2,170. Dividing the second by 4 gives 6x − 7y = 350. Adding the two gives 12x = 2,520, so x = 210. Then 7y = 2,170 − 6(210) = 910, so y = 130, and x + y = 210 + 130 = 340."
+  },
+  "19": {
+    "order": 19,
+    "page": 73,
+    "stimulus": null,
+    "text": "A researcher observes a sample of a nuclide. An exponential model estimates that the mass, in grams, of the sample decreases by 23% every 11.69 minutes. Which of the following equations could represent this model, where M is the estimated mass, in grams, of the sample t minutes after the researcher began observing the sample?",
+    "choices": {
+      "A": "M = 100(0.77)^(t/11.69)",
+      "B": "M = 100(0.77)^(t + 11.69)",
+      "C": "M = 100(0.23)^(t/11.69)",
+      "D": "M = 100(0.23)^(t + 11.69)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Decreasing by 23% leaves 77% of the mass, so the growth factor is 0.77, ruling out C and D. That factor applies once per 11.69-minute period, so the exponent must count periods: t/11.69. This gives M = 100(0.77)^(t/11.69)."
+  },
+  "20": {
+    "order": 20,
+    "page": 74,
+    "stimulus": null,
+    "text": "−4|5x + 4| + 2 = −14\n\nWhat are all solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "0 and −1/5",
+      "C": "0 and −8/5",
+      "D": "There is no solution."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "−4|5x + 4| = −16, so |5x + 4| = 4. Then 5x + 4 = 4 gives x = 0, and 5x + 4 = −4 gives 5x = −8, so x = −8/5."
+  },
+  "21": {
+    "order": 21,
+    "page": 75,
+    "stimulus": null,
+    "text": "For the right circular cone shown, B is a point on the circumference of the base, and the length of segment AB (not shown) is 84 centimeters. If the height of the cone is 42 centimeters and the volume of the cone is kπ cubic centimeters, what is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-march-int-b/figures/math1-q21-cone.svg",
+    "correctAnswer": "74088",
+    "showWork": "AB joins the apex to a point on the base circumference, so it is the slant height. Then r² = 84² − 42² = 7,056 − 1,764 = 5,292. The volume is (1/3)π(5,292)(42) = 74,088π, so k = 74,088."
+  },
+  "22": {
+    "order": 22,
+    "page": 76,
+    "stimulus": null,
+    "text": "A sphere has a volume of 247.00 cubic yards. What is the volume of the sphere, in cubic meters? (Use 1 yard = 0.914 meter.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "188.6",
+    "showWork": "Cubing the length conversion gives 1 cubic yard = 0.914³ = 0.763551944 cubic meters. Then 247.00 × 0.763551944 = 188.5973… cubic meters, which is 188.6 rounded at the fourth digit (188.5 truncated is also an acceptable grid-in entry).",
+    "_answerNote": "Bluebook accepts either 188.5 (truncated) or 188.6 (rounded); this scorer does exact string matching, so only 188.6 is stored."
+  }
+}

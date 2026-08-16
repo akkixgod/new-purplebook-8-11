@@ -1,0 +1,316 @@
+{
+  "1": {
+    "order": 1,
+    "page": 77,
+    "stimulus": null,
+    "text": "y = 3x + 13\ny = 3x² + 13\n\nWhich ordered pair (x, y) is a solution to the given system of equations?",
+    "choices": {
+      "A": "(0, 0)",
+      "B": "(0, 13)",
+      "C": "(26, 91)",
+      "D": "(26, 169)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Setting the right sides equal gives 3x + 13 = 3x² + 13, so 3x² − 3x = 0 and 3x(x − 1) = 0. Then x = 0 or x = 1. For x = 0 both equations give y = 13, so (0, 13) is a solution. (x = 1 gives (1, 16), which is not offered.)"
+  },
+  "2": {
+    "order": 2,
+    "page": 78,
+    "stimulus": null,
+    "text": "A certain elephant calf weighed 226 pounds when it was born. The elephant calf gained an average of 3 pounds per day in its first year of life. Which equation models this situation, where y is the estimated weight of the elephant calf, in pounds, x days after it was born?",
+    "choices": {
+      "A": "y = 226 + 3x",
+      "B": "y = 226 − 3x",
+      "C": "y = 3 + 226x",
+      "D": "y = 3 − 226x"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "The starting weight 226 is the value at x = 0, so it is the constant term, and the calf gains 3 pounds per day, so the rate 3 multiplies x. This gives y = 226 + 3x."
+  },
+  "3": {
+    "order": 3,
+    "page": 79,
+    "stimulus": null,
+    "text": "Audrey's hair will grow at a constant rate from a length of 7 inches to a length of 11 inches. The equation 0.6t + 7 = 11 describes this situation, where t is the number of months it will take for Audrey's hair to reach a length of 11 inches. Which of the following is the best interpretation of 0.6 in this context?",
+    "choices": {
+      "A": "The time, in months, it will take Audrey's hair to grow 1 inch",
+      "B": "The length, in inches, Audrey's hair will grow each month",
+      "C": "The time, in months, it will take Audrey's hair to reach a length of 11 inches",
+      "D": "The length, in inches, Audrey's hair will grow in 11 months"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "In 0.6t the variable t is measured in months, so the coefficient 0.6 carries the units inches per month. It is the constant rate at which the hair grows, i.e. the number of inches grown each month."
+  },
+  "4": {
+    "order": 4,
+    "page": 80,
+    "stimulus": null,
+    "text": "A rectangle has a length that is 31 times its width. The function y = (31w)(w) represents this situation, where y is the area, in square feet, of the rectangle and y > 0. Which of the following is the best interpretation of 31w in this context?",
+    "choices": {
+      "A": "The length of the rectangle, in feet",
+      "B": "The area of the rectangle, in square feet",
+      "C": "The difference between the length and the width of the rectangle, in feet",
+      "D": "The width of the rectangle, in feet"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Area = length × width, and the function is written as the product (31w)(w). Since w is the width, the other factor 31w must be the length, in feet — which matches the statement that the length is 31 times the width."
+  },
+  "5": {
+    "order": 5,
+    "page": 81,
+    "stimulus": null,
+    "text": "Which of the following expressions is equivalent to 11x¹⁰ − 11x⁹ + 77x?",
+    "choices": {
+      "A": "x(10x¹⁰ − 10x⁹ + 76x)",
+      "B": "x(11¹⁰ − 11⁹ + 77)",
+      "C": "11x(x¹⁰ − x⁹ + 7x)",
+      "D": "11x(x⁹ − x⁸ + 7)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The greatest common factor of 11x¹⁰, 11x⁹ and 77x is 11x. Dividing each term by 11x gives x⁹, x⁸ and 7, so the expression factors as 11x(x⁹ − x⁸ + 7). Expanding confirms 11x·x⁹ = 11x¹⁰, 11x·(−x⁸) = −11x⁹ and 11x·7 = 77x."
+  },
+  "6": {
+    "order": 6,
+    "page": 82,
+    "stimulus": null,
+    "text": "For x > 0, the function f is defined as follows:\n\nf(x) equals 293% of x\n\nWhich of the following could describe this function?",
+    "choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "293% of x means f(x) = 2.93x. That is a linear function with constant slope 2.93 > 0, so it is increasing linear. (An exponential would have x in the exponent, not as a factor.)"
+  },
+  "7": {
+    "order": 7,
+    "page": 83,
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 225 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.72, and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+    "choices": {
+      "A": "4",
+      "B": "9",
+      "C": "39",
+      "D": "108"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The three probabilities must sum to 1, so the probability for room C is 1 − 0.72 − 0.24 = 0.04. Then 0.04(225) = 9 visitors are in room C."
+  },
+  "8": {
+    "order": 8,
+    "page": 84,
+    "stimulus": null,
+    "text": "f(x) = 5(g(x)) − 3\ng(x) = |12x − 7|\n\nThe functions f and g are defined by the given equations. What is the value of f(−10)?",
+    "choices": {
+      "A": "−53",
+      "B": "127",
+      "C": "632",
+      "D": "643"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "First g(−10) = |12(−10) − 7| = |−127| = 127. Then f(−10) = 5(127) − 3 = 635 − 3 = 632."
+  },
+  "9": {
+    "order": 9,
+    "page": 85,
+    "stimulus": null,
+    "text": "In right triangle ABC, angles A and B are acute, side AC has a length of 28.2, and tan B = 1/3. What is the length of side BC, rounded to the nearest tenth?",
+    "choices": {
+      "A": "795.2",
+      "B": "84.6",
+      "C": "9.4",
+      "D": "5.3"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Since angles A and B are acute, the right angle is at C. For angle B the opposite leg is AC and the adjacent leg is BC, so tan B = AC/BC = 28.2/BC = 1/3. Therefore BC = 3(28.2) = 84.6."
+  },
+  "10": {
+    "order": 10,
+    "page": 86,
+    "stimulus": null,
+    "text": "If 16 − 5(3 − 7x) = 4 − 6(3 − 7x), what is the value of 3 − 7x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "-12",
+    "showWork": "Let u = 3 − 7x. The equation becomes 16 − 5u = 4 − 6u. Adding 6u to both sides gives 16 + u = 4, so u = −12. Therefore 3 − 7x = −12."
+  },
+  "11": {
+    "order": 11,
+    "page": 87,
+    "stimulus": null,
+    "text": "For the linear function p, p(c) = −5, where c is a constant, p(3) = 23, and the slope of the graph of y = p(x) in the xy-plane is 7. For the linear function t, t(c) = −6 and t(4) = 34. What is the slope of the graph of y = t(x) in the xy-plane?",
+    "choices": {
+      "A": "−1",
+      "B": "2",
+      "C": "7",
+      "D": "8"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "For p, the slope gives 7 = (23 − (−5))/(3 − c) = 28/(3 − c), so 3 − c = 4 and c = −1. Then t passes through (−1, −6) and (4, 34), so its slope is (34 − (−6))/(4 − (−1)) = 40/5 = 8."
+  },
+  "12": {
+    "order": 12,
+    "page": 88,
+    "stimulus": null,
+    "text": "The positive number a is 2,136% of the sum of the positive numbers b and c, and b is 89% of c. What percent of b is a?",
+    "choices": {
+      "A": "4,536%",
+      "B": "2,400%",
+      "C": "40.37%",
+      "D": "22.25%"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "From b = 0.89c we get c = b/0.89, so b + c = b(1 + 1/0.89) = b(1.89/0.89). Then a = 21.36(b + c) = 21.36(1.89/0.89)b = (40.3704/0.89)b = 45.36b. Since a is 45.36 times b, a is 4,536% of b."
+  },
+  "13": {
+    "order": 13,
+    "page": 89,
+    "stimulus": null,
+    "text": "F(x) = (9/5)(x − 273.15) + 32\n\nThe function F gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of x kelvins. If a temperature increased by 7.70 kelvins, by how much did the temperature increase, in degrees Fahrenheit?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "13.86",
+    "showWork": "F is linear in x with slope 9/5, so every increase of 1 kelvin corresponds to an increase of 9/5 degrees Fahrenheit. An increase of 7.70 kelvins therefore corresponds to (9/5)(7.70) = 13.86 degrees Fahrenheit. (The constants −273.15 and +32 shift the scale but cancel when taking a difference.)"
+  },
+  "14": {
+    "order": 14,
+    "page": 90,
+    "stimulus": null,
+    "text": "The function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1, 4) and passes through the points (2, 27) and (−1, 96). What is the value of f(−2) − f(0)?",
+    "choices": {
+      "A": "73",
+      "B": "119",
+      "C": "184",
+      "D": "211"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Vertex form gives f(x) = a(x − 1)² + 4. From f(2) = a(1) + 4 = 27 we get a = 23, which checks against f(−1) = 23(4) + 4 = 96. Then f(−2) = 23(9) + 4 = 211 and f(0) = 23(1) + 4 = 27, so f(−2) − f(0) = 211 − 27 = 184."
+  },
+  "15": {
+    "order": 15,
+    "page": 91,
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y, where s is a constant. There is a linear relationship between x and y. Which of the following equations represents this relationship?",
+    "choices": {
+      "A": "sx + 5y = 18s",
+      "B": "5x + sy = 18s",
+      "C": "5x + sy = 18",
+      "D": "sx + 5y = 18"
+    },
+    "imageUrl": "/mocks/2025-march-int-b/figures/math2-q15-linear-table.svg",
+    "correctAnswer": "B",
+    "showWork": "From (−2s, 28) to (−s, 23) the slope is (23 − 28)/(−s + 2s) = −5/s, and from (−s, 23) to (s, 13) it is (13 − 23)/(s + s) = −5/s, so the relationship is linear with slope −5/s. Using the point (s, 13): y − 13 = (−5/s)(x − s), so y = −5x/s + 18. Multiplying through by s gives sy = −5x + 18s, i.e. 5x + sy = 18s."
+  },
+  "16": {
+    "order": 16,
+    "page": 92,
+    "stimulus": null,
+    "text": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 7 and 10, which inequality represents the possible lengths, x, of the third side of the triangle?",
+    "choices": {
+      "A": "x < 17",
+      "B": "x > 17",
+      "C": "3 < x < 17",
+      "D": "x < 3 or x > 17"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The three inequalities are 7 + 10 > x, 7 + x > 10 and 10 + x > 7, which give x < 17, x > 3 and x > −3. Combining them yields 3 < x < 17.",
+    "note": "The capture shows choice A highlighted as the test-taker's selection; that selection is incorrect, since it drops the lower bound x > 3."
+  },
+  "17": {
+    "order": 17,
+    "page": 93,
+    "stimulus": null,
+    "text": "The graph of y = f(x) + 4 is shown. Which equation defines function f?",
+    "choices": {
+      "A": "f(x) = −6ˣ + 1",
+      "B": "f(x) = −6ˣ + 5",
+      "C": "f(x) = −6ˣ + 8",
+      "D": "f(x) = −6ˣ + 9"
+    },
+    "imageUrl": "/mocks/2025-march-int-b/figures/math2-q17-exponential-graph.svg",
+    "correctAnswer": "B",
+    "showWork": "The graph shown has y-intercept (0, 8) and a horizontal asymptote at y = 9 as x decreases, so the graphed function is y = −6ˣ + 9 (check: at x = 0, −1 + 9 = 8, and it crosses the x-axis where 6ˣ = 9, i.e. x ≈ 1.23, matching the graph). Since the graph is y = f(x) + 4, f(x) = (−6ˣ + 9) − 4 = −6ˣ + 5."
+  },
+  "18": {
+    "order": 18,
+    "page": 94,
+    "stimulus": null,
+    "text": "In the figure, LQ intersects MP at point R, and LM is parallel to PQ. The lengths of MR and RP are 8 and 14 units, respectively. The area of triangle LMR is 36 square units. What is the area of triangle PQR, in square units?",
+    "choices": {
+      "A": "576/49",
+      "B": "144/7",
+      "C": "63",
+      "D": "441/4"
+    },
+    "imageUrl": "/mocks/2025-march-int-b/figures/math2-q18-intersecting-triangles.svg",
+    "correctAnswer": "D",
+    "showWork": "Because LM is parallel to PQ, the alternate interior angles give angle MLR = angle PQR and angle LMR = angle QPR, so triangle LMR is similar to triangle QPR. The corresponding sides MR and PR have ratio 8/14 = 4/7, so the areas are in the ratio (4/7)² = 16/49. Therefore area PQR = 36(49/16) = 1,764/16 = 441/4."
+  },
+  "19": {
+    "order": 19,
+    "page": 95,
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 3x. For what value of x is g(x) = 12?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "4",
+    "showWork": "Setting 3x = 12 and dividing both sides by 3 gives x = 4."
+  },
+  "20": {
+    "order": 20,
+    "page": 96,
+    "stimulus": null,
+    "text": "Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 59 square centimeters (cm²), and the surface area of right rectangular prism Y is 1,475 cm². The volume of right rectangular prism Y is 1,500 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1512",
+    "showWork": "The ratio of surface areas is 59/1,475 = 1/25, so the ratio of corresponding lengths is 1/5 and the ratio of volumes is (1/5)³ = 1/125. The volume of X is 1,500/125 = 12 cm³, so the sum is 12 + 1,500 = 1,512 cm³.",
+    "note": "Page 97 is a duplicate capture of this same Q20 screen; it was used to cross-check the transcription (the page-96 capture clips the right edge of the stem)."
+  },
+  "21": {
+    "order": 21,
+    "page": 98,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = ab^(x/n), where a, b, and n are constants, and b and n are integers. If f(3) = 6 and f(5) = 150, what is the value of f(6)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "750",
+    "showWork": "Let k = b^(1/n), so f(x) = a·kˣ. Dividing f(5) by f(3) gives k² = 150/6 = 25, so k = 5 (k > 0). From f(3) = a(125) = 6 we get a = 6/125. Then f(6) = (6/125)(5⁶) = (6/125)(15,625) = 750. Equivalently, f(6) = f(5)·k = 150(5) = 750."
+  },
+  "22": {
+    "order": 22,
+    "page": 99,
+    "stimulus": null,
+    "text": "24x² − (12a + 2b)x + ab = 0\n\nIn the given equation, a and b are positive constants. The sum of the solutions to the given equation is k(6a + b), where k is a constant. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1/12",
+    "showWork": "For a quadratic Ax² + Bx + C = 0 the sum of the solutions is −B/A. Here A = 24 and B = −(12a + 2b), so the sum is (12a + 2b)/24 = (6a + b)/12. Comparing with k(6a + b) gives k = 1/12. This checks against the factorization 24x² − (12a + 2b)x + ab = (2x − a)(12x − b), whose roots a/2 and b/12 sum to (6a + b)/12."
+  }
+}

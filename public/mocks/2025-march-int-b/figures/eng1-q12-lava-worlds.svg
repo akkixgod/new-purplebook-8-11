@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="250" viewBox="0 0 620 250">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="310.0" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Three Candidate Lava Worlds, by Modeled Mass,</text>
+<text x="310.0" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Density, and Surface Temperature</text>
+<rect x="20" y="54" width="140" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="90.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Planet</text>
+<rect x="160" y="54" width="150" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="235.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Mass (Earth masses)</text>
+<rect x="310" y="54" width="130" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="375.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Density ratio</text>
+<rect x="440" y="54" width="160" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="520.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Temperature (kelvins)</text>
+<rect x="20" y="106" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="90.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">HD 80653 b</text>
+<rect x="160" y="106" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="235.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">5.6</text>
+<rect x="310" y="106" width="130" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="375.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">7.4</text>
+<rect x="440" y="106" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="520.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2,300</text>
+<rect x="20" y="146" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="90.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Kepler-10 b</text>
+<rect x="160" y="146" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="235.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">3.6</text>
+<rect x="310" y="146" width="130" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="375.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">6.0</text>
+<rect x="440" y="146" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="520.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2,130</text>
+<rect x="20" y="186" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="90.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">K2-265 b</text>
+<rect x="160" y="186" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="235.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.8</text>
+<rect x="310" y="186" width="130" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="375.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">7.1</text>
+<rect x="440" y="186" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="520.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1,400</text>
+</svg>

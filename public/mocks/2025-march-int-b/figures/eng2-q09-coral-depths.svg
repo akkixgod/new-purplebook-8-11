@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="262" viewBox="0 0 600 262">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="300" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Minimum and Maximum Depths of Stony Coral Species in</text>
+  <text x="300" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Caribbean and Indo-Pacific Waters</text>
+
+  <rect x="25" y="64" width="185" height="38" fill="#f3f4f6" stroke="#111"/>
+  <text x="117.5" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Species</text>
+  <rect x="210" y="64" width="180" height="38" fill="#f3f4f6" stroke="#111"/>
+  <text x="300" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Minimum depth (meters)</text>
+  <rect x="390" y="64" width="185" height="38" fill="#f3f4f6" stroke="#111"/>
+  <text x="482.5" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="700">Maximum depth (meters)</text>
+
+  <rect x="25" y="102" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="117.5" y="124" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic">Acropora echinata</text>
+  <rect x="210" y="102" width="180" height="34" fill="#fff" stroke="#111"/>
+  <text x="300" y="124" text-anchor="middle" font-family="Georgia, serif" font-size="12">8</text>
+  <rect x="390" y="102" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="482.5" y="124" text-anchor="middle" font-family="Georgia, serif" font-size="12">25</text>
+
+  <rect x="25" y="136" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="117.5" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic">Astreopora expansa</text>
+  <rect x="210" y="136" width="180" height="34" fill="#fff" stroke="#111"/>
+  <text x="300" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12">5</text>
+  <rect x="390" y="136" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="482.5" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12">15</text>
+
+  <rect x="25" y="170" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="117.5" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic">Heliofungia fralinae</text>
+  <rect x="210" y="170" width="180" height="34" fill="#fff" stroke="#111"/>
+  <text x="300" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="12">3</text>
+  <rect x="390" y="170" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="482.5" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="12">27</text>
+
+  <rect x="25" y="204" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="117.5" y="226" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic">Scolymia lacera</text>
+  <rect x="210" y="204" width="180" height="34" fill="#fff" stroke="#111"/>
+  <text x="300" y="226" text-anchor="middle" font-family="Georgia, serif" font-size="12">10</text>
+  <rect x="390" y="204" width="185" height="34" fill="#fff" stroke="#111"/>
+  <text x="482.5" y="226" text-anchor="middle" font-family="Georgia, serif" font-size="12">80</text>
+</svg>

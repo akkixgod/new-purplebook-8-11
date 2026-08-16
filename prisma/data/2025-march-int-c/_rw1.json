@@ -1,0 +1,380 @@
+{
+  "1": {
+    "order": 1,
+    "page": 1,
+    "stimulus": "During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ______ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "outdated",
+      "B": "varied",
+      "C": "forgotten",
+      "D": "lonely"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "2": {
+    "order": 2,
+    "page": 2,
+    "stimulus": "The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child.\n\nFor the talent show, I was to play a piece called “Pleading Child” from Schumann’s Scenes from Childhood. It was a simple, moody piece that sounded more difficult than it was. I was supposed to memorize the whole thing, playing the repeat parts twice to make the piece sound longer. But I dawdled over it, playing a few bars and then <u>cheating</u>, looking up to see what notes followed. I never really listened to what I was playing. I daydreamed about being somewhere else, about being someone else.",
+    "text": "Based on the text, when the narrator describes herself as “cheating,” what does she most likely mean?",
+    "choices": {
+      "A": "She was gaining an unfair advantage over other contestants in the talent show.",
+      "B": "She was lying to herself about her musical ability.",
+      "C": "She was deceiving her piano teacher.",
+      "D": "She was violating an expectation about how to perform the piece."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "3": {
+    "order": 3,
+    "page": 3,
+    "stimulus": "The Historical Dictionary of Science Fiction is a crowdsourced project started in 2001 by lexicographer Jesse Sheidlower to record terms that originated in science fiction. Volunteers share digitized excerpts from personal collections of sci-fi magazines not typically preserved in libraries—______ that allow the earliest uses of phrases such as “warp speed” (1952) to be identified and added to the dictionary.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "contributions",
+      "B": "resolutions",
+      "C": "justifications",
+      "D": "negotiations"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "4": {
+    "order": 4,
+    "page": 4,
+    "stimulus": "Agglomeration economies arise when multiple firms in related industries ______ an area, as with iron and steel production firms and cutlery and hardware manufacturers in Wolverhampton, UK. Economists have assumed that companies cluster for the same reasons, but Giulia Faggio et al. found that factors driving agglomeration in some cases are only weakly correlated with agglomeration in others.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "intercede in",
+      "B": "concur with",
+      "C": "appeal to",
+      "D": "amass in"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "5": {
+    "order": 5,
+    "page": 5,
+    "stimulus": "The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.\n\nThe meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour and go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "It contrasts great-uncle Richard’s wary first impressions of Adam with his ultimate affection toward him.",
+      "B": "It showcases how Adam’s flexibility and consideration strengthen his relationship with his great-uncle Richard.",
+      "C": "It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.",
+      "D": "It describes why Adam and his great-uncle Richard are excited for their upcoming journey on the ship."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "6": {
+    "order": 6,
+    "page": 6,
+    "stimulus": "Community science, which involves professional scientists collaborating with amateur science enthusiasts to study a topic, is often an effective and engaging way to conduct research. It can allow people to assist with conservation efforts, spark youth interest in science, and increase the amount of data researchers can collect. This approach was essential to the success of a study by biologist Abbigail Merrill and colleagues of how butterfly color relates to flower choice, which included findings from hundreds of students and community members in northwestern Arkansas.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It introduces the topic of a scientific study, describes the study’s importance, and then presents the study’s results.",
+      "B": "It identifies a particular approach to research, lists some benefits of that approach, and then mentions a study in which that approach was used.",
+      "C": "It argues for a new approach to scientific research, comments on the public’s opinion about the approach, and then describes how that approach was applied in a certain study.",
+      "D": "It describes the development of a type of scientific collaboration, shows how that type of collaboration has been used in a particular field of study, and then suggests future collaborative projects."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "7": {
+    "order": 7,
+    "page": 7,
+    "stimulus": "Io is among Jupiter’s four largest moons and was discovered in 1610 by Galileo. Advances in space exploration and imaging technologies have since enabled scientists to discover even more moons orbiting Jupiter. For example, scientists used the Voyager 1 space probe to discover Adrastea in 1979. And more recently, researchers discovered 12 moons using the Dark Energy Camera at the Cerro Tololo Inter-American Observatory in Chile. As of 2023, the number of confirmed moons orbiting Jupiter was 95, and scientists think further exploration will reveal more.",
+    "text": "According to the text, in which year was Adrastea discovered?",
+    "choices": {
+      "A": "1979",
+      "B": "1892",
+      "C": "2001",
+      "D": "1610"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "8": {
+    "order": 8,
+    "page": 8,
+    "stimulus": "Founded in 1991, the Museo de Las Americas showcases art from Latin America, including the art of Indigenous peoples. It is located in Denver and has more than 4,800 objects in its collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is LA Plaza de Cultura y Artes in Los Angeles. It opened in 2011 and focuses on Mexican American art and culture.",
+    "text": "Which contrast does the text draw between the Museo de Las Americas and LA Plaza de Cultura y Artes?",
+    "choices": {
+      "A": "LA Plaza de Cultura y Artes is visited by more people.",
+      "B": "LA Plaza de Cultura y Artes has more objects in its collection.",
+      "C": "LA Plaza de Cultura y Artes is housed in a larger building.",
+      "D": "LA Plaza de Cultura y Artes opened more recently."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "9": {
+    "order": 9,
+    "page": 9,
+    "stimulus": "The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ______",
+    "text": "Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?",
+    "choices": {
+      "A": "“Before [Dorothy and her companions] was a great stretch of country having a floor as smooth and shining and white as the bottom of a big platter. Scattered around were many houses made entirely of china and painted in the brightest colors.”",
+      "B": "“There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds.”",
+      "C": "“When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”",
+      "D": "“Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "10": {
+    "order": 10,
+    "page": 10,
+    "stimulus": "To help combat the growing rate of microplastic pollution, a team of researchers developed a synthetic sponge that can soak up microplastic particles from liquid. The sponge, composed mainly of starch and gelatin, does this by trapping the tiny particles within its pores. Guoqing Wang, one of the researchers, says that the formula for the sponge can be adjusted to best suit the size of particle the sponge is intended to trap, making it versatile in its potential applications. Chemist Christian Adlhart, however, claims that this sponge would be difficult to mass-produce.",
+    "text": "Which finding, if true, would most directly support Adlhart’s claim?",
+    "choices": {
+      "A": "Textiles are one of the largest sources of microplastic pollution in our oceans.",
+      "B": "The sponge created by Wang and his team has a relatively light weight for its volume, making it potentially easy to ship to different locations.",
+      "C": "The absorption capabilities of the sponge created by Wang and his team varied depending on the liquid solution used in the team’s experiments.",
+      "D": "The worldwide supply of starch and gelatin is in high demand from the food industry, so those substances would be difficult to source in significant quantities."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "11": {
+    "order": 11,
+    "page": 11,
+    "stimulus": "Life Among the Paiutes is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins, a Northern Paiute author, educator, and activist. In the work, Winnemucca directly addresses the reader to explain certain customs, writing ______",
+    "text": "Which quotation from Life Among the Paiutes most effectively illustrates the claim?",
+    "choices": {
+      "A": "“We would all go in company to see if the flowers we were named for were yet in bloom, for almost all the girls are named for flowers.”",
+      "B": "“Nothing happened during the day, and after awhile mother told us not to say a word about why we left, for grandpa might get mad with us.”",
+      "C": "“Now, my dear reader, there is no word so endearing as the word father, and that is why [my people] call all good people father or mother.”",
+      "D": "“But how can I describe the scene that followed? Some of you, dear readers, can imagine.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "12": {
+    "order": 12,
+    "page": 12,
+    "stimulus": "To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Ajewole and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country’s total agricultural exports.",
+    "text": "Which choice best describes data from the graph that weaken the student’s claim?",
+    "choices": {
+      "A": "Although agricultural exports from Mexico decreased over the five years before NAFTA, a reversal in this trend was observed over the five years after Mexico joined NAFTA.",
+      "B": "All the countries shown had positive growth in agricultural exports over the five years after joining their respective FTAs, but their rates of export growth varied.",
+      "C": "Over the five years after Costa Rica joined CAFTA-DR, agricultural exports from Costa Rica grew at a rate of about 13.5 percent, which is higher than the rate over the five years before Costa Rica joined the agreement.",
+      "D": "Although agricultural exports from Canada grew over the five years after Canada joined NAFTA, their growth rate was even higher in the five years before NAFTA."
+    },
+    "imageUrl": "/mocks/2025-march-int-c/figures/eng1-q12-fta-export-growth.svg",
+    "correctAnswer": "D"
+  },
+  "13": {
+    "order": 13,
+    "page": 13,
+    "stimulus": "Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.",
+    "text": "Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?",
+    "choices": {
+      "A": "Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.",
+      "B": "Productivity loss for the EET group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly increased during the same time period.",
+      "C": "Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.",
+      "D": "Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over that time."
+    },
+    "imageUrl": "/mocks/2025-march-int-c/figures/eng1-q13-productivity-loss.svg",
+    "correctAnswer": "C"
+  },
+  "14": {
+    "order": 14,
+    "page": 14,
+    "stimulus": "Born in Chile in 1917, artist and ethnomusicologist Violeta Parra was a pioneer in the nueva canción chilena (Chilean New Song) movement that emerged in the late 1950s and then spread throughout Latin America, Portugal, and Spain as nueva canción. Parra traveled all over Chile compiling extensive records of authentic folk music as well as recipes, proverbs, and other facets of cultural history. These records formed the foundation for the early movement’s revival of traditional Chilean folk forms in new songs that represented modern realities of the working class and strongly advocated for social change. <u>As the movement spread beyond Chile, the breadth of musical traditions incorporated into its foundation also expanded.</u>",
+    "text": "Which detail about songs associated with nueva canción, if true, would best illustrate the underlined claim?",
+    "choices": {
+      "A": "Many were written with parts meant to be played on the quena, a traditional flute used across Andean countries, including Chile.",
+      "B": "Many demonstrate the stylistic influence of corrido, a genre of narrative songs from Mexico that had come to be characterized by political themes in the early 1800s.",
+      "C": "Many feature political commentary addressing contemporary issues that stemmed from shared experiences of European colonization in Latin American countries.",
+      "D": "Many were produced by Argentinian artists in the late 1950s, with others by artists in additional Latin American countries first emerging soon after."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "15": {
+    "order": 15,
+    "page": 15,
+    "stimulus": "Museo Castillo Serrallés, a history museum in Ponce, Puerto Rico, is one of more than eighty museums in the US territory. Puerto Rico’s museums ______ visitors about everything from the territory’s history to its architecture to its coffee.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "inform",
+      "B": "informing",
+      "C": "to inform",
+      "D": "having informed"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "16": {
+    "order": 16,
+    "page": 16,
+    "stimulus": "An upcoming exhibition will showcase Vincent van Gogh’s drawing Snowy Landscape with the Old Tower, which Van Gogh ______ in the city of Nuenen nearly 150 years ago.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "is completing",
+      "B": "will complete",
+      "C": "completed",
+      "D": "has been completing"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "17": {
+    "order": 17,
+    "page": 17,
+    "stimulus": "Kizomba, a genre of dance that originated in Angola, has become an international ______ 2022, the Indian dance duo known as Elvis and Namrata defeated performers from around the world to win the annual Olympiads of Kizomba competition held in Paris, France, becoming the first ever Asian winners.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "phenomenon in",
+      "B": "phenomenon and in",
+      "C": "phenomenon. In",
+      "D": "phenomenon, in"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "18": {
+    "order": 18,
+    "page": 18,
+    "stimulus": "Round Rock Chapter, which covers 201,000 acres, is one of the 110 chapters of the Navajo ______ Diné bizaad (the Navajo language), the chapter is called Tsé Nikání.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Nation and in",
+      "B": "Nation in",
+      "C": "Nation, in",
+      "D": "Nation. In"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "19": {
+    "order": 19,
+    "page": 19,
+    "stimulus": "The 2020 documentary Without a Whisper—Konnon:Kwe was directed by Katsitsionni Fox. It explores how Indigenous Haudenosaunee culture shaped the woman suffrage movement in the early nineteenth ______ how the personal and political authority Haudenosaunee women had in their communities influenced the first suffragists in the US.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "century; revealing",
+      "B": "century, revealing",
+      "C": "century. Revealing",
+      "D": "century revealing"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "20": {
+    "order": 20,
+    "page": 20,
+    "stimulus": "For the past 20 million years, Earth’s magnetic poles in the far north and far south have remained roughly where they are today. This has not always been the ______ throughout geologic history, Earth’s magnetic poles have swapped places several times through a process called polar wandering.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "case, though,",
+      "B": "case, though;",
+      "C": "case, though",
+      "D": "case; though,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "21": {
+    "order": 21,
+    "page": 21,
+    "stimulus": "As part of a study, participants were asked to list animals they thought of as “charismatic,” which was defined as “attractive, fascinating, or appealing.” Researchers compiled the responses into a single list and found that elephants were ranked higher than crocodiles. ______ elephants were ranked third, and crocodiles were ranked fifteenth.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Therefore,",
+      "B": "Specifically,",
+      "C": "On the other hand,",
+      "D": "Later,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "22": {
+    "order": 22,
+    "page": 22,
+    "stimulus": "In 1920, the US Geological Survey determined the geographic center of Montana using only a cardboard cutout of the state and a piece of string. ______ this apparently crude technique yielded a relatively close approximation: when the 1920 center was compared to a center determined by a computer program nearly a hundred years later, the two diverged by just a mile.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Still,",
+      "B": "Fittingly,",
+      "C": "Similarly,",
+      "D": "In other words,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "23": {
+    "order": 23,
+    "page": 23,
+    "stimulus": "In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ______ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "fittingly,",
+      "B": "for example,",
+      "C": "likewise,",
+      "D": "though,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "24": {
+    "order": 24,
+    "page": 24,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n- Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.\n- MORA: Zeichner is a German slow TV program.\n- The 45-minute-long program documented an artist making a pencil drawing during a train journey.\n- It first aired in 2016.\n- Slow TV has been called “the world’s most boring television.”\n- American journalist Nathan Heller praises it, writing that “it affords a visceral kind of armchair tourism.”",
+    "text": "The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "MORA: Zeichner can afford a “visceral kind of armchair tourism,” as Heller puts it.",
+      "B": "While some have praised slow TV for affording “a visceral kind of armchair tourism,” others have called it “the world’s most boring television.”",
+      "C": "Far from boring, slow TV programs can provide a “visceral kind of armchair tourism,” as Heller puts it, whereby viewers can watch artists at work in real time.",
+      "D": "With broadcasts of ordinary events, like artists at work, occurring in real time, slow TV just might be “the world’s most boring television.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "25": {
+    "order": 25,
+    "page": 25,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n- Dinosaur fossil specimens can be found at science museums all over the world.\n- Many dinosaur fossil specimens are given nicknames.\n- The Denver Museum of Nature and Science in Denver, Colorado, houses a dinosaur fossil specimen nicknamed Pops.\n- Pops lived in the Late Cretaceous period, which ended more than 65 million years ago.\n- It is a member of the genus Triceratops.",
+    "text": "The student wants to provide an example of a dinosaur fossil specimen’s nickname. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Nicknames are given to many dinosaur fossil specimens, including one housed at a museum in Denver, Colorado.",
+      "B": "A Triceratops fossil specimen from the Late Cretaceous period, which ended more than 65 million years ago, is housed at the Denver Museum of Nature and Science.",
+      "C": "Dinosaur fossil specimens can be found at museums all over the world, and many of these specimens are given nicknames.",
+      "D": "Pops is the nickname of a Triceratops fossil specimen housed at the Denver Museum of Nature and Science in Denver, Colorado."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "26": {
+    "order": 26,
+    "page": 26,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n- A soundscape refers to the sounds heard in a specific place.\n- The Japanese Ministry of the Environment made a list of 100 soundscapes of Japan.\n- Each soundscape on the list was selected for its cultural significance to Japan.\n- The sound of black-tailed gulls at Hachinohe Port in Aomori Prefecture is on the list.\n- Aomori Prefecture is on northern Honshu Island, Japan.",
+    "text": "The student wants to specify where a soundscape of cultural significance to Japan can be heard. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The sound of black-tailed gulls was included on a list of 100 soundscapes.",
+      "B": "The soundscape was selected by the Japanese Ministry of the Environment for its cultural significance to Japan.",
+      "C": "The soundscape included the sounds heard in a specific place.",
+      "D": "The sound of black-tailed gulls at Hachinohe Port can be heard in Aomori Prefecture on northern Honshu Island, Japan."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "27": {
+    "order": 27,
+    "page": 27,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n\n- Most of the plant and bird species in Oahu, Hawaii, are non-native.\n- In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.\n- Researchers catalogued plant seeds found in fecal samples from non-native birds.\n- Ilex anomala, a flowering shrub, was one of fifteen native species catalogued.\n- Trema orientalis, a tree, was one of twenty-nine non-native species catalogued.\n- Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.",
+    "text": "The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Most plant species found in Oahu, Hawaii, like Trema orientalis, are non-native.",
+      "B": "A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.",
+      "C": "Though Ilex anomala and Trema orientalis can both be found in Oahu, Hawaii, only the former plant is native.",
+      "D": "Seeds from Ilex anomala and Trema orientalis plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  }
+}
