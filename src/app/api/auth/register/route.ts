@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/prisma";
 import { createAuthBackup } from "@/lib/auth-backup";
+import { attachAuthBackupCookie } from "@/lib/auth-backup-cookie";
 import { findUserByEmail, normalizeEmail } from "@/lib/find-user-by-email";
 
 export async function POST(req: NextRequest) {
@@ -94,7 +95,7 @@ export async function POST(req: NextRequest) {
       console.warn("[auth/register] auth backup unavailable", err);
     }
 
-    return NextResponse.json(
+    const res = NextResponse.json(
       {
         id: saved.id,
         email: saved.email,
@@ -102,6 +103,8 @@ export async function POST(req: NextRequest) {
       },
       { status: 201 }
     );
+    if (authBackup) attachAuthBackupCookie(res, authBackup);
+    return res;
   } catch (err) {
     console.error("[auth/register] unexpected error:", err);
     return NextResponse.json({ error: "Registration failed" }, { status: 500 });

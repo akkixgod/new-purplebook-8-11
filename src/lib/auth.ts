@@ -5,6 +5,7 @@ import Credentials from "next-auth/providers/credentials";
 import bcrypt from "bcryptjs";
 import { prisma } from "./prisma";
 import { verifyAuthBackup } from "./auth-backup";
+import { readAuthBackupFromCookieHeader } from "./auth-backup-cookie";
 import { findUserByEmail, normalizeEmail } from "./find-user-by-email";
 
 const googleConfigured =
@@ -50,23 +51,27 @@ async function restoreUserFromBackup(backupToken: string, email: string, passwor
   // Rehydrate the user row on this serverless SQLite instance.
   try {
     const existing = await findUserByEmail(email);
-    if (existing) {
-      return prisma.user.update({
-        where: { id: existing.id },
-        data: {
-          email,
-          password: payload.passwordHash,
-        },
-      });
-    }
-    return prisma.user.create({
-      data: {
-        id: payload.id,
-        email: payload.email,
-        password: payload.passwordHash,
-        name: email.split("@")[0],
-      },
+    const restored = existing
+      ? await prisma.user.update({
+          where: { id: existing.id },
+          data: {
+            email,
+            password: payload.passwordHash,
+          },
+        })
+      : await prisma.user.create({
+          data: {
+            id: payload.id,
+            email: payload.email,
+            password: payload.passwordHash,
+            name: email.split("@")[0],
+          },
+        });
+    console.info("[auth/credentials] restored User row from auth backup", {
+      userId: restored.id,
+      created: !existing,
     });
+    return restored;
   } catch (err) {
     console.error("[auth/credentials] failed to restore user from backup", err);
     // Still allow sign-in from the verified backup payload.
@@ -124,20 +129,25 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
         password: { label: "Password", type: "password" },
         backup: { label: "Backup", type: "text" },
       },
-      async authorize(credentials) {
+      async authorize(credentials, request) {
         try {
           const email =
             typeof credentials?.email === "string" ? normalizeEmail(credentials.email) : "";
           const password =
             typeof credentials?.password === "string" ? credentials.password : "";
-          const backup =
+          const credentialBackup =
             typeof credentials?.backup === "string" ? credentials.backup.trim() : "";
+          const cookieBackup = readAuthBackupFromCookieHeader(request?.headers?.get("cookie"));
+          const backup = credentialBackup || cookieBackup;
 
           console.info("[auth/credentials] authorize start", {
             email,
             passwordProvided: Boolean(password),
             passwordLength: password.length,
-            backupProvided: Boolean(backup),
+            backupFromCredentials: Boolean(credentialBackup),
+            backupFromCookie: Boolean(cookieBackup),
+            dbScheme: (process.env.DATABASE_URL ?? "").split(":")[0] || "unset",
+            vercel: Boolean(process.env.VERCEL),
           });
 
           if (!email || !password) {
@@ -153,13 +163,27 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
             throw new AuthServiceError();
           }
 
-          if (!user?.password && backup) {
-            console.info("[auth/credentials] restoring user from signed auth backup");
-            user = await restoreUserFromBackup(backup, email, password);
+          if (backup) {
+            const restored = await restoreUserFromBackup(backup, email, password);
+            if (restored) {
+              console.info("[auth/credentials] using user restored from signed auth backup", {
+                userId: restored.id,
+                hadExistingRow: Boolean(user),
+              });
+              user = restored;
+            }
           }
 
           if (!user) {
-            console.warn("[auth/credentials] user not found for email", email);
+            console.warn("[auth/credentials] user not found", {
+              email,
+              vercel: Boolean(process.env.VERCEL),
+              dbScheme: (process.env.DATABASE_URL ?? "").split(":")[0] || "unset",
+              backupProvided: Boolean(backup),
+              hint: process.env.VERCEL
+                ? "ephemeral sqlite has no User row for this isolate; restore requires a valid auth backup or re-register"
+                : "no matching User row",
+            });
             throw new InvalidCredentialsError();
           }
 

@@ -114,21 +114,20 @@ export default function SignInPage() {
         return;
       }
 
-      // Refresh / mint signed backup so later logins survive serverless SQLite resets.
-      if (!backup) {
-        try {
-          const br = await fetch("/api/auth/issue-backup", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ email: normalizedEmail, password }),
-          });
-          const bj = await br.json().catch(() => ({}));
-          if (br.ok && typeof bj.authBackup === "string") {
-            writeStoredBackup(normalizedEmail, bj.authBackup);
-          }
-        } catch {
-          /* non-fatal */
+      // Refresh signed backup (httpOnly cookie + localStorage) so later logins
+      // can rehydrate the User row on a new ephemeral SQLite isolate.
+      try {
+        const br = await fetch("/api/auth/issue-backup", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email: normalizedEmail, password }),
+        });
+        const bj = await br.json().catch(() => ({}));
+        if (br.ok && typeof bj.authBackup === "string") {
+          writeStoredBackup(normalizedEmail, bj.authBackup);
         }
+      } catch {
+        /* non-fatal */
       }
 
       // Full navigation so the session cookie is picked up reliably

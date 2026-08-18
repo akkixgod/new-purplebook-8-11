@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
 import { createAuthBackup } from "@/lib/auth-backup";
+import { attachAuthBackupCookie } from "@/lib/auth-backup-cookie";
 import { findUserByEmail, normalizeEmail } from "@/lib/find-user-by-email";
 
 /**
@@ -33,7 +34,9 @@ export async function POST(req: NextRequest) {
       passwordHash: user.password,
     });
 
-    return NextResponse.json({ authBackup });
+    const res = NextResponse.json({ authBackup });
+    attachAuthBackupCookie(res, authBackup);
+    return res;
   } catch (err) {
     console.error("[auth/issue-backup] error", err);
     return NextResponse.json({ error: "Could not issue backup" }, { status: 500 });

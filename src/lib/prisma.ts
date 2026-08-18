@@ -25,7 +25,7 @@ function ensureWritableLocalSqlite() {
   }
   process.env.DATABASE_URL = `file:${dest}`;
   console.warn(
-    "[prisma] Using ephemeral /tmp SQLite on Vercel. Attempt history will not survive cold starts. Set TURSO_DATABASE_URL (+ TURSO_AUTH_TOKEN) or a remote DATABASE_URL for permanent storage."
+    "[prisma] Using ephemeral /tmp SQLite on Vercel. User rows and attempts are per-instance and reset when /tmp is empty (new deploy, new serverless isolate). Credentials sign-in then fails with 'Invalid email or password' until the account is restored from an auth backup or re-registered. Set TURSO_DATABASE_URL (+ TURSO_AUTH_TOKEN) or a remote DATABASE_URL for durable auth."
   );
 }
 
