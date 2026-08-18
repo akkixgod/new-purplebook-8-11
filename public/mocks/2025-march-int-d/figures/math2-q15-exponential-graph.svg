@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="516" viewBox="0 0 460 516">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="44.0" y1="44.0" x2="44.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="106.0" y1="44.0" x2="106.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="168.0" y1="44.0" x2="168.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="230.0" y1="44.0" x2="230.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="292.0" y1="44.0" x2="292.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="354.0" y1="44.0" x2="354.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="416.0" y1="44.0" x2="416.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="471.5" x2="416.0" y2="471.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="443.0" x2="416.0" y2="443.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="414.5" x2="416.0" y2="414.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="386.0" x2="416.0" y2="386.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="357.5" x2="416.0" y2="357.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="329.0" x2="416.0" y2="329.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="300.5" x2="416.0" y2="300.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="272.0" x2="416.0" y2="272.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="243.5" x2="416.0" y2="243.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="215.0" x2="416.0" y2="215.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="186.5" x2="416.0" y2="186.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="158.0" x2="416.0" y2="158.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="129.5" x2="416.0" y2="129.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="101.0" x2="416.0" y2="101.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="72.5" x2="416.0" y2="72.5" stroke="#e5e7eb"/>
+<line x1="44.0" y1="44.0" x2="416.0" y2="44.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="329.0" x2="430.0" y2="329.0" stroke="#111" stroke-width="1.6"/>
+<line x1="106.0" y1="471.5" x2="106.0" y2="30.0" stroke="#111" stroke-width="1.6"/>
+<polygon points="437.0,329.0 429.0,324.5 429.0,333.5" fill="#111"/>
+<text x="442.0" y="324.0" font-family="Georgia, serif" font-size="15" font-style="italic">x</text>
+<polygon points="106.0,23.0 101.5,31.0 110.5,31.0" fill="#111"/>
+<text x="114.0" y="24.0" font-family="Georgia, serif" font-size="15" font-style="italic">y</text>
+<polyline points="44.0,191.2 45.2,191.4 46.5,191.6 47.7,191.8 49.0,192.0 50.2,192.2 51.4,192.4 52.7,192.6 53.9,192.8 55.2,193.1 56.4,193.3 57.6,193.5 58.9,193.8 60.1,194.1 61.4,194.3 62.6,194.6 63.8,194.9 65.1,195.2 66.3,195.6 67.6,195.9 68.8,196.2 70.0,196.6 71.3,196.9 72.5,197.3 73.8,197.7 75.0,198.1 76.2,198.6 77.5,199.0 78.7,199.5 80.0,199.9 81.2,200.4 82.4,200.9 83.7,201.5 84.9,202.0 86.2,202.6 87.4,203.1 88.6,203.8 89.9,204.4 91.1,205.0 92.4,205.7 93.6,206.4 94.8,207.1 96.1,207.9 97.3,208.7 98.6,209.5 99.8,210.3 101.0,211.2 102.3,212.1 103.5,213.0 104.8,214.0 106.0,215.0 107.2,216.0 108.5,217.1 109.7,218.2 111.0,219.4 112.2,220.6 113.4,221.8 114.7,223.1 115.9,224.5 117.2,225.8 118.4,227.3 119.6,228.8 120.9,230.3 122.1,231.9 123.4,233.6 124.6,235.3 125.8,237.1 127.1,238.9 128.3,240.8 129.6,242.8 130.8,244.9 132.0,247.0 133.3,249.2 134.5,251.5 135.8,253.9 137.0,256.3 138.2,258.9 139.5,261.5 140.7,264.2 142.0,267.1 143.2,270.0 144.4,273.1 145.7,276.2 146.9,279.5 148.2,282.9 149.4,286.4 150.6,290.0 151.9,293.8 153.1,297.7 154.4,301.8 155.6,306.0 156.8,310.4 158.1,314.9 159.3,319.6 160.6,324.4 161.8,329.4 163.0,334.7 164.3,340.1 165.5,345.7 166.8,351.5 168.0,357.5 169.2,363.7 170.5,370.2 171.7,376.9 173.0,383.9 174.2,391.1 175.4,398.5 176.7,406.3 177.9,414.3 179.2,422.6 180.4,431.2 181.6,440.1 182.9,449.4 184.1,459.0 185.4,468.9 185.7,471.5" fill="none" stroke="#111" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="44.0" y1="325.0" x2="44.0" y2="333.0" stroke="#111"/>
+<text x="44.0" y="347.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−1</text>
+<line x1="168.0" y1="325.0" x2="168.0" y2="333.0" stroke="#111"/>
+<text x="168.0" y="347.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">1</text>
+<line x1="230.0" y1="325.0" x2="230.0" y2="333.0" stroke="#111"/>
+<text x="230.0" y="347.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">2</text>
+<line x1="292.0" y1="325.0" x2="292.0" y2="333.0" stroke="#111"/>
+<text x="292.0" y="347.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">3</text>
+<line x1="354.0" y1="325.0" x2="354.0" y2="333.0" stroke="#111"/>
+<text x="354.0" y="347.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">4</text>
+<line x1="416.0" y1="325.0" x2="416.0" y2="333.0" stroke="#111"/>
+<text x="416.0" y="347.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">5</text>
+<line x1="102.0" y1="443.0" x2="110.0" y2="443.0" stroke="#111"/>
+<text x="98.0" y="447.0" text-anchor="end" font-family="Georgia, serif" font-size="12">−4</text>
+<line x1="102.0" y1="386.0" x2="110.0" y2="386.0" stroke="#111"/>
+<text x="98.0" y="390.0" text-anchor="end" font-family="Georgia, serif" font-size="12">−2</text>
+<line x1="102.0" y1="272.0" x2="110.0" y2="272.0" stroke="#111"/>
+<text x="98.0" y="276.0" text-anchor="end" font-family="Georgia, serif" font-size="12">2</text>
+<line x1="102.0" y1="215.0" x2="110.0" y2="215.0" stroke="#111"/>
+<text x="98.0" y="219.0" text-anchor="end" font-family="Georgia, serif" font-size="12">4</text>
+<line x1="102.0" y1="158.0" x2="110.0" y2="158.0" stroke="#111"/>
+<text x="98.0" y="162.0" text-anchor="end" font-family="Georgia, serif" font-size="12">6</text>
+<line x1="102.0" y1="101.0" x2="110.0" y2="101.0" stroke="#111"/>
+<text x="98.0" y="105.0" text-anchor="end" font-family="Georgia, serif" font-size="12">8</text>
+<line x1="102.0" y1="44.0" x2="110.0" y2="44.0" stroke="#111"/>
+<text x="98.0" y="48.0" text-anchor="end" font-family="Georgia, serif" font-size="12">10</text>
+<text x="92.0" y="347.0" font-family="Georgia, serif" font-size="13" font-style="italic">O</text>
+</svg>

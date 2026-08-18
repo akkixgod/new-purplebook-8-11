@@ -1,0 +1,316 @@
+{
+  "1": {
+    "order": 1,
+    "page": 55,
+    "stimulus": null,
+    "text": "The cost y, in dollars, for a manufacturer to make x rings is represented by the line shown.\n\nWhat is the cost, in dollars, for the manufacturer to make 50 rings?",
+    "choices": {
+      "A": "100",
+      "B": "125",
+      "C": "175",
+      "D": "225"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math1-q01-cost-line.svg",
+    "correctAnswer": "C",
+    "showWork": "The line passes through (0, 100) and (50, 175), so the cost of 50 rings is 175 dollars. Equivalently, slope = (250 − 100)/100 = 1.5 and y = 1.5x + 100, so y(50) = 175."
+  },
+  "2": {
+    "order": 2,
+    "page": 56,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 7(x^2 + 5)?",
+    "choices": {
+      "A": "7x^2 + 35",
+      "B": "7x^2 + 12",
+      "C": "7x^2 + 5",
+      "D": "7x^2 + 2"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Distribute: 7(x^2 + 5) = 7x^2 + 35."
+  },
+  "3": {
+    "order": 3,
+    "page": 57,
+    "stimulus": null,
+    "text": "What is the y-intercept of the graph shown?",
+    "choices": {
+      "A": "(−5, 0)",
+      "B": "(−1, 0)",
+      "C": "(0, 1)",
+      "D": "(0, 5)"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math1-q03-exponential-graph.svg",
+    "correctAnswer": "D",
+    "showWork": "The y-intercept is where the graph crosses the y-axis (x = 0). The curve meets the y-axis at y = 5, so the point is (0, 5)."
+  },
+  "4": {
+    "order": 4,
+    "page": 58,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 8(2x + 2). For what value of x does f(x) = 80?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "10",
+      "D": "39"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "8(2x + 2) = 80 → 2x + 2 = 10 → 2x = 8 → x = 4."
+  },
+  "5": {
+    "order": 5,
+    "page": 59,
+    "stimulus": null,
+    "text": "n = p / (23v)\n\nThe given equation relates the positive numbers n, p, and v. Which equation correctly expresses p in terms of n and v?",
+    "choices": {
+      "A": "p = n − 23v",
+      "B": "p = n + 23v",
+      "C": "p = n / (23v)",
+      "D": "p = 23vn"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Multiply both sides of n = p/(23v) by 23v to get p = 23vn."
+  },
+  "6": {
+    "order": 6,
+    "page": 60,
+    "stimulus": null,
+    "text": "A line segment that has a length of 125 centimeters (cm) is divided into three parts. One part is 49 cm long. The other two parts have lengths that are equal to each other. What is the length, in cm, of one of the other two parts of equal length?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "38",
+    "showWork": "The two equal parts share the remaining 125 − 49 = 76 cm, so each has length 76/2 = 38 cm."
+  },
+  "7": {
+    "order": 7,
+    "page": 61,
+    "stimulus": null,
+    "text": "Circle N has a radius of 9 millimeters (mm). Circle M has an area of 25π mm^2. What is the total area, in mm^2, of circles N and M?",
+    "choices": {
+      "A": "106π",
+      "B": "61π",
+      "C": "43π",
+      "D": "14π"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Area of N is π(9)^2 = 81π. Total area is 81π + 25π = 106π."
+  },
+  "8": {
+    "order": 8,
+    "page": 62,
+    "stimulus": null,
+    "text": "The list gives the mass, in grams, of 5 ruffed lemurs.\n\n3,710; 3,710; 3,130; 3,750; 3,150\n\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "3490",
+    "showWork": "The masses total 3,710 + 3,710 + 3,130 + 3,750 + 3,150 = 17,450 grams, and 17,450 ÷ 5 = 3,490 grams."
+  },
+  "9": {
+    "order": 9,
+    "page": 63,
+    "stimulus": null,
+    "text": "2x(x − 3)(x + 5) = 0\n\nWhat is one of the solutions to the given equation?",
+    "choices": {
+      "A": "−3",
+      "B": "0",
+      "C": "2",
+      "D": "5"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "A product is 0 when a factor is 0, so x = 0, x = 3, or x = −5. Of the choices, only 0 is a solution."
+  },
+  "10": {
+    "order": 10,
+    "page": 64,
+    "stimulus": null,
+    "text": "In the figure shown, triangle CAE is similar to triangle CBD. The measure of angle CBD is 56°, and AE = 22(BD). What is the measure of angle CAE?",
+    "choices": {
+      "A": "22°",
+      "B": "56°",
+      "C": "(22 + 56)°",
+      "D": "(22 · 56)°"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math1-q10-similar-triangles.svg",
+    "correctAnswer": "B",
+    "showWork": "Similar triangles have congruent corresponding angles. Angle CAE corresponds to angle CBD, so m∠CAE = 56°. The side ratio AE = 22(BD) is a distractor."
+  },
+  "11": {
+    "order": 11,
+    "page": 65,
+    "stimulus": null,
+    "text": "A clothing store buys shirts at a wholesale price of 6.00 dollars each and resells them each at a retail price that is 310% of the wholesale price. At the end of the season, any remaining shirts are marked at a discounted price that is 75% off the retail price. What is the discounted price of each remaining shirt, in dollars?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "4.65",
+    "showWork": "Retail price is 3.10 × 6.00 = 18.60 dollars. 75% off leaves 25% of retail: 0.25 × 18.60 = 4.65 dollars."
+  },
+  "12": {
+    "order": 12,
+    "page": 66,
+    "stimulus": null,
+    "text": "f(x) = 47\n\nFor the given linear function f, which table gives three values of x and their corresponding values of f(x)?",
+    "choices": {
+      "A": "x | f(x)\n0 | 0\n1 | 0\n2 | 0",
+      "B": "x | f(x)\n0 | 47\n1 | 47\n2 | 47",
+      "C": "x | f(x)\n0 | 0\n1 | 47\n2 | 94",
+      "D": "x | f(x)\n0 | 47\n1 | 0\n2 | −47"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "_note": "Stem plus choices A–B are on page 66. Choices C–D were cut off at the bottom of the capture and were reconstructed from the identical constant-function table item on 2025 March Int-A (f(x) = 29) and Int-C (f(x) = 22): C is the slope-k table 0 / k / 2k, D is k / 0 / −k. The key is unaffected: B is the only constant table.",
+    "showWork": "f is the constant function 47, so f(x) = 47 for every x, including x = 0, 1, and 2."
+  },
+  "13": {
+    "order": 13,
+    "page": 67,
+    "stimulus": null,
+    "text": "A sample of a certain isotope takes 29 years to decay to half its original mass. The function s(t) = 136(0.5)^(t/29) gives the approximate mass of this isotope, in grams, that remains t years after a 136-gram sample starts to decay. Which statement is the best interpretation of s(58) = 34 in this context?",
+    "choices": {
+      "A": "Approximately 34 grams of the sample remains 58 years after the sample starts to decay.",
+      "B": "The mass of the sample has decreased by approximately 34 grams 58 years after the sample starts to decay.",
+      "C": "The mass of the sample has decreased by approximately 58 grams 34 years after the sample starts to decay.",
+      "D": "Approximately 58 grams of the sample remains 34 years after the sample starts to decay."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "s(t) is remaining mass after t years, so s(58) = 34 means 34 grams remain after 58 years. Check: 136(0.5)^(58/29) = 136(0.5)^2 = 34."
+  },
+  "14": {
+    "order": 14,
+    "page": 68,
+    "stimulus": null,
+    "text": "Antonia has $130 in an account. Each year she expects to have 2.5% more money in the account than she had the previous year. Which of the following models best describes how Antonia expects the money in her account to change over time?",
+    "choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "A fixed percent increase each year is exponential growth (multiply by 1.025 annually), so the model is increasing exponential."
+  },
+  "15": {
+    "order": 15,
+    "page": 69,
+    "stimulus": null,
+    "text": "In the xy-plane, which of the following does NOT contain any points that are part of the solution set to 2x − 6y > 12?",
+    "choices": {
+      "A": "The region where x < 0 and y > 0",
+      "B": "The region where x < 0 and y < 0",
+      "C": "The region where x > 0 and y > 0",
+      "D": "The x-axis"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Rewrite as y < (1/3)x − 2. In quadrant II (x < 0, y > 0) the right-hand side is less than −2, so y cannot be positive. The other three regions each contain points below the line (e.g. (−10, −6), (12, 1), and (7, 0))."
+  },
+  "16": {
+    "order": 16,
+    "page": 70,
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (18, 16) and has a radius of 6k. Which equation represents this circle?",
+    "choices": {
+      "A": "(x − 18)^2 + (y − 16)^2 = 36k",
+      "B": "(x − 18)^2 + (y − 16)^2 = 36k^2",
+      "C": "(x − 18)^2 + (y − 16)^2 = 6k",
+      "D": "(x − 18)^2 + (y − 16)^2 = 6k^2"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Standard form is (x − h)^2 + (y − k)^2 = r^2. Here r = 6k, so r^2 = 36k^2."
+  },
+  "17": {
+    "order": 17,
+    "page": 71,
+    "stimulus": null,
+    "text": "x^2 − 24x − 8 = 0\n\nWhat is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "4",
+      "C": "8",
+      "D": "24"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "For x^2 + bx + c = 0 the sum of solutions is −b. Here the equation is x^2 − 24x − 8 = 0, so the sum is 24."
+  },
+  "18": {
+    "order": 18,
+    "page": 72,
+    "stimulus": null,
+    "text": "According to a US law, ramps for use by the general public must form an angle with level ground such that tan θ ≤ 1/12. If the ramp in the figure conforms to this law and has a height of 22.7 inches, what is the least possible value of x, in inches?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math1-q18-ramp.svg",
+    "correctAnswer": "272.4",
+    "showWork": "tan θ = 22.7/x ≤ 1/12, so x ≥ 22.7 × 12 = 272.4. The least possible value is 272.4 inches."
+  },
+  "19": {
+    "order": 19,
+    "page": 73,
+    "stimulus": null,
+    "text": "In the figure, two lines intersect at a point. If w = 112, what is the value of z?",
+    "choices": {
+      "A": "12",
+      "B": "56",
+      "C": "68",
+      "D": "112"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math1-q19-vertical-angles.svg",
+    "correctAnswer": "D",
+    "showWork": "w° and z° are vertical angles, so they are congruent: z = w = 112."
+  },
+  "20": {
+    "order": 20,
+    "page": 74,
+    "stimulus": null,
+    "text": "If 3(2 − 7x) + 5(2 − 7x) + 6 = 7(2 − 7x) + 2, what is the value of 7x − 2?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "4",
+    "showWork": "Let u = 2 − 7x. Then 3u + 5u + 6 = 7u + 2 → 8u + 6 = 7u + 2 → u = −4. So 2 − 7x = −4 and 7x − 2 = 4."
+  },
+  "21": {
+    "order": 21,
+    "page": 75,
+    "stimulus": null,
+    "text": "In the xy-plane, line k and line ℓ are perpendicular and intersect at the point (2, 9). If line k is defined by the equation y = mx + b, where m and b are constants and m > 1, which of the following points lies on line ℓ?",
+    "choices": {
+      "A": "(3, 9 − 1/m)",
+      "B": "(3, 9 + 1/m)",
+      "C": "(3, 9 − m)",
+      "D": "(3, 9 + m)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Line ℓ has slope −1/m and passes through (2, 9), so y − 9 = (−1/m)(x − 2). At x = 3, y = 9 − 1/m."
+  },
+  "22": {
+    "order": 22,
+    "page": 76,
+    "stimulus": null,
+    "text": "A sphere has a volume of 245.00 cubic yards. What is the volume of the sphere, in <u>cubic meters</u>? (Use 1 yard = 0.914 meter.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "187.1",
+    "showWork": "Cubing the length conversion gives 1 cubic yard = 0.914³ = 0.763551944 cubic meters. Then 245.00 × 0.763551944 = 187.0702… cubic meters, which is 187.1 rounded at the fourth digit (187.0 truncated is also an acceptable grid-in entry).",
+    "_answerNote": "Bluebook accepts either 187.0 (truncated) or 187.1 (rounded) to fill the 5-character grid; this scorer does exact string matching, so only 187.1 is stored."
+  }
+}

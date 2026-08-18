@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="290" viewBox="0 0 620 290">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="310.0" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Minimum and Maximum Depths of Stony Coral Species in</text>
+<text x="310.0" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Caribbean and Indo-Pacific Waters</text>
+<rect x="20" y="54" width="220" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="130.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Species</text>
+<rect x="240" y="54" width="180" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="330.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Minimum depth (meters)</text>
+<rect x="420" y="54" width="180" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="510.0" y="84.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Maximum depth (meters)</text>
+<rect x="20" y="106" width="220" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="130.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400" font-style="italic">Psammocora albopicta</text>
+<rect x="240" y="106" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="330.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1</text>
+<rect x="420" y="106" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="510.0" y="130.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">28</text>
+<rect x="20" y="146" width="220" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="130.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400" font-style="italic">Agaricia grahamae</text>
+<rect x="240" y="146" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="330.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">20</text>
+<rect x="420" y="146" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="510.0" y="170.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">115</text>
+<rect x="20" y="186" width="220" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="130.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400" font-style="italic">Astreopora gracilis</text>
+<rect x="240" y="186" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="330.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">5</text>
+<rect x="420" y="186" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="510.0" y="210.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">15</text>
+<rect x="20" y="226" width="220" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="130.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400" font-style="italic">Acropora echinata</text>
+<rect x="240" y="226" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="330.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">8</text>
+<rect x="420" y="226" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="510.0" y="250.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">25</text>
+</svg>

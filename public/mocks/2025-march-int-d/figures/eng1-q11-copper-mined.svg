@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="274" viewBox="0 0 360 274">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="180.0" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Millions of Metric Tons of Copper Mined</text>
+<text x="180.0" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">in 1995 and 2020</text>
+<rect x="20" y="54" width="160" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Country</text>
+<rect x="180" y="54" width="80" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="220.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">1995</text>
+<rect x="260" y="54" width="80" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="300.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">2020</text>
+<rect x="20" y="90" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Mexico</text>
+<rect x="180" y="90" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="220.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.33</text>
+<rect x="260" y="90" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="300.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.73</text>
+<rect x="20" y="130" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">United States</text>
+<rect x="180" y="130" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="220.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.85</text>
+<rect x="260" y="130" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="300.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1.20</text>
+<rect x="20" y="170" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Peru</text>
+<rect x="180" y="170" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="220.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.38</text>
+<rect x="260" y="170" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="300.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">2.15</text>
+<rect x="20" y="210" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Poland</text>
+<rect x="180" y="210" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="220.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.38</text>
+<rect x="260" y="210" width="80" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="300.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">0.39</text>
+</svg>

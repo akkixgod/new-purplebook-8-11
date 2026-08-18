@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340">
+<rect width="100%" height="100%" fill="#fff"/>
+<rect x="70" y="48" width="300" height="210" fill="none" stroke="#111" stroke-width="2"/>
+<rect x="106" y="84" width="228" height="138" fill="#c4c4c4" stroke="#111" stroke-width="2"/>
+<text x="220.0" y="158.0" text-anchor="middle" font-family="Georgia, serif" font-size="16">pool</text>
+<text x="80" y="70" font-family="Georgia, serif" font-size="14">concrete path</text>
+<line x1="70" y1="153.0" x2="106" y2="153.0" stroke="#111" stroke-width="1.3"/>
+<polygon points="70,153.0 77,149.0 77,157.0" fill="#111"/>
+<polygon points="106,153.0 99,149.0 99,157.0" fill="#111"/>
+<text x="88.0" y="145.0" text-anchor="middle" font-family="Georgia, serif" font-size="14"><tspan font-style="italic">x</tspan> ft</text>
+<line x1="220.0" y1="48" x2="220.0" y2="84" stroke="#111" stroke-width="1.3"/>
+<polygon points="220.0,48 216.0,55 224.0,55" fill="#111"/>
+<polygon points="220.0,84 216.0,77 224.0,77" fill="#111"/>
+<text x="230.0" y="71.0" font-family="Georgia, serif" font-size="14"><tspan font-style="italic">x</tspan> ft</text>
+<text x="210.0" y="324" text-anchor="middle" font-family="Georgia, serif" font-size="13">Note: Figure not drawn to scale.</text>
+</svg>

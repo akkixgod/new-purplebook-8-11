@@ -1,0 +1,317 @@
+{
+  "1": {
+    "order": 1,
+    "page": 76,
+    "stimulus": null,
+    "text": "f(x) = (x + 9)/3\n\nFor the function f defined by the equation shown, what is the value of f(−6)?",
+    "choices": {
+      "A": "−3",
+      "B": "−1",
+      "C": "1",
+      "D": "3"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "f(−6) = (−6 + 9)/3 = 3/3 = 1."
+  },
+  "2": {
+    "order": 2,
+    "page": 77,
+    "stimulus": null,
+    "text": "28, 28, 29, 30, 32, 33, 37\n\nWhat is the mean of the data set shown?",
+    "choices": {
+      "A": "28",
+      "B": "30",
+      "C": "31",
+      "D": "37"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The mean is the sum divided by 7: (28 + 28 + 29 + 30 + 32 + 33 + 37)/7 = 217/7 = 31."
+  },
+  "3": {
+    "order": 3,
+    "page": 78,
+    "stimulus": null,
+    "text": "The potential difference across a capacitor in an electric circuit is initially 16 volts and decreases with time, as shown in the graph. Which of the following is closest to the time, in seconds, from the initial measurement at which the potential difference across the capacitor is 15% of its initial value?",
+    "choices": {
+      "A": "0.43",
+      "B": "0.85",
+      "C": "1.71",
+      "D": "3.41"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math2-q03-capacitor-graph.svg",
+    "correctAnswer": "C",
+    "showWork": "15% of the initial 16 V is 2.4 V. The graph is exponential decay through (0, 16), matching V(t) = 16(1/3)^t. Then 16(1/3)^t = 2.4 gives (1/3)^t = 0.15, so t = ln(0.15)/ln(1/3) ≈ 1.73, closest to 1.71. On the graph, y = 2.4 (just above the 2-volt grid) is between x = 1 and x = 2, near 1.7."
+  },
+  "4": {
+    "order": 4,
+    "page": 79,
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y, for data set A. A line of best fit for the data is also shown. Data set B is created by subtracting 9 units from the value of y for each data point from data set A. Which of the following is closest to the y-coordinate of the y-intercept of the line of best fit for data set B?",
+    "choices": {
+      "A": "45.57",
+      "B": "53",
+      "C": "59.62",
+      "D": "62.75"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math2-q04-scatterplot.svg",
+    "correctAnswer": "A",
+    "showWork": "Subtracting 9 from every y-value translates the line of best fit down by 9, so the new intercept is (intercept of A) − 9. The drawn line meets the y-axis a little above 45, near 54.6 (it passes near (15, 43) and (30, 31), slope ≈ −0.8). Then 54.6 − 9 ≈ 45.6, closest to 45.57. (53 is the trap of reading intercept A and not subtracting 9.)"
+  },
+  "5": {
+    "order": 5,
+    "page": 80,
+    "stimulus": null,
+    "text": "In the linear function f, f(0) = 5 and f(7) = 5. Which equation defines f?",
+    "choices": {
+      "A": "f(x) = 0",
+      "B": "f(x) = 7",
+      "C": "f(x) = 5",
+      "D": "f(x) = x + 5"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Slope is (5 − 5)/(7 − 0) = 0, so f is the constant function with y-intercept 5: f(x) = 5. This matches both given values; f(x) = x + 5 fails f(7) = 5."
+  },
+  "6": {
+    "order": 6,
+    "page": 81,
+    "stimulus": null,
+    "text": "For the linear function f, the table shows three values of x and their corresponding values of f(x). Which equation defines f?",
+    "choices": {
+      "A": "f(x) = −5(5x − 3)",
+      "B": "f(x) = −5(5x − 4)",
+      "C": "f(x) = −5(x + 3)",
+      "D": "f(x) = −5(x − 4)"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math2-q06-linear-table.svg",
+    "correctAnswer": "C",
+    "showWork": "Slope between (1, −20) and (5, −40) is −20/4 = −5, and (5, −40) to (10, −65) is −25/5 = −5. Then f(x) = −5x + b with f(1) = −20 gives −5 + b = −20, so b = −15 and f(x) = −5(x + 3). This also yields f(5) = −40 and f(10) = −65. (The on-screen choice D is the test-taker mark, not the key: −5(1 − 4) = 15 ≠ −20.)"
+  },
+  "7": {
+    "order": 7,
+    "page": 82,
+    "stimulus": null,
+    "text": "A sample of a certain isotope takes 29 years to decay to half its original mass. The function s(t) = 128(0.5)^(t/29) gives the approximate mass of this isotope, in grams, that remains t years after a 128-gram sample starts to decay. Which statement is the best interpretation of s(58) = 32 in this context?",
+    "choices": {
+      "A": "Approximately 32 grams of the sample remains 58 years after the sample starts to decay.",
+      "B": "The mass of the sample has decreased by approximately 32 grams 58 years after the sample starts to decay.",
+      "C": "The mass of the sample has decreased by approximately 58 grams 32 years after the sample starts to decay.",
+      "D": "Approximately 58 grams of the sample remains 32 years after the sample starts to decay."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "s(t) is remaining mass after t years, so s(58) = 32 means about 32 grams remain after 58 years. Check: 58/29 = 2 half-lives, 128(1/4) = 32."
+  },
+  "8": {
+    "order": 8,
+    "page": 83,
+    "stimulus": null,
+    "text": "The table shows the distribution of people in a certain city by age group. If a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?",
+    "choices": {
+      "A": "0.21",
+      "B": "0.32",
+      "C": "0.45",
+      "D": "0.62"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math2-q08-age-table.svg",
+    "correctAnswer": "B",
+    "showWork": "P(>65 | ≥18) = 0.21 / (1 − 0.34) = 0.21/0.66 ≈ 0.318, closest to 0.32. (0.21 is the unconditional proportion; 0.21+0.23+0.22 = 0.66 is the trap of adding instead of dividing.)"
+  },
+  "9": {
+    "order": 9,
+    "page": 84,
+    "stimulus": null,
+    "text": "A right circular cone has a base diameter of 28 inches and a height of 6 inches. The volume of this cone is kπ cubic inches. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "392",
+    "showWork": "Radius 14. Volume = (1/3)π r² h = (1/3)π(196)(6) = 392π, so k = 392."
+  },
+  "10": {
+    "order": 10,
+    "page": 85,
+    "stimulus": null,
+    "text": "In triangle ABC, point D is the midpoint of segment AB and point E is the midpoint of segment BC. If BD = 8 and DE = 14, what is the length of segment AC?",
+    "choices": {
+      "A": "28",
+      "B": "26",
+      "C": "22",
+      "D": "16"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "DE joins the midpoints of AB and BC, so it is a midsegment parallel to AC with DE = AC/2. Thus AC = 2(14) = 28. BD = 8 (so AB = 16) is unused."
+  },
+  "11": {
+    "order": 11,
+    "page": 86,
+    "stimulus": null,
+    "text": "x(r − 7) + 3 = 19x + 25\n\nIn the given equation, r is a positive integer. If the given equation has exactly one solution, what CANNOT be the value of r?",
+    "choices": {
+      "A": "3",
+      "B": "7",
+      "C": "22",
+      "D": "26"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "x(r − 7 − 19) = 22, so x(r − 26) = 22. If r ≠ 26 there is exactly one solution x = 22/(r − 26). If r = 26 the equation becomes 0 = 22, which has no solution. So 26 cannot be r."
+  },
+  "12": {
+    "order": 12,
+    "page": 91,
+    "stimulus": null,
+    "text": "In a collection of items, 10% are red, 25% are green, 35% are blue, and 30% are yellow. If there are 40 green items, how many blue items are in the collection?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "48",
+      "D": "56"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Green is 25% of the collection, so the total is 40/0.25 = 160 items. Blue is 35% of 160, which is 56."
+  },
+  "13": {
+    "order": 13,
+    "page": 87,
+    "stimulus": null,
+    "text": "x(13x + 27) + c = 5\n\nIn the given equation, c is a constant. A solution to the equation is (−27 + √261)/26. What is the value of c?",
+    "choices": {
+      "A": "14",
+      "B": "9",
+      "C": "5",
+      "D": "4"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Rewrite as 13x² + 27x + (c − 5) = 0. The given root is the quadratic formula with discriminant 261, so 27² − 52(c − 5) = 261. Then 729 − 261 = 52(c − 5), 468 = 52(c − 5), and c − 5 = 9, so c = 14. (The on-screen choice 9 is c − 5, not c.)"
+  },
+  "14": {
+    "order": 14,
+    "page": 88,
+    "stimulus": null,
+    "text": "One of the factors of 2x³ + 44x² + 234x is x + b, where b is a positive constant. What is the smallest possible value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "9",
+    "showWork": "Factor 2x³ + 44x² + 234x = 2x(x² + 22x + 117) = 2x(x + 9)(x + 13). The positive constants b in a factor x + b are 9 and 13; the smallest is 9."
+  },
+  "15": {
+    "order": 15,
+    "page": 89,
+    "stimulus": null,
+    "text": "A model estimates that at the end of each year from 2015 to 2020, the number of rabbits in a population was 170% more than the number of rabbits in the population at the end of the previous year. The model estimates that at the end of 2016, there were 216 rabbits in the population. Which of the following equations represents this model, where n is the estimated number of rabbits in the population t years after the end of 2015 and t ≤ 5?",
+    "choices": {
+      "A": "n = 80(1.7)^t",
+      "B": "n = 80(2.7)^t",
+      "C": "n = 216(1.7)^t",
+      "D": "n = 216(2.7)^t"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "170% more means a growth factor of 1 + 1.70 = 2.7. End of 2016 is t = 1 with n = 216, so 216 = a(2.7) and a = 80. The model is n = 80(2.7)^t."
+  },
+  "16": {
+    "order": 16,
+    "page": 92,
+    "stimulus": null,
+    "text": "The figure shows a rectangular pool surrounded by a concrete path that is x feet (ft) wide on all sides. The pool is 21 ft long and 13 ft wide. The area of the concrete path is 240 ft². What is the value of x?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "20",
+      "D": "40"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math2-q16-pool-path.svg",
+    "correctAnswer": "A",
+    "showWork": "Outer dimensions are (21 + 2x) by (13 + 2x). Path area: (21 + 2x)(13 + 2x) − 21·13 = 240. Expanding gives 4x² + 68x = 240, or x² + 17x − 60 = 0, so (x + 20)(x − 3) = 0. The positive width is x = 3."
+  },
+  "17": {
+    "order": 17,
+    "page": 93,
+    "stimulus": null,
+    "text": "The table shows three values of x and their corresponding values of y, where s is a constant. There is a linear relationship between x and y. Which of the following equations represents this relationship?",
+    "choices": {
+      "A": "sx + 3y = 11s",
+      "B": "3x + sy = 11s",
+      "C": "3x + sy = 11",
+      "D": "sx + 3y = 11"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math2-q17-linear-table.svg",
+    "correctAnswer": "B",
+    "showWork": "Slope from (−2s, 17) to (−s, 14) is −3/s, matching (−s, 14) to (s, 8). Then y − 14 = (−3/s)(x + s) gives y = (−3/s)x + 11, or 3x + sy = 11s. Check: at (s, 8), 3s + 8s = 11s."
+  },
+  "18": {
+    "order": 18,
+    "page": 94,
+    "stimulus": null,
+    "text": "In a set of four consecutive odd integers, where the integers are ordered from least to greatest, the first integer is represented by x. The product of 28 and the third odd integer in the set is at most the value of 50 less than the sum of the first and fourth odd integers in the set. What is the greatest possible value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "-7",
+    "showWork": "The integers are x, x + 2, x + 4, x + 6. Then 28(x + 4) ≤ (x + x + 6) − 50, so 28x + 112 ≤ 2x − 44, 26x ≤ −156, and x ≤ −6. The greatest odd integer at most −6 is −7."
+  },
+  "19": {
+    "order": 19,
+    "page": 95,
+    "stimulus": null,
+    "text": "A square map has a side length of 30 inches, and 1 inch on the map represents an actual distance of 17 miles. A smaller version of the same map is printed as a square with the side length 65% shorter than the side length of the previous map. On the smaller map, which of the following is closest to the actual distance, in miles, represented by 1 inch?",
+    "choices": {
+      "A": "5.95",
+      "B": "10.30",
+      "C": "19.50",
+      "D": "48.57"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The original side represents 30 × 17 = 510 miles. 65% shorter means the new side is 0.35 × 30 = 10.5 inches, still representing 510 miles, so 1 inch represents 510/10.5 ≈ 48.57 miles."
+  },
+  "20": {
+    "order": 20,
+    "page": 96,
+    "stimulus": null,
+    "text": "The functions f and g are defined by the equations shown, where a and b are integer constants, a < b and b < 0. If y = f(x) and y = g(x) are graphed in the xy-plane, which of the following equations displays, as a constant or coefficient, the y-coordinate of the y-intercept of the graph of the corresponding function?\nI. f(x) = a(2.1)^(x+b)\nII. g(x) = a(2.1)^x + b",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The y-intercept is the value at x = 0. f(0) = a(2.1)^b, which is not a single constant or coefficient in form I. g(0) = a + b, which is not displayed as one constant in form II (b is the horizontal asymptote, not the intercept). Neither form displays the intercept, so D. (II only is the trap of treating b as a y-intercept.)"
+  },
+  "21": {
+    "order": 21,
+    "page": 97,
+    "stimulus": null,
+    "text": "The function h is defined by h(x) = −√(x² + bx + c), where b and c are constants. In the xy-plane, the graph of y = h(x) contains the points (2, 0) and (0, −√358). If h(m) = 0, what is the greatest possible value of m?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "179",
+    "showWork": "h(0) = −√c = −√358, so c = 358. h(2) = 0 forces 4 + 2b + 358 = 0, hence b = −181. Then h(m) = 0 means m² − 181m + 358 = 0. The roots multiply to 358, and one root is 2, so the other is 358/2 = 179. The greatest possible m is 179. (The on-screen entry 2 is the given zero, not the greatest.)"
+  },
+  "22": {
+    "order": 22,
+    "page": 98,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = |x|/a − 14, where a < 0. What is the product of f(15a) and f(8a)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "638",
+    "showWork": "Because a < 0, both 15a and 8a are negative, so |15a| = −15a and |8a| = −8a. Then f(15a) = (−15a)/a − 14 = −29 and f(8a) = −8 − 14 = −22. The product is (−29)(−22) = 638."
+  }
+}

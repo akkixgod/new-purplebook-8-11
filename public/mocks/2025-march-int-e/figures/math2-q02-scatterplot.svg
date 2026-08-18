@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="418" viewBox="0 0 410 418">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="44.0" y1="44.0" x2="44.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="88.0" y1="44.0" x2="88.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="132.0" y1="44.0" x2="132.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="176.0" y1="44.0" x2="176.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="220.0" y1="44.0" x2="220.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="264.0" y1="44.0" x2="264.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="308.0" y1="44.0" x2="308.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="352.0" y1="44.0" x2="352.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="374.0" x2="352.0" y2="374.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="341.0" x2="352.0" y2="341.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="308.0" x2="352.0" y2="308.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="275.0" x2="352.0" y2="275.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="242.0" x2="352.0" y2="242.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="209.0" x2="352.0" y2="209.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="176.0" x2="352.0" y2="176.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="143.0" x2="352.0" y2="143.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="110.0" x2="352.0" y2="110.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="77.0" x2="352.0" y2="77.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="44.0" x2="352.0" y2="44.0" stroke="#e5e7eb"/>
+<line x1="44.0" y1="374.0" x2="366.0" y2="374.0" stroke="#111" stroke-width="1.6"/>
+<line x1="352.0" y1="374.0" x2="352.0" y2="30.0" stroke="#111" stroke-width="1.6"/>
+<polygon points="373.0,374.0 365.0,369.5 365.0,378.5" fill="#111"/>
+<text x="378.0" y="369.0" font-family="Georgia, serif" font-size="15" font-style="italic">x</text>
+<polygon points="352.0,23.0 347.5,31.0 356.5,31.0" fill="#111"/>
+<text x="360.0" y="24.0" font-family="Georgia, serif" font-size="15" font-style="italic">y</text>
+<line x1="44.0" y1="370.0" x2="44.0" y2="378.0" stroke="#111"/>
+<text x="44.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−14</text>
+<line x1="88.0" y1="370.0" x2="88.0" y2="378.0" stroke="#111"/>
+<text x="88.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−12</text>
+<line x1="132.0" y1="370.0" x2="132.0" y2="378.0" stroke="#111"/>
+<text x="132.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−10</text>
+<line x1="176.0" y1="370.0" x2="176.0" y2="378.0" stroke="#111"/>
+<text x="176.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−8</text>
+<line x1="220.0" y1="370.0" x2="220.0" y2="378.0" stroke="#111"/>
+<text x="220.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−6</text>
+<line x1="264.0" y1="370.0" x2="264.0" y2="378.0" stroke="#111"/>
+<text x="264.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−4</text>
+<line x1="308.0" y1="370.0" x2="308.0" y2="378.0" stroke="#111"/>
+<text x="308.0" y="392.0" text-anchor="middle" font-family="Georgia, serif" font-size="12">−2</text>
+<line x1="348.0" y1="341.0" x2="356.0" y2="341.0" stroke="#111"/>
+<text x="360.0" y="345.0" font-family="Georgia, serif" font-size="12">2</text>
+<line x1="348.0" y1="308.0" x2="356.0" y2="308.0" stroke="#111"/>
+<text x="360.0" y="312.0" font-family="Georgia, serif" font-size="12">4</text>
+<line x1="348.0" y1="275.0" x2="356.0" y2="275.0" stroke="#111"/>
+<text x="360.0" y="279.0" font-family="Georgia, serif" font-size="12">6</text>
+<line x1="348.0" y1="242.0" x2="356.0" y2="242.0" stroke="#111"/>
+<text x="360.0" y="246.0" font-family="Georgia, serif" font-size="12">8</text>
+<line x1="348.0" y1="209.0" x2="356.0" y2="209.0" stroke="#111"/>
+<text x="360.0" y="213.0" font-family="Georgia, serif" font-size="12">10</text>
+<line x1="348.0" y1="176.0" x2="356.0" y2="176.0" stroke="#111"/>
+<text x="360.0" y="180.0" font-family="Georgia, serif" font-size="12">12</text>
+<line x1="348.0" y1="143.0" x2="356.0" y2="143.0" stroke="#111"/>
+<text x="360.0" y="147.0" font-family="Georgia, serif" font-size="12">14</text>
+<line x1="348.0" y1="110.0" x2="356.0" y2="110.0" stroke="#111"/>
+<text x="360.0" y="114.0" font-family="Georgia, serif" font-size="12">16</text>
+<line x1="348.0" y1="77.0" x2="356.0" y2="77.0" stroke="#111"/>
+<text x="360.0" y="81.0" font-family="Georgia, serif" font-size="12">18</text>
+<line x1="348.0" y1="44.0" x2="356.0" y2="44.0" stroke="#111"/>
+<text x="360.0" y="48.0" font-family="Georgia, serif" font-size="12">20</text>
+<text x="336.0" y="392.0" font-family="Georgia, serif" font-size="13" font-style="italic">O</text>
+<polyline points="44.0,118.2 352.0,349.2" fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="44.0" cy="126.5" r="4.2" fill="#111"/>
+<circle cx="88.0" cy="151.2" r="4.2" fill="#111"/>
+<circle cx="132.0" cy="184.2" r="4.2" fill="#111"/>
+<circle cx="176.0" cy="209.0" r="4.2" fill="#111"/>
+<circle cx="220.0" cy="238.7" r="4.2" fill="#111"/>
+<circle cx="264.0" cy="294.8" r="4.2" fill="#111"/>
+</svg>

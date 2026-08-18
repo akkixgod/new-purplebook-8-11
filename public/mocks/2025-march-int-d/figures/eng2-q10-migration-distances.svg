@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="274" viewBox="0 0 660 274">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="330.0" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Reported Annual Travel Distances in Four Studies of</text>
+<text x="330.0" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">Migrating Animal Populations</text>
+<rect x="20" y="54" width="160" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Species</text>
+<rect x="180" y="54" width="140" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="250.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Continent</text>
+<rect x="320" y="54" width="140" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="390.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Distance (km)</text>
+<rect x="460" y="54" width="180" height="36" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+<text x="550.0" y="76.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700">Measurement method</text>
+<rect x="20" y="90" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Brown bear</text>
+<rect x="180" y="90" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="250.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">North America</text>
+<rect x="320" y="90" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="390.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1,325</text>
+<rect x="460" y="90" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="550.0" y="114.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">GPS</text>
+<rect x="20" y="130" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Tibetan antelope</text>
+<rect x="180" y="130" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="250.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Asia</text>
+<rect x="320" y="130" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="390.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">700</text>
+<rect x="460" y="130" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="550.0" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">RTD</text>
+<rect x="20" y="170" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Caribou</text>
+<rect x="180" y="170" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="250.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">North America</text>
+<rect x="320" y="170" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="390.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">4,868</text>
+<rect x="460" y="170" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="550.0" y="194.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">GPS</text>
+<rect x="20" y="210" width="160" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="100.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Reindeer</text>
+<rect x="180" y="210" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="250.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">Asia</text>
+<rect x="320" y="210" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="390.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">1,200</text>
+<rect x="460" y="210" width="180" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="550.0" y="234.0" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="400">RTD</text>
+</svg>

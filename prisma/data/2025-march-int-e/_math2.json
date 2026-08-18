@@ -1,0 +1,321 @@
+{
+  "1": {
+    "order": 1,
+    "page": 77,
+    "stimulus": null,
+    "text": "In one week in 2017, a technician earned a total of $900 by working at her regular job and at a second job doing part-time work. The equation 21h + 10c = 900 represents this situation, where h is the number of hours worked at her regular job and c is the number of hours worked at her second job. Which of the following is the best interpretation of 21 in this context?",
+    "choices": {
+      "A": "The amount, in dollars, the technician earned for each hour she worked at her regular job",
+      "B": "The amount, in dollars, the technician earned for each hour she worked at her second job",
+      "C": "The number of hours the technician worked in one week at her regular job",
+      "D": "The number of hours the technician worked in one week at her second job"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "In 21h the variable h is the number of hours at the regular job, so the coefficient 21 is the dollars earned per hour at the regular job. (10 is the second-job hourly rate; h and c themselves are the hours.)"
+  },
+  "2": {
+    "order": 2,
+    "page": 78,
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown.\n\nWhich of the following equations best represents the line of best fit shown?",
+    "choices": {
+      "A": "y = x − 15.4",
+      "B": "y = −x + 15.4",
+      "C": "y = x − 1.5",
+      "D": "y = −x + 1.5"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math2-q02-scatterplot.svg",
+    "correctAnswer": "D",
+    "showWork": "The line falls from left to right, so the slope is negative, which rules out A and C. It meets the y-axis near y = 1.5 (not 15.4) and passes near (−14, 15.5), giving slope (−14)/14 = −1. The equation is y = −x + 1.5.",
+    "_reconstructedChoices": ["D"],
+    "note": "Choice D is cut off at the bottom of page 78. It is reconstructed as y = −x + 1.5 from the intercept/slope sign pattern of A–C (same pattern as 2025-march-int-a Math M1 Q8). The key is not in doubt: the drawn line has slope −1 and y-intercept ≈ 1.5."
+  },
+  "3": {
+    "order": 3,
+    "page": 79,
+    "stimulus": null,
+    "text": "At what point (x, y) do the graphs of the equations y = 3x + 1 and y = 4x − 6 intersect in the xy-plane?",
+    "choices": {
+      "A": "(3, 4)",
+      "B": "(4, 3)",
+      "C": "(7, 22)",
+      "D": "(22, 7)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Set 3x + 1 = 4x − 6. Then 1 + 6 = 4x − 3x, so x = 7. Substituting into y = 3x + 1 gives y = 21 + 1 = 22. The intersection is (7, 22)."
+  },
+  "4": {
+    "order": 4,
+    "page": 80,
+    "stimulus": null,
+    "text": "y = (9/7)x + 3\n\nOne of the two equations in a system of linear equations is given. The system has infinitely many solutions. If the second equation in the system is y = mx + b, where m and b are constants, what is the value of b?",
+    "choices": {
+      "A": "−3",
+      "B": "−1/3",
+      "C": "1/3",
+      "D": "3"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Infinitely many solutions means the two equations describe the same line, so the second equation must be y = (9/7)x + 3. In y = mx + b that forces b = 3."
+  },
+  "5": {
+    "order": 5,
+    "page": 81,
+    "stimulus": null,
+    "text": "A chemist performed an experiment using a set of beakers that can each be modeled by a right circular cylinder with a height of 58 millimeters. The equation y = 58πx² gives the volume y, in cubic millimeters, of the right circular cylinder that models a beaker in this set, where x is the radius, in millimeters, of the base of the cylinder. Which graph best represents this equation in the xy-plane?",
+    "choices": {
+      "A": "A curve in the first quadrant on a grid with x from 0 to 10 and y from 0 to 5,000 marked every 500. It starts at the origin, increases and curves upward, passing through about (2, 730), (4, 2,920) and (5, 4,560), and leaves the top of the grid near x = 5.2.",
+      "B": "A curve on the same grid that starts at the origin and increases far more gradually, remaining near y = 1,000–1,500 at x = 10.",
+      "C": "A curve on the same grid that starts at about (0, 4,500) and decreases, curving downward ever more steeply.",
+      "D": "A straight line on the same grid from the origin through about (10, 5,000)."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "y = 58πx² ≈ 182.2x² is an upward-opening parabola through the origin that only makes sense for x ≥ 0. Its values are y(2) ≈ 729, y(4) ≈ 2,915, y(5) ≈ 4,555, and it reaches 5,000 at x ≈ 5.24 — exactly the curve in choice A. Choice B rises far too slowly, choice C decreases, and choice D is linear.",
+    "_reconstructedChoices": ["C", "D"],
+    "note": "The choices are four graphs. A is fully visible on page 81 and B is partially visible. C and D were not captured. Choice A matches y = 58πx² point by point, so the key is certain. C and D are reconstructed from the standard College Board four-graph pairing for this item type (decreasing curve; line through the origin), the same family as 2025-march-int-b Math M1 Q11."
+  },
+  "6": {
+    "order": 6,
+    "page": 82,
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 325 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.64, and the probability of selecting a visitor who is located in room B is 0.32. How many visitors are located in room C?",
+    "choices": {
+      "A": "4",
+      "B": "13",
+      "C": "67",
+      "D": "104"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The three probabilities must sum to 1, so the probability for room C is 1 − 0.64 − 0.32 = 0.04. Then 0.04(325) = 13 visitors are in room C."
+  },
+  "7": {
+    "order": 7,
+    "page": 83,
+    "stimulus": null,
+    "text": "y = x/3 + 8\ny = −x/3 + 20\n\nThe solution to the given system of equations is (x, y). What is the value of 2y?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "20",
+      "D": "28"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Adding the two equations cancels x: 2y = 28, so y = 14 and 2y = 28."
+  },
+  "8": {
+    "order": 8,
+    "page": 84,
+    "stimulus": null,
+    "text": "An object is launched from a height of 124 feet above the ground. A quadratic function f models the height above the ground, in feet, of the object t seconds after it is launched. According to the model, 3 seconds after the object is launched, it reaches a maximum height of 268 feet above the ground. Which equation defines f?",
+    "choices": {
+      "A": "f(t) = −16(t + 268)² − 3",
+      "B": "f(t) = −16(t − 268)² + 3",
+      "C": "f(t) = −16(t + 3)² − 268",
+      "D": "f(t) = −16(t − 3)² + 268"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "A maximum of 268 feet at t = 3 means the vertex is (3, 268), so f(t) = −16(t − 3)² + 268. This also matches the launch height: f(0) = −16(9) + 268 = 124."
+  },
+  "9": {
+    "order": 9,
+    "page": 85,
+    "stimulus": null,
+    "text": "The graph of y = f(x) is shown, where f(x) = ab^x + c, and a, b, and c are constants. For how many values of x does f(x) = 0?",
+    "choices": {
+      "A": "Three",
+      "B": "Two",
+      "C": "One",
+      "D": "Zero"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math2-q09-exponential-graph.svg",
+    "correctAnswer": "D",
+    "showWork": "The curve is a decreasing exponential that levels off just below the horizontal asymptote y = −4 and falls through (0, −5). The entire graph lies below y = −4, so it never reaches the x-axis. Therefore f(x) = 0 has zero solutions."
+  },
+  "10": {
+    "order": 10,
+    "page": 86,
+    "stimulus": null,
+    "text": "The equation h = 9(v − 273.15)/5 + 32 gives the corresponding temperature h, in degrees Fahrenheit, of any substance that has a temperature of v kelvins, where v > 0. If a substance has a temperature of 809.33 degrees Fahrenheit, what is the corresponding temperature, in kelvins, of this substance?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "705",
+    "showWork": "Set h = 809.33: 9(v − 273.15)/5 + 32 = 809.33. Then 9(v − 273.15)/5 = 777.33, so v − 273.15 = 777.33 × 5/9 = 431.85, and v = 705."
+  },
+  "11": {
+    "order": 11,
+    "page": 87,
+    "stimulus": null,
+    "text": "x(r − 7) + 3 = 17x + 25\n\nIn the given equation, r is a positive integer. If the given equation has exactly one solution, what CANNOT be the value of r?",
+    "choices": {
+      "A": "3",
+      "B": "7",
+      "C": "22",
+      "D": "24"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Rearrange: x(r − 7) − 17x = 22, so x(r − 24) = 22. If r ≠ 24 there is exactly one solution, x = 22/(r − 24). If r = 24 the equation becomes 0 = 22, which has no solution. So 24 cannot be the value of r."
+  },
+  "12": {
+    "order": 12,
+    "page": 88,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 9x^6 − 63x^2, where x > 0?",
+    "choices": {
+      "A": "9(x^3 − 7x^2)^2",
+      "B": "x^2(9x − 7)^4",
+      "C": "9x^2(x − 7)^4",
+      "D": "9x^2(x^4 − 7)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The greatest common factor of 9x^6 and 63x^2 is 9x^2. Dividing gives 9x^6 ÷ 9x^2 = x^4 and 63x^2 ÷ 9x^2 = 7, so the expression factors as 9x^2(x^4 − 7)."
+  },
+  "13": {
+    "order": 13,
+    "page": 89,
+    "stimulus": null,
+    "text": "In the figure shown, WZ and XY intersect at point Q, YQ = 27, WQ = 90, WX = 60, and XQ = 110. What is the length of YZ?",
+    "choices": {
+      "A": "18",
+      "B": "33",
+      "C": "110",
+      "D": "200"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math2-q13-intersecting-triangles.svg",
+    "correctAnswer": "A",
+    "showWork": "Vertical angles at Q are congruent, and ∠W = ∠Y = a°, so ΔWQX ~ ΔYQZ by AA. Corresponding sides are WQ/YQ = WX/YZ = 90/27 = 10/3. Then YZ = 60 × 3/10 = 18. (XQ = 110 is a distractor: scaling it instead of WX yields the trap 33.)"
+  },
+  "14": {
+    "order": 14,
+    "page": 90,
+    "stimulus": null,
+    "text": "The positive number a is 2,184% of the sum of the positive numbers b and c, and b is 84% of c. What percent of b is a?",
+    "choices": {
+      "A": "4,784%",
+      "B": "2,600%",
+      "C": "40.19%",
+      "D": "22.68%"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "b = 0.84c, so b + c = 1.84c. Then a = 21.84(b + c) = 21.84(1.84c). The ratio a/b = 21.84 × 1.84 / 0.84 = 21.84 × (46/21) = 47.84, so a is 4,784% of b."
+  },
+  "15": {
+    "order": 15,
+    "page": 91,
+    "stimulus": null,
+    "text": "⁷√(p^4) = t^(1/6)\n\nIn the given equation, p > 1 and t > 1. If t = p^(2n − 1), where n is a constant, what is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "31/14",
+    "showWork": "Rewrite as p^(4/7) = t^(1/6). Substitute t = p^(2n − 1) to get p^(4/7) = p^((2n − 1)/6). Equating exponents: 4/7 = (2n − 1)/6, so 24 = 7(2n − 1), 24 = 14n − 7, and n = 31/14."
+  },
+  "16": {
+    "order": 16,
+    "page": 92,
+    "stimulus": null,
+    "text": "A painting studio is offering a promotion where the first class is free, the second class is half off the regular price, and the remaining classes are regularly priced. If the regular price of a class is $26.40, which function f gives the total cost, in dollars, of x classes taken using this promotion, where x ≥ 2?",
+    "choices": {
+      "A": "f(x) = 26.40(x − 1) + 13.20",
+      "B": "f(x) = 26.40(x − 2) + 13.20",
+      "C": "f(x) = 26.40(x − 1) + 13.20(x − 2)",
+      "D": "f(x) = 26.40(x − 2) + 13.20(x − 1)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "The first class costs $0, the second costs half of $26.40, which is $13.20, and the remaining x − 2 classes cost $26.40 each. So f(x) = 26.40(x − 2) + 13.20."
+  },
+  "17": {
+    "order": 17,
+    "page": 93,
+    "stimulus": null,
+    "text": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 10 and 12, which inequality represents the possible lengths, x, of the third side of the triangle?",
+    "choices": {
+      "A": "x < 22",
+      "B": "x > 22",
+      "C": "2 < x < 22",
+      "D": "x < 2 or x > 22"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The three inequalities are x + 10 > 12, x + 12 > 10, and 10 + 12 > x. The second is automatic for x > 0. The first gives x > 2 and the third gives x < 22, so 2 < x < 22."
+  },
+  "18": {
+    "order": 18,
+    "page": 94,
+    "stimulus": null,
+    "text": "The graph of y = f(x) + 2 is shown. Which equation defines function f?",
+    "choices": {
+      "A": "f(x) = −4^x + 3",
+      "B": "f(x) = −4^x + 5",
+      "C": "f(x) = −4^x + 6",
+      "D": "f(x) = −4^x + 7"
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/math2-q18-exponential-graph.svg",
+    "correctAnswer": "B",
+    "showWork": "The graphed curve has y-intercept (0, 6), passes through (1, 3), and has a horizontal asymptote at y = 7, so the graphed function is y = −4^x + 7. Since the graph is y = f(x) + 2, f(x) = (−4^x + 7) − 2 = −4^x + 5."
+  },
+  "19": {
+    "order": 19,
+    "page": 95,
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (−2, 2). Line t is tangent to this circle at the point (3, −1). Which of the following points also lies on line t?",
+    "choices": {
+      "A": "(0, 5/3)",
+      "B": "(1, 7)",
+      "C": "(6, 4)",
+      "D": "(8, 2)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The radius to the point of tangency is (3 − (−2), −1 − 2) = (5, −3), so the tangent is perpendicular to (5, −3). Its equation is 5(x − 3) − 3(y + 1) = 0, or 5x − 3y = 18. Of the four points, only (6, 4) satisfies 5(6) − 3(4) = 18."
+  },
+  "20": {
+    "order": 20,
+    "page": 96,
+    "stimulus": null,
+    "text": "Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 55 square centimeters (cm²), and the surface area of right rectangular prism Y is 880 cm². The volume of right rectangular prism Y is 1,600 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1625",
+    "showWork": "The similarity ratio of Y to X is the square root of the surface-area ratio 880/55 = 16, so the linear scale factor is 4. Volumes then scale by 4³ = 64, giving volume of X as 1,600/64 = 25. The sum of the volumes is 25 + 1,600 = 1,625."
+  },
+  "21": {
+    "order": 21,
+    "page": 97,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = |x|/a − 16, where a < 0. What is the product of f(17a) and f(8a)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "792",
+    "showWork": "Since a < 0, |17a| = −17a, so f(17a) = (−17a)/a − 16 = −17 − 16 = −33. Likewise f(8a) = −8 − 16 = −24. The product is (−33)(−24) = 792."
+  },
+  "22": {
+    "order": 22,
+    "page": 98,
+    "stimulus": null,
+    "text": "125x² − (25a + 5b)x + ab = 0\n\nIn the given equation, a and b are positive constants. The sum of the solutions to the given equation is k(5a + b), where k is a constant. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1/25",
+    "showWork": "For Ax² + Bx + C = 0 the sum of the solutions is −B/A. Here A = 125 and B = −(25a + 5b), so the sum is (25a + 5b)/125 = 5(5a + b)/125 = (5a + b)/25. Comparing with k(5a + b) gives k = 1/25."
+  }
+}

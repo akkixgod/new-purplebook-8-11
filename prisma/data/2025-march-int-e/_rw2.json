@@ -1,0 +1,380 @@
+{
+  "1": {
+    "order": 1,
+    "page": 28,
+    "stimulus": "In some of his sculptures, Allan Houser uses abstract geometric shapes to depict his subjects rather than portraying them in realistic detail. For instance, his 1989 work Embrace is highly abstract and therefore differs strikingly from some of his other pieces in which the viewer can easily ______ familiar objects.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "ignore",
+      "B": "identify",
+      "C": "reveal",
+      "D": "remember"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "2": {
+    "order": 2,
+    "page": 29,
+    "stimulus": "Agglomeration economies arise when multiple firms in related industries ______ an area, as with knitted fabrics manufacturers and knitted clothing manufacturers in Derby, UK. Economists have assumed that companies cluster for the same reasons, but Giulia Faggio et al. found that factors driving agglomeration in some cases are only weakly correlated with agglomeration in others.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "intercede in",
+      "B": "amass in",
+      "C": "concur with",
+      "D": "appeal to"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "3": {
+    "order": 3,
+    "page": 30,
+    "stimulus": "The familial structure of the black swan (Cygnus atratus) shows tremendous ______: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "elasticity",
+      "B": "reciprocity",
+      "C": "cohesion",
+      "D": "affection"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "4": {
+    "order": 4,
+    "page": 31,
+    "stimulus": "Any effort to raise the toll that drivers must pay to use the Ogdensburg-Prescott Bridge, which spans the Saint Lawrence River to connect New York State and Ontario, Canada, should explain why a higher toll is necessary; no amount of justification, however, is likely to persuade some drivers who believe the current toll is ______.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "contentious",
+      "B": "exorbitant",
+      "C": "warranted",
+      "D": "equivocal"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "5": {
+    "order": 5,
+    "page": 32,
+    "stimulus": "During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries' central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries' policy environments seem to have been ______ swap-line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "predicated on",
+      "B": "decoupled from",
+      "C": "material to",
+      "D": "mediated by"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "6": {
+    "order": 6,
+    "page": 33,
+    "stimulus": "Founded in New York City in 1969, El Museo del Barrio is dedicated to the visual arts and cultures of Latin America and of Latino communities in the United States. Since its founding, it has acquired more than 8,500 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include the Emma S. Barrientos Mexican American Cultural Center. Located in Austin, Texas, it focuses on Mexican American art and culture.",
+    "text": "Which choice best states the main purpose of the text?",
+    "choices": {
+      "A": "To trace the founding of two institutions, including how they acquired funding to purchase artworks",
+      "B": "To trace a historical development that encouraged the founding of two institutions",
+      "C": "To present information about two institutions, including each institution's area of focus",
+      "D": "To draw a contrast between the collection sizes of two institutions"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "7": {
+    "order": 7,
+    "page": 34,
+    "stimulus": "<u>In 2011 Stephen D. Simpson and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of Amphiprion percula, a species of fish.</u> However, Simpson and colleagues' study relied on a mean sample size of only about 26 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.",
+    "text": "Which choice best describes the function of the underlined sentence in the text?",
+    "choices": {
+      "A": "It states the conclusion reached by Simpson and colleagues in their 2011 study.",
+      "B": "It presents a criticism of the results reported by Simpson and colleagues in their 2011 study.",
+      "C": "It lists several traits of Amphiprion percula discovered by Simpson and colleagues while conducting their 2011 study.",
+      "D": "It emphasizes a detail about where Simpson and colleagues conducted their 2011 study."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "8": {
+    "order": 8,
+    "page": 35,
+    "stimulus": "Paintings by the Florida Highwaymen—an informal collective of prolific landscape artists active in Florida during the 1950s and '60s—are recognizable by their reiteration of the same general compositional structures and subjects: moonlit waters and poinciana trees, to name two. But there was room for individuation: Lemuel Newton's Salmon Sky Sunset, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their attention to detail and warm color palette.",
+    "text": "Which choice best describes the overall structure of the text?",
+    "choices": {
+      "A": "It describes the common perception that a particular group of artists' works are derivative and then provides a specific piece of evidence that reinforces that perception.",
+      "B": "It explains how a particular group of artists began collaborating and then recounts how one member of that group became especially influential among them.",
+      "C": "It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework.",
+      "D": "It offers historical context that accounts for a particular group of artists' shared style and then indicates the circumstances under which several members of that group began exploring more unconventional themes."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "9": {
+    "order": 9,
+    "page": 36,
+    "stimulus": "The following text is from Mick Herron's 2023 novel The Secret Hours. The narrator is describing members of a government committee.\n\nFinally, and adding much-needed gravitas, was Sir Winston Day, whose features seemed moulded to adorn a bust, or possibly a stamp, and whose forehead was so evidently bulging with grey matter that it would have been impertinent to inquire too closely into the actual achievements his half century of public service had produced. His recently published memoirs possibly cast light on this enigma, but given that such details were not provided until after the thirty-page mark, they might as well have remained state secrets.",
+    "text": "Based on the text, which choice best describes Sir Winston Day?",
+    "choices": {
+      "A": "He has maintained a modest profile even though he has served the public capably for many years.",
+      "B": "He has the appearance of a distinguished figure, but it is uncertain whether he has accomplished anything to earn distinction.",
+      "C": "He looks like a person worthy of respect, but his memoirs reveal that some of his actions were dishonorable.",
+      "D": "He would be a celebrated public figure if his achievements did not have to be kept secret."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "10": {
+    "order": 10,
+    "page": 37,
+    "stimulus": "Life Among the Paiutes is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins, a Northern Paiute author, educator, and activist. In the work, Winnemucca directly addresses the reader to explain certain customs, writing ______",
+    "text": "Which quotation from Life Among the Paiutes most effectively illustrates the claim?",
+    "choices": {
+      "A": "“Now, my dear reader, there is no word so endearing as the word father, and that is why [my people] call all good people father or mother.”",
+      "B": "“We would all go in company to see if the flowers we were named for were yet in bloom, for almost all the girls are named for flowers.”",
+      "C": "“During the time my grandfather was away in California, where he [stayed] till after the Mexican war, there was a girl-baby born in our family.”",
+      "D": "“But how can I describe the scene that followed? Some of you, dear readers, can imagine.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "11": {
+    "order": 11,
+    "page": 38,
+    "stimulus": "Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn't clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "Agaricia grahamae, because its minimum depth of 20 meters is in the shallow zone.",
+      "B": "Psammocora albopicta, because its minimum depth of 1 meter is the shallowest of those listed.",
+      "C": "Astreopora gracilis, because its maximum depth of 15 meters is furthest from the mesophotic zone.",
+      "D": "Acropora echinata, because its maximum depth of 25 meters is close to but doesn't reach the mesophotic zone."
+    },
+    "imageUrl": "/mocks/2025-march-int-e/figures/eng2-q11-coral-depths.svg",
+    "correctAnswer": "C"
+  },
+  "12": {
+    "order": 12,
+    "page": 39,
+    "stimulus": "Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar pre-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.",
+    "text": "Which finding, if true, would most directly support the researchers' claim regarding the size of PCFG whales?",
+    "choices": {
+      "A": "When foraging along the coasts of Northern California and British Columbia, PCFG whales are in closer proximity to major ports and urban populations than ENP whales in the main group are when foraging in Arctic waters.",
+      "B": "When present along the coasts of Northern California and British Columbia, PCFG whales tend to forage in rocky kelp beds at shallow depths inaccessible to whales as large as those in the ENP main group.",
+      "C": "Certain crustacean prey species available along the coasts of Northern California and British Columbia where PCFG whales tend to forage are not available in the Arctic waters where ENP whales in the main group forage.",
+      "D": "The average body size of PCFG whales observed along the coasts of Northern California and British Columbia has remained relatively steady in recent decades, while the average body size of ENP whales in the main group has slightly decreased."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "13": {
+    "order": 13,
+    "page": 40,
+    "stimulus": "Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.",
+    "text": "Which finding, if true, would most directly support the text's claim about wireless communication devices?",
+    "choices": {
+      "A": "The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters.",
+      "B": "The CFRP electrode is incompatible with most wireless communication devices.",
+      "C": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.",
+      "D": "The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "14": {
+    "order": 14,
+    "page": 41,
+    "stimulus": "Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as the increasing congestion of roadways, persist. While innovations to mitigate these challenges have been emerging—the use of cargo bikes, for instance—success has been constrained due to the additional complications that arise (e.g., the low parcel carrying capacity of the bikes). Consequently, ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "the use of cargo bikes may enable delivery companies to meet consumers' expectations now but likely is not viable as a permanent solution.",
+      "B": "in the near term, delivery companies are unlikely to overcome the impediments associated with last-mile logistics.",
+      "C": "delivery companies should invest more funds in proven long-distance transport technologies than in untested last-mile solutions.",
+      "D": "innovations in last-mile logistics seem poised to increase consumers' expectations for rapid delivery."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "15": {
+    "order": 15,
+    "page": 42,
+    "stimulus": "Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.",
+      "B": "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles.",
+      "C": "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions.",
+      "D": "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "16": {
+    "order": 16,
+    "page": 43,
+    "stimulus": "The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "further observations of Titan may clarify the moon's methane mole fraction sufficiently for the model to employ a single value rather than a range.",
+      "B": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected.",
+      "C": "even though the model's outputs sometimes agree with observational data, Titan's real methane mole fraction is likely higher than the methane mole fraction used in the model.",
+      "D": "inconsistencies across the model's simulations of Titan's precipitation and humidity could be attributable to variations in the moon's methane mole fraction."
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "17": {
+    "order": 17,
+    "page": 44,
+    "stimulus": "New Zealand and Greece have two of the longest constitutions in the world. At 48,438 and 26,989 words, respectively, these ______ according to research by constitutional scholars George Tsebelis and Dominic J. Nardi, correlate with GDPs (gross domestic products) that are lower than those of countries with shorter constitutions.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "constitutions lengths.",
+      "B": "constitution's length.",
+      "C": "constitutions' lengths,",
+      "D": "constitutions' length,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "18": {
+    "order": 18,
+    "page": 45,
+    "stimulus": "Included in Second Sight: the Paradox of Vision in Contemporary Art, a 2018 group exhibition at the Bowdoin College Museum of Art in Brunswick, Maine, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, and ______ she is credited with expanding the horizons of conceptual photographic art.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "memory.",
+      "B": "memory",
+      "C": "memory, and",
+      "D": "memory and"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "19": {
+    "order": 19,
+    "page": 46,
+    "stimulus": "Recent analysis of 54598 Bienor—an outer solar system object orbiting the Sun between Saturn and Uranus—has determined its color to be gray, suggesting an icy composition. Such interpretations are ultimately ______ the object's gray coloration may be an incidental effect of radiation, solar wind, or collisions with other objects rather than evidence of its physical makeup.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "speculative, though,",
+      "B": "speculative, though:",
+      "C": "speculative; though",
+      "D": "speculative, though"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "20": {
+    "order": 20,
+    "page": 47,
+    "stimulus": "Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ______ the organelle's decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "counteracts",
+      "B": "had counteracted",
+      "C": "counteracted",
+      "D": "counteracting"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "21": {
+    "order": 21,
+    "page": 48,
+    "stimulus": "In the list \"Adorable Things\" from Sei Shōnagon's Pillow Book, the author delights in baby sparrows, a face drawn on a melon, and a young courtier in ceremonial garb. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book's musings on tenth-century Japanese courtly life ______ readers a thousand years later.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has fascinated",
+      "B": "fascinates",
+      "C": "is fascinating",
+      "D": "fascinate"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "22": {
+    "order": 22,
+    "page": 49,
+    "stimulus": "To notice subtle variations in the progression of the still life painting genre in Europe, first consider Abraham Mignon's \"Still Life with Fruit and a Beaker on a Cock's Foot\" from 1669; ______ compare it to Jean-Siméon Chardin's \"Still Life with Herrings\" from 1735.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "instead,",
+      "B": "therefore,",
+      "C": "next,",
+      "D": "still,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "23": {
+    "order": 23,
+    "page": 50,
+    "stimulus": "In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden's 1994 poem \"Monet's Waterlilies,\" for example, meditates on Claude Monet's 1899 painting Water Lilies; Elizabeth Alexander's 2001 poem \"Islands Number Four,\" ______ takes a painting as its subject: Agnes Martin's 1961 work Islands No. 4.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "conversely,",
+      "B": "nevertheless,",
+      "C": "hence,",
+      "D": "likewise,"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D"
+  },
+  "24": {
+    "order": 24,
+    "page": 51,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• In a 2004 study, researchers Jorge E. López and C. Vaughan wanted to explore the effects of ingestion by bats on the germination of Piper sancti-felicis seeds in Costa Rica.\n• The team of researchers tested 125 Piper sancti-felicis seeds that had been ingested by chestnut short-tailed bats.\n• Of these, 82 seeds (66%) germinated.\n• As a control, J.E. López and C. Vaughan tested 125 Piper sancti-felicis seeds that had not been ingested by chestnut short-tailed bats.\n• Of these, 88 seeds (70%) germinated.",
+    "text": "The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The team of researchers tested the germination of 125 Piper sancti-felicis seeds that had been ingested by chestnut short-tailed bats and 125 Piper sancti-felicis seeds that had not been ingested.",
+      "B": "J.E. López and C. Vaughan wanted to explore the effects of chestnut short-tailed bats' ingestion on Piper sancti-felicis seed germination.",
+      "C": "In the study, a lower percentage of Piper sancti-felicis seeds ingested by bats germinated than those that had not been ingested by bats.",
+      "D": "Research by J.E. López and C. Vaughan revealed that 82 of 125—that is, 66%—of the Piper sancti-felicis seeds that had been ingested by the bats germinated."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  },
+  "25": {
+    "order": 25,
+    "page": 52,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Felipe Posada (pseudonym The Invisible Realm) is a New York City–based artist who specializes in the form of art known as surrealist collage.\n• Manifestation of the unconscious mind is a central aspect of surrealist collage.\n• Irrational juxtaposition of disparate elements is a central aspect of surrealist collage.\n• Posada's High Maintenance irrationally juxtaposes images of an astronaut, a giant human face, and a waterfall.\n• Posada: “My art is a journey through the invisible realm—a space where intuition, memories, visions, and dreams are free to take visual form.”",
+    "text": "The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Surrealist collage, such as Felipe Posada's High Maintenance, manifests the unconscious mind and irrationally juxtaposes disparate elements.",
+      "B": "Images of an astronaut, a giant human face, and a waterfall are juxtaposed irrationally in the surrealist collage piece High Maintenance by artist Felipe Posada.",
+      "C": "High Maintenance by artist Felipe Posada is an example of surrealist collage, a form in which irrational juxtaposition is a central aspect.",
+      "D": "The irrational juxtaposition of disparate elements in Felipe Posada's art invokes “a space where intuition, memories, visions, and dreams are free to take visual form.”"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B"
+  },
+  "26": {
+    "order": 26,
+    "page": 53,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Carbon can exist in several distinct structural forms called allotropes.\n• Graphite is a carbon allotrope.\n• Graphite is composed of stacked graphene sheets.\n• Each graphene sheet is composed of carbon atoms arranged in a flat honeycomb pattern.\n• Carbon nanotubes are carbon allotropes.\n• They are composed of one or more graphene sheets wrapped into a cylindrical shape.",
+    "text": "The student wants to emphasize a difference between carbon nanotubes and graphite. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Composed of sheets wrapped into a cylindrical shape, carbon nanotubes contrast with graphite, a carbon allotrope composed of graphene sheets.",
+      "B": "Unlike carbon nanotubes, which are composed of sheets of carbon atoms arranged in a flat honeycomb pattern, graphite is a cylindrical carbon allotrope.",
+      "C": "The graphene sheets in graphite are stacked, whereas in carbon nanotubes, they form a cylinder.",
+      "D": "Graphite and carbon nanotubes are allotropes composed of stacked or wrapped graphene sheets, but carbon can exist in several distinct structural forms."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C"
+  },
+  "27": {
+    "order": 27,
+    "page": 54,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.\n• 1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.\n• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.\n• 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).\n• MMH expands modularity to include all cognitive systems.",
+    "text": "The student wants to compare Fodor's hypothesis with Carruthers's. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.",
+      "B": "The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular.",
+      "C": "In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor's earlier hypothesis that the mind is composed of innate neural structures.",
+      "D": "Following Fodor's 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems."
+    },
+    "imageUrl": null,
+    "correctAnswer": "A"
+  }
+}

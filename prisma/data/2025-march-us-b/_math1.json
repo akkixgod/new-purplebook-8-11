@@ -1,0 +1,319 @@
+{
+  "1": {
+    "order": 1,
+    "page": 56,
+    "stimulus": null,
+    "text": "The triangle shown has one side with a length of x inches and two sides each with a length of y inches. The perimeter of the triangle is 47 inches. Which equation represents this situation?",
+    "choices": {
+      "A": "x + y = 47",
+      "B": "x + 2y = 47",
+      "C": "2x + y = 47",
+      "D": "2x + 2y = 47"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math1-q01-triangle.svg",
+    "correctAnswer": "B",
+    "showWork": "Perimeter is the sum of the three sides: x + y + y = x + 2y. Set that equal to 47 to get x + 2y = 47."
+  },
+  "2": {
+    "order": 2,
+    "page": 57,
+    "stimulus": null,
+    "text": "If 7 + x = 4, what is the value of 42 + 6x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "24",
+    "showWork": "42 + 6x = 6(7 + x) = 6(4) = 24. (Equivalently x = −3, so 42 + 6(−3) = 24.)"
+  },
+  "3": {
+    "order": 3,
+    "page": 58,
+    "stimulus": null,
+    "text": "A batch of smoothies consists of 4 cups of milk and 2 bananas and has 1,228 milligrams (mg) of calcium. There is 304 mg of calcium in 1 cup of milk. How much calcium, in mg, is in 1 banana?",
+    "choices": {
+      "A": "1,216",
+      "B": "462",
+      "C": "12",
+      "D": "6"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Calcium from milk is 4(304) = 1,216 mg. The two bananas contribute 1,228 − 1,216 = 12 mg, so one banana has 12/2 = 6 mg."
+  },
+  "4": {
+    "order": 4,
+    "page": 59,
+    "stimulus": null,
+    "text": "A furniture company is selling all tables with a 20% discount off their original price for the month of October. What is the discount, in dollars, on a table with an original price of $130?",
+    "choices": {
+      "A": "110",
+      "B": "90",
+      "C": "52",
+      "D": "26"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The discount is 20% of 130: 0.20(130) = 26 dollars. (110 is the sale price after a $20 cut; 52 is 40% of 130.)"
+  },
+  "5": {
+    "order": 5,
+    "page": null,
+    "stimulus": null,
+    "text": "n = p / (23v)\n\nThe given equation relates the positive numbers n, p, and v. Which equation correctly expresses p in terms of n and v?",
+    "choices": {
+      "A": "p = n − 23v",
+      "B": "p = n + 23v",
+      "C": "p = n / (23v)",
+      "D": "p = 23vn"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFrom": "2025-march-int-e math1 q5",
+    "showWork": "Multiply both sides of n = p/(23v) by 23v to get p = 23vn."
+  },
+  "6": {
+    "order": 6,
+    "page": 60,
+    "stimulus": null,
+    "text": "4x = 16\n−3x + y = −5\n\nThe solution to the given system of equations is (x, y). What is the value of x + y?",
+    "choices": {
+      "A": "−21",
+      "B": "−11",
+      "C": "11",
+      "D": "21"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "From 4x = 16, x = 4. Then −3(4) + y = −5 → −12 + y = −5 → y = 7. So x + y = 11."
+  },
+  "7": {
+    "order": 7,
+    "page": 61,
+    "stimulus": null,
+    "text": "A shopper is purchasing oranges that cost $0.67 each. If the shopper has a coupon for $2 off the entire purchase and there is no sales tax, which inequality represents the number of oranges, x, that the shopper can purchase for no more than $12?",
+    "choices": {
+      "A": "0.67x + 2 ≤ 12",
+      "B": "0.67x + 2 ≥ 12",
+      "C": "0.67x − 2 ≤ 12",
+      "D": "0.67x − 2 ≥ 12"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The cost after the $2 coupon is 0.67x − 2, and that amount must be at most 12, so 0.67x − 2 ≤ 12."
+  },
+  "8": {
+    "order": 8,
+    "page": 62,
+    "stimulus": null,
+    "text": "Circle T has a radius of 35 millimeters (mm). What is the area of circle T, in mm^2?",
+    "choices": {
+      "A": "35π",
+      "B": "70π",
+      "C": "140π",
+      "D": "1,225π"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Area is πr^2 = π(35)^2 = 1,225π."
+  },
+  "9": {
+    "order": 9,
+    "page": 63,
+    "stimulus": null,
+    "text": "In the xy-plane, circle F is defined by the equation (x + 7)^2 + (y + 7)^2 = 36. Circle G has the same center as circle F, and the radius of circle G is 2 units greater than the radius of circle F. Circle G is defined by the equation (x + 7)^2 + (y + 7)^2 = p, where p is a constant. What is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "64",
+    "showWork": "Circle F has r^2 = 36, so r = 6. Circle G has radius 6 + 2 = 8, and p is that radius squared: p = 64."
+  },
+  "10": {
+    "order": 10,
+    "page": 64,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 4yz^3 + 5yz + 3yz^3?",
+    "choices": {
+      "A": "7yz^3 + 5yz",
+      "B": "7yz^6 + 5yz",
+      "C": "12yz^6",
+      "D": "12yz^7"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Combine like terms: 4yz^3 + 3yz^3 = 7yz^3, and 5yz has no like term, so the expression is 7yz^3 + 5yz."
+  },
+  "11": {
+    "order": 11,
+    "page": 65,
+    "stimulus": null,
+    "text": "If x/y = 76 and cx/(4y) = 76, what is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "4",
+    "showWork": "Rewrite the second equation as (c/4)(x/y) = 76. Substitute x/y = 76 to get (c/4)(76) = 76, so c/4 = 1 and c = 4."
+  },
+  "12": {
+    "order": 12,
+    "page": 66,
+    "stimulus": null,
+    "text": "In the figure shown, triangle CAE is similar to triangle CBD. The measure of angle CBD is 57°, and AE = 21(BD). What is the measure of angle CAE?",
+    "choices": {
+      "A": "(21 · 57)°",
+      "B": "(21 + 57)°",
+      "C": "57°",
+      "D": "21°"
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math1-q12-similar-triangles.svg",
+    "correctAnswer": "C",
+    "showWork": "Similar triangles have congruent corresponding angles. Angle CAE corresponds to angle CBD, so m∠CAE = 57°. The side ratio AE = 21(BD) is a distractor."
+  },
+  "13": {
+    "order": 13,
+    "page": 67,
+    "stimulus": null,
+    "text": "The graph shows the estimated boiling point y, in degrees Celsius, of a straight-chain alkane with a molecular weight of x grams per mole, where 1 ≤ x ≤ 280. Which statement is the best interpretation of the point (141.32, 172.26)?",
+    "choices": {
+      "A": "A straight-chain alkane with a molecular weight of 172.26 grams per mole has an estimated boiling point of 141.32 degrees Celsius.",
+      "B": "A straight-chain alkane with a molecular weight of 141.32 grams per mole has an estimated boiling point of 172.26 degrees Celsius.",
+      "C": "The minimum estimated boiling point for straight-chain alkanes corresponds to an alkane with a molecular weight of 141.32 grams per mole and an estimated boiling point of 172.26 degrees Celsius.",
+      "D": "The maximum estimated boiling point for straight-chain alkanes corresponds to an alkane with a molecular weight of 141.32 grams per mole and an estimated boiling point of 172.26 degrees Celsius."
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math1-q13-alkane-graph.svg",
+    "correctAnswer": "B",
+    "showWork": "x is molecular weight and y is estimated boiling point, so (141.32, 172.26) means an alkane of 141.32 g/mol has estimated boiling point 172.26°C. Choice A swaps x and y. The marked point is neither the minimum nor the maximum on the graph."
+  },
+  "14": {
+    "order": 14,
+    "page": null,
+    "stimulus": null,
+    "text": "Antonia has $130 in an account. Each year she expects to have 2.5% more money in the account than she had the previous year. Which of the following models best describes how Antonia expects the money in her account to change over time?",
+    "choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "_filledFrom": "2025-march-int-e math1 q14",
+    "showWork": "A fixed percent increase each year is exponential growth (multiply by 1.025 annually), so the model is increasing exponential."
+  },
+  "15": {
+    "order": 15,
+    "page": 68,
+    "stimulus": null,
+    "text": "If 72/x = 6x, what is the value of 6x^2?",
+    "choices": {
+      "A": "432",
+      "B": "72",
+      "C": "12",
+      "D": "6"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Multiply both sides of 72/x = 6x by x to get 72 = 6x^2. The value asked for is therefore 72."
+  },
+  "16": {
+    "order": 16,
+    "page": 69,
+    "stimulus": null,
+    "text": "y ≤ 5x − 21\n\nWhich point (x, y) is a solution to the given inequality in the xy-plane?",
+    "choices": {
+      "A": "(−5, −21)",
+      "B": "(0, 21)",
+      "C": "(5, −21)",
+      "D": "(6, 21)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Test each point in y ≤ 5x − 21. A: −21 ≤ −25 − 21 = −46 false. B: 21 ≤ −21 false. C: −21 ≤ 25 − 21 = 4 true. D: 21 ≤ 30 − 21 = 9 false. Only (5, −21) works."
+  },
+  "17": {
+    "order": 17,
+    "page": 70,
+    "stimulus": null,
+    "text": "A gardener planted zinnia seeds and cosmos seeds. The gardener planted a total of 7 seeds. Each zinnia seed cost $2 and each cosmos seed cost $1, and the gardener spent a total of $14. Which graph represents this situation, where x is the number of zinnia seeds and y is the number of cosmos seeds?",
+    "choices": {
+      "A": "Two lines on a first-quadrant grid (x: Number of zinnia seeds, 0 to 10; y: Number of cosmos seeds, 0 to 14): y = 2x through the origin, and 2x + y = 14 from (0, 14) to (7, 0).",
+      "B": "Two lines on the same grid: y = 2x through the origin, and x + y = 7 from (0, 7) to (7, 0).",
+      "C": "Two lines on a matching grid with y to 16: x + y = 7 from (0, 7) to (7, 0), and 2x + y = 14 from (0, 14) to (7, 0).",
+      "D": "Two lines on the same grid: x + y = 14 from (0, 14) toward (14, 0), and 2x + y = 7 from (0, 7) to (3.5, 0)."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Total seeds: x + y = 7. Total cost: 2x + y = 14. That is the pair of lines in C, intersecting at (7, 0). Choice B replaces the cost equation with y = 2x (the usual misreading of “$2 each” as “twice as many”).",
+    "_reconstructedStem": true,
+    "_reconstructedChoices": ["A", "D"],
+    "_note": "Page 70 is scrolled so the stem and choices A and D are off-screen. B (y = 2x and x + y = 7) and C (x + y = 7 and 2x + y = 14) are fully visible; axis labels are “Number of zinnia seeds” / “Number of cosmos seeds”. Stem reconstructed as the standard SAT total-7 plus $2/$1-spend-$14 wording that makes C the unique match and B the classic trap. A and D reconstructed as the remaining two pairings of those constraints (y = 2x with the cost line; the 7 and 14 intercepts swapped)."
+  },
+  "18": {
+    "order": 18,
+    "page": 71,
+    "stimulus": null,
+    "text": "f = (10x)^2 / (7g)\n\nThe given equation relates the positive numbers f, x, and g. Which equation correctly expresses x in terms of f and g?",
+    "choices": {
+      "A": "x = √(7fg) / 10",
+      "B": "x = 10√(7fg)",
+      "C": "x = √(7fg / 10)",
+      "D": "x = √(7fg) − 10"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "7fg = (10x)^2 = 100x^2. Since f, x, and g are positive, x = √(7fg) / 10."
+  },
+  "19": {
+    "order": 19,
+    "page": 72,
+    "stimulus": null,
+    "text": "In the xy-plane, line ℓ passes through the point (0, 0) and is parallel to the line represented by the equation y = 8x + 4. If line ℓ also passes through the point (6, d), what is the value of d?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "48",
+    "showWork": "Parallel lines have the same slope, so line ℓ is y = 8x. At x = 6, d = 8(6) = 48."
+  },
+  "20": {
+    "order": 20,
+    "page": 73,
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (14, 19) and has a radius of 7k. Which equation represents this circle?",
+    "choices": {
+      "A": "(x − 14)^2 + (y − 19)^2 = 49k",
+      "B": "(x − 14)^2 + (y − 19)^2 = 49k^2",
+      "C": "(x − 14)^2 + (y − 19)^2 = 7k",
+      "D": "(x − 14)^2 + (y − 19)^2 = 7k^2"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Standard form is (x − h)^2 + (y − k)^2 = r^2. Here r = 7k, so r^2 = 49k^2."
+  },
+  "21": {
+    "order": 21,
+    "page": 74,
+    "stimulus": null,
+    "text": "According to a US law, ramps for use by the general public must form an angle with level ground such that tan θ ≤ 1/12. If the ramp in the figure conforms to this law and has a height of 29.1 inches, what is the least possible value of x, in inches?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math1-q21-ramp.svg",
+    "correctAnswer": "349.2",
+    "showWork": "tan θ = 29.1/x ≤ 1/12, so x ≥ 29.1 × 12 = 349.2. The least possible value is 349.2 inches."
+  },
+  "22": {
+    "order": 22,
+    "page": 75,
+    "stimulus": null,
+    "text": "The equation of the graph shown is y = a^x + b, where a and b are constants. What is the value of a − b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-march-us-b/figures/math1-q22-exponential.svg",
+    "correctAnswer": "9",
+    "showWork": "The horizontal asymptote is y = −4, so b = −4. The curve passes through (0, −3): −3 = 1 + b confirms b = −4. It also passes through (1, 1): 1 = a − 4, so a = 5. Then a − b = 5 − (−4) = 9."
+  }
+}

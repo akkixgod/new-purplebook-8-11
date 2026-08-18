@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="470" viewBox="0 0 640 470">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="320" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Chesapeake Bay Seagrass Coverage 2012–2019</text>
+<line x1="112" y1="300.0" x2="604" y2="300.0" stroke="#111" stroke-width="1"/>
+<text x="102" y="305.0" text-anchor="end" font-family="Georgia, serif" font-size="13">0</text>
+<line x1="112" y1="250.4" x2="604" y2="250.4" stroke="#111" stroke-width="1"/>
+<text x="102" y="255.4" text-anchor="end" font-family="Georgia, serif" font-size="13">9,000</text>
+<line x1="112" y1="200.8" x2="604" y2="200.8" stroke="#111" stroke-width="1"/>
+<text x="102" y="205.8" text-anchor="end" font-family="Georgia, serif" font-size="13">18,000</text>
+<line x1="112" y1="151.2" x2="604" y2="151.2" stroke="#111" stroke-width="1"/>
+<text x="102" y="156.2" text-anchor="end" font-family="Georgia, serif" font-size="13">27,000</text>
+<line x1="112" y1="101.6" x2="604" y2="101.6" stroke="#111" stroke-width="1"/>
+<text x="102" y="106.6" text-anchor="end" font-family="Georgia, serif" font-size="13">36,000</text>
+<line x1="112" y1="52.0" x2="604" y2="52.0" stroke="#111" stroke-width="1"/>
+<text x="102" y="57.0" text-anchor="end" font-family="Georgia, serif" font-size="13">45,000</text>
+<line x1="142.8" y1="52" x2="142.8" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="204.2" y1="52" x2="204.2" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="265.8" y1="52" x2="265.8" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="327.2" y1="52" x2="327.2" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="388.8" y1="52" x2="388.8" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="450.2" y1="52" x2="450.2" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="511.8" y1="52" x2="511.8" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="573.2" y1="52" x2="573.2" y2="300" stroke="#111" stroke-width="1"/>
+<line x1="112" y1="52" x2="112" y2="300" stroke="#111" stroke-width="1.5"/>
+<line x1="112" y1="300" x2="604" y2="300" stroke="#111" stroke-width="1.5"/>
+<text x="34" y="176.0" text-anchor="middle" font-family="Georgia, serif" font-size="14" transform="rotate(-90 34 176.0)">Seagrass area (hectares)</text>
+<text x="142.8" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 142.8 322.0)">2012</text>
+<text x="204.2" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 204.2 322.0)">2013</text>
+<text x="265.8" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 265.8 322.0)">2014</text>
+<text x="327.2" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 327.2 322.0)">2015</text>
+<text x="388.8" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 388.8 322.0)">2016</text>
+<text x="450.2" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 450.2 322.0)">2017</text>
+<text x="511.8" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 511.8 322.0)">2018</text>
+<text x="573.2" y="322.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-40 573.2 322.0)">2019</text>
+<text x="358.0" y="372.0" text-anchor="middle" font-family="Georgia, serif" font-size="14">Year</text>
+<polyline points="142.8,192.0 204.2,165.5 265.8,131.9 327.2,93.3 388.8,76.8 450.2,65.2 511.8,58.1 573.2,151.2" fill="none" stroke="#111" stroke-width="2" stroke-dasharray="3 6"/>
+<circle cx="142.8" cy="192.0" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="204.2" cy="165.5" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="265.8" cy="131.9" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="327.2" cy="93.3" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="388.8" cy="76.8" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="450.2" cy="65.2" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="511.8" cy="58.1" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="573.2" cy="151.2" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<polyline points="142.8,268.0 204.2,253.7 265.8,231.7 327.2,214.0 388.8,204.7 450.2,200.8 511.8,210.2 573.2,251.0" fill="none" stroke="#111" stroke-width="2" stroke-dasharray="11 7"/>
+<rect x="137.2" y="262.5" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="198.8" y="248.2" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="260.2" y="226.2" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="321.8" y="208.5" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="383.2" y="199.2" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="444.8" y="195.3" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="506.2" y="204.7" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<rect x="567.8" y="245.5" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<polyline points="142.8,270.2 204.2,261.4 265.8,261.4 327.2,252.6 388.8,251.5 450.2,252.6 511.8,246.5 573.2,272.4" fill="none" stroke="#111" stroke-width="2"/>
+<polygon points="142.8,263.7 149.2,275.2 136.2,275.2" fill="#111"/>
+<polygon points="204.2,254.9 210.8,266.4 197.8,266.4" fill="#111"/>
+<polygon points="265.8,254.9 272.2,266.4 259.2,266.4" fill="#111"/>
+<polygon points="327.2,246.1 333.8,257.6 320.8,257.6" fill="#111"/>
+<polygon points="388.8,245.0 395.2,256.5 382.2,256.5" fill="#111"/>
+<polygon points="450.2,246.1 456.8,257.6 443.8,257.6" fill="#111"/>
+<polygon points="511.8,240.0 518.2,251.5 505.2,251.5" fill="#111"/>
+<polygon points="573.2,265.9 579.8,277.4 566.8,277.4" fill="#111"/>
+<rect x="178" y="388" width="284" height="70" fill="#fff" stroke="#111" stroke-width="1"/>
+<line x1="192" y1="406.0" x2="240" y2="406.0" stroke="#111" stroke-width="2"/>
+<polygon points="216.0,399.5 222.5,411.0 209.5,411.0" fill="#111"/>
+<text x="254" y="411.0" font-family="Georgia, serif" font-size="13">eelgrass</text>
+<line x1="192" y1="426.0" x2="240" y2="426.0" stroke="#111" stroke-width="2" stroke-dasharray="11 7"/>
+<rect x="210.5" y="420.5" width="11" height="11" fill="#b9b9b9" stroke="#111" stroke-width="1.5"/>
+<text x="254" y="431.0" font-family="Georgia, serif" font-size="13">widgeon grass</text>
+<line x1="192" y1="446.0" x2="240" y2="446.0" stroke="#111" stroke-width="2" stroke-dasharray="3 6"/>
+<circle cx="216.0" cy="446.0" r="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="254" y="451.0" font-family="Georgia, serif" font-size="13">total of all types of seagrass</text>
+</svg>

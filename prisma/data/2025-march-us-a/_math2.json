@@ -1,0 +1,314 @@
+{
+  "1": {
+    "order": 1,
+    "page": 79,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 6x − 1/8. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "(0, −1/8)",
+      "B": "(0, −6)",
+      "C": "(0, 6)",
+      "D": "(0, 8)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "The y-intercept is the value at x = 0: f(0) = 6(0) − 1/8 = −1/8, so the point is (0, −1/8)."
+  },
+  "2": {
+    "order": 2,
+    "page": 80,
+    "stimulus": null,
+    "text": "Which expression is equivalent to (57y)^(1/2), where y > 1?",
+    "choices": {
+      "A": "57 · √y",
+      "B": "√57 · y",
+      "C": "√(57y)",
+      "D": "√((57y)^2)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "A rational exponent of 1/2 is a square root of the whole base: (57y)^(1/2) = √(57y)."
+  },
+  "3": {
+    "order": 3,
+    "page": 81,
+    "stimulus": null,
+    "text": "Luis has $150 in an account. Each year he expects to have 1.1% more money in the account than he had the previous year. Which of the following models best describes how Luis expects the money in his account to change over time?",
+    "choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "A fixed percent increase each year is exponential growth (multiply by 1.011 annually), so the model is increasing exponential."
+  },
+  "4": {
+    "order": 4,
+    "page": 90,
+    "stimulus": null,
+    "text": "The function m is defined by m(x) = 5x + 3, and the function p is defined by p(x) = 3 − x. What is the value of 2m(3) − p(3)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "36",
+    "showWork": "m(3) = 5(3) + 3 = 18 and p(3) = 3 − 3 = 0, so 2m(3) − p(3) = 2(18) − 0 = 36."
+  },
+  "5": {
+    "order": 5,
+    "page": 82,
+    "stimulus": null,
+    "text": "The number of bacteria in a liquid medium doubles every day. There are 48,000 bacteria in the liquid medium at the start of an observation. Which of the following represents the number of bacteria, y, in the liquid medium t days after the start of the observation?",
+    "choices": {
+      "A": "y = (1/2)(48,000)^t",
+      "B": "y = 2(48,000)^t",
+      "C": "y = 48,000(1/2)^t",
+      "D": "y = 48,000(2)^t"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The initial amount is 48,000 and the population doubles each day, so y = 48,000(2)^t. At t = 0 this is 48,000, and each increase of 1 in t multiplies y by 2."
+  },
+  "6": {
+    "order": 6,
+    "page": 83,
+    "stimulus": null,
+    "text": "y = x/4 + 6\ny = −x/4 + 30\n\nThe solution to the given system of equations is (x, y). What is the value of 2y?",
+    "choices": {
+      "A": "6",
+      "B": "24",
+      "C": "30",
+      "D": "36"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Adding the two equations cancels x: 2y = 6 + 30 = 36."
+  },
+  "7": {
+    "order": 7,
+    "page": 84,
+    "stimulus": null,
+    "text": "f(x) = (2x − 3)(x + 8)\ng(x) = 3(6x − 9)\n\nThe functions f and g are defined by the equations shown. Which of the following is equivalent to f(x) − g(x)?",
+    "choices": {
+      "A": "2x² + 7x − 15",
+      "B": "2x² − 5x + 3",
+      "C": "2x² − x − 3",
+      "D": "2x² + 31x − 51"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Expand f(x) = (2x − 3)(x + 8) = 2x² + 13x − 24 and g(x) = 3(6x − 9) = 18x − 27. Then f(x) − g(x) = 2x² + 13x − 24 − 18x + 27 = 2x² − 5x + 3."
+  },
+  "8": {
+    "order": 8,
+    "page": 85,
+    "stimulus": null,
+    "text": "In right triangle ABC, angles A and B are acute, side AC has a length of 23.3, and tan B = 1/4. What is the length of side BC, rounded to the nearest tenth?",
+    "choices": {
+      "A": "4.8",
+      "B": "5.8",
+      "C": "93.2",
+      "D": "542.9"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Angles A and B are acute, so the right angle is at C. For angle B the opposite leg is AC and the adjacent leg is BC, so tan B = AC/BC = 23.3/BC = 1/4. Therefore BC = 4(23.3) = 93.2."
+  },
+  "9": {
+    "order": 9,
+    "page": 91,
+    "stimulus": null,
+    "text": "−3|5x + 7| + 9 = −12\n\nWhat are all solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "0 and −6/5",
+      "C": "0 and −14/5",
+      "D": "There is no solution."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Subtracting 9 gives −3|5x + 7| = −21, so |5x + 7| = 7. Then 5x + 7 = 7 gives x = 0, and 5x + 7 = −7 gives 5x = −14, so x = −14/5. Both values check in the original equation."
+  },
+  "10": {
+    "order": 10,
+    "page": 92,
+    "stimulus": null,
+    "text": "While walking on a path, Maksim stopped at a water fountain. The graph shows the total distance y, in meters, Maksim had walked on the path x minutes after leaving the water fountain.\n\nWhat distance, in meters, did Maksim walk on the path in the 10 minutes after he left the water fountain?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-march-us-a/figures/math2-q10-line-graph.svg",
+    "correctAnswer": "550",
+    "showWork": "The line runs from (0, 50) to the marked point (10, 600). y is total distance walked on the path, so at the fountain he had already walked 50 m. In the next 10 minutes he walked 600 − 50 = 550 m. (Reading y = 600 at x = 10 is the total from the start of the path, not the distance walked after leaving the fountain.)"
+  },
+  "11": {
+    "order": 11,
+    "page": 86,
+    "stimulus": null,
+    "text": "The positive number a is 2,106% of the sum of the positive numbers b and c, and b is 81% of c. What percent of b is a?",
+    "choices": {
+      "A": "4,706%",
+      "B": "2,600%",
+      "C": "38.12%",
+      "D": "21.87%"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "a = 21.06(b + c) and b = 0.81c, so b + c = 1.81c. Then a/b = 21.06 × 1.81 / 0.81 = 26 × 1.81 = 47.06, so a is 4,706% of b."
+  },
+  "12": {
+    "order": 12,
+    "page": 87,
+    "stimulus": null,
+    "text": "The shaded region shown represents the solutions to rx + ty ≥ −65, where r and t are constants. What is the value of r + t?",
+    "choices": {
+      "A": "6",
+      "B": "4",
+      "C": "−4",
+      "D": "−5"
+    },
+    "imageUrl": "/mocks/2025-march-us-a/figures/math2-q12-shaded-inequality.svg",
+    "correctAnswer": "A",
+    "showWork": "The boundary line passes through the marked points (0, −13) and (−5, −12), so its slope is (−13 − (−12))/(0 − (−5)) = −1/5 and its equation is y = −x/5 − 13. Multiplying by 5 gives x + 5y = −65, so r = 1 and t = 5. The region above the line is shaded, which matches x + 5y ≥ −65 (testing (0, 0) gives 0 ≥ −65). Therefore r + t = 1 + 5 = 6."
+  },
+  "13": {
+    "order": 13,
+    "page": 88,
+    "stimulus": null,
+    "text": "In the xy-plane, line k and line ℓ are perpendicular and intersect at the point (7, 5). If line k is defined by the equation y = mx + b, where m and b are constants and m > 1, which of the following points lies on line ℓ?",
+    "choices": {
+      "A": "(8, 5 − 1/m)",
+      "B": "(8, 5 + 1/m)",
+      "C": "(8, 5 − m)",
+      "D": "(8, 5 + m)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "Line ℓ is perpendicular to k, so its slope is −1/m, and it passes through (7, 5). Moving 1 unit right from x = 7 to x = 8 changes y by −1/m, giving the point (8, 5 − 1/m)."
+  },
+  "14": {
+    "order": 14,
+    "page": 89,
+    "stimulus": null,
+    "text": "The histogram summarizes a data set of the weights, in pounds, of 14 salmon. If an additional weight of 32 pounds is added to the original data set to create a new data set of 15 weights, which of the following measures must be less for the new data set than for the original data set?\nI. The median\nII. The mean",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": "/mocks/2025-march-us-a/figures/math2-q14-salmon-histogram.svg",
+    "correctAnswer": "B",
+    "showWork": "All 14 original weights are at least 70 pounds, so adding 32 (which is less than every original value) must decrease the mean. For the median: with n = 14 the median is the average of the 7th and 8th values, both in the 85–90 bin; with n = 15 the median is the 8th value, which is the original 7th value and is still in 85–90. The new median is therefore less than or equal to the old median, and equal if the 7th and 8th original values are the same, so the median need not decrease. Only II must be less."
+  },
+  "15": {
+    "order": 15,
+    "page": 93,
+    "stimulus": null,
+    "text": "For the function f, for every increase of 2 in the value of x, the value of f(x) increases by a factor of c, where c is a constant. Which of the following equivalent forms of function f displays the value of c as the base or the coefficient?",
+    "choices": {
+      "A": "f(x) = 42(2)^(6x)",
+      "B": "f(x) = 42(8)^(2x)",
+      "C": "f(x) = 42(64)^x",
+      "D": "f(x) = 42(4,096)^(x/2)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "The four forms are equivalent: 2^(6x) = 8^(2x) = 64^x = 4,096^(x/2). The factor for an increase of 2 in x is f(x+2)/f(x) = 4,096. That value of c appears as the base in f(x) = 42(4,096)^(x/2)."
+  },
+  "16": {
+    "order": 16,
+    "page": 94,
+    "stimulus": null,
+    "text": "To investigate the effect of magnesium supplementation on the sleep quality of adults, a researcher selected 190 adults at random from a community center to participate in a study. The researcher first measured the sleep efficiency of each participant. Each participant was then randomly assigned to take a magnesium supplement or a placebo each day for 6 weeks. At the end of the 6 weeks, the researcher measured the sleep efficiency of all participants again and found that the magnesium supplement caused statistically significant improved sleep quality for the adults at the community center. What feature of this study allowed the researcher to conclude that the magnesium supplement caused the improved sleep quality?",
+    "choices": {
+      "A": "There were more than 100 participants in the study.",
+      "B": "The participants were selected at random from the community center.",
+      "C": "The sleep efficiency of each participant was measured again at the end of 6 weeks.",
+      "D": "Each participant was randomly assigned to take a magnesium supplement or a placebo."
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "A causal conclusion requires a randomized experiment. Random assignment of each participant to magnesium or placebo is the design feature that supports causation. Random sampling (B) supports generalization, not causation; sample size and the second measurement do not by themselves establish cause."
+  },
+  "17": {
+    "order": 17,
+    "page": 100,
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (−1, 1). Line t is tangent to this circle at the point (7, −6). Which of the following points also lies on line t?",
+    "choices": {
+      "A": "(0, 8/7)",
+      "B": "(6, 9)",
+      "C": "(14, 2)",
+      "D": "(15, 1)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "The radius to the point of tangency is (7 − (−1), −6 − 1) = (8, −7), so the tangent is perpendicular to (8, −7). Its equation is 8(x − 7) − 7(y + 6) = 0, or 8x − 7y = 98. Of the four points, only (14, 2) satisfies 8(14) − 7(2) = 98."
+  },
+  "18": {
+    "order": 18,
+    "page": 95,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = (x² + ax + b)/(2x + c), where a, b, and c are constants. The graph of the function f in the xy-plane, where y = f(x), does not intersect the line x = 4. If f(5) = f(6) = 0, what is the value of a + b + c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "11",
+    "showWork": "The graph never meets x = 4, so the denominator is 0 at x = 4: 2(4) + c = 0 and c = −8. The zeros f(5) = f(6) = 0 mean the numerator is (x − 5)(x − 6) = x² − 11x + 30, so a = −11 and b = 30. Then a + b + c = −11 + 30 − 8 = 11."
+  },
+  "19": {
+    "order": 19,
+    "page": 96,
+    "stimulus": null,
+    "text": "If 4x + 7 = 15, what is the value of 8x − 3?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "13",
+    "showWork": "From 4x + 7 = 15, 4x = 8 and x = 2. Then 8x − 3 = 16 − 3 = 13. Equivalently, 8x − 3 = 2(4x + 7) − 17 = 2(15) − 17 = 13."
+  },
+  "20": {
+    "order": 20,
+    "page": 97,
+    "stimulus": null,
+    "text": "kx² − 16x = 24x² − 8\n\nIn the given equation, k is an integer constant. If the equation has two distinct real solutions, what is the greatest possible value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "31",
+    "showWork": "Rearrange: (k − 24)x² − 16x + 8 = 0. For two distinct real solutions the quadratic coefficient cannot be 0 (k ≠ 24) and the discriminant must be positive: 256 − 32(k − 24) > 0, so 8 − (k − 24) > 0 and k < 32. The greatest integer k less than 32 is 31 (and 31 ≠ 24)."
+  },
+  "21": {
+    "order": 21,
+    "page": 98,
+    "stimulus": null,
+    "text": "Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 56 square centimeters (cm²), and the surface area of right rectangular prism Y is 896 cm². The volume of right rectangular prism Y is 1,536 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "1560",
+    "showWork": "The similarity ratio of Y to X is the square root of the surface-area ratio 896/56 = 16, so the linear scale factor is 4. Volumes then scale by 4³ = 64, giving the volume of X as 1,536/64 = 24. The sum of the volumes is 24 + 1,536 = 1,560."
+  },
+  "22": {
+    "order": 22,
+    "page": 99,
+    "stimulus": null,
+    "text": "In triangle ABC, the measure of angle B is 90° and BD is an altitude of the triangle. The length of AB is 24 and the length of AC is 13 greater than the length of AB. What is the value of BC/BD?",
+    "choices": {
+      "A": "13/24",
+      "B": "24/37",
+      "C": "37/24",
+      "D": "24/13"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "AC = 24 + 13 = 37. Right triangle ABC has the right angle at B and altitude BD to the hypotenuse AC. Equating area formulas (1/2)AB·BC = (1/2)AC·BD gives BC/BD = AC/AB = 37/24."
+  }
+}

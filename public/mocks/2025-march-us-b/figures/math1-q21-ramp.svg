@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300">
+<rect width="100%" height="100%" fill="#fff"/>
+<polygon points="50,230 330,230 330,70" fill="none" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+<rect x="314" y="214" width="16" height="16" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="190.0" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-style="italic">x</text>
+<text x="344" y="142.0" font-family="Georgia, serif" font-size="14">height of</text>
+<text x="344" y="160.0" font-family="Georgia, serif" font-size="14">the ramp</text>
+<text x="182.0" y="142.0" text-anchor="middle" transform="rotate(-29.7 190.0 150.0)" font-family="Georgia, serif" font-size="14">length of the ramp</text>
+<text x="78" y="218" font-family="Georgia, serif" font-size="16" font-style="italic">θ</text>
+<text x="210.0" y="286" text-anchor="middle" font-family="Georgia, serif" font-size="13">Note: Figure not drawn to scale.</text>
+</svg>

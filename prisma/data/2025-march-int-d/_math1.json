@@ -1,0 +1,319 @@
+{
+  "1": {
+    "order": 1,
+    "page": null,
+    "stimulus": null,
+    "text": "s = 40 + 2t\n\nThe equation gives the speed s, in miles per hour, of a certain car t seconds after it began to accelerate. What is the speed, in miles per hour, of the car 3 seconds after it began to accelerate?",
+    "choices": {
+      "A": "40",
+      "B": "42",
+      "C": "43",
+      "D": "46"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFrom": "2025-march-int-c Math M1 Q1 (source PDF missing Math M1 Q1 page)",
+    "showWork": "Substitute t = 3: s = 40 + 2(3) = 40 + 6 = 46."
+  },
+  "2": {
+    "order": 2,
+    "page": null,
+    "stimulus": null,
+    "text": "Which expression is equivalent to 9(x² + 6)?",
+    "choices": {
+      "A": "9x² + 3",
+      "B": "9x² + 6",
+      "C": "9x² + 15",
+      "D": "9x² + 54"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFrom": "2025-march-int-b Math M1 Q2 (source PDF missing Math M1 Q2 page)",
+    "showWork": "Distribute the 9 across both terms: 9(x² + 6) = 9·x² + 9·6 = 9x² + 54."
+  },
+  "3": {
+    "order": 3,
+    "page": 53,
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown.\n\nWhich of the following equations best represents the line of best fit shown?",
+    "choices": {
+      "A": "y = 0.6 + 1.5x",
+      "B": "y = 0.6 − 1.5x",
+      "C": "y = −0.6 + 1.5x",
+      "D": "y = −0.6 − 1.5x"
+    },
+    "imageUrl": "/mocks/2025-march-int-d/figures/math1-q03-scatterplot.svg",
+    "correctAnswer": "A",
+    "_note": "Choice D was clipped at the bottom of page 53. Reconstructed as y = −0.6 − 1.5x from the intercept/slope sign pattern of A–C (same pattern as 2025-march-int-c Math M1 Q2). The key is unaffected: the drawn line has a positive intercept and a positive slope.",
+    "showWork": "The line rises from left to right, so the slope is positive: +1.5, which rules out B and D. It crosses the y-axis just above the origin (near y = 0.6), so the y-intercept is positive, which rules out C. Only y = 0.6 + 1.5x has both a positive intercept and a positive slope."
+  },
+  "4": {
+    "order": 4,
+    "page": 54,
+    "stimulus": null,
+    "text": "y = −0.5\ny = x^2 + 8x + a\n\nIn the given system of equations, a is a positive integer constant. The system has no real solutions. What is the least possible value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "16",
+    "showWork": "Set the right-hand sides equal: x^2 + 8x + a = −0.5, or x^2 + 8x + (a + 0.5) = 0. No real solutions means the discriminant is negative: 64 − 4(a + 0.5) < 0 → 62 − 4a < 0 → a > 15.5. The least positive integer a is 16."
+  },
+  "5": {
+    "order": 5,
+    "page": 55,
+    "stimulus": null,
+    "text": "The width of a rectangle is 8 centimeters. The length of the rectangle is 50 centimeters longer than the width. What is the area, in square centimeters, of this rectangle?",
+    "choices": {
+      "A": "8",
+      "B": "16",
+      "C": "66",
+      "D": "464"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Length = 8 + 50 = 58 cm. Area = length × width = 58(8) = 464 square centimeters."
+  },
+  "6": {
+    "order": 6,
+    "page": null,
+    "stimulus": null,
+    "text": "The list gives the mass, in grams, of 5 ruffed lemurs.\n\n3,810; 3,810; 3,530; 3,850; 3,550\n\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "3710",
+    "_filledFrom": "2025-march-int-b Math M1 Q6 (source PDF missing Math M1 Q6 page)",
+    "showWork": "The masses total 3,810 + 3,810 + 3,530 + 3,850 + 3,550 = 18,550 grams, and 18,550 ÷ 5 = 3,710 grams."
+  },
+  "7": {
+    "order": 7,
+    "page": null,
+    "stimulus": null,
+    "text": "The price of an object increased from $16 to $80. What was the percent increase in the price of the object?",
+    "choices": {
+      "A": "20%",
+      "B": "64%",
+      "C": "80%",
+      "D": "400%"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "_filledFrom": "2025-march-int-b Math M1 Q7 (source PDF missing Math M1 Q7 page)",
+    "showWork": "The increase is 80 − 16 = 64 dollars. Percent increase compares that to the original price: 64/16 = 4 = 400%."
+  },
+  "8": {
+    "order": 8,
+    "page": 56,
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 3x − 1/4. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "(0, −1/4)",
+      "B": "(0, −3)",
+      "C": "(0, 3)",
+      "D": "(0, 4)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "A",
+    "showWork": "The y-intercept is the value at x = 0: f(0) = 3(0) − 1/4 = −1/4, so the point is (0, −1/4)."
+  },
+  "9": {
+    "order": 9,
+    "page": null,
+    "stimulus": null,
+    "text": "A student needs at least 190 signatures from classmates to run for class president. The student collects 30 signatures on Monday and collects enough additional signatures on Tuesday to run for class president. Which inequality represents the number of additional signatures, s, that the student collects on Tuesday?",
+    "choices": {
+      "A": "s + 30 ≤ 190",
+      "B": "s + 30 ≥ 190",
+      "C": "s − 30 ≤ 190",
+      "D": "s − 30 ≥ 190"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "_filledFrom": "2025-march-int-b Math M1 Q9 (source PDF missing Math M1 Q9 page)",
+    "showWork": "The total collected is the 30 from Monday plus the s from Tuesday, so the total is s + 30. \"At least 190\" means the total is greater than or equal to 190, giving s + 30 ≥ 190."
+  },
+  "10": {
+    "order": 10,
+    "page": 57,
+    "stimulus": null,
+    "text": "The expression 7x^6 + 9x^6 − 8x^6 is equivalent to bx^6, where b is a constant. What is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "8",
+    "showWork": "7 + 9 − 8 = 8, so 7x^6 + 9x^6 − 8x^6 = 8x^6 and b = 8."
+  },
+  "11": {
+    "order": 11,
+    "page": 58,
+    "stimulus": null,
+    "text": "Which expression is equivalent to (158y)^(1/2), where y > 1?",
+    "choices": {
+      "A": "158 · √y",
+      "B": "√158 · y",
+      "C": "√(158y)",
+      "D": "√((158y)^2)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "A rational exponent of 1/2 is a square root of the whole base: (158y)^(1/2) = √(158y)."
+  },
+  "12": {
+    "order": 12,
+    "page": 59,
+    "stimulus": null,
+    "text": "At a convention center, there are a total of 275 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.68, and the probability of selecting a visitor who is located in room B is 0.24. How many visitors are located in room C?",
+    "choices": {
+      "A": "8",
+      "B": "22",
+      "C": "45",
+      "D": "121"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "P(C) = 1 − 0.68 − 0.24 = 0.08. Then 0.08 × 275 = 22 visitors in room C."
+  },
+  "13": {
+    "order": 13,
+    "page": 60,
+    "stimulus": null,
+    "text": "Line t is defined by y = −(1/4)x + 15. Line s is perpendicular to line t in the xy-plane. What is the slope of line s?",
+    "choices": {
+      "A": "15",
+      "B": "4",
+      "C": "1/4",
+      "D": "1/15"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "Line t has slope −1/4. Perpendicular slopes are opposite reciprocals, so the slope of line s is −1 ÷ (−1/4) = 4."
+  },
+  "14": {
+    "order": 14,
+    "page": 61,
+    "stimulus": null,
+    "text": "f(x) = −10(2)^(x/3)\n\nWhich table gives four values of x and their corresponding values of f(x) for the given exponential function?",
+    "choices": {
+      "A": "x: −3, 0, 3, 6\nf(x): −5, 0, −20, −40",
+      "B": "x: −3, 0, 3, 6\nf(x): −5, −10, −20, −40",
+      "C": "x: −3, 0, 3, 6\nf(x): 5, −10, −20, −40",
+      "D": "x: −3, 0, 3, 6\nf(x): −5, −10, −20, −30"
+    },
+    "imageUrl": null,
+    "correctAnswer": "B",
+    "showWork": "f(−3) = −10(2)^(−1) = −5, f(0) = −10(2)^0 = −10, f(3) = −10(2)^1 = −20, f(6) = −10(2)^2 = −40. Only table B lists all four."
+  },
+  "15": {
+    "order": 15,
+    "page": null,
+    "stimulus": null,
+    "text": "A real estate company offers a series of three webinars. 1,250 people attended the first webinar. 46% of the people who attended the first webinar attended the second webinar, and 32% of the people who attended the first and second webinars attended the third webinar. How many people attended all three webinars?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "184",
+    "_filledFrom": "2025-march-int-a Math M1 Q15 (source PDF missing Math M1 Q15 page)",
+    "showWork": "0.46(1,250) = 575 attended the first two webinars, and 0.32(575) = 184 attended all three."
+  },
+  "16": {
+    "order": 16,
+    "page": 62,
+    "stimulus": null,
+    "text": "The function m is defined by m(x) = 5x + 3, and the function p is defined by p(x) = 3 − x. What is the value of 2m(3) − p(3)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "36",
+    "showWork": "m(3) = 5(3) + 3 = 18 and p(3) = 3 − 3 = 0, so 2m(3) − p(3) = 2(18) − 0 = 36."
+  },
+  "17": {
+    "order": 17,
+    "page": 63,
+    "stimulus": null,
+    "text": "A school is ordering tablet computers for its students. The tablets cost $170 each, and 7% tax is added to the total cost of the order. If the school can spend no more than 53,400 dollars on the tablets, including tax, what is the maximum number of tablets that the school can order?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "293",
+    "showWork": "With tax each tablet costs 170(1.07) = $181.90. Solving 181.90n ≤ 53,400 gives n ≤ 293.57, so at most 293 tablets (293 cost $53,296.70; 294 would cost $53,478.60)."
+  },
+  "18": {
+    "order": 18,
+    "page": 64,
+    "stimulus": null,
+    "text": "The difference between the measure of angle A and the measure of angle B is −(5/12)π radians. Which expression shows the difference between the measure of angle A and the measure of angle B, in degrees?",
+    "choices": {
+      "A": "−(5/12) · (180°/π)",
+      "B": "−(5/12)π · (π/180°)",
+      "C": "−(5/12)π · (180°/π)",
+      "D": "−(5/12)π · (360°/π)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "To convert radians to degrees, multiply by 180°/π. The given difference is −(5/12)π radians, so the measure in degrees is −(5/12)π · (180°/π)."
+  },
+  "19": {
+    "order": 19,
+    "page": 65,
+    "stimulus": null,
+    "text": "A researcher observes a sample of a nuclide. An exponential model estimates that the mass, in grams, of the sample decreases by 24% every 22.96 minutes. Which of the following equations could represent this model, where M is the estimated mass, in grams, of the sample t minutes after the researcher began observing the sample?",
+    "choices": {
+      "A": "M = 100(0.24)^(t + 22.96)",
+      "B": "M = 100(0.24)^(t/22.96)",
+      "C": "M = 100(0.76)^(t + 22.96)",
+      "D": "M = 100(0.76)^(t/22.96)"
+    },
+    "imageUrl": null,
+    "correctAnswer": "D",
+    "showWork": "Decreasing by 24% leaves 76% of the mass, so the growth factor is 0.76, ruling out A and B. That factor applies once per 22.96-minute period, so the exponent must count periods: t/22.96. This gives M = 100(0.76)^(t/22.96)."
+  },
+  "20": {
+    "order": 20,
+    "page": null,
+    "stimulus": null,
+    "text": "−4|5x + 4| + 2 = −14\n\nWhat are all solutions to the given equation?",
+    "choices": {
+      "A": "0",
+      "B": "0 and −1/5",
+      "C": "0 and −8/5",
+      "D": "There is no solution."
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "_filledFrom": "2025-march-int-b Math M1 Q20 (source PDF missing Math M1 Q20 page)",
+    "showWork": "−4|5x + 4| = −16, so |5x + 4| = 4. Then 5x + 4 = 4 gives x = 0, and 5x + 4 = −4 gives 5x = −8, so x = −8/5."
+  },
+  "21": {
+    "order": 21,
+    "page": 66,
+    "stimulus": null,
+    "text": "In triangle RST, the measure of angle R is 39°, the measure of angle S is x°, and the measure of angle T is (5x − 3)°. Point L lies on RS, point K lies on ST, and LK is parallel to RT. What is the measure, in degrees, of angle SKL? (Disregard the degree symbol when entering your answer.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null,
+    "correctAnswer": "117",
+    "showWork": "Angle sum in triangle RST: 39 + x + (5x − 3) = 180 → 6x + 36 = 180 → x = 24. Then angle T = 5(24) − 3 = 117°. LK ∥ RT with transversal ST, so angle SKL and angle T are corresponding (equivalently, angle SKL and the consecutive-interior angle at K form a linear pair). Therefore angle SKL = 117."
+  },
+  "22": {
+    "order": 22,
+    "page": 67,
+    "stimulus": null,
+    "text": "The function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1, 7) and passes through the points (2, 53) and (−1, 191). What is the value of f(−2) − f(0)?",
+    "choices": {
+      "A": "145",
+      "B": "237",
+      "C": "368",
+      "D": "421"
+    },
+    "imageUrl": null,
+    "correctAnswer": "C",
+    "showWork": "Vertex form: f(x) = a(x − 1)^2 + 7. Using (2, 53): 53 = a(1)^2 + 7 → a = 46, so f(x) = 46(x − 1)^2 + 7. Check (−1, 191): 46(4) + 7 = 191. Then f(−2) = 46(9) + 7 = 421 and f(0) = 46 + 7 = 53, so f(−2) − f(0) = 421 − 53 = 368."
+  }
+}
