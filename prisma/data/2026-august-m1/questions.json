@@ -1,0 +1,303 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "Long dismissed by earlier art historians as derivative copies of metropolitan styles, the stone sculptures crafted in provincial Roman Gaul are now understood to possess a ______ aesthetic, combining Mediterranean carving techniques with indigenous Celtic motifs to create a distinctly regional visual idiom.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "conventional",
+          "B": "singular",
+          "C": "fleeting",
+          "D": "redundant"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Linguists studying the endangered Kusunda language of western Nepal noted that while its phonemic repertoire shares several phonetic features with surrounding Sino-Tibetan tongues, Kusunda's core lexicon and grammatical structure are entirely ______: the language possesses no demonstrable genealogical relationship to any other known language family.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "isolated",
+          "B": "rudimentary",
+          "C": "contentious",
+          "D": "redundant"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "Although laboratory assays demonstrated that the newly synthesized peptide compound could rapidly destroy bacterial cell membranes in vitro, clinical microbiologists cautioned that the molecule's high cytotoxicity against mammalian kidney cells would likely ______ its therapeutic utility in human patients.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "preclude",
+          "B": "anticipate",
+          "C": "accentuate",
+          "D": "corroborate"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "A superficial survey of the architecture of the Mughal emperor Akbar's palace complex at Fatehpur Sikri might suggest a haphazard assembly of disparate regional structures, but closer spatial analysis reveals a remarkably ______ layout, deliberately aligning sandstone pavilions along precise cardinal axes to signify royal authority and balance.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "rudimentary",
+          "B": "precarious",
+          "C": "coherent",
+          "D": "superfluous"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Historian Linda Gordon explains that early twentieth-century social reformer Florence Kelley did not merely critique unsafe industrial labor conditions in abstract terms; rather, Kelley compiled ______ statistical records detailing exact factory temperatures, injury rates, and working hours to force state legislators to enact binding safety regulations.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "speculative",
+          "B": "exhaustive",
+          "C": "partisan",
+          "D": "antiquated"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "The following text is adapted from George Eliot's 1871–1872 novel Middlemarch. Dorothea Brooke is contemplating the scholarly ambitions of her husband, Edward Casaubon.\n\nDorothea had believed that in marrying Mr. Casaubon she would be helping to construct a monumental edifice of knowledge that would illuminate ancient mythologies for all future ages. <u>Yet day by day, as she sorted through piles of disconnected notes and half-filled notebooks in the dim library, the great work began to look less like an enduring monument than an impenetrable labyrinth leading nowhere.</u> The massive synthesis remained unwritten, existing only in fragmentary outlines that seemed to multiply without advancing toward any definite conclusion.",
+        "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It emphasizes Dorothea's growing realization that Casaubon's intellectual project lacks true cohesion and progress.",
+          "B": "It illustrates Dorothea's frustration with her own inability to organize Casaubon's research notes.",
+          "C": "It reveals that Casaubon has deliberately concealed the true progress of his manuscript from Dorothea.",
+          "D": "It introduces a contrast between Casaubon's modest scholarly reputation and Dorothea's grand ambitions for him."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "The following text is adapted from Edith Wharton's 1920 novel The Age of Innocence. Newland Archer reflects on the rigid social conventions governing elite New York society.\n\nIn the subtle and elaborate hierarchy of old New York, an unalterable code regulated every gesture, from the precise date for exchanging summer calls to the exact shade of gloves permissible at an evening opera. It was a world where real feelings were never mentioned, and where the direct expression of an opinion was regarded as almost indecent. Newland Archer had been bred in this atmosphere of delicate evasions; he accepted its decrees unquestioningly, yet he occasionally felt a faint stir of restlessness, a sudden fleeting suspicion that this meticulous preservation of form was merely a collective conspiracy to avoid facing the reality of life.",
+        "text": "Which choice best states the main purpose of the text?",
+        "choices": {
+          "A": "It details the specific social rules that Newland Archer attempted to reform within his social circle.",
+          "B": "It explores Newland Archer's awareness of the tension between rigid social decorum and genuine emotional experience.",
+          "C": "It illustrates why Newland Archer decided to permanently withdraw from elite New York society.",
+          "D": "It contrasts Newland Archer's open emotional demeanor with the guarded behavior of his peers."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "In an investigation of spatial cognition, neuroscientist Edvard Moser and colleagues examined how mammals maintain internal maps of physical environments. The team recorded the electrical activity of specialized neurons—known as grid cells—in the medial entorhinal cortex of rodents navigating open enclosures. <u>The firing fields of individual grid cells formed remarkably regular, periodic triangular lattices spanning the entire available area, closely matching mathematical models of hexagonal close-packing.</u> This spatial periodicity indicated to the researchers that the entorhinal cortex generates an intrinsic, metric coordinate system capable of computing distance and trajectory independently of external visual landmarks.",
+        "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "To offer empirical data describing the geometric firing pattern that supports the researchers' deduction about the brain's spatial mapping mechanism",
+          "B": "To present a surprising inconsistency in the neural recordings that prompted Moser and his team to revise their experimental setup",
+          "C": "To outline an alternative mathematical hypothesis that contradicts the researchers' view of entorhinal navigation",
+          "D": "To describe the specific laboratory environment constructed to test rodent navigational speed"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Text 1\nUrban preservation policies should prioritize the strict material restoration of historic buildings to their original architectural state. Altering historic structures to accommodate modern commercial enterprises compromises their authentic character and severs the tangible link between a community and its architectural heritage. Municipalities must therefore enact protective covenants that prohibit substantial modifications to original interior floorplans, facade materials, and decorative detailing.\n\nText 2\nUrban theorist Jane Jacobs argued that cities need old buildings to cultivate vibrant, diverse economic activity, but preserving structures purely as frozen museum pieces is unsustainable. When historic buildings undergo adaptive reuse—repurposing industrial warehouses or nineteenth-century storefronts into housing, creative studios, or local businesses—they remain active contributors to neighborhood life while avoiding the high capital costs and carbon expenditure of new demolition and construction.",
+        "text": "Based on the texts, how would the author of Text 2 most likely respond to the preservation approach advocated in Text 1?",
+        "choices": {
+          "A": "By agreeing that modifying original interior layouts always leads to severe economic decline in historic districts",
+          "B": "By suggesting that preserving original structures without permitting functional updates can prevent historic buildings from serving vital community and economic roles",
+          "C": "By demonstrating that historic buildings require identical structural maintenance regardless of whether they are preserved as museums or reused",
+          "D": "By contending that new construction projects generate lower carbon emissions than the structural retrofitting of existing buildings"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "Sociologist Matthew Salganik and colleagues conducted an experimental study to examine how social influence affects cultural markets. The researchers created an artificial online music platform where over 14,000 participants could listen to, rate, and download 48 previously unknown songs. In the control condition, participants chose songs based solely on their own evaluations without seeing data on other users' preferences. In the social influence conditions, participants could see real-time download counts reflecting the choices of earlier listeners. Salganik and his team observed that when download counts were visible, popular songs became dramatically more popular while unpopular songs languished, demonstrating that social influence amplifies inequality in market success and makes hit songs largely unpredictable based on intrinsic quality alone.",
+        "text": "Based on the text, what did Salganik and colleagues determine about cultural markets where consumers can observe other consumers' choices?",
+        "choices": {
+          "A": "Consumer evaluations become more accurate indicators of a product's objective artistic value.",
+          "B": "Market inequality decreases as obscure works receive greater collective visibility.",
+          "C": "Past consumer choices heavily bias subsequent consumer behavior, increasing the disparity between top-performing and low-performing items.",
+          "D": "Consumers actively seek out less popular products to establish distinctive personal tastes."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "Leguminous plants establish symbiotic relationships with soil bacteria known as rhizobia, which convert atmospheric dinitrogen (N₂) into biologically accessible ammonia. Because the enzymatic reduction of nitrogen requires high cellular energy investments in the form of adenosine triphosphate (ATP), soil phosphorus availability often limits this process. Plant ecologist Dr. Elena Vasquez measured nitrogen fixation rates in soybean plants cultivated under three distinct soil phosphorus concentrations: low (5 mg/kg), moderate (20 mg/kg), and high (50 mg/kg). Vasquez concluded that biological nitrogen fixation scales directly with increasing phosphorus availability.",
+        "text": "Which choice best describes data from the graph that support Dr. Vasquez's conclusion?",
+        "choices": {
+          "A": "Soybean plants grown in moderate phosphorus soil exhibited nitrogen fixation rates approximately twice as high as those grown in high phosphorus soil.",
+          "B": "The nitrogen fixation rate increased from approximately 15 µmol N₂/plant/h under low phosphorus conditions to over 60 µmol N₂/plant/h under high phosphorus conditions.",
+          "C": "Plants grown in low phosphorus soil achieved higher nitrogen fixation rates than plants cultivated in moderate phosphorus soil.",
+          "D": "The nitrogen fixation rate remained essentially constant across all three tested phosphorus concentrations."
+        },
+        "imageUrl": "/mocks/2026-august-m1/figures/eng1-q11-graph.svg"
+      },
+      "12": {
+        "stimulus": "Dendroclimatologists analyze radial tree-ring growth to reconstruct historical summer temperature fluctuations caused by volcanic aerosol emissions. Sulfate aerosols injected into the stratosphere reflect incoming solar radiation, cooling high-latitude landmasses and suppressing seasonal wood formation in subarctic trees. A team led by paleoclimatologist Dr. Marcus Thorne examined Siberian larch tree rings across four major volcanic events to determine how long post-eruption cooling persisted. The researchers observed that while the severity of growth reduction varied across events, ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "every recorded eruption resulted in positive tree-ring width anomalies by the second year following the eruption.",
+          "B": "the largest single-year growth suppression across all four events occurred in the third year following the 1815 Tambora eruption.",
+          "C": "growth suppression was sustained across all three post-eruption years for the Kuwae, Huaynaputina, and Tambora events, whereas ring widths after the Krakatoa eruption recovered to positive anomalies by Year +3.",
+          "D": "the Huaynaputina eruption caused greater ring width suppression in Year +2 than in Year +1."
+        },
+        "imageUrl": "/mocks/2026-august-m1/figures/eng1-q12-table.svg"
+      },
+      "13": {
+        "stimulus": "In 1926, young African American writers and artists, including Wallace Thurman, Zora Neale Hurston, and Langston Hughes, published the single issue of the avant-garde literary journal Fire!!. Literary historian Henry Louis Gates Jr. argues that the journal represented an intentional rebellion against the older generation of Harlem Renaissance leaders (such as W.E.B. Du Bois and Alain Locke), who advocated that Black art should primarily serve as respectable propaganda to demonstrate civic merit to white society.",
+        "text": "Which quotation from an essay by Wallace Thurman in Fire!! would most directly illustrate the literary historian's argument?",
+        "choices": {
+          "A": "\"We are interested in artistic self-expression for its own sake, utterly indifferent to whether our depictions of Black life appease the moral standards of white critics or the social respectability demanded by older Negro leaders.\"",
+          "B": "\"The primary purpose of our quarterly is to provide a comprehensive historical record of African American achievements in poetry and painting since the late nineteenth century.\"",
+          "C": "\"By presenting meticulously edited works of drama and verse, our publication hopes to gain widespread financial patronage from major philanthropic foundations.\"",
+          "D": "\"Our contributors share a profound reverence for the aesthetic principles and cultural institutions established by our distinguished elders over the preceding decades.\""
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "African elephants (Loxodonta africana) communicate using low-frequency acoustic vocalizations known as \"rumbles,\" which can propagate through savannah environments across several kilometers. Behavioral ecologist Karen McComb and colleagues recorded elephant rumbles and tested how listeners distinguish familiar herd members from unfamiliar conspecifics. While earlier models assumed that low-frequency fundamental tones below 20 Hz (infrasound) carry individual vocal signatures over maximum distances, McComb discovered that acoustic recognition of specific herd members degrades significantly at distances exceeding 1.5 kilometers, because higher-frequency vocal tract resonances (formants) around 115 Hz attenuate and become obscured by ambient environmental noise. McComb therefore concluded that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "infrasonic frequencies below 20 Hz are solely responsible for coding the individual social identity of calling elephants.",
+          "B": "long-distance social recognition in elephants depends on specific acoustic formant frequencies whose effective transmission range is narrower than the overall audible range of elephant infrasound.",
+          "C": "ambient environmental noise enhances the propagation speed of low-frequency elephant contact rumbles across open savannah landscapes.",
+          "D": "female African elephants cannot differentiate between the vocal calls of family members and unfamiliar elephants at any distance."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Data from NASA's Cassini spacecraft revealed that Saturn's icy moon Enceladus expels active plumes of water vapor and ice grains through fractures in its south polar crust, fed by a subsurface liquid ocean. While previous flybys detected water, carbon dioxide, methane, and ammonia within the plumes, planetary scientists remained uncertain whether the ocean contained soluble phosphorus, a critical element required for DNA, RNA, and cellular ATP synthesis. In a 2023 study, geochemist Frank Postberg and colleagues analyzed high-resolution spectra of ice grains captured by Cassini's Cosmic Dust Analyzer and identified abundant sodium phosphate salts. Because phosphorus concentrations in Enceladus's ocean water were calculated to be at least 100 times higher than those in Earth's oceans, the researchers suggest that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "the presence of phosphorus on Enceladus indicates that all life-detection criteria for its ocean have now been definitively satisfied.",
+          "B": "high concentrations of dissolved phosphorus in Enceladus's ocean eliminate one of the major suspected geochemical constraints on the habitability of that environment.",
+          "C": "the ice grains detected in Enceladus's plumes originated from surface impacts rather than hydrothermal interactions with the moon's rocky core.",
+          "D": "Enceladus lacks the thermodynamic energy sources required to sustain biological chemical reactions."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "In 1811, twelve-year-old Mary Anning discovered the fossilized skull of an Ichthyosaurus along the cliffs of Lyme Regis in Dorset, England. Over the next three decades, she ______ numerous significant marine reptile specimens that transformed the emerging scientific field of paleontology, despite receiving little formal recognition from contemporary academic societies during her lifetime.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "will unearth",
+          "B": "unearthed",
+          "C": "is unearthing",
+          "D": "unearths"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Archaeological investigations of ancient Maya wetland agriculture in Belize have revealed extensive networks of modified drainage canals. These complex raised-field systems, constructed by excavating channels through flood-prone bajos to create elevated planting platforms, ______ substantial agricultural surplus during periods of severe population density.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "provided",
+          "B": "providing",
+          "C": "to provide",
+          "D": "having provided"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Employing high-precision laser altimetry to map the dense canopy of the Guatemalan jungle, ______ hundreds of previously unrecorded structures, including fortified hilltop defenses, interconnected causeways, and domestic residential terraces.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "the Pacunam LiDAR initiative revealed",
+          "B": "previously unrecorded structures were discovered by researchers with",
+          "C": "the discovery of fortifications was made by archaeologists in",
+          "D": "domestic terraces and causeways were documented through"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "When conducting remote sensing surveys of ancient architectural complexes, archaeological teams must evaluate spatial patterns in multispectral imagery before deciding which excavation trench ______",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "should they open?",
+          "B": "they should open.",
+          "C": "should they open.",
+          "D": "they should open?"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The 1913 Armory Show in New York City introduced American audiences to European modernism—including radical works by Marcel Duchamp, Henri Matisse, and Pablo ______ forever altering the trajectory of American twentieth-century art.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Picasso;",
+          "B": "Picasso—",
+          "C": "Picasso:",
+          "D": "Picasso,"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "In materials science, perovskite solar cells have gained considerable attention for their remarkable power-conversion ______ unlike traditional silicon photovoltaic panels that require high-temperature manufacturing, perovskite crystals can be processed from inexpensive chemical solutions at relatively low temperatures.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "efficiency",
+          "B": "efficiency,",
+          "C": "efficiency;",
+          "D": "efficiency, but"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "Geothermal power plants utilize steam extracted from subterranean reservoirs to turn turbine generators and produce electricity. In Iceland, volcanic geology provides an exceptionally shallow geothermal resource, allowing geothermal energy to supply over 65% of the country's primary energy needs. ______ in regions lacking active tectonic boundaries, drilling deep enough to access equivalent subterranean heat is often economically prohibitive.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In contrast,",
+          "B": "For instance,",
+          "C": "As a result,",
+          "D": "Furthermore,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "Tardigrades are microscopic invertebrates celebrated for their ability to survive lethal extremes of temperature, radiation, and dehydration by entering a dormant state known as anhydrobiosis. In this desiccation-tolerant state, the animals suspend all metabolic processes and synthesize specialized disordered proteins to protect cellular membranes. When rehydrated, ______ tardigrades resume active cellular respiration and locomotion within several hours.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "therefore,",
+          "B": "nevertheless,",
+          "C": "indeed,",
+          "D": "conversely,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "Engineers often look to biological adaptations in the natural world to resolve complex aerodynamic challenges. ______ when Japanese rail designers redesigned the high-speed Shinkansen 500-Series train to eliminate loud atmospheric sonic booms when exiting tunnels, they modeled the locomotive's elongated nose cone directly after the beak of the kingfisher.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Specifically,",
+          "B": "Rather,",
+          "C": "Meanwhile,",
+          "D": "In comparison,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• In 1977, NASA launched the twin probes Voyager 1 and Voyager 2 to explore the outer solar system.\n• Both spacecraft took advantage of a rare planetary alignment to conduct flybys of Jupiter and Saturn.\n• Voyager 2 continued onward to complete the first flybys of Uranus (1986) and Neptune (1989).\n• In 2012, Voyager 1 crossed the heliopause and entered interstellar space.\n• In 2018, Voyager 2 also crossed into interstellar space.\n• Both probes continue to transmit scientific telemetry back to Earth using the Deep Space Network.",
+        "text": "The student wants to provide a chronological overview of the Voyager mission's primary exploration milestones. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Launched in 1977 to explore the outer planets, the Voyager probes completed flybys of Jupiter and Saturn before crossing the heliopause into interstellar space in 2012 and 2018.",
+          "B": "NASA took advantage of a rare planetary alignment in 1977 when launching the Voyager spacecraft to study Jupiter and Saturn.",
+          "C": "Although Voyager 2 made historic flybys of Uranus and Neptune in the 1980s, both probes now use the Deep Space Network to send data.",
+          "D": "Voyager 1 became the first human-made object to reach interstellar space when it crossed the heliopause in 2012."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Traditional Japanese yamato-e painting emphasizes flat areas of opaque color, stylized landscape forms, and native Japanese subjects.\n• The suibokuga painting tradition, introduced from China during the Muromachi period (1336–1573), focuses on monochromatic black sumi ink washes.\n• Yamato-e frequently depicted scenes from classical court literature, such as The Tale of Genji.\n• Suibokuga prioritized spontaneous brushwork, atmospheric mist, and Zen Buddhist spiritual themes.\n• Artists of the Rinpa school later combined elements of both traditions.",
+        "text": "The student wants to emphasize a difference between the aesthetic characteristics of yamato-e and suibokuga. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "While yamato-e was developed in Japan to depict classical court literature, artists of the later Rinpa school synthesized multiple styles.",
+          "B": "Yamato-e is characterized by flat, opaque colors depicting native narrative subjects, whereas suibokuga relies on monochromatic black ink washes inspired by Zen philosophy.",
+          "C": "Both yamato-e and suibokuga are celebrated Japanese painting genres that flourished during historical imperial eras.",
+          "D": "Monochromatic black sumi ink is used in suibokuga, which was introduced to Japan during the Muromachi period between 1336 and 1573."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Physicist Lise Meitner was a key collaborator with chemist Otto Hahn in Berlin for over three decades.\n• In 1938, forced to flee Nazi Germany due to her Jewish heritage, Meitner relocated to Stockholm, Sweden.\n• In December 1938, Hahn observed unexpected barium when bombarding uranium with neutrons but could not explain the result.\n• Working in Sweden with her nephew Otto Frisch, Meitner calculated the energy released and provided the first theoretical explanation for nuclear fission in 1939.\n• In 1944, Otto Hahn was awarded the Nobel Prize in Chemistry for the discovery, while Meitner's indispensable theoretical contribution was overlooked by the committee.",
+        "text": "The student wants to contextualize Lise Meitner's theoretical breakthrough in nuclear fission. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Although Otto Hahn observed barium during neutron experiments in 1938, he won the 1944 Nobel Prize in Chemistry for the discovery of nuclear fission.",
+          "B": "After collaborating with Otto Hahn in Berlin for three decades, physicist Lise Meitner was forced to flee Germany for Sweden in 1938.",
+          "C": "While in exile in Sweden in 1939, Meitner provided the crucial theoretical explanation and energy calculations for the unexplained nuclear fission observations reported by Hahn.",
+          "D": "Lise Meitner and her nephew Otto Frisch conducted research in Stockholm, Sweden, after Meitner left Berlin in 1938."
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

@@ -37,6 +37,7 @@ const MONTH_NAMES = [
 export function TestCard({ title, year, month, section, version, isFree, modules, attemptMap }: Props) {
   const router = useRouter();
   const [startingModuleId, setStartingModuleId] = useState<string | null>(null);
+  const isAugust2026 = year === 2026 && month === 8;
 
   function startPractice(e: MouseEvent<HTMLButtonElement>, moduleId: string) {
     e.preventDefault();
@@ -54,12 +55,18 @@ export function TestCard({ title, year, month, section, version, isFree, modules
   const isStarting = startingModuleId !== null;
 
   return (
-    <div className="bg-white border border-gray-200 rounded-2xl p-4 sm:p-5 hover:border-[#7c3aed]/40 transition-colors">
+    <div
+      className={`rounded-2xl p-4 sm:p-5 transition-colors ${
+        isAugust2026
+          ? "bg-[#fbf6e4] border-2 border-[#c9a227] hover:border-[#a67c00]"
+          : "bg-white border border-gray-200 hover:border-[#7c3aed]/40"
+      }`}
+    >
       {/* Header */}
       <div className="flex items-start justify-between gap-2 mb-3">
         <div className="flex items-start gap-2 min-w-0 flex-1">
           <svg
-            className="w-4 h-4 text-[#7c3aed] flex-shrink-0 mt-0.5"
+            className={`w-4 h-4 flex-shrink-0 mt-0.5 ${isAugust2026 ? "text-[#b8860b]" : "text-[#7c3aed]"}`}
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -82,11 +89,18 @@ export function TestCard({ title, year, month, section, version, isFree, modules
             )}
           </div>
         </div>
-        {isFree && (
-          <span className="text-xs px-2 py-0.5 rounded-full bg-green-100 text-green-600 font-medium flex-shrink-0">
-            Free
-          </span>
-        )}
+        <div className="flex items-center gap-1.5 flex-shrink-0">
+          {isAugust2026 && (
+            <span className="text-sm px-2.5 py-0.5 rounded-full bg-[#c9a227] text-white font-semibold leading-none">
+              NEW
+            </span>
+          )}
+          {isFree && (
+            <span className="text-xs px-2 py-0.5 rounded-full bg-green-100 text-green-600 font-medium leading-none">
+              Free
+            </span>
+          )}
+        </div>
       </div>
 
       {/* Meta */}
@@ -113,7 +127,7 @@ export function TestCard({ title, year, month, section, version, isFree, modules
           </svg>
           {totalQuestions} questions
         </span>
-        <span className="text-[#7c3aed] font-medium">
+        <span className={`font-medium ${isAugust2026 ? "text-[#a16207]" : "text-[#7c3aed]"}`}>
           {MONTH_NAMES[month]} {year}
         </span>
       </div>
@@ -143,7 +157,11 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                 <div className="flex items-center gap-2 flex-shrink-0">
                   <Link
                     href={`/review/${attempt.id}`}
-                    className="px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg border-2 border-[#7c3aed] text-[#7c3aed] hover:bg-[#7c3aed] hover:text-white transition-colors whitespace-nowrap"
+                    className={`px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg border-2 transition-colors whitespace-nowrap ${
+                      isAugust2026
+                        ? "border-[#b8860b] text-[#b8860b] hover:bg-[#b8860b] hover:text-white"
+                        : "border-[#7c3aed] text-[#7c3aed] hover:bg-[#7c3aed] hover:text-white"
+                    }`}
                   >
                     REVIEW
                   </Link>
@@ -182,7 +200,11 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                   onClick={(e) => startPractice(e, mod.id)}
                   disabled={isStarting || mod._count.questions === 0}
                   aria-busy={thisStarting}
-                  className="flex-shrink-0 px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-40 disabled:cursor-not-allowed whitespace-nowrap"
+                  className={`flex-shrink-0 px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg text-white transition-colors disabled:opacity-40 disabled:cursor-not-allowed whitespace-nowrap ${
+                    isAugust2026
+                      ? "bg-[#b8860b] hover:bg-[#9a7209]"
+                      : "bg-[#7c3aed] hover:bg-[#6d28d9]"
+                  }`}
                 >
                   {mod._count.questions === 0 ? (
                     "COMING SOON"

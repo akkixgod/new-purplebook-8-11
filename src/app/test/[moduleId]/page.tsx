@@ -730,7 +730,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
           {/* Question number + mark for review */}
           <div className="flex items-center gap-2 mb-5">
             <span className="w-8 h-8 rounded flex items-center justify-center bg-gray-900 text-white text-sm font-bold flex-shrink-0">
-              {current + 1}
+              {q.order}
             </span>
             <button
               type="button"
@@ -944,7 +944,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h4v4H4V6zm6 0h4v4h-4V6zm6 0h4v4h-4V6zM4 12h4v4H4v-4zm6 0h4v4h-4v-4zm6 0h4v4h-4v-4zM4 18h4v4H4v-4zm6 0h4v4h-4v-4zm6 0h4v4h-4v-4z" />
           </svg>
           <span>
-            Question {current + 1} of {questions.length}
+            Question {q.order} of {questions[questions.length - 1]?.order ?? questions.length}
           </span>
           <svg
             className={`w-3.5 h-3.5 text-gray-400 transition-transform ${showQuestionGrid ? "rotate-180" : ""}`}

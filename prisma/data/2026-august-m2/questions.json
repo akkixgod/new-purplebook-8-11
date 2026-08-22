@@ -1,0 +1,303 @@
+{
+  "ENGLISH": {
+    "2": {
+      "1": {
+        "stimulus": "While the archival findings of historian Evelyn Vance were initially celebrated for their apparent thoroughness, subsequent historiographical analysis revealed that her evidentiary framework was entirely ______: Vance had selectively incorporated only those administrative correspondences that corroborated her thesis while systematically omitting dozens of contradictory municipal reports.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "tendentious",
+          "B": "pellucid",
+          "C": "inchoate",
+          "D": "ubiquitous"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The philosophical treatises of the fourth-century logician were long considered hopelessly ______, dense with self-referential neologisms and obscure dialectical detours that resisted standard methods of exegesis. Recent scholarship, however, has demonstrated that these stylistic eccentricities were deliberate mnemonic devices designed for initiated students.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "lucid",
+          "B": "inscrutable",
+          "C": "perfunctory",
+          "D": "ephemeral"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "Biochemists developing synthetic enzymes must overcome the phenomenon of catalytic promiscuity; an artificial catalyst that binds indiscriminately to non-target substrates will inevitably ______ the precise molecular pathways necessary for metabolic equilibrium.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "vitiate",
+          "B": "forestall",
+          "C": "substantiate",
+          "D": "buttress"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "In her critical assessment of late-nineteenth-century realist fiction, scholar Mireille Haddon argues that authors of the period did not view photographic verisimilitude as an end in itself; rather, they regarded the exhaustive enumeration of domestic objects as a ______ tool intended to reveal the invisible socio-economic pressures governing everyday domestic life.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "superfluous",
+          "B": "hermetic",
+          "C": "heuristic",
+          "D": "dogmatic"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "The following text is adapted from Virginia Woolf's 1927 novel To the Lighthouse. Lily Briscoe is attempting to capture a scene in a painting.\n\nShe could see it all so clearly, so distinctly, when she was not hurried; the color was there, the balance was there, and the mass was right. <u>Yet the moment she took her brush and approached the canvas, a terrible levelling force intervened, reducing the luminous clarity of the inner vision to an awkward and unresponsive array of pigment and line.</u> Between the conceived perfection and the executed form lay an insurmountable chasm that left her standing baffled before her own easel, conscious of a profound discrepancy between imagination and achievement.",
+        "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It dramatizes the sudden emergence of external interruptions that divert the painter's attention.",
+          "B": "It illustrates the acute conflict the artist experiences when translating an idealized mental conception into a physical medium.",
+          "C": "It signifies Lily's decision to abandon her modernist artistic style in favor of conventional realism.",
+          "D": "It underscores the critical opinions of onlookers who disparage the technical execution of Lily's work."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "The following text is from Henry James's 1902 novel The Wings of the Dove. Densher is observing Kate Croy in an aristocratic drawing room.\n\nShe was magnificent, but she was formidable; she moved through the assemblage with an unswerving authority that seemed less acquired than inherited from some long lineage of political strategists. Densher felt, as he watched her effortless negotiation of social subtleties, that her brilliance was not a spontaneous effervescence of spirit, but the cold calculation of an intelligence that never for an instant relaxed its vigilance. She gave nothing away that was not intended as a purchase; her smiles were currency, and her silences were fortified positions.",
+        "text": "Based on the text, which choice best characterizes Densher's perception of Kate Croy?",
+        "choices": {
+          "A": "He views her apparent social grace as an instinctive and guileless expression of natural charm.",
+          "B": "He regards her aristocratic demeanor as an insecure attempt to mask her unfamiliarity with high society.",
+          "C": "He perceives her polished social conduct as an instrumental, calculated strategy designed to achieve specific objectives.",
+          "D": "He believes her reserved demeanor isolates her from potential allies within their social circle."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "In evolutionary developmental biology, the concept of genetic assimilation describes a process by which an environmentally induced phenotype becomes fixed as an inherited trait through natural selection. Biologist Conrad Waddington demonstrated this mechanism by subjecting fruit fly embryos to heat shock, which caused them to develop crossveinless wings. <u>By selectively breeding the individuals that exhibited this response over several generations, Waddington produced a line of flies that consistently developed crossveinless wings even in the complete absence of temperature stress.</u> This empirical demonstration showed that phenotypic plasticity can precede and channel subsequent evolutionary changes in the genome.",
+        "text": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It details the specific experimental procedure and outcome that substantiated Waddington's theoretical claim.",
+          "B": "It challenges earlier evolutionary models that attributed morphological changes entirely to environmental stressors.",
+          "C": "It illustrates why fruit flies are inadequate model organisms for studying genetic assimilation in vertebrate populations.",
+          "D": "It highlights an unforeseen experimental failure that forced Waddington to reconsider his hypothesis."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Text 1\nTraditional economic welfare models rely heavily on gross domestic product (GDP) per capita as a proxy for social progress. These metrics operate on the assumption that material abundance and utility maximization accurately reflect societal flourishing. By aggregating market transactions into a single monetary figure, policymakers can efficiently benchmark productivity gains and calibrate macroeconomic interventions across divergent national contexts.\n\nText 2\nEconomist Amartya Sen argues that evaluating human development purely through monetary income conflates the instruments of well-being with well-being itself. Under Sen's \"capabilities approach,\" societal progress must be evaluated based on people's substantive freedoms to achieve valuable functionings—such as literacy, physical health, and political participation. Two nations with identical GDP per capita may diverge drastically in their citizens' actual capabilities if public health infrastructure and educational access are unequally distributed.",
+        "text": "Based on the texts, how would Amartya Sen (Text 2) most likely evaluate the core assumption of the traditional welfare models described in Text 1?",
+        "choices": {
+          "A": "By asserting that market transactions are too unstable to be accurately measured by national statistical agencies",
+          "B": "By arguing that aggregating financial wealth fails to account for whether individuals possess the actual substantive opportunities to lead fulfilling lives",
+          "C": "By contending that maximizing personal utility is impossible in economies with high inflation rates",
+          "D": "By suggesting that GDP per capita is useful only when applied to agrarian, pre-industrial societies"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "Epigenetic mechanisms modulate gene expression without altering the underlying DNA nucleotide sequence. Among these, DNA methylation typically represses transcription by obstructing the binding of transcriptional machinery or recruiting chromatin-remodeling proteins. However, recent genomic mapping in mammalian neurons reveals that DNA methylation within gene bodies (intragenic regions), rather than at promoter regions, frequently correlates with elevated transcriptional activity. Neurogeneticist Dr. Aris Thorne notes that this intragenic methylation prevents aberrant transcription initiation from cryptic internal sites, thereby preserving the fidelity of full-length transcript synthesis during intensive neural signaling.",
+        "text": "Which choice best states the primary purpose of the text?",
+        "choices": {
+          "A": "To dispute the long-held scientific consensus that epigenetic modifications play any functional role in cellular differentiation",
+          "B": "To explain how intragenic DNA methylation serves an unexpectedly facilitative role in transcriptional fidelity within neurons",
+          "C": "To contrast the metabolic efficiency of neuronal transcription machinery with that of non-neuronal somatic cells",
+          "D": "To propose a new therapeutic intervention for genetic disorders caused by promoter region hypermethylation"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "In his Philosophical Investigations, Ludwig Wittgenstein introduced the \"private language argument,\" challenging the Cartesian assumption that language gains its meaning from internal, subjective mental sensations. Wittgenstein posited that for an individual to follow a rule regarding the naming of a private sensation, there must be a criterion for distinguishing between actually following the rule and merely believing one is following it. Because a solitary speaker isolated from a community of language users possesses no independent standard of correctness, the notion of a purely private language is inherently self-undermining; meaning is fundamentally grounded in communal customs and public social practice (\"forms of life\").",
+        "text": "Which choice best states the main idea of the text?",
+        "choices": {
+          "A": "Language can communicate private subjective experiences only if an individual constructs a systematic internal dictionary.",
+          "B": "Linguistic meaning cannot exist in isolation because the validation of rule-following requires public, communal practices.",
+          "C": "Cartesian epistemology provides the most logically robust framework for explaining linguistic acquisition in early childhood.",
+          "D": "Mental sensations are too ephemeral and subjective to be categorized by conventional vocabulary."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "In Arctic ecosystems, microbial methanogenesis accelerates as permafrost thaws, releasing stored organic carbon into the atmosphere as methane (CH₄). Biogeochemist Dr. Ksenia Romanova investigated the temperature sensitivity of methanogenic archaea by incubating two soil types—saturated thermokarst bog soil (representing degraded, collapsed permafrost) and intact upland mineral permafrost soil—across a thermal gradient ranging from 0°C to 20°C. Romanova hypothesized that anoxic thermokarst soils possess active microbial consortia capable of exhibiting pronounced temperature-driven increases in methane flux, whereas intact mineral permafrost soils would remain comparatively inactive.",
+        "text": "Which choice best describes data from the graph that support Dr. Romanova's hypothesis?",
+        "choices": {
+          "A": "Methane emissions in intact mineral permafrost soil remained below 20 mg CH₄/m²/day across all temperatures, whereas emissions from thermokarst bog soil increased sharply to over 90 mg CH₄/m²/day at 20°C.",
+          "B": "Thermokarst bog soil produced lower methane flux than intact permafrost soil at temperatures below 10°C.",
+          "C": "Both soil types exhibited linear decreases in methane production as the incubation temperature approached 20°C.",
+          "D": "Intact mineral permafrost soil showed an increase in methane flux that exceeded the flux of thermokarst bog soil at 15°C."
+        },
+        "imageUrl": "/mocks/2026-august-m2/figures/eng2-q11-graph.svg"
+      },
+      "12": {
+        "stimulus": "In 2020, most hydrogen was produced through steam methane reforming, which emits carbon gases. Using electricity from renewable sources to produce green hydrogen sourced from water would enable countries to reduce industrial carbon emissions, but doing so depends on countries' capacity for direct-use electricity (electricity produced and used at the same facility). Researchers estimated the amount of electricity needed in 2020 if green hydrogen had been adopted and the amount needed to meet projected green hydrogen demand in 2050. Comparison between these estimates and estimates of capacity suggests that in most countries, projected green hydrogen production would require a larger share of electricity produced on-site. One exception is ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "Taiwan, since the percentage of direct-use electricity needed to produce green hydrogen there in 2050 is the lowest of the countries listed.",
+          "B": "the Netherlands, since the percentage of direct-use electricity needed to produce green hydrogen in 2050 is expected to be the same as it was in 2020.",
+          "C": "South Africa, since the estimated electricity needed for green hydrogen production in 2050 is expected to be lower there than in any other country listed.",
+          "D": "Indonesia, since the estimated electricity needed for green hydrogen production in 2050 is expected to be the same as it was in 2020."
+        },
+        "imageUrl": "/mocks/2026-august-m2/figures/eng2-q12-table.svg"
+      },
+      "13": {
+        "stimulus": "In her foundational 1892 treatise A Voice from the South, educator and theorist Anna Julia Cooper articulated a framework that modern scholars recognize as an early formulation of intersectionality. Cooper argued that Black women occupied a distinct structural position in American society that could not be adequately addressed by civil rights organizations focused exclusively on Black men or by suffrage movements led predominantly by white women.",
+        "text": "Which quotation from A Voice from the South most directly illustrates Cooper's intersectional argument?",
+        "choices": {
+          "A": "\"The colored woman of to-day occupies a unique position in this country... She is confronted by both a woman question and a race question, and is as yet an unacknowledged factor in both.\"",
+          "B": "\"True progress must be measured by the educational advancement and moral elevation of the humblest classes in our communities.\"",
+          "C": "\"No woman can truly understand the duties of higher citizenship without a thorough grounding in classical literature and philosophy.\"",
+          "D": "\"Our institutions of higher learning must open their doors freely to all who exhibit the intellectual capacity to master advanced scientific disciplines.\""
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "When searching for atmospheric biosignatures on exoplanets, astrobiologists prioritize chemical disequilibria—the simultaneous presence of gases that would rapidly react and destroy each other unless continuously replenished by biological activity. For example, detecting methane (CH₄) in an oxygen-rich (O₂) atmosphere is considered strong evidence of life because photochemical reactions driven by stellar ultraviolet radiation break down methane into water and carbon dioxide within decades. However, planetary modeler Dr. Kevin Zahnle cautions that finding atmospheric methane alone, in the absence of abundant oxygen or ozone, cannot serve as a reliable biosignature because ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "abiotic processes, such as serpentinization and volcanic outgassing, can sustain high methane levels on lifeless rocky worlds.",
+          "B": "oxygen and methane cannot coexist in any planetary atmosphere regardless of biological activity.",
+          "C": "microbial methanogens on Earth do not release methane into the atmosphere in measurable quantities.",
+          "D": "ultraviolet radiation from stars accelerates biological photosynthesis while suppressing abiotic geologic emissions."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Phylogenomic analyses of the Asgard archaea—a group of uncultivated microbes discovered near deep-sea hydrothermal vents—have transformed evolutionary models of eukaryogenesis (the emergence of complex eukaryotic cells). Asgard genomes encode numerous \"eukaryotic signature proteins\" (ESPs) involved in membrane trafficking, ubiquitin-mediated protein degradation, and cytoskeletal dynamics, functions previously thought to be exclusive to eukaryotes. Evolutionary biologist Dr. Thijs Ettema argues that these genomic discoveries support the \"two-domain\" tree of life, in which eukaryotes did not branch off as an independent third lineage alongside Archaea and Bacteria, but rather ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "evolved from an ancient bacterium that lacked any cytoskeletal or membrane-trafficking proteins.",
+          "B": "originated directly from within the archaeal domain through an endosymbiotic merger between an Asgard-related archaeon and an alphaproteobacterium.",
+          "C": "represent the ancestral lineage from which all primitive archaeal and bacterial clades subsequently descended.",
+          "D": "developed their eukaryotic signature proteins through entirely abiotic geochemical reactions occurring in hydrothermal vents."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Economist George Akerlof demonstrated that in markets characterized by asymmetric information—where sellers know the true quality of a good but buyers cannot independently verify it prior to purchase—adverse selection can cause market unraveling. Because risk-averse buyers will only pay an average price reflecting expected market quality, owners of high-quality goods will refuse to sell at that discounted rate and will withdraw from the market. Consequently, the proportion of low-quality goods increases, driving buyer valuations down further. Akerlof concluded that without external signaling mechanisms, such as third-party certifications or binding warranties, ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "market equilibrium will naturally stabilize at a price that satisfies both buyers and sellers of premium goods.",
+          "B": "asymmetric information will exclusively harm sellers of low-quality products while benefiting premium retailers.",
+          "C": "the market may degrade until only substandard goods are traded, or collapse entirely despite mutual gains from trade.",
+          "D": "buyers will eventually obtain complete technical knowledge of all products through repeat purchases."
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Neither the initial geochemical surveys conducted along the volcanic rift zone nor the subsequently compiled sediment core data ______ sufficient evidence to substantiate the hypothesis that hydrothermal vents operated continuously during the late Pleistocene epoch.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "provides",
+          "B": "have provided",
+          "C": "is providing",
+          "D": "has provided"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "By extracting and sequencing ancient environmental DNA preserved within Greenland's Kap København Formation, ______ a two-million-year-old subarctic ecosystem inhabited by mastodons, poplar trees, and Atlantic horseshoe crabs.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "a detailed reconstruction of biodiversity was achieved by paleogeneticist Eske Willerslev and his research team, revealing",
+          "B": "paleogeneticist Eske Willerslev and his research team reconstructed",
+          "C": "the discovery of two-million-year-old biodiversity was made possible when researchers reconstructed",
+          "D": "it was possible for paleogeneticist Eske Willerslev and his research team to reconstruct"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Biochemist Jennifer Doudna, along with her French collaborator Emmanuelle ______ the CRISPR-Cas9 microbial adaptive immune system into a programmable genome-editing technology that revolutionized biomedical science.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "Charpentier, adapted",
+          "B": "Charpentier adapted",
+          "C": "Charpentier; adapted",
+          "D": "Charpentier—adapted"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "In high-pressure physics, metallic hydrogen remains one of the most elusive condensed-matter phases ______ theorists predict that at pressures exceeding 400 gigapascals, molecular hydrogen will dissociate into a dense lattice of atomic nuclei exhibiting room-temperature superconductivity.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "sought, however,",
+          "B": "sought; however,",
+          "C": "sought:",
+          "D": "sought"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "The conservation task force prioritized restoring three highly degraded wetland habitats: the salt marshes of the lower estuary, which buffer inland communities against storm ______ the inland freshwater peat bogs, which sequester vast amounts of organic carbon; and the coastal mangrove swamps, which provide nursery grounds for marine fish.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "surges;",
+          "B": "surges,",
+          "C": "surges",
+          "D": "surges—"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "During the fourteenth century, the West African empire of Mali established itself as a global epicenter of commerce and Islamic scholarship under the reign of Mansa Musa. Through ______ strategic administration of trans-Saharan trade routes in gold and salt, the imperial capital at Niani achieved unprecedented wealth.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "it's",
+          "B": "their",
+          "C": "its",
+          "D": "they're"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "Early neurobiologists theorized that the adult mammalian central nervous system was entirely post-mitotic and incapable of generating new functional neurons. ______ in the late 1990s, researchers utilizing bromodeoxyuridine (BrdU) pulse-chase labeling demonstrated active adult neurogenesis within the subgranular zone of the human dentate gyrus.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Consequently,",
+          "B": "However,",
+          "C": "Furthermore,",
+          "D": "In other words,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "Standard silicon solar cells are physically constrained by the Shockley-Queisser limit, which caps the maximum theoretical energy conversion efficiency of a single p-n junction at approximately 33%. ______ to bypass this thermodynamic constraint, photovoltaic engineers are fabricating tandem multi-junction cells that stack semiconductor layers with different bandgaps to absorb a broader spectrum of solar radiation.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Specifically,",
+          "B": "In contrast,",
+          "C": "Thus,",
+          "D": "Nonetheless,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Dendrochronology uses the annual growth rings of long-lived trees to construct multi-millennial climate chronologies.\n• Bristlecone pines (Pinus longaeva) in California's White Mountains can live for over 4,800 years.\n• Sub-fossilized bog oaks in Ireland and Germany provide overlapping tree-ring sequences spanning over 10,000 years.\n• Dendrochronological calibration revealed that raw radiocarbon (¹⁴C) dating systematically underestimated archaeological ages due to past fluctuations in atmospheric carbon-14 concentrations.\n• Tree-ring calibration curves (such as IntCal20) are now indispensable for establishing accurate absolute dates in archaeology.",
+        "text": "The student wants to explain how dendrochronology improved the precision of radiocarbon dating. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "By providing continuous multi-millennial tree-ring sequences, dendrochronology enabled researchers to calibrate radiocarbon dates and correct for historical fluctuations in atmospheric ¹⁴C levels.",
+          "B": "Bristlecone pines in California can live for over 4,800 years, making them among the oldest living individual organisms on Earth.",
+          "C": "Radiocarbon dating systematically underestimated the ages of ancient archaeological artifacts found in Ireland and Germany.",
+          "D": "Tree-ring sequences from bog oaks and bristlecone pines have allowed scientists to construct climate chronologies spanning over 10,000 years."
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The Antikythera mechanism is an ancient Greek hand-powered mechanical device discovered in a shipwreck in 1901.\n• Constructed around the late 2nd or early 1st century BCE, it is widely regarded as the world's oldest known analogue computer.\n• It used a complex differential gear train comprising over thirty bronze gears to predict astronomical positions and eclipses.\n• It tracked the Saros cycle (a 223-lunar-month eclipse prediction cycle) and the Metonic calendar cycle.\n• It also included an indicator display showing the four-year cycle of the ancient Panhellenic athletic games (including the Olympic Games).",
+        "text": "The student wants to emphasize the astronomical predictive capabilities of the Antikythera mechanism. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Recovered from a shipwreck in 1901, the Antikythera mechanism was constructed around the late 2nd or early 1st century BCE.",
+          "B": "Using a complex system of over thirty bronze gears, the Antikythera mechanism could accurately predict celestial positions, eclipses, and lunar cycles.",
+          "C": "In addition to astronomical tracking, the mechanical device featured an indicator display for the four-year Panhellenic Olympic cycle.",
+          "D": "Regarded as the world's oldest analogue computer, the ancient Greek device was fabricated with a differential gear train."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Physicist Chien-Shiung Wu designed the \"Wu experiment\" in 1956 to test the law of conservation of parity in subatomic physics.\n• Parity conservation postulated that physical processes should behave identically to their mirror images (spatial inversion symmetry).\n• Wu aligned the nuclear spins of cobalt-60 atoms at near-absolute zero temperatures using a strong magnetic field.\n• She observed that beta particles were emitted preferentially in the direction opposite to the nuclear spin.\n• This directional asymmetry proved that parity is violated in weak nuclear interactions, overturning a fundamental axiom of theoretical physics.",
+        "text": "The student wants to emphasize the scientific significance of Wu's experimental result. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "By aligning cobalt-60 atoms at cryogenic temperatures in 1956, physicist Chien-Shiung Wu conducted an experimental test of weak nuclear interactions.",
+          "B": "Theoretical physicists long assumed that physical processes and their mirror images were symmetrical under the law of parity conservation.",
+          "C": "Wu's discovery that beta decay exhibited directional asymmetry proved that parity conservation is violated in weak interactions, overturning a fundamental physical principle.",
+          "D": "In the 1956 Wu experiment, a magnetic field was utilized to orient the nuclear spins of cobalt-60 atoms."
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}
