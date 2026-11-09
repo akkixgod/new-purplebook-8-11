@@ -3,6 +3,7 @@
 import { useEffect, useState, use } from "react";
 import Link from "next/link";
 import { readAttemptCache } from "@/lib/attempt-cache";
+import { textToHtml } from "@/lib/text-to-html";
 
 interface AnswerRow {
   id: string;
@@ -14,6 +15,7 @@ interface AnswerRow {
 interface QuestionRow {
   id: string;
   order: number;
+  stimulus?: string | null;
   text: string;
   imageUrl: string | null;
   choices: string;
@@ -199,8 +201,13 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
                     {i + 1}
                   </div>
 
-                  {/* Question text */}
+                  {/* Passage preview + question prompt */}
                   <div className="flex-1 min-w-0">
+                    {q.stimulus && (
+                      <p className="text-xs text-gray-500 leading-relaxed line-clamp-2 mb-1">
+                        {q.stimulus.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()}
+                      </p>
+                    )}
                     <p className="text-sm text-gray-900 leading-relaxed line-clamp-2">
                       {q.text}
                     </p>
@@ -256,12 +263,27 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
 
                 {/* Expanded detail */}
                 {isExpanded && (
-                  <div className="border-t border-gray-100 p-4 bg-gray-50/50">
-                    <p className="text-sm font-medium text-gray-900 mb-3">{q.text}</p>
+                  <div className="border-t border-gray-100 p-4 bg-gray-50/50 space-y-4">
+                    {q.stimulus && (
+                      <div className="rounded-lg border border-gray-200 bg-white p-4">
+                        <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-gray-400">
+                          Passage
+                        </p>
+                        <div
+                          className="text-sm leading-7 text-gray-800"
+                          dangerouslySetInnerHTML={{ __html: textToHtml(q.stimulus) }}
+                        />
+                      </div>
+                    )}
                     {q.imageUrl && (
                       // eslint-disable-next-line @next/next/no-img-element
-                      <img src={q.imageUrl} alt="" className="mb-3 rounded-lg max-w-full border border-gray-200" />
+                      <img
+                        src={q.imageUrl}
+                        alt="Figure"
+                        className="rounded-lg max-w-full border border-gray-200"
+                      />
                     )}
+                    <p className="text-sm font-medium text-gray-900">{q.text}</p>
                     <div className="space-y-2">
                       {choices.gridIn ? (
                         <div className="text-sm text-gray-700">
@@ -294,7 +316,7 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
                       )}
                     </div>
                     {q.explanation && (
-                      <div className="mt-3 p-3 rounded-lg bg-blue-50 border border-blue-100">
+                      <div className="mt-1 p-3 rounded-lg bg-blue-50 border border-blue-100">
                         <p className="text-xs font-semibold text-blue-600 mb-1">Explanation</p>
                         <p className="text-xs text-gray-600">{q.explanation}</p>
                       </div>
