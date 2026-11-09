@@ -7,7 +7,7 @@ import { HeroPromoBanner } from "@/components/HeroPromoBanner";
 import { TestCard } from "@/components/TestCard";
 import { buildTestGroups, getTestGroup, sortTestsForDisplay } from "@/lib/test-groups";
 import { ACCOUNT_ATTEMPTS_SYNCED_EVENT, syncAccountAttempts } from "@/lib/sync-account-attempts";
-import { mergeAttemptMapWithLocal } from "@/lib/attempt-cache";
+import { pruneLocalHistoryToServer } from "@/lib/attempt-cache";
 
 interface ModuleInfo {
   id: string;
@@ -75,20 +75,20 @@ export default function HomePage() {
       const data = await res.json();
       if (signal.aborted) return;
       setTests(data.tests ?? []);
-      // Replace map only after a successful response so a mid-session refresh
-      // does not flash empty START PRACTICE while authenticated.
-      // Merge local durable index so ephemeral Vercel isolates do not wipe REVIEW.
-      const serverMap = (data.attemptMap ?? {}) as Record<
-        string,
-        AttemptInfo
-      >;
+      // Server attemptMap is the only REVIEW source of truth (Turso).
+      const serverMap = (data.attemptMap ?? {}) as Record<string, AttemptInfo>;
       const canonicalId =
         typeof data.canonicalUserId === "string" && data.canonicalUserId
           ? data.canonicalUserId
           : userId;
-      setAttemptMap(mergeAttemptMapWithLocal(canonicalId, serverMap));
+      if (!data.attemptMapError) {
+        pruneLocalHistoryToServer(canonicalId, serverMap);
+        setAttemptMap(serverMap);
+      }
       if (typeof data.attemptMapError === "string" && data.attemptMapError) {
         setHistoryError(data.attemptMapError);
+      } else {
+        setHistoryError(null);
       }
       setSelectedGroup(null);
     } catch (err) {
@@ -162,6 +162,11 @@ export default function HomePage() {
 
       {/* Content area */}
       <div className="max-w-7xl mx-auto px-4 pb-12">
+        {historyError && status === "authenticated" && (
+          <div className="mb-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+            Could not refresh your practice history. Retrying… ({historyError})
+          </div>
+        )}
         <div className="flex flex-col gap-4 md:flex-row md:gap-6">
           {/* Mobile: horizontal scrollable group pills */}
           <aside className="md:hidden -mx-4 px-4">

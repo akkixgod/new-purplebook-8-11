@@ -92,24 +92,61 @@ export function readLocalHistory(
   }
 }
 
-/** Server attemptMap wins; local fills modules the server forgot (ephemeral isolate miss). */
-export function mergeAttemptMapWithLocal(
+/**
+ * With Turso, server attemptMap is the only source of REVIEW truth.
+ * Keep local history only as a write-side cache; prune it to match the server.
+ */
+export function pruneLocalHistoryToServer(
   userId: string | null,
   serverMap: Record<string, { id: string; score: number; totalQuestions: number }>
-): Record<string, { id: string; score: number; totalQuestions: number }> {
-  if (!userId) return serverMap;
-  const local = readLocalHistory(userId);
-  const out = { ...serverMap };
-  for (const [moduleId, entry] of Object.entries(local)) {
-    if (!out[moduleId] && entry?.id) {
-      out[moduleId] = {
-        id: entry.id,
-        score: entry.score,
-        totalQuestions: entry.totalQuestions,
+): void {
+  if (!userId) return;
+  try {
+    const next: Record<string, LocalHistoryEntry> = {};
+    for (const [moduleId, server] of Object.entries(serverMap)) {
+      next[moduleId] = {
+        id: server.id,
+        score: server.score,
+        totalQuestions: server.totalQuestions,
+        moduleId,
+        savedAt: Date.now(),
       };
     }
+    localStorage.setItem(historyKey(userId), JSON.stringify(next));
+  } catch {
+    /* quota / private mode */
   }
-  return out;
+}
+
+export function forgetLocalAttempt(
+  userId: string | null,
+  opts: { moduleId?: string; attemptId?: string }
+): void {
+  if (!userId) return;
+  try {
+    const prev = readLocalHistory(userId);
+    let changed = false;
+    for (const [moduleId, entry] of Object.entries(prev)) {
+      if (
+        (opts.moduleId && moduleId === opts.moduleId) ||
+        (opts.attemptId && entry.id === opts.attemptId)
+      ) {
+        delete prev[moduleId];
+        changed = true;
+      }
+    }
+    if (changed) localStorage.setItem(historyKey(userId), JSON.stringify(prev));
+  } catch {
+    /* ignore */
+  }
+}
+
+/** @deprecated Prefer server attemptMap only — kept for type compatibility during cleanup. */
+export function mergeAttemptMapWithLocal(
+  _userId: string | null,
+  serverMap: Record<string, { id: string; score: number; totalQuestions: number }>
+): Record<string, { id: string; score: number; totalQuestions: number }> {
+  return serverMap;
 }
 
 export interface PendingSubmission {

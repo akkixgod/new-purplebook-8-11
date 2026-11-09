@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import { SessionProvider, useSession } from "next-auth/react";
+import { listAllPendingSubmissions } from "@/lib/attempt-cache";
 import { syncAccountAttempts } from "@/lib/sync-account-attempts";
 
 function AccountAttemptSync() {
@@ -14,13 +15,36 @@ function AccountAttemptSync() {
       ranForUser.current = null;
       return;
     }
-    if (ranForUser.current === userId) return;
-    ranForUser.current = userId;
-    void syncAccountAttempts().then((r) => {
-      if (r.claimed || r.flushed) {
-        console.info("[AccountAttemptSync]", r);
-      }
-    });
+
+    const run = () => {
+      void syncAccountAttempts().then((r) => {
+        if (r.claimed || r.flushed) {
+          console.info("[AccountAttemptSync]", r);
+        }
+      });
+    };
+
+    // Always sync once per signed-in user per tab mount.
+    if (ranForUser.current !== userId) {
+      ranForUser.current = userId;
+      run();
+    }
+
+    // Keep flushing while pending submits remain (network recovery).
+    const onVisible = () => {
+      if (document.visibilityState !== "visible") return;
+      if (listAllPendingSubmissions().length > 0) run();
+    };
+    document.addEventListener("visibilitychange", onVisible);
+
+    const interval = window.setInterval(() => {
+      if (listAllPendingSubmissions().length > 0) run();
+    }, 20_000);
+
+    return () => {
+      document.removeEventListener("visibilitychange", onVisible);
+      window.clearInterval(interval);
+    };
   }, [status, userId]);
 
   return null;

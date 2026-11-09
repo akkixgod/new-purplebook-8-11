@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { useSession } from "next-auth/react";
 import { useState, type MouseEvent } from "react";
 
 interface ModuleInfo {
@@ -36,6 +37,7 @@ const MONTH_NAMES = [
 
 export function TestCard({ title, year, month, section, version, isFree, modules, attemptMap }: Props) {
   const router = useRouter();
+  const { status } = useSession();
   const [startingModuleId, setStartingModuleId] = useState<string | null>(null);
   const isAugust2026 = year === 2026 && month === 8;
 
@@ -43,10 +45,18 @@ export function TestCard({ title, year, month, section, version, isFree, modules
     e.preventDefault();
     e.stopPropagation();
     if (startingModuleId) return;
+
+    // Saves require a signed-in session — block practice start until authenticated.
+    if (status !== "authenticated") {
+      const attemptId = crypto.randomUUID();
+      const callbackUrl = `/test/${moduleId}?attemptId=${attemptId}`;
+      router.push(`/auth/signin?callbackUrl=${encodeURIComponent(callbackUrl)}`);
+      return;
+    }
+
     setStartingModuleId(moduleId);
     const attemptId = crypto.randomUUID();
     // Keep spinner until navigation unmounts the card — do not clear immediately.
-    // Submitting requires sign-in so the Attempt row is bound to the account in the database.
     router.push(`/test/${moduleId}?attemptId=${attemptId}`);
   }
 
@@ -168,7 +178,7 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                   <button
                     type="button"
                     onClick={(e) => startPractice(e, mod.id)}
-                    disabled={isStarting || mod._count.questions === 0}
+                    disabled={isStarting || mod._count.questions === 0 || status === "loading"}
                     className="w-8 h-8 flex items-center justify-center rounded-lg border border-gray-200 hover:bg-gray-100 transition-colors disabled:opacity-50"
                     title="Retake"
                   >
@@ -198,7 +208,7 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                 <button
                   type="button"
                   onClick={(e) => startPractice(e, mod.id)}
-                  disabled={isStarting || mod._count.questions === 0}
+                  disabled={isStarting || mod._count.questions === 0 || status === "loading"}
                   aria-busy={thisStarting}
                   className={`flex-shrink-0 px-3 sm:px-4 py-1.5 text-xs font-semibold rounded-lg text-white transition-colors disabled:opacity-40 disabled:cursor-not-allowed whitespace-nowrap ${
                     isAugust2026
@@ -221,6 +231,8 @@ export function TestCard({ title, year, month, section, version, isFree, modules
                       </svg>
                       Starting…
                     </span>
+                  ) : status !== "authenticated" ? (
+                    "SIGN IN TO START"
                   ) : (
                     "START PRACTICE"
                   )}

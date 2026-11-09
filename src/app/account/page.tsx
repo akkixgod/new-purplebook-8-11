@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useSession } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import { Header } from "@/components/Header";
+import { forgetLocalAttempt } from "@/lib/attempt-cache";
 import { syncAccountAttempts } from "@/lib/sync-account-attempts";
 
 interface HistoryItem {
@@ -117,6 +118,7 @@ export default function AccountPage() {
         setError(data.error ?? "Could not delete attempt");
         return;
       }
+      forgetLocalAttempt(userId, { attemptId: id });
       setAttempts((prev) => prev.filter((a) => a.id !== id));
     } catch {
       setError("Could not delete attempt");

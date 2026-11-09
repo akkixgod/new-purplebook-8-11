@@ -15,6 +15,7 @@ import {
   cacheAttempt,
   savePendingSubmission,
   clearPendingSubmission,
+  readPendingSubmission,
   rememberLocalAttempt,
   type CachedAttempt,
 } from "@/lib/attempt-cache";
@@ -88,6 +89,8 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   const passageRef = useRef<HTMLDivElement>(null);
   const handleSubmitRef = useRef<() => void>(() => {});
   const currentQuestionIdRef = useRef<string>("");
+  const deferredSubmitRef = useRef(false);
+  const pendingRetryDoneRef = useRef(false);
 
   const openCalculator = useCallback(() => {
     setDesmosMounted(true);
@@ -103,7 +106,17 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     setShowDesmos((v) => !v);
   }, []);
 
+  // Practice saves require a signed-in account — send guests to sign-in first.
   useEffect(() => {
+    if (authStatus === "loading") return;
+    if (authStatus === "unauthenticated") {
+      const callbackUrl = `/test/${moduleId}?attemptId=${attemptId || crypto.randomUUID()}`;
+      router.replace(`/auth/signin?callbackUrl=${encodeURIComponent(callbackUrl)}`);
+    }
+  }, [authStatus, moduleId, attemptId, router]);
+
+  useEffect(() => {
+    if (authStatus !== "authenticated") return;
     fetch(`/api/modules/${moduleId}/questions`)
       .then((r) => r.json())
       .then((data: ModuleData) => {
@@ -131,7 +144,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         }
         setLoading(false);
       });
-  }, [moduleId, attemptId]);
+  }, [moduleId, attemptId, authStatus]);
 
   // Keep an up-to-date ref for keyboard handlers (Alt+K) without writing to refs during render.
   useEffect(() => {
@@ -156,12 +169,23 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     if (submitting || !moduleData || !attemptId) return;
     setSubmitError(null);
 
-    if (authStatus !== "authenticated") {
-      setSaveStatus("error");
-      setSubmitError("Sign in required to save your practice attempt to your account.");
+    // Never treat session hydration as signed-out — queue until ready.
+    if (authStatus === "loading") {
+      deferredSubmitRef.current = true;
+      setSaveStatus("saving");
+      setSubmitError("Confirming your session before saving…");
       return;
     }
 
+    if (authStatus !== "authenticated") {
+      setSaveStatus("error");
+      setSubmitError("Sign in required to save your practice attempt to your account.");
+      const callbackUrl = `/test/${moduleId}?attemptId=${attemptId}`;
+      router.push(`/auth/signin?callbackUrl=${encodeURIComponent(callbackUrl)}`);
+      return;
+    }
+
+    deferredSubmitRef.current = false;
     setSubmitting(true);
     setSaveStatus("saving");
 
@@ -356,6 +380,24 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
   useEffect(() => { handleSubmitRef.current = handleSubmit; }, [handleSubmit]);
 
+  // Run deferred timer/manual submit once session becomes authenticated.
+  useEffect(() => {
+    if (authStatus !== "authenticated") return;
+    if (!deferredSubmitRef.current) return;
+    deferredSubmitRef.current = false;
+    void handleSubmit();
+  }, [authStatus, handleSubmit]);
+
+  // Auto-retry a buffered failed submit for this attemptId after sign-in / reload.
+  useEffect(() => {
+    if (authStatus !== "authenticated" || !attemptId || !moduleData) return;
+    if (pendingRetryDoneRef.current || submitting || saveStatus === "saved") return;
+    const pending = readPendingSubmission(attemptId);
+    if (!pending) return;
+    pendingRetryDoneRef.current = true;
+    void handleSubmit();
+  }, [authStatus, attemptId, moduleData, submitting, saveStatus, handleSubmit]);
+
   useEffect(() => {
     if (saveStatus !== "error" && saveStatus !== "saving") return;
     const onBeforeUnload = (e: BeforeUnloadEvent) => {
@@ -365,6 +407,33 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     window.addEventListener("beforeunload", onBeforeUnload);
     return () => window.removeEventListener("beforeunload", onBeforeUnload);
   }, [saveStatus]);
+
+  // Best-effort keepalive flush if the user leaves while a pending submit exists.
+  useEffect(() => {
+    const onPageHide = () => {
+      if (!attemptId || authStatus !== "authenticated") return;
+      const pending = readPendingSubmission(attemptId);
+      if (!pending) return;
+      try {
+        void fetch("/api/attempts/complete", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          credentials: "include",
+          keepalive: true,
+          body: JSON.stringify({
+            attemptId: pending.attemptId,
+            moduleId: pending.moduleId,
+            answers: pending.answers,
+            timeSpent: pending.timeSpent,
+          }),
+        });
+      } catch {
+        /* pending remains for next visit */
+      }
+    };
+    window.addEventListener("pagehide", onPageHide);
+    return () => window.removeEventListener("pagehide", onPageHide);
+  }, [attemptId, authStatus]);
 
   useEffect(() => {
     if (timeLeft === null || paused) return;
@@ -480,7 +549,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     [crossedOut, toggleCrossedLetter]
   );
 
-  if (loading || !moduleData) {
+  if (loading || !moduleData || authStatus !== "authenticated") {
     return (
       <div className="min-h-screen flex items-center justify-center bg-white">
         <div className="w-8 h-8 border-2 border-[#7c3aed] border-t-transparent rounded-full animate-spin" />
