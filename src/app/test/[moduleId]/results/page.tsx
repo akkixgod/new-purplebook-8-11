@@ -3,7 +3,6 @@
 import { useEffect, useState, use } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
-import { readAttemptCache } from "@/lib/attempt-cache";
 import { scaleSectionScore } from "@/lib/sat-scale";
 
 interface AttemptData {
@@ -28,9 +27,8 @@ async function loadAttempt(attemptId: string): Promise<AttemptData> {
     return json;
   }
 
-  const cached = readAttemptCache(attemptId);
-  if (cached?.module?.test) {
-    return cached;
+  if (r.status === 401) {
+    throw new Error("Sign in to view these results.");
   }
 
   throw new Error(json.error || `Failed to load results (${r.status})`);

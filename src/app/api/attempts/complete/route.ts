@@ -25,7 +25,8 @@ export async function POST(req: NextRequest) {
         return jsonError("Sign in required to save your practice attempt.", 401);
       }
       console.error("[attempts/complete] resolveSessionUserId failed", error);
-      return jsonError("Session expired. Sign in again, then retry submission.", 401);
+      // Retryable — do not stop client retry loop as if the session were gone.
+      return jsonError("Could not resolve your account. Retry in a moment.", 503);
     }
 
     const body = await req.json().catch(() => null);
@@ -143,6 +144,31 @@ export async function POST(req: NextRequest) {
           }
 
           if (existing.finishedAt) {
+            const storedCount = await tx.answer.count({ where: { attemptId } });
+            // Repair empty finished attempts when a richer payload arrives.
+            if (storedCount === 0 && answerRows.length > 0) {
+              await tx.answer.createMany({
+                data: answerRows.map((row) => ({ ...row, attemptId })),
+              });
+              const repaired = await tx.attempt.update({
+                where: { id: attemptId },
+                data: {
+                  userId,
+                  claimToken: null,
+                  score,
+                  totalQuestions: total,
+                  timeSpent: timeSpentVal ?? existing.timeSpent,
+                },
+              });
+              return {
+                id: repaired.id,
+                userId: repaired.userId,
+                startedAt: repaired.startedAt,
+                finishedAt: repaired.finishedAt,
+                timeSpent: repaired.timeSpent,
+                idempotent: false,
+              };
+            }
             return {
               id: existing.id,
               userId: existing.userId,
@@ -297,9 +323,13 @@ export async function POST(req: NextRequest) {
   } catch (error) {
     console.error("[attempts/complete] unexpected error", error);
     const message =
-      error instanceof Error && /Unable to resolve session user/i.test(error.message)
-        ? "Session expired. Sign in again, then retry submission."
+      error instanceof Error && /Unable to (resolve|rebind) session/i.test(error.message)
+        ? "Could not resolve your account. Retry in a moment."
         : "Failed to submit attempt";
-    return jsonError(message, 500);
+    const status =
+      error instanceof Error && /Unable to (resolve|rebind) session/i.test(error.message)
+        ? 503
+        : 500;
+    return jsonError(message, status);
   }
 }

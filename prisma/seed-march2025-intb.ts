@@ -1,4 +1,5 @@
 import { PrismaClient } from "@prisma/client";
+import { deleteTestForReseed } from "./seed-guard";
 import fs from "fs";
 import path from "path";
 
@@ -35,7 +36,7 @@ async function seedSection(
     },
   });
   if (existing) {
-    await prisma.test.delete({ where: { id: existing.id } });
+    await deleteTestForReseed(prisma, existing.id );
     console.log(`Removed existing ${section} test`);
   }
 
@@ -120,7 +121,7 @@ async function main() {
   for (const t of empties) {
     const total = t.modules.reduce((s, m) => s + m._count.questions, 0);
     if (total === 0) {
-      await prisma.test.delete({ where: { id: t.id } });
+      await deleteTestForReseed(prisma, t.id );
       console.log(`Removed empty placeholder ${t.section} ${t.version}`);
     }
   }

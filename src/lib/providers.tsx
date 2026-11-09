@@ -35,7 +35,11 @@ function AccountAttemptSync() {
       if (document.visibilityState !== "visible") return;
       if (listAllPendingSubmissions().length > 0) run();
     };
+    const onOnline = () => {
+      if (listAllPendingSubmissions().length > 0) run();
+    };
     document.addEventListener("visibilitychange", onVisible);
+    window.addEventListener("online", onOnline);
 
     const interval = window.setInterval(() => {
       if (listAllPendingSubmissions().length > 0) run();
@@ -43,6 +47,7 @@ function AccountAttemptSync() {
 
     return () => {
       document.removeEventListener("visibilitychange", onVisible);
+      window.removeEventListener("online", onOnline);
       window.clearInterval(interval);
     };
   }, [status, userId]);

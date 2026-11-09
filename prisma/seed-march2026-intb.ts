@@ -1,4 +1,5 @@
 import { PrismaClient } from "@prisma/client";
+import { deleteTestForReseed } from "./seed-guard";
 import fs from "fs";
 import path from "path";
 
@@ -43,7 +44,7 @@ async function seedSection(
     },
   });
   if (existing) {
-    await prisma.test.delete({ where: { id: existing.id } });
+    await deleteTestForReseed(prisma, existing.id );
     console.log(`Removed existing ${section} test`);
   }
 

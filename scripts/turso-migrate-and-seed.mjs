@@ -1,6 +1,13 @@
 /**
  * Apply SQLite schema to Turso and import catalog from prisma/dev.db (batched).
  * Loads TURSO_* from .env.turso.local / .env.local (never prints secrets).
+ *
+ * Catalog rows use INSERT ... ON CONFLICT DO UPDATE (upsert-in-place).
+ * Never use INSERT OR REPLACE on Test/Module/Question — SQLite REPLACE deletes
+ * the old row first and FK cascade wipes Attempt/Answer history.
+ *
+ * To intentionally wipe catalog+attempts against Turso, set ALLOW_PROD_SEED_WIPE=1
+ * and use the Prisma seed scripts (which call deleteTestForReseed).
  */
 import { createClient } from "@libsql/client";
 import { readFileSync, existsSync } from "node:fs";
@@ -184,7 +191,17 @@ async function copyTable(table, columns, batchSize = 80) {
   if (!rows.length) return;
 
   const placeholders = columns.map(() => "?").join(", ");
-  const sql = `INSERT OR REPLACE INTO ${table} (${columns.join(", ")}) VALUES (${placeholders})`;
+  // Upsert in place — do NOT use INSERT OR REPLACE (cascade-deletes Attempts).
+  const updateCols = columns.filter((c) => c.replaceAll('"', "") !== "id");
+  const setClause = updateCols
+    .map((c) => {
+      const bare = c.replaceAll('"', "");
+      return `${c}=excluded.${bare}`;
+    })
+    .join(", ");
+  const sql = setClause
+    ? `INSERT INTO ${table} (${columns.join(", ")}) VALUES (${placeholders}) ON CONFLICT(id) DO UPDATE SET ${setClause}`
+    : `INSERT INTO ${table} (${columns.join(", ")}) VALUES (${placeholders}) ON CONFLICT(id) DO NOTHING`;
 
   for (let i = 0; i < rows.length; i += batchSize) {
     const chunk = rows.slice(i, i + batchSize);

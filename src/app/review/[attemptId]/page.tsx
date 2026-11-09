@@ -1,8 +1,7 @@
 "use client";
 
-import { useEffect, useState, use } from "react";
+import { useEffect, useState, use, useCallback } from "react";
 import Link from "next/link";
-import { readAttemptCache } from "@/lib/attempt-cache";
 import { textToHtml } from "@/lib/text-to-html";
 
 interface AnswerRow {
@@ -41,10 +40,21 @@ interface AttemptDetail {
 export default function ReviewPage({ params }: { params: Promise<{ attemptId: string }> }) {
   const { attemptId } = use(params);
   const [data, setData] = useState<AttemptDetail | null>(null);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const [loading, setLoading] = useState(true);
   const [expanded, setExpanded] = useState<string | null>(null);
+  const [reloadKey, setReloadKey] = useState(0);
+
+  const retry = useCallback(() => {
+    setLoadError(null);
+    setLoading(true);
+    setData(null);
+    setReloadKey((k) => k + 1);
+  }, []);
 
   useEffect(() => {
     let didRetry = false;
+    let cancelled = false;
 
     const load = async () => {
       try {
@@ -52,15 +62,13 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
           credentials: "include",
           cache: "no-store",
         });
-        const json = await r.json();
+        const json = await r.json().catch(() => ({}));
+        if (cancelled) return;
+
         if (r.ok && json.module?.test && Array.isArray(json.module?.questions)) {
           setData(json as AttemptDetail);
-          return;
-        }
-
-        const cached = readAttemptCache(attemptId);
-        if (cached?.module?.test && Array.isArray(cached.module.questions)) {
-          setData(cached as AttemptDetail);
+          setLoadError(null);
+          setLoading(false);
           return;
         }
 
@@ -69,17 +77,37 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
           await new Promise((res) => setTimeout(res, 350));
           return load();
         }
-        throw new Error(json.error || `Failed to load review (${r.status})`);
+
+        if (r.status === 401) {
+          setLoadError("Sign in to view this review.");
+          setLoading(false);
+          return;
+        }
+
+        setLoadError(
+          typeof json.error === "string"
+            ? json.error
+            : `Failed to load review (${r.status})`
+        );
+        setLoading(false);
       } catch (error: unknown) {
-        console.error("Results page error:", error);
-        setData(null);
+        console.error("Review page error:", error);
+        if (!cancelled) {
+          setLoadError(
+            error instanceof Error ? error.message : "Failed to load review."
+          );
+          setLoading(false);
+        }
       }
     };
 
     void load();
-  }, [attemptId]);
+    return () => {
+      cancelled = true;
+    };
+  }, [attemptId, reloadKey]);
 
-  if (!data) {
+  if (loading) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-white px-4">
         <div className="w-8 h-8 border-2 border-[#7c3aed] border-t-transparent rounded-full animate-spin mb-4" />
@@ -87,6 +115,38 @@ export default function ReviewPage({ params }: { params: Promise<{ attemptId: st
         <Link href="/" className="mt-4 text-sm text-[#7c3aed] hover:underline">
           Back to Home
         </Link>
+      </div>
+    );
+  }
+
+  if (loadError || !data) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center bg-white px-4">
+        <h1 className="text-xl font-bold text-gray-900 mb-2">Couldn’t load review</h1>
+        <p className="text-sm text-gray-500 mb-6 text-center max-w-md">
+          {loadError ?? "This attempt was not found on the server."}
+        </p>
+        <div className="flex gap-3">
+          <button
+            type="button"
+            onClick={retry}
+            className="px-4 py-2 text-sm font-semibold rounded-lg bg-[#7c3aed] text-white"
+          >
+            Retry
+          </button>
+          {loadError?.toLowerCase().includes("sign in") ? (
+            <Link
+              href={`/auth/signin?callbackUrl=${encodeURIComponent(`/review/${attemptId}`)}`}
+              className="px-4 py-2 text-sm font-semibold rounded-lg border border-[#7c3aed] text-[#7c3aed]"
+            >
+              Sign in
+            </Link>
+          ) : (
+            <Link href="/" className="px-4 py-2 text-sm font-semibold rounded-lg border border-gray-200 text-gray-700">
+              Back to Home
+            </Link>
+          )}
+        </div>
       </div>
     );
   }

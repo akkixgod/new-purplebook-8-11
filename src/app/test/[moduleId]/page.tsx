@@ -115,6 +115,14 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     }
   }, [authStatus, moduleId, attemptId, router]);
 
+  // Always have a client attempt UUID before answering — never silent-no-op on submit.
+  useEffect(() => {
+    if (authStatus !== "authenticated") return;
+    if (attemptId) return;
+    const minted = crypto.randomUUID();
+    router.replace(`/test/${moduleId}?attemptId=${minted}`);
+  }, [authStatus, attemptId, moduleId, router]);
+
   useEffect(() => {
     if (authStatus !== "authenticated") return;
     fetch(`/api/modules/${moduleId}/questions`)
@@ -166,8 +174,16 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
   }, [crossedOut, attemptId]);
 
   const handleSubmit = useCallback(async () => {
-    if (submitting || !moduleData || !attemptId) return;
+    if (submitting || !moduleData) return;
     setSubmitError(null);
+
+    if (!attemptId) {
+      setSaveStatus("error");
+      setSubmitError("Missing attempt id. Reloading so your answers can be saved…");
+      const minted = crypto.randomUUID();
+      router.replace(`/test/${moduleId}?attemptId=${minted}`);
+      return;
+    }
 
     // Never treat session hydration as signed-out — queue until ready.
     if (authStatus === "loading") {
@@ -197,17 +213,23 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
     }));
 
     // Draft / retry buffer only — history is always read from the database after a successful write.
-    savePendingSubmission({
+    const buffered = savePendingSubmission({
       moduleId,
       attemptId,
       answers: answerPayload,
       timeSpent,
       savedAt: Date.now(),
     });
-    localStorage.setItem(STORAGE_KEY(attemptId), JSON.stringify(answers));
+    try {
+      localStorage.setItem(STORAGE_KEY(attemptId), JSON.stringify(answers));
+    } catch {
+      /* same private/quota failure as pending buffer */
+    }
 
     const maxAttempts = 3;
-    let lastError = "Couldn't save your attempt.";
+    let lastError = buffered
+      ? "Couldn't save your attempt."
+      : "Could not buffer answers on this browser — stay on this page and retry while online.";
 
     for (let i = 0; i < maxAttempts; i++) {
       try {
@@ -238,6 +260,10 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
         if (!r.ok) {
           lastError = json?.error ?? `Submit failed (${r.status})`;
+          if (!buffered) {
+            lastError =
+              "Could not buffer answers on this browser — stay on this page and retry while online.";
+          }
           if (r.status === 401) {
             setSaveStatus("error");
             setSubmitError(
@@ -363,10 +389,15 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         setSubmitting(false);
         return;
       } catch (err) {
-        lastError =
-          err instanceof DOMException && err.name === "AbortError"
-            ? "Save timed out. Your answers are still on this device — retry saving."
-            : "Network error. Your answers are still on this device — retry saving.";
+        if (!buffered) {
+          lastError =
+            "Could not buffer answers on this browser — stay on this page and retry while online.";
+        } else {
+          lastError =
+            err instanceof DOMException && err.name === "AbortError"
+              ? "Save timed out. Your answers are still on this device — retry saving."
+              : "Network error. Your answers are still on this device — retry saving.";
+        }
         if (i < maxAttempts - 1) {
           await new Promise((res) => setTimeout(res, 400 * 2 ** i));
         }
@@ -732,7 +763,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
                 setShowQuestionGrid(false);
                 setShowReviewModal(true);
               }}
-              disabled={submitting}
+              disabled={submitting || !attemptId}
               className="px-4 py-1.5 text-xs font-semibold rounded-lg bg-[#7c3aed] hover:bg-[#6d28d9] text-white transition-colors disabled:opacity-60"
             >
               {saveStatus === "saving" ? "Saving…" : submitting ? "Submitting…" : "Submit"}
@@ -1062,7 +1093,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
               setShowQuestionGrid(false);
               setShowReviewModal(true);
             }}
-            disabled={submitting}
+            disabled={submitting || !attemptId}
             className="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg bg-green-600 text-white hover:bg-green-700 transition-colors disabled:opacity-60 flex-shrink-0"
           >
             Finish
@@ -1090,7 +1121,7 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
         open={showReviewModal}
         onClose={() => setShowReviewModal(false)}
         onConfirmSubmit={handleSubmit}
-        submitting={submitting}
+        submitting={submitting || !attemptId}
         submitError={submitError}
         moduleNumber={moduleData.number}
         questions={questions}

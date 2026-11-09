@@ -159,11 +159,13 @@ export interface PendingSubmission {
 
 const pendingKey = (attemptId: string) => `purplebook_pending_submit_${attemptId}`;
 
-export function savePendingSubmission(data: PendingSubmission): void {
+/** Returns false when localStorage is unavailable (quota / private mode). */
+export function savePendingSubmission(data: PendingSubmission): boolean {
   try {
     localStorage.setItem(pendingKey(data.attemptId), JSON.stringify(data));
+    return true;
   } catch {
-    /* quota / private mode */
+    return false;
   }
 }
 

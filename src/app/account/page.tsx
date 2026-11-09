@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useSession } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import { Header } from "@/components/Header";
-import { forgetLocalAttempt } from "@/lib/attempt-cache";
+import { forgetLocalAttempt, listAllPendingSubmissions } from "@/lib/attempt-cache";
 import { syncAccountAttempts } from "@/lib/sync-account-attempts";
 
 interface HistoryItem {
@@ -58,6 +58,9 @@ export default function AccountPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [deletingId, setDeletingId] = useState<string | null>(null);
+  const [pendingCount, setPendingCount] = useState(0);
+  const [flushing, setFlushing] = useState(false);
+  const [reloadKey, setReloadKey] = useState(0);
 
   const userId = session?.user?.id ?? null;
 
@@ -73,10 +76,12 @@ export default function AccountPage() {
     setAttempts([]);
     setLoading(true);
     setError(null);
+    setPendingCount(listAllPendingSubmissions().length);
     (async () => {
       try {
         await syncAccountAttempts();
         if (cancelled) return;
+        setPendingCount(listAllPendingSubmissions().length);
 
         const res = await fetch("/api/account/attempts", {
           credentials: "include",
@@ -90,6 +95,7 @@ export default function AccountPage() {
         if (!cancelled) {
           // Trust server history even if JWT id briefly differs from resolved DB user id.
           setAttempts(Array.isArray(data.attempts) ? data.attempts : []);
+          setPendingCount(listAllPendingSubmissions().length);
         }
       } catch {
         if (!cancelled) setError("Failed to load history");
@@ -101,7 +107,22 @@ export default function AccountPage() {
     return () => {
       cancelled = true;
     };
-  }, [status, userId, router]);
+  }, [status, userId, router, reloadKey]);
+
+  async function retryPendingFlush() {
+    if (flushing) return;
+    setFlushing(true);
+    setError(null);
+    try {
+      await syncAccountAttempts();
+      setPendingCount(listAllPendingSubmissions().length);
+      setReloadKey((k) => k + 1);
+    } catch {
+      setError("Could not retry pending saves");
+    } finally {
+      setFlushing(false);
+    }
+  }
 
   async function deleteAttempt(id: string) {
     if (deletingId) return;
@@ -148,12 +169,34 @@ export default function AccountPage() {
             </Link>
           </div>
 
+          {pendingCount > 0 ? (
+            <div className="px-5 py-3 border-b border-amber-100 bg-amber-50 flex flex-col sm:flex-row sm:items-center gap-2 justify-between">
+              <p className="text-sm text-amber-900">
+                Saving {pendingCount} attempt{pendingCount === 1 ? "" : "s"} from this device…
+              </p>
+              <button
+                type="button"
+                onClick={() => void retryPendingFlush()}
+                disabled={flushing}
+                className="text-xs font-semibold text-amber-900 underline disabled:opacity-50"
+              >
+                {flushing ? "Retrying…" : "Retry now"}
+              </button>
+            </div>
+          ) : null}
+
           {loading || status === "loading" ? (
             <div className="p-10 flex justify-center">
               <div className="w-7 h-7 border-2 border-[#7c3aed] border-t-transparent rounded-full animate-spin" />
             </div>
           ) : error ? (
             <p className="p-5 text-sm text-red-600">{error}</p>
+          ) : attempts.length === 0 && pendingCount > 0 ? (
+            <div className="p-8 text-center">
+              <p className="text-sm text-gray-600">
+                Waiting for pending saves to finish before showing history.
+              </p>
+            </div>
           ) : attempts.length === 0 ? (
             <div className="p-8 text-center">
               <p className="text-sm text-gray-600">No completed practice attempts yet.</p>

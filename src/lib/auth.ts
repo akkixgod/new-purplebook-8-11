@@ -279,23 +279,26 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
         token.id = user.id!;
         token.role = (user as { role?: string }).role ?? "user";
         if (user.email) token.email = normalizeEmail(user.email);
-      } else if (
-        trigger === "update" &&
-        typeof token.email === "string" &&
-        token.email.includes("@")
-      ) {
-        // Explicit session.update() only — avoid a DB round-trip on every request.
-        try {
-          const byEmail = await findUserByEmail(normalizeEmail(token.email));
-          if (byEmail?.id && byEmail.id !== token.id) {
-            console.info("[auth/jwt] realigning token.id to DB user", {
-              from: token.id,
-              to: byEmail.id,
-            });
-            token.id = byEmail.id;
+        token.reconciledAt = Date.now();
+      } else if (typeof token.email === "string" && token.email.includes("@")) {
+        const last =
+          typeof token.reconciledAt === "number" ? token.reconciledAt : 0;
+        const due =
+          trigger === "update" || Date.now() - last > 24 * 60 * 60 * 1000;
+        if (due) {
+          try {
+            const byEmail = await findUserByEmail(normalizeEmail(token.email));
+            if (byEmail?.id && byEmail.id !== token.id) {
+              console.info("[auth/jwt] realigning token.id to DB user", {
+                from: token.id,
+                to: byEmail.id,
+              });
+              token.id = byEmail.id;
+            }
+            token.reconciledAt = Date.now();
+          } catch (err) {
+            console.warn("[auth/jwt] email reconcile failed", err);
           }
-        } catch (err) {
-          console.warn("[auth/jwt] email reconcile failed", err);
         }
       }
       return token;

@@ -1,4 +1,5 @@
 import { PrismaClient } from "@prisma/client";
+import { deleteTestForReseed } from "./seed-guard";
 import fs from "fs";
 import path from "path";
 
@@ -105,7 +106,7 @@ async function main() {
     select: { id: true, version: true },
   });
   for (const t of existing) {
-    await prisma.test.delete({ where: { id: t.id } });
+    await deleteTestForReseed(prisma, t.id );
     console.log(`Removed existing ENGLISH test version=${JSON.stringify(t.version)}`);
   }
 

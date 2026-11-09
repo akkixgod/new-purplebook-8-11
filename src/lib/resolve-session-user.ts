@@ -41,7 +41,10 @@ export async function resolveSessionUserId(user: SessionUser): Promise<string> {
           });
         }
       } catch (error) {
-        console.warn("[resolveSessionUserId] attempt migration failed", error);
+        console.error("[resolveSessionUserId] attempt migration failed", error);
+        throw new Error(
+          "Unable to rebind session attempts to canonical user — refusing write to avoid split history"
+        );
       }
     }
     return byEmail.id;
