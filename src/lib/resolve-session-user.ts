@@ -9,9 +9,9 @@ type SessionUser = {
 };
 
 /**
- * JWT session user ids can point at users that never landed in this
- * serverless SQLite instance (/tmp copy). Ensure a matching User row
- * exists so Attempt FK inserts succeed.
+ * JWT session user ids can point at users that never landed in this DB instance,
+ * or at a stale id after email-based restore. Ensure a matching User row exists
+ * and migrate orphaned attempts onto the canonical account id.
  */
 export async function resolveSessionUserId(user: SessionUser): Promise<string> {
   const existing = await prisma.user.findUnique({
@@ -26,7 +26,26 @@ export async function resolveSessionUserId(user: SessionUser): Promise<string> {
       : `user-${user.id}@purplebook.local`;
 
   const byEmail = await findUserByEmail(email);
-  if (byEmail) return byEmail.id;
+  if (byEmail) {
+    if (byEmail.id !== user.id) {
+      try {
+        const moved = await prisma.attempt.updateMany({
+          where: { userId: user.id },
+          data: { userId: byEmail.id },
+        });
+        if (moved.count > 0) {
+          console.info("[resolveSessionUserId] migrated attempts to canonical user", {
+            from: user.id,
+            to: byEmail.id,
+            count: moved.count,
+          });
+        }
+      } catch (error) {
+        console.warn("[resolveSessionUserId] attempt migration failed", error);
+      }
+    }
+    return byEmail.id;
+  }
 
   try {
     const created = await prisma.user.create({

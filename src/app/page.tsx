@@ -6,7 +6,8 @@ import { Header } from "@/components/Header";
 import { HeroPromoBanner } from "@/components/HeroPromoBanner";
 import { TestCard } from "@/components/TestCard";
 import { buildTestGroups, getTestGroup, sortTestsForDisplay } from "@/lib/test-groups";
-import { syncAccountAttempts } from "@/lib/sync-account-attempts";
+import { ACCOUNT_ATTEMPTS_SYNCED_EVENT, syncAccountAttempts } from "@/lib/sync-account-attempts";
+import { mergeAttemptMapWithLocal } from "@/lib/attempt-cache";
 
 interface ModuleInfo {
   id: string;
@@ -53,9 +54,11 @@ export default function HomePage() {
   const [attemptMap, setAttemptMap] = useState<Record<string, AttemptInfo>>({});
   const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
+  const [historyError, setHistoryError] = useState<string | null>(null);
 
   const fetchTests = useCallback(async (signal: AbortSignal) => {
     setLoading(true);
+    setHistoryError(null);
     try {
       await syncAccountAttempts();
     } catch {
@@ -63,28 +66,66 @@ export default function HomePage() {
     }
     if (signal.aborted) return;
     const params = new URLSearchParams({ section });
-    const res = await fetch(`/api/tests?${params}`, {
-      credentials: "include",
-      cache: "no-store",
-      signal,
-    });
-    const data = await res.json();
-    if (signal.aborted) return;
-    setTests(data.tests ?? []);
-    setAttemptMap(data.attemptMap ?? {});
-    setSelectedGroup(null);
-    setLoading(false);
-  }, [section]);
+    try {
+      const res = await fetch(`/api/tests?${params}`, {
+        credentials: "include",
+        cache: "no-store",
+        signal,
+      });
+      const data = await res.json();
+      if (signal.aborted) return;
+      setTests(data.tests ?? []);
+      // Replace map only after a successful response so a mid-session refresh
+      // does not flash empty START PRACTICE while authenticated.
+      // Merge local durable index so ephemeral Vercel isolates do not wipe REVIEW.
+      const serverMap = (data.attemptMap ?? {}) as Record<
+        string,
+        AttemptInfo
+      >;
+      const canonicalId =
+        typeof data.canonicalUserId === "string" && data.canonicalUserId
+          ? data.canonicalUserId
+          : userId;
+      setAttemptMap(mergeAttemptMapWithLocal(canonicalId, serverMap));
+      if (typeof data.attemptMapError === "string" && data.attemptMapError) {
+        setHistoryError(data.attemptMapError);
+      }
+      setSelectedGroup(null);
+    } catch (err) {
+      if (err instanceof DOMException && err.name === "AbortError") return;
+      setHistoryError("Failed to load practice history.");
+    } finally {
+      if (!signal.aborted) setLoading(false);
+    }
+  }, [section, userId]);
 
   useEffect(() => {
-    setAttemptMap({});
+    // Wait for NextAuth to settle so we do not fetch as a guest then wipe the map.
+    if (status === "loading") return;
+
     const controller = new AbortController();
-    void fetchTests(controller.signal).catch((err) => {
-      if (err instanceof DOMException && err.name === "AbortError") return;
-      setLoading(false);
-    });
+    void fetchTests(controller.signal);
     return () => controller.abort();
   }, [section, userId, status, fetchTests]);
+
+  useEffect(() => {
+    const onSynced = () => {
+      if (status !== "authenticated") return;
+      const controller = new AbortController();
+      void fetchTests(controller.signal);
+    };
+    window.addEventListener(ACCOUNT_ATTEMPTS_SYNCED_EVENT, onSynced);
+    return () => window.removeEventListener(ACCOUNT_ATTEMPTS_SYNCED_EVENT, onSynced);
+  }, [status, fetchTests]);
+
+  useEffect(() => {
+    if (!historyError || status !== "authenticated") return;
+    const timer = window.setTimeout(() => {
+      const controller = new AbortController();
+      void fetchTests(controller.signal);
+    }, 1500);
+    return () => window.clearTimeout(timer);
+  }, [historyError, status, fetchTests]);
 
   const groupEntries = buildTestGroups(tests);
 

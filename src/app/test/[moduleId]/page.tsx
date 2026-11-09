@@ -11,7 +11,13 @@ import {
   TelegramCommunityCheckModal,
   isTelegramJoinedThisSession,
 } from "@/components/TelegramCommunityCheckModal";
-import { cacheAttempt, savePendingSubmission, clearPendingSubmission, type CachedAttempt } from "@/lib/attempt-cache";
+import {
+  cacheAttempt,
+  savePendingSubmission,
+  clearPendingSubmission,
+  rememberLocalAttempt,
+  type CachedAttempt,
+} from "@/lib/attempt-cache";
 import { saveModule1Journey, readModule1Journey } from "@/lib/test-journey";
 import { textToHtml } from "@/lib/text-to-html";
 import { applyTextHighlight } from "@/lib/text-highlight";
@@ -237,6 +243,18 @@ export default function TestPage({ params }: { params: Promise<{ moduleId: strin
 
         if (json?.module?.test) {
           cacheAttempt({ ...json, id: serverAttemptId });
+        }
+        if (json.userId) {
+          rememberLocalAttempt(json.userId, {
+            id: serverAttemptId,
+            moduleId,
+            score: typeof json.score === "number" ? json.score : 0,
+            totalQuestions:
+              typeof json.totalQuestions === "number"
+                ? json.totalQuestions
+                : moduleData.questions.length,
+            savedAt: Date.now(),
+          });
         }
         clearPendingSubmission(attemptId);
         localStorage.removeItem(STORAGE_KEY(attemptId));

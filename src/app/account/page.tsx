@@ -87,7 +87,7 @@ export default function AccountPage() {
           return;
         }
         if (!cancelled) {
-          if (data.user?.id && data.user.id !== userId) return;
+          // Trust server history even if JWT id briefly differs from resolved DB user id.
           setAttempts(Array.isArray(data.attempts) ? data.attempts : []);
         }
       } catch {

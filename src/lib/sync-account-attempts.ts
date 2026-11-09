@@ -12,6 +12,9 @@ export type AccountSyncResult = {
   flushed: number;
 };
 
+/** Dispatched on `window` after pending/claim sync writes rows to the account. */
+export const ACCOUNT_ATTEMPTS_SYNCED_EVENT = "purplebook:account-attempts-synced";
+
 /**
  * Flush locally buffered failed submits + claim any legacy guest rows onto the signed-in account.
  * Practice history itself is always read from the database — never from localStorage.
@@ -83,5 +86,11 @@ export async function syncAccountAttempts(): Promise<AccountSyncResult> {
     }
   }
 
-  return { claimed, flushed };
+  const result = { claimed, flushed };
+  if ((claimed > 0 || flushed > 0) && typeof window !== "undefined") {
+    window.dispatchEvent(
+      new CustomEvent(ACCOUNT_ATTEMPTS_SYNCED_EVENT, { detail: result })
+    );
+  }
+  return result;
 }

@@ -53,6 +53,65 @@ export function readAttemptCache(attemptId: string): CachedAttempt | null {
   }
 }
 
+/** Durable per-browser index of completed modules (survives refresh; not a substitute for Turso). */
+export type LocalHistoryEntry = {
+  id: string;
+  score: number;
+  totalQuestions: number;
+  moduleId: string;
+  savedAt: number;
+};
+
+const historyKey = (userId: string) => `purplebook_local_history_v1_${userId}`;
+
+export function rememberLocalAttempt(
+  userId: string,
+  entry: LocalHistoryEntry
+): void {
+  if (!userId || !entry.moduleId) return;
+  try {
+    const prev = readLocalHistory(userId);
+    prev[entry.moduleId] = entry;
+    localStorage.setItem(historyKey(userId), JSON.stringify(prev));
+  } catch {
+    /* quota / private mode */
+  }
+}
+
+export function readLocalHistory(
+  userId: string
+): Record<string, LocalHistoryEntry> {
+  if (!userId) return {};
+  try {
+    const raw = localStorage.getItem(historyKey(userId));
+    if (!raw) return {};
+    const parsed = JSON.parse(raw) as Record<string, LocalHistoryEntry>;
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+/** Server attemptMap wins; local fills modules the server forgot (ephemeral isolate miss). */
+export function mergeAttemptMapWithLocal(
+  userId: string | null,
+  serverMap: Record<string, { id: string; score: number; totalQuestions: number }>
+): Record<string, { id: string; score: number; totalQuestions: number }> {
+  if (!userId) return serverMap;
+  const local = readLocalHistory(userId);
+  const out = { ...serverMap };
+  for (const [moduleId, entry] of Object.entries(local)) {
+    if (!out[moduleId] && entry?.id) {
+      out[moduleId] = {
+        id: entry.id,
+        score: entry.score,
+        totalQuestions: entry.totalQuestions,
+      };
+    }
+  }
+  return out;
+}
+
 export interface PendingSubmission {
   moduleId: string;
   attemptId: string;

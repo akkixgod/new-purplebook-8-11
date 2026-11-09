@@ -24,10 +24,15 @@ export async function GET(req: NextRequest) {
   });
 
   let attemptMap: Record<string, { score: number; totalQuestions: number; id: string }> = {};
+  let attemptMapError: string | null = null;
+  let canonicalUserId: string | null = null;
 
   try {
     const userId = await requireSessionUserId();
-    const moduleIds = tests.flatMap((t) => t.modules.map((m) => m.id));
+    canonicalUserId = userId;
+    const moduleIds = tests.flatMap((t: (typeof tests)[number]) =>
+      t.modules.map((m: (typeof t.modules)[number]) => m.id)
+    );
     const attempts = await prisma.attempt.findMany({
       where: {
         userId,
@@ -53,13 +58,16 @@ export async function GET(req: NextRequest) {
       }
     }
   } catch (error) {
-    if (!(error instanceof UnauthenticatedError)) {
+    if (error instanceof UnauthenticatedError) {
+      // Guest catalog — empty attemptMap is expected.
+    } else {
       console.warn("[tests] skipped attemptMap — session resolve failed", error);
+      attemptMapError = "Failed to load practice history. Retrying may help.";
     }
   }
 
   return NextResponse.json(
-    { tests, attemptMap },
+    { tests, attemptMap, attemptMapError, canonicalUserId },
     { headers: { "Cache-Control": "no-store, max-age=0" } }
   );
 }

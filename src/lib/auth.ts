@@ -262,13 +262,41 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
             console.warn("[auth] failed to normalize OAuth email", err);
           }
         }
+        // Prefer the durable DB row id for this email so JWT matches attempt.userId.
+        try {
+          const byEmail = await findUserByEmail(normalized);
+          if (byEmail?.id) {
+            user.id = byEmail.id;
+          }
+        } catch (err) {
+          console.warn("[auth] failed to align sign-in user id with DB", err);
+        }
       }
       return true;
     },
-    jwt({ token, user }) {
+    async jwt({ token, user, trigger }) {
       if (user) {
         token.id = user.id!;
         token.role = (user as { role?: string }).role ?? "user";
+        if (user.email) token.email = normalizeEmail(user.email);
+      } else if (
+        trigger === "update" &&
+        typeof token.email === "string" &&
+        token.email.includes("@")
+      ) {
+        // Explicit session.update() only — avoid a DB round-trip on every request.
+        try {
+          const byEmail = await findUserByEmail(normalizeEmail(token.email));
+          if (byEmail?.id && byEmail.id !== token.id) {
+            console.info("[auth/jwt] realigning token.id to DB user", {
+              from: token.id,
+              to: byEmail.id,
+            });
+            token.id = byEmail.id;
+          }
+        } catch (err) {
+          console.warn("[auth/jwt] email reconcile failed", err);
+        }
       }
       return token;
     },
