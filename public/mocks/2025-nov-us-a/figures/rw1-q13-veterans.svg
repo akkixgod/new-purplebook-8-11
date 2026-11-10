@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="520" viewBox="0 0 680 520">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="360" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Percentage of US Congress Members Who</text>
+  <text x="360" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Self-Identified as Veterans, 19532023</text>
+  <line x1="120" y1="100" x2="580" y2="100" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="104" text-anchor="end" font-family="Georgia, serif" font-size="13">80</text>
+  <line x1="120" y1="135" x2="580" y2="135" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="139" text-anchor="end" font-family="Georgia, serif" font-size="13">70</text>
+  <line x1="120" y1="170" x2="580" y2="170" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="174" text-anchor="end" font-family="Georgia, serif" font-size="13">60</text>
+  <line x1="120" y1="205" x2="580" y2="205" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="209" text-anchor="end" font-family="Georgia, serif" font-size="13">50</text>
+  <line x1="120" y1="240" x2="580" y2="240" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="244" text-anchor="end" font-family="Georgia, serif" font-size="13">40</text>
+  <line x1="120" y1="275" x2="580" y2="275" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="279" text-anchor="end" font-family="Georgia, serif" font-size="13">30</text>
+  <line x1="120" y1="310" x2="580" y2="310" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="314" text-anchor="end" font-family="Georgia, serif" font-size="13">20</text>
+  <line x1="120" y1="345" x2="580" y2="345" stroke="#d1d5db" stroke-width="1"/>
+  <text x="110" y="349" text-anchor="end" font-family="Georgia, serif" font-size="13">10</text>
+  <line x1="120" y1="380" x2="580" y2="380" stroke="#111" stroke-width="1.5"/>
+  <text x="110" y="384" text-anchor="end" font-family="Georgia, serif" font-size="13">0</text>
+  <line x1="120" y1="100" x2="120" y2="380" stroke="#111" stroke-width="1.5"/>
+  <line x1="180" y1="100" x2="180" y2="380" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="250" y1="100" x2="250" y2="380" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="320" y1="100" x2="320" y2="380" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="390" y1="100" x2="390" y2="380" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="460" y1="100" x2="460" y2="380" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="530" y1="100" x2="530" y2="380" stroke="#e5e7eb" stroke-width="1"/>
+  <polyline points="180,159.5 250,121 320,240 390,292.5 460,317 530,320.5" fill="none" stroke="#111" stroke-width="2.2"/>
+  <polygon points="180,151.5 173,163.5 187,163.5" fill="#111"/>
+  <polygon points="250,113 243,125 257,125" fill="#111"/>
+  <polygon points="320,232 313,244 327,244" fill="#111"/>
+  <polygon points="390,284.5 383,296.5 397,296.5" fill="#111"/>
+  <polygon points="460,309 453,321 467,321" fill="#111"/>
+  <polygon points="530,312.5 523,324.5 537,324.5" fill="#111"/>
+  <polyline points="180,117.5 250,107 320,159.5 390,254 460,317 530,320.5" fill="none" stroke="#111" stroke-width="2.2" stroke-dasharray="7 5"/>
+  <rect x="173" y="110.5" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <rect x="243" y="100" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <rect x="313" y="152.5" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <rect x="383" y="247" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <rect x="453" y="310" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <rect x="523" y="313.5" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <text x="180" y="402" text-anchor="middle" font-family="Georgia, serif" font-size="13">1953</text>
+  <text x="250" y="402" text-anchor="middle" font-family="Georgia, serif" font-size="13">1973</text>
+  <text x="320" y="402" text-anchor="middle" font-family="Georgia, serif" font-size="13">1993</text>
+  <text x="390" y="402" text-anchor="middle" font-family="Georgia, serif" font-size="13">2003</text>
+  <text x="460" y="402" text-anchor="middle" font-family="Georgia, serif" font-size="13">2013</text>
+  <text x="530" y="402" text-anchor="middle" font-family="Georgia, serif" font-size="13">2023</text>
+  <text x="350" y="428" text-anchor="middle" font-family="Georgia, serif" font-size="13">Year</text>
+  <text x="28" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-90 28 240)">Percent</text>
+  <rect x="175" y="448" width="360" height="52" fill="#fff" stroke="#111" stroke-width="1"/>
+  <line x1="195" y1="466" x2="235" y2="466" stroke="#111" stroke-width="2.2"/>
+  <polygon points="215,458 208,470 222,470" fill="#111"/>
+  <text x="245" y="471" font-family="Georgia, serif" font-size="13">House of Representatives</text>
+  <line x1="195" y1="486" x2="235" y2="486" stroke="#111" stroke-width="2.2" stroke-dasharray="7 5"/>
+  <rect x="208" y="479" width="14" height="14" fill="#fff" stroke="#111" stroke-width="1.6"/>
+  <text x="245" y="491" font-family="Georgia, serif" font-size="13">Senate</text>
+</svg>

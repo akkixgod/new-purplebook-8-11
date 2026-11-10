@@ -1,0 +1,226 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The measures of the interior angles of triangle ABC are 41°, 82°, and x°. What is the value of x?",
+    "choices": {
+      "A": "123",
+      "B": "180",
+      "C": "41",
+      "D": "57"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "What is a positive solution to the given equation?\n(x − 14)(x − 12)(x + 5)(x + 17) = 0",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "In the given equations, p is a positive constant. Which statement correctly compares the graphs of circles A and B in the xy-plane?\nCircle A: (x − 9)² + (y − p)² = 24\nCircle B: (x + 9)² + (y − p)² = 24",
+    "choices": {
+      "A": "Circle B is the reflection of circle A across the x-axis.",
+      "B": "Circle B is the reflection of circle A across the y-axis.",
+      "C": "Circle B is the translation of circle A 18 units to the right.",
+      "D": "Circle B is the translation of circle A 18 units up."
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "A bottle has 310 marbles, and 20% of these marbles are blue. How many marbles in the bottle are blue?",
+    "choices": {
+      "A": "62",
+      "B": "124",
+      "C": "290",
+      "D": "155"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "Line k is shown in the xy-plane. Line j (not shown) is perpendicular to line k and passes through the point (−15, −29). Which equation defines line j?",
+    "choices": {
+      "A": "y = (3/4)x − 49",
+      "B": "y = (3/4)x − 9",
+      "C": "y = (4/3)x − 9",
+      "D": "y = (4/3)x − 49"
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math1-q05-line.svg"
+  },
+  "6": {
+    "stimulus": null,
+    "text": "James purchased a certain baseball card on January 1. The function f(x) = 75(1.04)^x, where 0 ≤ x ≤ 10, gives the predicted value, in dollars, of the baseball card x years after James purchased it. What is the best interpretation of the statement “f(6) is approximately equal to 95” in this context?",
+    "choices": {
+      "A": "6 years after James purchased the baseball card, its predicted value is approximately 95 dollars.",
+      "B": "When the baseball card's predicted value is approximately 95 dollars, it is 6% greater than the predicted value, in dollars, on January 1 of the previous year.",
+      "C": "When the baseball card's predicted value is approximately 95 dollars, it is 6 times the predicted value, in dollars, on January 1 of the previous year.",
+      "D": "From the day James purchased the baseball card to 6 years after James purchased the card, its predicted value increased by a total of approximately 95 dollars."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "During a trip, Bill drove his car for 14.0 miles and then began driving at a constant speed of 70.0 miles per hour. After 2 hours of driving at this speed, what is the total distance, in miles, Bill has traveled during this trip?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "How many solutions does the given system of equations have?\n3x + 5y = 8\n9x + 15y = 24",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly two",
+      "C": "Exactly one",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "If 4x − 10 = 6, what is the value of 4x + 10?",
+    "choices": {
+      "A": "26",
+      "B": "−4",
+      "C": "4",
+      "D": "14"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "A solution to the given system of equations is (x, y), where x < 0. What is the value of y?\nx² + y² = 153\ny − 4x = 0",
+    "choices": {
+      "A": "−4",
+      "B": "−3",
+      "C": "−36",
+      "D": "−12"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The length of a side of square A is 8 centimeters. The area of rectangle B is 28 square centimeters. What is the total area, in square centimeters, of square A and rectangle B?",
+    "choices": {
+      "A": "64",
+      "B": "120",
+      "C": "92",
+      "D": "72"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "One of the factors of 6x⁴ + 29x² + 28 is ax² + b, where a and b are positive constants. Which of the following is a possible value of ab?",
+    "choices": {
+      "A": "8",
+      "B": "21",
+      "C": "7",
+      "D": "12"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "If the graph of the given equation is shifted up 9 units in the xy-plane, what is the y-intercept of the resulting graph?\n4x + 5y = 18",
+    "choices": {
+      "A": "(0, 63/5)",
+      "B": "(0, 27)",
+      "C": "(0, 18/5)",
+      "D": "(0, 41/5)"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "For a project, Kayla recorded the heights of 21 people in her neighborhood. The histogram summarizes the heights, in inches (in), of these 21 people in Kayla's neighborhood. The first bar represents people with a height of at least 51 in but less than 53 in. The second bar represents people with a height of at least 53 in but less than 55 in, and so on. How many of these 21 people in Kayla's neighborhood had a height of at least 51 in but less than 55 in?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math1-q14-histogram.svg"
+  },
+  "15": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between x and y. A line of best fit is also shown. Which of the following is closest to the slope of the line of best fit shown?",
+    "choices": {
+      "A": "−1.84",
+      "B": "−0.54",
+      "C": "0.54",
+      "D": "1.84"
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math1-q15-scatter.svg"
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The equation 54 = 2x + 2y gives the perimeter of a rectangular garden that has length x, in feet, and width y, in feet. The width of the garden is 12 feet. What is the length, in feet, of the garden?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "A beekeeper's initial observation of the population of a certain bee colony was 1,900 bees. The beekeeper set a goal to increase the population to 3,025 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,900 and increases by 90 bees per week in the first two weeks after the initial observation, and then increases by 135 bees per week until the beekeeper's goal is reached. According to this model, at the end of week w after the initial observation, where w > 2, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+    "choices": {
+      "A": "p(w) = 2,935 + 135w",
+      "B": "p(w) = 3,025 − 135w",
+      "C": "p(w) = −90 + 135w",
+      "D": "p(w) = 1,215 − 135w"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "The function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 6.76 feet above the ground when it is dropped at t = 0. How many seconds after being dropped does the function estimate the object will hit the ground?\nh(t) = −16t² + b",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "The functions f, g, and h are defined as shown. If f(x) · g(x) − h(x) = ax² + bx + c, where a, b, and c are constants, what is the value of b?\nf(x) = 2x + 5\ng(x) = 5x − 4\nh(x) = 2x + 3",
+    "choices": {
+      "A": "−2",
+      "B": "31",
+      "C": "15",
+      "D": "19"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = (x + 18)(t − x), where t is a constant. In the xy-plane, the graph of y = g(x) passes through the point (22, 0). What is the value of g(0)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "For two acute angles X and Y, the measure of angle Y is 28° and sin X / sin Y = 1. What is the measure, in degrees, of angle X?",
+    "choices": {
+      "A": "28",
+      "B": "73",
+      "C": "45",
+      "D": "62"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A survey was conducted in Arlington to estimate the percent of adult residents who support the addition of a gas station at a popular intersection in their town. Based on the survey, it is estimated that 51% of all adult residents of Arlington support the addition of a gas station at a popular intersection in their town, with an associated margin of error of 7%. Which of the following is the most appropriate conclusion about all adult residents of Arlington?",
+    "choices": {
+      "A": "The addition of a gas station at a popular intersection in the town is supported by more than 58% of all adult residents of Arlington.",
+      "B": "Plausible values for the percent of all adult residents of Arlington who support the addition of a gas station at a popular intersection in their town are between 44% and 58%.",
+      "C": "Plausible values for the percent of all adult residents of Arlington who support the addition of a gas station at a popular intersection in their town are either less than 44% or more than 58%.",
+      "D": "The addition of a gas station at a popular intersection in the town is supported by exactly 44% of all adult residents of Arlington."
+    },
+    "imageUrl": null
+  }
+}

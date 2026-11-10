@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="470" viewBox="0 0 500 470">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="78" y1="72" x2="78" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="110" y1="72" x2="110" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="142" y1="72" x2="142" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="174" y1="72" x2="174" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="206" y1="72" x2="206" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="238" y1="72" x2="238" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="270" y1="72" x2="270" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="302" y1="72" x2="302" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="334" y1="72" x2="334" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="366" y1="72" x2="366" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="398" y1="72" x2="398" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="392" x2="398" y2="392" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="360" x2="398" y2="360" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="328" x2="398" y2="328" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="296" x2="398" y2="296" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="264" x2="398" y2="264" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="232" x2="398" y2="232" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="200" x2="398" y2="200" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="168" x2="398" y2="168" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="136" x2="398" y2="136" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="104" x2="398" y2="104" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="72" x2="398" y2="72" stroke="#d5d8de" stroke-width="1"/>
+<line x1="78" y1="392" x2="416" y2="392" stroke="#111" stroke-width="1.6"/>
+<polygon points="422,392 412,388 412,396" fill="#111"/>
+<line x1="78" y1="392" x2="78" y2="56" stroke="#111" stroke-width="1.6"/>
+<polygon points="78,50 74,60 82,60" fill="#111"/>
+<text x="428" y="397" font-family="Times New Roman, Times, serif" font-size="16" font-style="italic">x</text>
+<text x="86" y="46" font-family="Times New Roman, Times, serif" font-size="16" font-style="italic">y</text>
+<text x="62" y="408" font-family="Times New Roman, Times, serif" font-size="14" font-style="italic">O</text>
+<line x1="110" y1="388" x2="110" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="110" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">1</text>
+<line x1="142" y1="388" x2="142" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="142" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">2</text>
+<line x1="174" y1="388" x2="174" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="174" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">3</text>
+<line x1="206" y1="388" x2="206" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="206" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">4</text>
+<line x1="238" y1="388" x2="238" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="238" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">5</text>
+<line x1="270" y1="388" x2="270" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="270" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">6</text>
+<line x1="302" y1="388" x2="302" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="302" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">7</text>
+<line x1="334" y1="388" x2="334" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="334" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">8</text>
+<line x1="366" y1="388" x2="366" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="366" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">9</text>
+<line x1="398" y1="388" x2="398" y2="396" stroke="#111" stroke-width="1.2"/>
+<text x="398" y="412" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="13">10</text>
+<line x1="74" y1="360" x2="82" y2="360" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="364" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">50</text>
+<line x1="74" y1="328" x2="82" y2="328" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="332" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">100</text>
+<line x1="74" y1="296" x2="82" y2="296" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="300" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">150</text>
+<line x1="74" y1="264" x2="82" y2="264" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="268" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">200</text>
+<line x1="74" y1="232" x2="82" y2="232" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="236" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">250</text>
+<line x1="74" y1="200" x2="82" y2="200" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="204" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">300</text>
+<line x1="74" y1="168" x2="82" y2="168" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="172" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">350</text>
+<line x1="74" y1="136" x2="82" y2="136" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="140" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">400</text>
+<line x1="74" y1="104" x2="82" y2="104" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="108" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">450</text>
+<line x1="74" y1="72" x2="82" y2="72" stroke="#111" stroke-width="1.2"/>
+<text x="68" y="76" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="13">500</text>
+<line x1="78.0" y1="360.0" x2="398.0" y2="257.6" stroke="#111" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

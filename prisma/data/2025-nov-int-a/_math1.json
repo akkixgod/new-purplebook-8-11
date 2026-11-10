@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "If 9x + 4 = 67, what is the value of 90x + 40?",
+    "choices": {
+      "A": "7",
+      "B": "70",
+      "C": "130",
+      "D": "670"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "In the figure, line p is parallel to line r, and line t intersects both lines. What is the value of x?",
+    "choices": {
+      "A": "36",
+      "B": "72",
+      "C": "180",
+      "D": "252"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math1-q02-parallel-lines.svg"
+  },
+  "3": {
+    "stimulus": null,
+    "text": "A length of 450 meters is equal to how many decimeters? (1 meter = 10 decimeters)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The equation 58 = 2x + 2y gives the perimeter of a rectangular garden that has length x, in feet, and width y, in feet. The width of the garden is 14 feet. What is the length, in feet, of the garden?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "The relationship between the variables x and y is defined by an exponential equation. When x = 0, the value of y is 40, and for every increase in the value of x by 1, the corresponding value of y increases by 50% of its previous value. Which equation represents this relationship?",
+    "choices": {
+      "A": "y = 40(1.50)^x",
+      "B": "y = 40(1.05)^x",
+      "C": "y = 50(1.40)^x",
+      "D": "y = 50(1.04)^x"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 1/(8x). What is the value of f(x) when x = 9?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 3x − 1/4. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "(0, −1/4)",
+      "B": "(0, −3)",
+      "C": "(0, 3)",
+      "D": "(0, 4)"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "x + 6y = 28\n6y = 14\n\nThe solution to the given system of equations is (x, y). What is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The length of a side of square X is 9 centimeters. The area of rectangle Y is 32 square centimeters. What is the total area, in square centimeters, of square X and rectangle Y?",
+    "choices": {
+      "A": "145",
+      "B": "113",
+      "C": "82",
+      "D": "81"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "During hibernation, American black bears do not eat or replenish calories. A certain black bear weighed 293 pounds when entering hibernation and lost weight at a mean rate of 0.9 pounds per day. At this rate, how many days after entering hibernation would the black bear weigh 230 pounds?",
+    "choices": {
+      "A": "57",
+      "B": "63",
+      "C": "70",
+      "D": "207"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The complete graph of y = f(x) is shown. For how many values of x does f(x) = 0?",
+    "choices": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math1-q11-cubic-graph.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "b² + 4c = 7d\n\nThe given equation relates the real numbers b, c, and d, where d > (4/7)c. Which equation correctly expresses b in terms of c and d?",
+    "choices": {
+      "A": "b = (7d + 4c)/2",
+      "B": "b = (7d − 4c)/2",
+      "C": "b = ±√(7d + 4c)",
+      "D": "b = ±√(7d − 4c)"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "x² − 81/16 = 0\n\nHow many distinct real solutions does the given equation have?",
+    "choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "Triangles ABC and A′B′C′ are shown. Triangle ABC is dilated by a scale factor of 6 to form triangle A′B′C′. If the length of AB is 18, what is the length of A′B′?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "24",
+      "D": "108"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math1-q14-dilated-triangles.svg"
+  },
+  "15": {
+    "stimulus": null,
+    "text": "What is the radius of the circle in the xy-plane defined by (x + 3)² + (y + 9)² = 361?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "In the xy-plane, which of the following does NOT contain any points that are part of the solution set to 5x − 7y > 35?",
+    "choices": {
+      "A": "The x-axis",
+      "B": "The region where x > 0 and y > 0",
+      "C": "The region where x < 0 and y < 0",
+      "D": "The region where x < 0 and y > 0"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The table shows the distribution of people in a certain city by age group.\n\nIf a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?",
+    "choices": {
+      "A": "0.24",
+      "B": "0.32",
+      "C": "0.50",
+      "D": "0.92"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math1-q17-age-table.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "Line h is defined by (1/2)x + (1/9)y − 54 = 0. Line j is perpendicular to line h in the xy-plane. What is the slope of line j?",
+    "choices": {
+      "A": "−9/2",
+      "B": "−2/9",
+      "C": "9/2",
+      "D": "2/9"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "a, 26, 29, b, 31, 47, c\n\nFor the given data set, the data values are listed in ascending order, where a, b, and c are constants. For this data set, the mean is 36, the median is 29, and the range is 72. What is the value of c?",
+    "choices": {
+      "A": "54",
+      "B": "72",
+      "C": "81",
+      "D": "98"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "In triangle QRS shown, QR < RS. Which expression represents the length of QS?",
+    "choices": {
+      "A": "37 cos Q",
+      "B": "37 sin Q",
+      "C": "37/cos Q",
+      "D": "37/sin Q"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math1-q20-right-triangle.svg"
+  },
+  "21": {
+    "stimulus": null,
+    "text": "y = 9(a/7)^(x + c) − b\n\nHow many times does the graph of the given equation in the xy-plane cross the x-axis, where a, b, and c are positive constants such that a > 7 and b > c?",
+    "choices": {
+      "A": "Zero",
+      "B": "One",
+      "C": "Two",
+      "D": "Three"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "A certain town has an area of 4.29 square miles. What is the area, in square yards, of this town? (1 mile = 1,760 yards)",
+    "choices": {
+      "A": "410",
+      "B": "7,550",
+      "C": "722,051",
+      "D": "13,288,704"
+    },
+    "imageUrl": null
+  }
+}

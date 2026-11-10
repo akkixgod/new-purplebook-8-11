@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="500" viewBox="0 0 640 500">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="320" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Mean Adhesion Strength of</text>
+  <text x="320" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Graphite and Acrylamide Gel,</text>
+  <text x="320" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">at Varying Voltages</text>
+  <line x1="150" y1="90" x2="560" y2="90" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="94" text-anchor="end" font-family="Georgia, serif" font-size="13">45</text>
+  <line x1="150" y1="120" x2="560" y2="120" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="124" text-anchor="end" font-family="Georgia, serif" font-size="13">40</text>
+  <line x1="150" y1="150" x2="560" y2="150" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="154" text-anchor="end" font-family="Georgia, serif" font-size="13">35</text>
+  <line x1="150" y1="180" x2="560" y2="180" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="184" text-anchor="end" font-family="Georgia, serif" font-size="13">30</text>
+  <line x1="150" y1="210" x2="560" y2="210" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="214" text-anchor="end" font-family="Georgia, serif" font-size="13">25</text>
+  <line x1="150" y1="240" x2="560" y2="240" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="244" text-anchor="end" font-family="Georgia, serif" font-size="13">20</text>
+  <line x1="150" y1="270" x2="560" y2="270" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="274" text-anchor="end" font-family="Georgia, serif" font-size="13">15</text>
+  <line x1="150" y1="300" x2="560" y2="300" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="304" text-anchor="end" font-family="Georgia, serif" font-size="13">10</text>
+  <line x1="150" y1="330" x2="560" y2="330" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="334" text-anchor="end" font-family="Georgia, serif" font-size="13">5</text>
+  <line x1="150" y1="360" x2="560" y2="360" stroke="#d1d5db" stroke-width="1"/>
+  <text x="140" y="364" text-anchor="end" font-family="Georgia, serif" font-size="13">0</text>
+  <line x1="180" y1="90" x2="180" y2="360" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="300" y1="90" x2="300" y2="360" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="420" y1="90" x2="420" y2="360" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="540" y1="90" x2="540" y2="360" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="150" y1="90" x2="150" y2="360" stroke="#111" stroke-width="1.5"/>
+  <line x1="150" y1="360" x2="560" y2="360" stroke="#111" stroke-width="1.5"/>
+  <polyline points="180,312 300,312 420,270 540,120" fill="none" stroke="#111" stroke-width="2.2"/>
+  <polygon points="180,304 173.5,316 186.5,316" fill="#111"/>
+  <polygon points="300,304 293.5,316 306.5,316" fill="#111"/>
+  <polygon points="420,262 413.5,274 426.5,274" fill="#111"/>
+  <polygon points="540,112 533.5,124 546.5,124" fill="#111"/>
+  <text x="180" y="382" text-anchor="middle" font-family="Georgia, serif" font-size="13">0</text>
+  <text x="300" y="382" text-anchor="middle" font-family="Georgia, serif" font-size="13">1</text>
+  <text x="420" y="382" text-anchor="middle" font-family="Georgia, serif" font-size="13">2</text>
+  <text x="540" y="382" text-anchor="middle" font-family="Georgia, serif" font-size="13">3</text>
+  <text x="355" y="408" text-anchor="middle" font-family="Georgia, serif" font-size="13">Voltage (V)</text>
+  <text x="22" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="13" transform="rotate(-90 22 225)">Adhesion strength (kPa)</text>
+  <rect x="210" y="428" width="250" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <line x1="228" y1="448" x2="268" y2="448" stroke="#111" stroke-width="2.2"/>
+  <polygon points="248,440 241.5,452 254.5,452" fill="#111"/>
+  <text x="278" y="453" font-family="Georgia, serif" font-size="13">graphite–AAm pair</text>
+</svg>

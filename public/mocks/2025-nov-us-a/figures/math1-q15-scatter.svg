@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="440" viewBox="0 0 420 440">
+<rect width="100%" height="100%" fill="#fff"/>
+<g stroke="#d5d8de" stroke-width="1">
+<line x1="72" y1="70" x2="342" y2="70"/>
+<line x1="72" y1="124" x2="342" y2="124"/>
+<line x1="72" y1="178" x2="342" y2="178"/>
+<line x1="72" y1="232" x2="342" y2="232"/>
+<line x1="72" y1="286" x2="342" y2="286"/>
+<line x1="72" y1="340" x2="342" y2="340"/>
+<line x1="72" y1="70" x2="72" y2="340"/>
+<line x1="126" y1="70" x2="126" y2="340"/>
+<line x1="180" y1="70" x2="180" y2="340"/>
+<line x1="234" y1="70" x2="234" y2="340"/>
+<line x1="288" y1="70" x2="288" y2="340"/>
+<line x1="342" y1="70" x2="342" y2="340"/>
+</g>
+<line x1="60" y1="340" x2="358" y2="340" stroke="#111" stroke-width="1.6"/>
+<polygon points="366,340 356,335.5 356,344.5" fill="#111"/>
+<text x="372" y="345" font-family="Georgia, serif" font-size="16" font-style="italic">x</text>
+<line x1="72" y1="352" x2="72" y2="54" stroke="#111" stroke-width="1.6"/>
+<polygon points="72,46 67.5,56 76.5,56" fill="#111"/>
+<text x="80" y="44" font-family="Georgia, serif" font-size="16" font-style="italic">y</text>
+<text x="58" y="356" font-family="Georgia, serif" font-size="14" font-style="italic">O</text>
+<g font-family="Georgia, serif" font-size="13" fill="#111">
+<line x1="126" y1="336" x2="126" y2="344" stroke="#111" stroke-width="1.2"/>
+<text x="126" y="362" text-anchor="middle">1</text>
+<line x1="180" y1="336" x2="180" y2="344" stroke="#111" stroke-width="1.2"/>
+<text x="180" y="362" text-anchor="middle">2</text>
+<line x1="234" y1="336" x2="234" y2="344" stroke="#111" stroke-width="1.2"/>
+<text x="234" y="362" text-anchor="middle">3</text>
+<line x1="288" y1="336" x2="288" y2="344" stroke="#111" stroke-width="1.2"/>
+<text x="288" y="362" text-anchor="middle">4</text>
+<line x1="342" y1="336" x2="342" y2="344" stroke="#111" stroke-width="1.2"/>
+<text x="342" y="362" text-anchor="middle">5</text>
+<line x1="68" y1="286" x2="76" y2="286" stroke="#111" stroke-width="1.2"/>
+<text x="60" y="290" text-anchor="end">1</text>
+<line x1="68" y1="232" x2="76" y2="232" stroke="#111" stroke-width="1.2"/>
+<text x="60" y="236" text-anchor="end">2</text>
+<line x1="68" y1="178" x2="76" y2="178" stroke="#111" stroke-width="1.2"/>
+<text x="60" y="182" text-anchor="end">3</text>
+<line x1="68" y1="124" x2="76" y2="124" stroke="#111" stroke-width="1.2"/>
+<text x="60" y="128" text-anchor="end">4</text>
+<line x1="68" y1="70" x2="76" y2="70" stroke="#111" stroke-width="1.2"/>
+<text x="60" y="74" text-anchor="end">5</text>
+</g>
+<line x1="72" y1="328.1" x2="342" y2="182.3" stroke="#111" stroke-width="2.2" stroke-linecap="round"/>
+<g fill="#111">
+<circle cx="72" cy="340" r="4.4"/>
+<circle cx="126" cy="323.8" r="4.4"/>
+<circle cx="180" cy="248.2" r="4.4"/>
+<circle cx="234" cy="199.6" r="4.4"/>
+<circle cx="288" cy="232" r="4.4"/>
+<circle cx="342" cy="199.6" r="4.4"/>
+</g>
+</svg>

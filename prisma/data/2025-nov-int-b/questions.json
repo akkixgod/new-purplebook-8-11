@@ -1,0 +1,1059 @@
+{
+  "ENGLISH": {
+    "1": {
+      "1": {
+        "stimulus": "Scientists have used machine learning tools to study elephant sounds, uncovering a sophisticated communication system. The tools ______ unique patterns in the rumbling sounds elephants make. The scientists claim that these patterns are specific calls the elephants use for individuals, similar to names.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "created",
+          "B": "corrected",
+          "C": "detected",
+          "D": "scattered"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "The following text is from Chinua Achebe’s 1964 novel Arrow of God. The novel is set in Nigeria in the 1920s. Ezeulu, who is the religious leader for several villages, announces when the annual yam harvest can begin.\n\nWhenever Ezeulu <u>considered</u> the immensity of his power over the year and the crops and, therefore, over the people he wondered if it was real. It was true he named the day for the feast of the Pumpkin Leaves and for the New Yam feast; but he did not choose it. He was merely a watchman. His power was no more than the power of a child over a goat that was said to be his.\n\n©1964 by Chinua Achebe",
+        "text": "As used in the text, what does the word “considered” most nearly mean?",
+        "choices": {
+          "A": "Pondered",
+          "B": "Anticipated",
+          "C": "Allowed",
+          "D": "Respected"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "The following text is adapted from John Matheus’s 1925 short story “Fog.”\n\nThe fog extended its tentacles over city and river, gradually obliterating <u>traces</u> of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.",
+        "text": "As used in the text, what does the word “traces” most nearly mean?",
+        "choices": {
+          "A": "Debris",
+          "B": "Copies",
+          "C": "Indications",
+          "D": "Remembrances"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particles—variations in size, shape, and material—make it onerous to comprehensively classify the microplastics in a water sample, so Ojeda-Benítez et al. are exploring a device to help quickly and accurately identify certain characteristics.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "restraints",
+          "B": "inconsistencies",
+          "C": "incompatibilities",
+          "D": "disruptions"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "The following text is adapted from Henry James’s 1881 novel The Portrait of a Lady.\n\nEverything Osmond did was pose—pose so subtly considered that if one were not on the lookout one mistook it for impulse. Ralph had never met a man who lived so much in the land of <u>consideration</u>. His tastes, his studies, his accomplishments, his collections, were all for a purpose.",
+        "text": "As used in the text, what does the word “consideration” most nearly mean?",
+        "choices": {
+          "A": "Deference",
+          "B": "Calculation",
+          "C": "Indecision",
+          "D": "Courtesy"
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "Adult glass eels can be found off the coast of Maine, but the eels begin their lives in the Sargasso Sea, a biodiverse area in the North Atlantic Ocean where they are born and later return to breed. Though biologists believe they have identified the general area in the Sargasso Sea that is crucial to the endangered eels’ survival, little is yet known about how the animals spawn there. Scientists believe that solving the mystery will lead to better conservation of glass eels and their habitat, <u>helping in turn to sustain several other species that rely on them as a food source.</u>",
+        "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": {
+          "A": "It presents a finding from a study that identifies the circumstances required to ensure the survival of glass eels.",
+          "B": "It suggests that scientists are more concerned about other species than about glass eels’ habitat.",
+          "C": "It indicates that the benefit of understanding glass eels’ spawning behavior extends beyond the eels.",
+          "D": "It discusses a role that glass eels and other species serve in supporting the ecosystem of the Sargasso Sea."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Tomi Adeyemi’s first published work, the inventive West African–inspired fantasy novel Children of Blood and Bone, has intriguing things to say about the relationship between identity and power. Adeyemi works in a decades-long tradition going back to writers such as Samuel Delany and Octavia Butler, who wove cultural elements of the Black diaspora into their science fiction and fantasy in a movement known as Afrofuturism. At its core, the movement is characterized by speculation, not just about distant futures or other planets but also about alternate versions of our shared past. Afrofuturism’s meditations on authority reinvigorate the creative potential of fiction.",
+        "text": "Which choice best describes the overall structure of the text?",
+        "choices": {
+          "A": "It notes the political stance of an author, compares that author’s book to other earlier works, and then analyzes the influence of political events on the book.",
+          "B": "It praises a newly published author, compares that author with others who might appear superficially similar, and then points out the features of that author’s work that make it unique.",
+          "C": "It introduces an intriguing debut work, contextualizes that work as part of an ongoing literary tradition, and then describes important themes of that tradition.",
+          "D": "It summarizes a book, describes characteristics of the artistic movement of which the book is a part, and then points out the features the book shares with more widely read works."
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "Founded in 1904, the Hispanic Society of America showcases the arts and cultures of Spanish-speaking and Portuguese-speaking regions around the world, including Latin America. It is located in New York City and has more than 18,000 objects in its museum collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is LA Plaza de Cultura y Artes in Los Angeles. It focuses on Mexican American art and culture.",
+        "text": "Which statement about the Hispanic Society of America is best supported by the text?",
+        "choices": {
+          "A": "Its collection includes over 18,000 objects.",
+          "B": "It is no longer located in New York City.",
+          "C": "It was founded after 2000.",
+          "D": "It is visited by more people than any other Latino cultural institution in the US."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "In a 2024 study, Corrine Walsh and colleagues examined whether the composition of soil microbial communities could affect plants’ flavor chemistry. Whereas Baslam et al. (2011) showed that adding specific bacterial or fungal strains to soil can yield increased flavonoid content in spinach crops, Walsh and team applied intact microbial communities gathered from ecologically distinct settings across Colorado, including areas of ponderosa pine forest and irrigated pasture, to mustard plants and evaluated the flavor compounds in the plants’ seeds. This ensured that the microbial conditions in their experiment would better reflect the variation and complexity of naturally occurring communities.",
+        "text": "Based on the text, what is the most likely reason Walsh and colleagues chose to avoid the method used in the spinach study?",
+        "choices": {
+          "A": "The composition of microorganisms in the soil in the spinach study may not have been representative of a naturally existing composition.",
+          "B": "The microbial community in the soil from the spinach study affected plants’ nutrition, not their flavor chemistry.",
+          "C": "The microbial community in the soil from the spinach study likely included similar species to those in wild soils.",
+          "D": "The diversity of species of microorganisms in the soil from the spinach study was already abnormally high before the researchers added further microorganisms."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "A student is writing a paper on the global rise of the home video game industry during the 1980s. The student is researching the relative popularity of various genres of console and computer games. Looking at the information in the table, the student finds that the games in the genres of ______",
+        "text": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": {
+          "A": "puzzle and sports sold nearly the same number of units.",
+          "B": "platformer and education sold nearly the same number of units.",
+          "C": "puzzle and platformer outsold the games in the other genres.",
+          "D": "platformer and sports outsold the games in the other genres."
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/rw1-q10-games.svg"
+      },
+      "11": {
+        "stimulus": "Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength—as measured in kilopascals (kPa) of stress needed to pull the materials apart—was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that ______",
+        "text": "Which choice most effectively uses data from the graph to complete the statement?",
+        "choices": {
+          "A": "at 0 V, mean adhesion strength was equal to 0 kPa.",
+          "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa.",
+          "C": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+          "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V."
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/rw1-q11-adhesion.svg"
+      },
+      "12": {
+        "stimulus": "Working in Ghana, Emmanuel Hanyabui and colleagues compared the impact on pineapple growth of different combinations of soil additives, including NPK fertilizer (an inorganic fertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a carbon-rich material produced from organic waste matter). Based on data in the table, pineapple farmers with no access to inorganic soil additives would likely increase the weight and size of their fruits by the greatest amount by using ______",
+        "text": "Which choice most effectively uses data from the table to complete the text?",
+        "choices": {
+          "A": "compost alone.",
+          "B": "biochar alone.",
+          "C": "biochar and compost.",
+          "D": "biochar and NPK fertilizer."
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/rw1-q12-pineapple.svg"
+      },
+      "13": {
+        "stimulus": "Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including urban dwellers from a large city in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: vanillin, which smells like vanilla, was typically rated more pleasant than galbazine, which smells like peanuts. The team therefore concluded that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "culture likely plays more of a role in a person’s perception of how pleasant an odor is than does human anatomy.",
+          "B": "a person’s mode of living likely doesn’t have a large influence on that person’s perception of whether an odor is pleasant or unpleasant.",
+          "C": "a person who lives in an urban area is more likely to encounter the odor of vanillin than is a person who lives in a small community.",
+          "D": "a person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Outi Tervo and team studied the effect of human-caused noise on narwhals (Monodon monoceros), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo’s team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "sonic pulses can be heard at significantly greater ocean depths than ship sounds can.",
+          "B": "ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals’ auditory environment.",
+          "C": "narwhals forage at shallower depths in the presence of ship sounds alone than in the presence of ship sounds coupled with sonic pulses.",
+          "D": "the narwhals weren’t as sensitive to human-caused sounds as the researchers had predicted."
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": "Jesse Treviño’s 1976 painting Mis Hermanos was featured in the Smithsonian’s 2013 exhibition Our America: The Latino Presence in American Art. The piece ______ chosen for the exhibition by curator E. Carmen Ramos.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is",
+          "B": "had been",
+          "C": "will be",
+          "D": "is being"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Mia Heavener’s 2019 novel Under Nushagak Bluff, which takes place in a mid-twentieth-century rural Alaskan fishing ______ the story of three Yup’ik women who grapple with the rise of commercial fisheries and other changes affecting their community.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "village: tells",
+          "B": "village. Tells",
+          "C": "village, tells",
+          "D": "village tells"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Many works of the Greek historian Strabo (1st century BCE) are ______ his Geographica, a descriptive history of the ancient world, is an extant work: it can still be read.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "lost. Conversely,",
+          "B": "lost and conversely,",
+          "C": "lost, conversely,",
+          "D": "lost, and conversely"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Enacted in 1944, Iceland’s 4,089-word constitution, in contrast to Spain’s, which was enacted in 1978 and contains a far greater number (17,608) of words, ______ as the 2nd shortest in the world. Such data are studied by constitutional scholars like George Tsebelis, who can use them to draw broader conclusions.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "have ranked",
+          "B": "rank",
+          "C": "are ranking",
+          "D": "ranks"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "Working on an unimaginably small scale of billionths of a meter, nanoengineers have found ways to leverage cerium oxide ______ to improve treatments for certain conditions related to oxidative stress.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "nanoparticles’ properties’",
+          "B": "nanoparticles properties",
+          "C": "nanoparticles’ properties",
+          "D": "nanoparticle’s properties"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "Recordings of electrical activity in the brain, ______ increased activity in brain areas associated with suppressing motor functions.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have",
+          "B": "hypothetical match scenario responses show that the most highly skilled soccer players captured in electrograms have",
+          "C": "the most highly skilled soccer players responding to hypothetical match scenarios have electrograms that show",
+          "D": "responses to hypothetical match scenarios show that the most highly skilled soccer players have electrograms with"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as cinnamic acid and catechin. ______ Ferreira detected cinnamic acid in Agaricus blazei mushrooms and catechin in Lentinus edodes mushrooms.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "For this reason,",
+          "B": "However,",
+          "C": "Nevertheless,",
+          "D": "For example,"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Regardless,",
+          "B": "Next,",
+          "C": "However,",
+          "D": "For example,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "While some researchers have identified the planet Kepler-296e as potentially habitable, it’s unlikely that humanity will be able to take advantage of its favorable conditions anytime soon—it’s 737 light years away. ______ humanity must first focus on making planets within our solar system more habitable.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Likewise,",
+          "B": "Instead,",
+          "C": "For example,",
+          "D": "Next,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "The Tres Zapotes archaeological site is located in our home state of Veracruz, Mexico. ______ an 8.5-ton stone statue of a human head was left behind by the ancient Olmec civilization. In the nearby state of Tabasco was another stone statue that weighs 19.8 tons.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In other words,",
+          "B": "Here,",
+          "C": "Similarly,",
+          "D": "Therefore,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "In a 1948 article titled “The Language of Lines,” Brazilian photographer José Yalenti argued that black-and-white photography’s distinctive—and in his view, superior—use of lines is what elevates the medium to the status of fine art. ______ Yalenti insisted that conveying perspective through linear forms is photography’s “indisputable and exclusive domain,” creating a visual language surpassing even celebrated painters’ works.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "Indeed,",
+          "B": "In any case,",
+          "C": "However,",
+          "D": "Even so,"
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• A merchant ship is any ship hired to carry cargo or passengers.\n• A ship’s carrying capacity is also known as its deadweight tonnage (DWT).\n• In 2021, there were a total of 1,323 merchant ships registered in the Bahamas.\n• The combined DWT of these ships was 74.3 million tons.",
+        "text": "The student wants to emphasize the combined deadweight tonnage of the Bahamas’ merchant ships in 2021. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "The carrying capacity of a merchant ship is also known as deadweight tonnage.",
+          "B": "In 2021, the Bahamas had 1,323 merchant ships hired to carry cargo or passengers.",
+          "C": "Combined, the Bahamas’ merchant ships had a deadweight tonnage of 74.3 million tons in 2021.",
+          "D": "There were a total of 1,323 merchant ships—ships hired to carry cargo or passengers—registered in the Bahamas in 2021."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.\n• Ballard’s composition Desert Trilogy was nominated for the Pulitzer Prize in music in 1971.\n• His composition Devil’s Promenade incorporates a Seneca cow-horn rattle, a traditional Native instrument.\n• Ethnomusicologist Tara Browner claims that Ballard’s compositions rely on elements originating within Native musical traditions.",
+        "text": "The student wants to support Browner’s claim about Louis Ballard’s compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "According to Browner, composer Louis Ballard, who wrote Desert Trilogy, relies on elements with origins in Native musical traditions.",
+          "B": "Classical composer Louis Ballard, who wrote Devil’s Promenade, was nominated for the Pulitzer Prize in music in 1971.",
+          "C": "Browner posits that Louis Ballard’s compositions rely on elements originating within Native musical traditions; Devil’s Promenade affirms this assertion, incorporating a Seneca cow-horn rattle.",
+          "D": "Browner claims that Louis Ballard’s compositions, one of which was nominated for the Pulitzer Prize, rely on elements originating within Native musical traditions."
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": "In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are ______: when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "redundant",
+          "B": "exhaustive",
+          "C": "complementary",
+          "D": "interchangeable"
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": "Though copies of The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989—an underground computer game that was created anonymously in 1989 as an act of political protest against the authoritarian regime of what was then Czechoslovakia—were originally distributed ______, the game is now readily available online for anyone to play.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "succinctly",
+          "B": "dispassionately",
+          "C": "surreptitiously",
+          "D": "disingenuously"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": "If some specific predictions in Alvin Toffler’s 1970 book Future Shock seem ludicrous now—people do not wear paper clothing while living in underwater cities—Toffler’s fundamental claim that rapid technological and social change will leave people feeling disoriented and atomized seems, in our age of disequilibrium and fragmentation, remarkably ______.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "prescient",
+          "B": "articulate",
+          "C": "iconoclastic",
+          "D": "equivocal"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": "A conclusive demonstration of the logical certainty of the honeycomb conjecture, posed in the first century BCE, ______ mathematicians’ efforts until Thomas C. Hales presented the first valid proof of the conjecture in 1999.",
+        "text": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": {
+          "A": "defied",
+          "B": "prefigured",
+          "C": "epitomized",
+          "D": "displaced"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "Establishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it’s widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don’t capture the indirect effects of tourism linked to PAs. But Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from fishing in nearby areas.",
+        "text": "Which choice best describes the overall structure of the text?",
+        "choices": {
+          "A": "It states a hypothesis that accounts for why PAs generally negatively impact local economies, outlines how a research team’s findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion.",
+          "B": "It makes a generalization about the difficulty of using PAs to reconcile economic and conservation priorities, demonstrates why most PAs fall short of achieving that goal, and then holds up a particular PA as an example of how that goal can be achieved.",
+          "C": "It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief’s prevalence, and then details a study whose findings seemingly conflict with that belief.",
+          "D": "It explains how PAs typically affect economic development in the regions where they are established, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular PA is an exception to the general trend."
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": "Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Washoe, which is spoken in California and Nevada, and Chitimacha, which is spoken in Louisiana—are isolates, having no demonstrable genealogical relationship to other languages. <u>Yet Washoe and Chitimacha, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.</u>",
+        "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+        "choices": {
+          "A": "It implies that a nonisolate language may have influenced both Washoe and Chitimacha to such a degree that their relationship to their former families is no longer discernible.",
+          "B": "It suggests that the ancestral languages of both Washoe and Chitimacha were likely isolates that replaced nonisolate languages through geographic expansion in the distant past.",
+          "C": "It asserts that the historical record tends to overrepresent nonisolate languages relative to isolates, such that the origins of Washoe and Chitimacha are obscure to scholars in the present day.",
+          "D": "It proposes that the distinction made between present-day nonisolate languages and isolates like Washoe and Chitimacha may not have been applicable in the distant past."
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": "Text 1\nGood art often challenges and disrupts social and aesthetic norms, but the creation of public art—paintings, sculptures, and performance pieces displayed in nonmuseum or nontheatrical public settings—typically requires broad agreement among artists, civic officials, and community members about the works’ message and artistic goals. <u>Public art that fails to appease everyone by being sufficiently aesthetically and conceptually bland almost inevitably provokes backlash.</u>\n\nText 2\nPublic art is commonly displayed in spaces intended for purposes other than meaningful aesthetic engagement. Some critics of public art therefore note that norm-defying pieces that aren’t effectively integrated within their surroundings in a manner that primes passersby to appreciate the pieces’ merits (as is often the case) tend to be regarded more unfavorably than similarly provocative art encountered in museums is.",
+        "text": "Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?",
+        "choices": {
+          "A": "By disputing the notion that civic leaders and community members are easily placated by art that is intended mainly to reinforce social norms",
+          "B": "By agreeing with the idea that only works of art that are universally appealing are suitable for displaying in public spaces",
+          "C": "By arguing that the reason members of the general public might disagree about a public artwork’s merits is unrelated to the unconventionality of its appearance and ideas",
+          "D": "By contending that the kinds of reactions controversial public artworks often receive aren’t exclusively the result of attributes inherent in the works themselves"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": "The following text is adapted from Mark Twain’s 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew.\n\nAunt Polly asked [Tom] questions that were full of guile, and very deep—for she wanted to trap him into damaging revealments. Like many other simple-hearted souls, it was her pet vanity to believe she was endowed with a talent for dark and mysterious diplomacy, and she loved to contemplate her most transparent devices as marvels of low cunning.",
+        "text": "Which choice best describes how Aunt Polly is presented in the text?",
+        "choices": {
+          "A": "The narrator gently makes fun of Aunt Polly’s mistaken confidence in her subtlety.",
+          "B": "The narrator humorously exaggerates Aunt Polly’s view of herself as an intellectual.",
+          "C": "The narrator characterizes Aunt Polly as being excessively nosy about other people’s private lives.",
+          "D": "The narrator emphasizes that Aunt Polly’s intentions are good even when she behaves impolitely."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": "From petroleum refining to fuel for residential heating, hydrogen has many applications. Currently, producing hydrogen is carbon intensive, but Alexandra M. Oliveira is one of many scholars investigating the feasibility of large-scale production of hydrogen through electrolysis, a process that emits no carbon when renewable energy is used. Oliveira suggests that although some obstacles may prevent electrolytic hydrogen from dominating energy systems, there is utility in its ability to decarbonize the petroleum and heating industries, where reducing carbon emissions is especially challenging.",
+        "text": "Which statement about the use of hydrogen in the petroleum and heating industries is most strongly supported by the text?",
+        "choices": {
+          "A": "The adoption of electrolytic hydrogen by these industries has been impeded by concerns about how carbon intensive its production is.",
+          "B": "Development of applications for electrolytic hydrogen is less advanced in these industries than it is in most other carbon-intensive industries.",
+          "C": "At least some of electrolytic hydrogen’s potential to lessen these industries’ carbon emissions is as yet unrealized.",
+          "D": "The fact that large-scale electrolytic hydrogen production is not yet available has limited these industries’ interest in pursuing hydrogen-based applications."
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": "In subtropical Asia, Apis dorsata (giant honeybee) plays an essential role in pollinating a wide variety of crops and wild plants. To study how different agricultural land covers affect the species, Rika Raffiudin and colleagues monitored the foraging activity of the bees as well as the pollen content of the honey from A. dorsata colonies at two sites in Indonesia: Kampar, characterized by its surrounding monoculture farms (growing a single crop), and Kerinci, a forest-agriculture site where multiple crops, including hot peppers and coffee, are grown nearby. The researchers concluded that a lack of crop variety may reduce total pollen collection by A. dorsata.",
+        "text": "Which finding, if true, would most directly support the researchers’ conclusion?",
+        "choices": {
+          "A": "Significantly fewer bees were observed engaging in foraging activities with the crops surrounding Kerinci than with the crops surrounding Kampar.",
+          "B": "Honey samples from Kerinci bee colonies contained significantly higher concentrations of pollen than honey samples from Kampar bee colonies did.",
+          "C": "Pollen in honey samples from Kampar bee colonies was predominantly sourced from a single plant species, whereas pollen in honey samples from Kerinci bee colonies was sourced from multiple different plant species.",
+          "D": "In one Kerinci bee colony, a greater proportion of bees returned to their nests with pollen than returned without pollen, whereas the inverse was observed in a second Kerinci bee colony."
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": "In 2009, the US state of Montana enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Montana, students first collect data on the number of insurers in the state for a few years leading up to and following 2009 and the premium prices for new policies offered by those insurers.",
+        "text": "Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?",
+        "choices": {
+          "A": "Compare changes over time in the premium price data the students have collected with changes over time in premium prices for policies that were already in effect during the same period in an otherwise similar state that had not enacted RSRs",
+          "B": "Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs",
+          "C": "Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Montana for a period beginning several years after 2009",
+          "D": "Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": "Variously, researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Raymond V. Sidrys’s 1976 study, or to glean aspects of cultural identity, as in Dennis Ogburn and colleagues’ 2009 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building styles—changes consistent with an influx of people from another culture elsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.",
+        "text": "Which finding, if true, would most directly weaken Carter and Kilikoglou’s argument?",
+        "choices": {
+          "A": "The obsidian used to produce objects at Malia was transported to Crete from the same source elsewhere in the Mediterranean throughout the Middle and Late Bronze Ages.",
+          "B": "The methods used to produce obsidian objects at Malia during the Middle and Late Bronze Ages were also used by some other Mediterranean cultures in the period.",
+          "C": "The obsidian-object production method that was most common among other Mediterranean cultures during the Middle and Late Bronze Ages was more efficient than the method used at Malia.",
+          "D": "Changes to buildings like those that occurred at Malia have not been linked to changes in obsidian-object production methods in other Mediterranean cultures during the Middle and Late Bronze Ages."
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": "The presence of other individuals of the same species has been observed to mitigate stress in highly social mammals. To investigate whether this phenomenon, known as social buffering, also occurs in reptiles, researchers led by Chelsea E. Martin monitored stress responses in wild southern Pacific rattlesnakes (Crotalus helleri) in three experimental treatments: when alone, with a rope, and with a companion C. helleri. The researchers compared the percent change between baseline and peak heart rate in response to a (harmless) disturbance, with higher values indicating higher stress levels.",
+        "text": "Which finding, if true, would most directly support the idea that social buffering occurs among C. helleri?",
+        "choices": {
+          "A": "Average peak heart rates were highest among solitary C. helleri, but no differences were observed in average peak heart rates between C. helleri with a companion and C. helleri with a rope.",
+          "B": "C. helleri with a companion displayed a lower average baseline heart rate and lower average peak heart rate than did solitary C. helleri or C. helleri with a rope.",
+          "C": "The average percent change in heart rate was lower among C. helleri with a companion than among solitary C. helleri and C. helleri with a rope.",
+          "D": "Solitary C. helleri had higher average baseline heart rates than did C. helleri in the other treatments, but the average percent change in heart rate was smaller among solitary C. helleri than among C. helleri with a companion."
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": "Mountain summits are often described in terms of their elevation, or height above sea level. But a summit’s elevation may not be as good an indication of how high the mountain appears to observers as is the summit’s prominence, or its height above its surroundings, and these values can differ significantly. For example, the Indian mountain of ______",
+        "text": "Which choice most effectively uses data from the table to complete the example?",
+        "choices": {
+          "A": "Saser Kangri III has an elevation of 7,495 meters but a considerably lower prominence of 850 meters.",
+          "B": "Kangto has a much higher prominence than does Langpo.",
+          "C": "Kangto has a high prominence but is from a different mountain range than Mount Lakshmi, which has a lower prominence.",
+          "D": "Sri Kailash has an elevation of 6,932 meters and is considered the highest mountain from the Garhwal Himalaya range."
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/rw2-q14-summits.svg"
+      },
+      "15": {
+        "stimulus": "Whereas Joan Lockard’s 1984 study of captive gorillas reported more right-handedness than left-handedness, Jane Goodall’s 1963 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result; however, the study by Lockard included a total population of 8, and the study by Goodall included a total population of 8. This suggests that ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "neither the study by Lockard nor the study by Goodall provides sufficient evidence to make a meaningful comparison about handedness in primates.",
+          "B": "the study by Lockard reliably represents handedness in captive primates, but the study by Goodall likely does not reliably represent handedness in wild primates.",
+          "C": "Goodall likely underestimated the prevalence of right-handedness among the wild chimpanzees in the study.",
+          "D": "the study by Lockard reliably represents handedness in captive primates but not in wild primates."
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": "Interested in how the color of dogs’ irises affects human responses to dogs, Akitsugu Konno et al. showed images of 12 dogs’ faces to human participants and asked them to rate the dogs’ kindness and trustworthiness as well as the likelihood that they would interact with or keep the dogs. The researchers had previously adjusted the images so that each dog was presented in two versions, one with light irises and one with dark irises. They distributed the images such that no participant saw both the light and dark versions of the same dog. Konno et al. found that participants responded more positively to the latter. The study’s design allowed the researchers to exclude the possibility that the results ______",
+        "text": "Which choice most logically completes the text?",
+        "choices": {
+          "A": "may have been different if participants had been able to see the dogs’ irises in person instead of only seeing images that included the dogs’ irises.",
+          "B": "reflected a preference on the part of participants for facial features that happened to coincide with dark irises in the dogs depicted in the images.",
+          "C": "were a function of participants emphasizing the colors of the dogs’ irises over the dogs’ kindness and trustworthiness when reacting to the images.",
+          "D": "could be explained by participants having preexisting positive feelings about dogs with dark irises or preexisting negative feelings about dogs with light irises."
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": "Growing as large as three meters in diameter, the leaves of the giant Amazonian waterlily feature a complex network of radiating veins that provide structural ______ in thickness from the center to the edges, these veins allow the leaves to maintain their large size and buoyancy with minimal material, optimizing light capture and photosynthesis.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "support. Decreasing",
+          "B": "support, decreasing",
+          "C": "support, while decreasing",
+          "D": "support decreasing"
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": "Charles Dickens’s classic 1850 novel about a young man named David Copperfield has a title that is instantly recognizable to many readers: David Copperfield. Dickens’s novel originally had a different ______ while writing and editing, Dickens had planned to call the novel Mag’s Diversions.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "title, though;",
+          "B": "title, though,",
+          "C": "title; though",
+          "D": "title, though"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": "On Guard is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat’s photos, the work features a pair of hands. Clasping a microphone, one hand ______ covered in Persian script, the hands imply an out-of-frame figure on the edge of speaking.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "is bare and the other is",
+          "B": "bare, the other is",
+          "C": "bare and the other",
+          "D": "is bare, the other"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The exoplanet Pi Mensae d was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ______ the effect these exoplanets have on nearby stars.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "the detection of distant exoplanets, too dim to be observed in the radial velocity method’s vast zone of discovery, is based on",
+          "B": "the radial velocity method’s zone of discovery is vast, as distant exoplanets too dim to be observed are detected by",
+          "C": "the radial velocity method, with its vast zone of discovery, detects exoplanets that are too dim to be observed by",
+          "D": "distant exoplanets too dim to be observed are detected within the radial velocity method’s vast zone of discovery through"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": "In the eastern Chinese city of Suzhou, known as a hub for silk manufacturing, a unique tradition of embroidery ______ back over two thousand years—one that includes iconic double-sided stitching with different images on each side—remains popular with modern audiences, preserving the city’s cultural heritage.",
+        "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": {
+          "A": "dates",
+          "B": "date",
+          "C": "has dated",
+          "D": "dating"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": "Giant dust plumes from the Sahara Desert that blow across the Atlantic Ocean can have complex and opposing effects on tropical cyclones. On one hand, the dust can enhance the formation of ice clouds in the cyclone’s core, increasing precipitation. ______ the dust can lower sea surface temperatures around the cyclone’s core, weakening the storm.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In other words,",
+          "B": "For example,",
+          "C": "On the other hand,",
+          "D": "Previously,"
+        },
+        "imageUrl": null
+      },
+      "23": {
+        "stimulus": "In 1908, some 298 years after Galileo Galilei and Simon Marius independently discovered Jupiter’s four largest moons (Io, Europa, Ganymede, and Callisto), scientists discovered the moon Pasiphae in orbit around Jupiter. ______ researchers have discovered eighty moons orbiting Jupiter.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "To date,",
+          "B": "In other words,",
+          "C": "For example,",
+          "D": "Rather,"
+        },
+        "imageUrl": null
+      },
+      "24": {
+        "stimulus": "When ordering the branches of the Colville River system, cartographers tend to begin with the riverway’s lowest point, the Colville River. ______ hydrologists begin at the top of the river system, with the Siksikpuk River and other tributaries fed by the riverway’s source, Alaska’s De Long Mountains.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "In a similar way,",
+          "B": "For example,",
+          "C": "By contrast,",
+          "D": "In other words,"
+        },
+        "imageUrl": null
+      },
+      "25": {
+        "stimulus": "The Sultanate of Brunei, a Malay sea power based on the northern coast of Borneo that reached its height around 1600 CE, is considered a thalassocracy—a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the Ottoman Empire (1300s–1900s CE) is known for both land and sea supremacy.",
+        "text": "Which choice completes the text with the most logical transition?",
+        "choices": {
+          "A": "For example, tellurocracies have long overpowered their rivals:",
+          "B": "Likewise, thalassocracies are sea-based powers:",
+          "C": "In other words, empires are classified according to their source of power:",
+          "D": "Of course, the distinction is not always so neat:"
+        },
+        "imageUrl": null
+      },
+      "26": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• The farm-size transition hypothesis predicts that economic pressures associated with modernization result in smaller farms amalgamating into larger-scale commercial farms.\n• Masters et al. (2013): The average farm size in Asia “already has or will soon begin to rise.”\n• Promkhambut et al. (2023) argue that small rice farms in Thailand have adopted modern farming methods without a significant scaling-up of farm size.\n• Promkhambut et al.: “The persistence of [small] rice farms [in Thailand] does not represent a ‘failure’ to modernize...or a ‘truncated’ transition—it is a response to modernization.”",
+        "text": "The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Taken together, the studies by Masters et al. and Promkhambut et al. suggest that rice farms in Thailand have responded to the economic pressures associated with modernization by expanding in size.",
+          "B": "The predicted shift to large-scale commercial farming may not hold true for rice farms in Thailand, where, according to Promkhambut et al., rice farms have remained small as they’ve modernized.",
+          "C": "Masters et al. report that the average farm size “already has or will soon begin to rise” in Asia, a finding that is consistent with the farm-size transition hypothesis.",
+          "D": "Although the farm-size transition hypothesis may be applicable to some countries in Asia, it is inconsistent with the development of rice farming in Thailand."
+        },
+        "imageUrl": null
+      },
+      "27": {
+        "stimulus": "While researching a topic, a student has taken the following notes:\n• Melissa Cody is a Diné (Navajo) textile artist known for blending traditional Diné designs (stripes, zigzags, and diamond patterns) with nontraditional elements.\n• Cody’s work incorporates arrangements of shapes or text inspired by video game graphics and pop culture references.\n• Cody: “I’m a child of ’80s video game culture...I grew up with this world of pixelization.”\n• Cody: “The things we consider tradition now weren’t considered tradition when they first came about.”\n• Her tapestry Only Love Can Break Your Heart features pop song lyrics in a blocky digital font over a jagged diamond pattern.\n• Her tapestry Walking Off No Water Mesa features rectangular panes revealing a stylized landscape patterned by contrasting colored diamonds.",
+        "text": "The student wants to connect a quotation to a particular nontraditional design element in Cody’s work. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": {
+          "A": "Cody’s tapestry Only Love Can Break Your Heart features a jagged diamond pattern, a traditional design element that “we consider tradition now.”",
+          "B": "The pop song lyrics in a blocky digital font in Only Love Can Break Your Heart reflect Cody’s childhood familiarity with blocky video game graphics—what she calls “this world of pixelization.”",
+          "C": "According to Cody, some elements of Walking Off No Water Mesa, such as contrasting colored diamonds, “weren’t considered tradition when they first came about.”",
+          "D": "Cody’s background as “a child of ’80s video game culture” factored into her decision to blend traditional and nontraditional design elements in Walking Off No Water Mesa."
+        },
+        "imageUrl": null
+      }
+    }
+  },
+  "MATH": {
+    "1": {
+      "1": {
+        "stimulus": null,
+        "text": "y = 9x + 19\n\nOne of the two equations in a system of linear equations is given. The system has infinitely many solutions. If the second equation in this system is y = mx + b, where m and b are constants, what is the value of b?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "2": {
+        "stimulus": null,
+        "text": "If 5x + 2 = 32, what is the value of 50x + 20?",
+        "choices": {
+          "A": "6",
+          "B": "60",
+          "C": "70",
+          "D": "320"
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "In each of the following data sets of 5 values, p is a constant. Which of these data sets has the largest standard deviation?",
+        "choices": {
+          "A": "p − 4, p, p, p, p + 4",
+          "B": "p − 1, p − 1, p, p + 1, p + 1",
+          "C": "p, p, p, p, p",
+          "D": "p − 5, p − 4, p, p + 4, p + 5"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "A jar has 430 marbles, and 20% of these marbles are blue. How many marbles in the jar are blue?",
+        "choices": {
+          "A": "86",
+          "B": "172",
+          "C": "215",
+          "D": "410"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": "r + g < 56",
+        "text": "For which of the following tables are all the values of r and their corresponding values of g solutions to the given inequality?",
+        "choices": {
+          "A": "r: 0, 2, 4; g: 55, 53, 51",
+          "B": "r: 0, 2, 4; g: 53, 55, 51",
+          "C": "r: 0, 2, 4; g: 51, 55, 53",
+          "D": "r: 0, 2, 4; g: 51, 53, 55"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q05-rg-tables.svg"
+      },
+      "6": {
+        "stimulus": null,
+        "text": "The scatterplot shows the relationship between the square footage of 12 clothing stores and their annual sales, in millions of dollars. According to the trend shown by the data, which of the following is the best prediction for the annual sales, in millions of dollars, of a clothing store that is 4 thousand square feet?",
+        "choices": {
+          "A": "4.1",
+          "B": "5.4",
+          "C": "7.5",
+          "D": "10.2"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q06-scatterplot.svg"
+      },
+      "7": {
+        "stimulus": null,
+        "text": "x + y = 165\nx + y + y = 185\n\nThe solution to the given system of equations is (x, y). What is the value of y?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 6x − 1/7. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+        "choices": {
+          "A": "(0, −1/7)",
+          "B": "(0, −6)",
+          "C": "(0, 6)",
+          "D": "(0, 7)"
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "A total of 50 people attended a conference and were offered a choice of 4 types of entrees. The table shows the number of people who chose each type of entree.\n\nIf one of these people is selected at random, what is the probability of selecting a person who chose a vegetarian entree? (Express your answer as a decimal or fraction, not as a percent.)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q09-entree-table.svg"
+      },
+      "10": {
+        "stimulus": null,
+        "text": "In the figure shown, lines ℓ and k are parallel and line t intersects both lines. If x > 116, which of the following must be true?",
+        "choices": {
+          "A": "y < 64",
+          "B": "y > 64",
+          "C": "x + y < 180",
+          "D": "x + y > 180"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q10-parallel-lines.svg"
+      },
+      "11": {
+        "stimulus": null,
+        "text": "In the xy-plane, the graph of y = 2x intersects the graph of y = x² − 35 at two points. What is the sum of the x-coordinates of the two points of intersection?",
+        "choices": {
+          "A": "−35",
+          "B": "−5",
+          "C": "2",
+          "D": "7"
+        },
+        "imageUrl": null
+      },
+      "12": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 3(1/4 − x)² + 13/4. What is the value of f(1/4)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "13": {
+        "stimulus": null,
+        "text": "A marine biologist is studying a habitat that contains shoal bass, a species of freshwater fish. The box plot shown summarizes the lengths, in centimeters (cm), of a sample of 70 shoal bass from this habitat. What is the range, in cm, of the lengths of the shoal bass in the sample?",
+        "choices": {
+          "A": "10",
+          "B": "15",
+          "C": "29",
+          "D": "41"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q13-boxplot.svg"
+      },
+      "14": {
+        "stimulus": null,
+        "text": "The area of triangle ABC is 150 square centimeters. What is the height h, in centimeters, of this triangle?",
+        "choices": {
+          "A": "10",
+          "B": "15",
+          "C": "30",
+          "D": "60"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q14-triangle.svg"
+      },
+      "15": {
+        "stimulus": null,
+        "text": "x² − 2x = 29\n\nWhat is one of the solutions to the given equation?",
+        "choices": {
+          "A": "√29",
+          "B": "1 + √30",
+          "C": "30",
+          "D": "29 + √2"
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "Circle A in the xy-plane has the equation (x + 8)² + (y − 8)² = 25. Circle B has the same center as circle A. The radius of circle B is two times the radius of circle A. The equation defining circle B in the xy-plane is (x + 8)² + (y − 8)² = k, where k is a constant. What is the value of k?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "The graph of y = f(x) is shown in the xy-plane. For what value of x does f(x) = 0?",
+        "choices": {
+          "A": "−4",
+          "B": "0",
+          "C": "1",
+          "D": "4"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q17-rational-graph.svg"
+      },
+      "18": {
+        "stimulus": null,
+        "text": "(|3x − 30| + 3)/6 = 5\n\nWhat is the sum of the solutions to the given equation?",
+        "choices": {
+          "A": "1",
+          "B": "19",
+          "C": "20",
+          "D": "30"
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "Line h is defined by (1/2)x + (1/5)y − 40 = 0. Line j is perpendicular to line h in the xy-plane. What is the slope of line j?",
+        "choices": {
+          "A": "−5/2",
+          "B": "−2/5",
+          "C": "5/2",
+          "D": "2/5"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": null,
+        "text": "The width of a rectangle is 16 inches less than 2 times its length, in inches. The area of the rectangle is 130 square inches. What is the width, in inches, of the rectangle?",
+        "choices": {
+          "A": "5",
+          "B": "10",
+          "C": "13",
+          "D": "18"
+        },
+        "imageUrl": null
+      },
+      "21": {
+        "stimulus": null,
+        "text": "A machine makes 8-inch, 9-inch, and 3-inch parts. During a certain day, the number of 8-inch parts that the machine makes is 5 times the number n of 9-inch parts, and the number of 3-inch parts is 4. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+        "choices": {
+          "A": "8(5n) + 9n + 3(4) = 100",
+          "B": "8n + 9n + 3n = 100",
+          "C": "5n + 4 = 100",
+          "D": "6n + 4 = 100"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "An exponential model for the number of squirrels in a certain area estimates that there were 200 squirrels in the area in the year 2003, and that at the end of each 4-year period for the next 20 years, the number of squirrels in the area was 120% more than the number at the end of the previous 4-year period. Which of the following equations represents this model, where N is the estimated number of squirrels in this area t years after 2003, and 0 ≤ t ≤ 20?",
+        "choices": {
+          "A": "N = 200(2.20)^(4t)",
+          "B": "N = 200(1.20)^(4t)",
+          "C": "N = 200(1.20)^(t/4)",
+          "D": "N = 200(2.20)^(t/4)"
+        },
+        "imageUrl": null
+      }
+    },
+    "2": {
+      "1": {
+        "stimulus": null,
+        "text": "In the figure shown, line k intersects lines r and s. If w = 141, which additional piece of information is sufficient to prove that lines r and s are parallel?",
+        "choices": {
+          "A": "x = 39",
+          "B": "y = 141",
+          "C": "w + y = 180",
+          "D": "y + z = 180"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q01-parallel-lines.svg"
+      },
+      "2": {
+        "stimulus": null,
+        "text": "A line passes through the points (4, 7) and (18, 28) in the xy-plane. What is the slope of the line?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "3": {
+        "stimulus": null,
+        "text": "The length of a rectangle's diagonal is √106, and the length of one of the rectangle's sides is 9. What is the perimeter of the rectangle?",
+        "choices": {
+          "A": "106",
+          "B": "45",
+          "C": "28",
+          "D": "14"
+        },
+        "imageUrl": null
+      },
+      "4": {
+        "stimulus": null,
+        "text": "(5x + 6)(8x − 5) = 0\n\nWhich of the following is a solution to the given equation?",
+        "choices": {
+          "A": "−8/5",
+          "B": "−6/5",
+          "C": "−5/6",
+          "D": "−5/8"
+        },
+        "imageUrl": null
+      },
+      "5": {
+        "stimulus": null,
+        "text": "The graph of 9x + y = 16 in the xy-plane is a line. What is the slope of the line?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "6": {
+        "stimulus": null,
+        "text": "x² + y² = 3,185\ny − 8x = 0\n\nA solution to the given system of equations is (x, y), where x < 0. What is the value of y?",
+        "choices": {
+          "A": "−392",
+          "B": "−56",
+          "C": "−8",
+          "D": "−7"
+        },
+        "imageUrl": null
+      },
+      "7": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = (x + 11)/5, and f(a) = −15, where a is a constant. What is the value of a?",
+        "choices": {
+          "A": "−86",
+          "B": "−64",
+          "C": "−64/5",
+          "D": "−4/5"
+        },
+        "imageUrl": null
+      },
+      "8": {
+        "stimulus": null,
+        "text": "The equation y = −4.9(x − 8.9)² + 12,400 gives the estimated height above ground, y, in meters, of a plane, where x is the number of seconds since it started a parabolic maneuver. If this equation is graphed in the xy-plane, which of the following is the best interpretation of the vertex of the graph?",
+        "choices": {
+          "A": "The plane reached an estimated maximum height of 12,400 meters 4.9 seconds after it started the parabolic maneuver.",
+          "B": "The plane reached an estimated maximum height of 12,400 meters 8.9 seconds after it started the parabolic maneuver.",
+          "C": "The plane reached an estimated maximum height of 4.9 meters 12,400 seconds after it started the parabolic maneuver.",
+          "D": "The plane reached an estimated maximum height of 8.9 meters 12,400 seconds after it started the parabolic maneuver."
+        },
+        "imageUrl": null
+      },
+      "9": {
+        "stimulus": null,
+        "text": "a(4 − x) = 28 − 7x\n\nIn the given equation, a is a constant. The equation has exactly one solution. Which of the following CANNOT be the value of a?",
+        "choices": {
+          "A": "1",
+          "B": "4",
+          "C": "7",
+          "D": "28"
+        },
+        "imageUrl": null
+      },
+      "10": {
+        "stimulus": null,
+        "text": "The function g is defined by g(x) = (x + 13)(t − x), where t is a constant. In the xy-plane, the graph of y = g(x) passes through the point (24, 0). What is the value of g(0)?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "11": {
+        "stimulus": null,
+        "text": "In triangle QRS shown, QR < RS. Which expression represents the length of QS?",
+        "choices": {
+          "A": "23 cos Q",
+          "B": "23 sin Q",
+          "C": "23/cos Q",
+          "D": "23/sin Q"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q11-triangle.svg"
+      },
+      "12": {
+        "stimulus": null,
+        "text": "The graph of the equation y = 5^x + k is shown, where k is a constant. What is the value of k?",
+        "choices": {
+          "A": "−8",
+          "B": "−7",
+          "C": "7",
+          "D": "8"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q12-exponential.svg"
+      },
+      "13": {
+        "stimulus": null,
+        "text": "A beekeeper's initial observation of the population of a certain bee colony was 1,800 bees. The beekeeper set a goal to increase the population to 3,300 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,800 and increases by 120 bees per week in the first two weeks after the initial observation, and then increases by 180 bees per week until the beekeeper's goal is reached. According to this model, at the end of week w after the initial observation, where w > 2, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+        "choices": {
+          "A": "p(w) = 3,300 − 180w",
+          "B": "p(w) = 3,180 + 180w",
+          "C": "p(w) = 1,620 − 180w",
+          "D": "p(w) = −120 + 180w"
+        },
+        "imageUrl": null
+      },
+      "14": {
+        "stimulus": null,
+        "text": "The function f is defined by f(x) = 55(0.19)^x. For any positive integer n, the value of f(n) is p% less than the value of f(n − 1). What is the value of p?",
+        "choices": {
+          "A": "19",
+          "B": "45",
+          "C": "55",
+          "D": "81"
+        },
+        "imageUrl": null
+      },
+      "15": {
+        "stimulus": null,
+        "text": "r(x) = 13(x − 2)\ns(x) = x³ + nx² + 2nx + 8\n\nFor the given functions r and s, n is a constant. If r(x) · s(x) = 13(x⁴ − 16), what is the value of n?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "16": {
+        "stimulus": null,
+        "text": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 10 and 11, which inequality represents the possible lengths, x, of the third side of the triangle?",
+        "choices": {
+          "A": "x < 21",
+          "B": "x > 21",
+          "C": "1 < x < 21",
+          "D": "x < 1 or x > 21"
+        },
+        "imageUrl": null
+      },
+      "17": {
+        "stimulus": null,
+        "text": "An area of 58.00 square nautical miles is equivalent to k square kilometers. To the nearest tenth, what is the value of k? (1 nautical mile = 1.852 kilometers)",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "18": {
+        "stimulus": null,
+        "text": "A line in the xy-plane passes through the points (9, 1), (0, 8), and (c, 0). What is the value of c?",
+        "choices": {
+          "gridIn": true
+        },
+        "imageUrl": null
+      },
+      "19": {
+        "stimulus": null,
+        "text": "x/7 + y/9 = 41/63\n\nAn engineer connects resistors in series, where the resistors in the series have a total resistance of 41/63 ohms. In this series, there are x resistors of type A, which each have a resistance of a ohms, and y resistors of type B, which each have a resistance of b ohms. The given equation represents this situation. According to this equation, what is the positive difference between the value of a and the value of b?",
+        "choices": {
+          "A": "41",
+          "B": "2",
+          "C": "41/63",
+          "D": "2/63"
+        },
+        "imageUrl": null
+      },
+      "20": {
+        "stimulus": "The table gives the areas and perimeters of two similar rectangles, where n is a constant.",
+        "text": "What is the value of n?",
+        "choices": {
+          "A": "2,200",
+          "B": "1,760",
+          "C": "880",
+          "D": "440"
+        },
+        "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q20-similar-rectangles.svg"
+      },
+      "21": {
+        "stimulus": null,
+        "text": "In 2005, Aster earned 12% more than in 2004, and in 2006 Aster earned 6% more than in 2005. If Aster earned y times as much in 2004 as in 2006, which of the following is closest to the value of y?",
+        "choices": {
+          "A": "0.5000",
+          "B": "0.7200",
+          "C": "0.8423",
+          "D": "1.1872"
+        },
+        "imageUrl": null
+      },
+      "22": {
+        "stimulus": null,
+        "text": "Which expression is a factor of y²(x − 9) − 36(x − 9)³?",
+        "choices": {
+          "A": "y(x − 9)",
+          "B": "(x − 9)(x − 6)",
+          "C": "y + x − 9",
+          "D": "y + 6x − 54"
+        },
+        "imageUrl": null
+      }
+    }
+  }
+}

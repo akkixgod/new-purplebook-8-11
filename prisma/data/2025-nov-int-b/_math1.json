@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "y = 9x + 19\n\nOne of the two equations in a system of linear equations is given. The system has infinitely many solutions. If the second equation in this system is y = mx + b, where m and b are constants, what is the value of b?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "If 5x + 2 = 32, what is the value of 50x + 20?",
+    "choices": {
+      "A": "6",
+      "B": "60",
+      "C": "70",
+      "D": "320"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "In each of the following data sets of 5 values, p is a constant. Which of these data sets has the largest standard deviation?",
+    "choices": {
+      "A": "p − 4, p, p, p, p + 4",
+      "B": "p − 1, p − 1, p, p + 1, p + 1",
+      "C": "p, p, p, p, p",
+      "D": "p − 5, p − 4, p, p + 4, p + 5"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "A jar has 430 marbles, and 20% of these marbles are blue. How many marbles in the jar are blue?",
+    "choices": {
+      "A": "86",
+      "B": "172",
+      "C": "215",
+      "D": "410"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "r + g < 56",
+    "text": "For which of the following tables are all the values of r and their corresponding values of g solutions to the given inequality?",
+    "choices": {
+      "A": "r: 0, 2, 4; g: 55, 53, 51",
+      "B": "r: 0, 2, 4; g: 53, 55, 51",
+      "C": "r: 0, 2, 4; g: 51, 55, 53",
+      "D": "r: 0, 2, 4; g: 51, 53, 55"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q05-rg-tables.svg"
+  },
+  "6": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between the square footage of 12 clothing stores and their annual sales, in millions of dollars. According to the trend shown by the data, which of the following is the best prediction for the annual sales, in millions of dollars, of a clothing store that is 4 thousand square feet?",
+    "choices": {
+      "A": "4.1",
+      "B": "5.4",
+      "C": "7.5",
+      "D": "10.2"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q06-scatterplot.svg"
+  },
+  "7": {
+    "stimulus": null,
+    "text": "x + y = 165\nx + y + y = 185\n\nThe solution to the given system of equations is (x, y). What is the value of y?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 6x − 1/7. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "choices": {
+      "A": "(0, −1/7)",
+      "B": "(0, −6)",
+      "C": "(0, 6)",
+      "D": "(0, 7)"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "A total of 50 people attended a conference and were offered a choice of 4 types of entrees. The table shows the number of people who chose each type of entree.\n\nIf one of these people is selected at random, what is the probability of selecting a person who chose a vegetarian entree? (Express your answer as a decimal or fraction, not as a percent.)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q09-entree-table.svg"
+  },
+  "10": {
+    "stimulus": null,
+    "text": "In the figure shown, lines ℓ and k are parallel and line t intersects both lines. If x > 116, which of the following must be true?",
+    "choices": {
+      "A": "y < 64",
+      "B": "y > 64",
+      "C": "x + y < 180",
+      "D": "x + y > 180"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q10-parallel-lines.svg"
+  },
+  "11": {
+    "stimulus": null,
+    "text": "In the xy-plane, the graph of y = 2x intersects the graph of y = x² − 35 at two points. What is the sum of the x-coordinates of the two points of intersection?",
+    "choices": {
+      "A": "−35",
+      "B": "−5",
+      "C": "2",
+      "D": "7"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 3(1/4 − x)² + 13/4. What is the value of f(1/4)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "A marine biologist is studying a habitat that contains shoal bass, a species of freshwater fish. The box plot shown summarizes the lengths, in centimeters (cm), of a sample of 70 shoal bass from this habitat. What is the range, in cm, of the lengths of the shoal bass in the sample?",
+    "choices": {
+      "A": "10",
+      "B": "15",
+      "C": "29",
+      "D": "41"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q13-boxplot.svg"
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The area of triangle ABC is 150 square centimeters. What is the height h, in centimeters, of this triangle?",
+    "choices": {
+      "A": "10",
+      "B": "15",
+      "C": "30",
+      "D": "60"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q14-triangle.svg"
+  },
+  "15": {
+    "stimulus": null,
+    "text": "x² − 2x = 29\n\nWhat is one of the solutions to the given equation?",
+    "choices": {
+      "A": "√29",
+      "B": "1 + √30",
+      "C": "30",
+      "D": "29 + √2"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "Circle A in the xy-plane has the equation (x + 8)² + (y − 8)² = 25. Circle B has the same center as circle A. The radius of circle B is two times the radius of circle A. The equation defining circle B in the xy-plane is (x + 8)² + (y − 8)² = k, where k is a constant. What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The graph of y = f(x) is shown in the xy-plane. For what value of x does f(x) = 0?",
+    "choices": {
+      "A": "−4",
+      "B": "0",
+      "C": "1",
+      "D": "4"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math1-q17-rational-graph.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "(|3x − 30| + 3)/6 = 5\n\nWhat is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "1",
+      "B": "19",
+      "C": "20",
+      "D": "30"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "Line h is defined by (1/2)x + (1/5)y − 40 = 0. Line j is perpendicular to line h in the xy-plane. What is the slope of line j?",
+    "choices": {
+      "A": "−5/2",
+      "B": "−2/5",
+      "C": "5/2",
+      "D": "2/5"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The width of a rectangle is 16 inches less than 2 times its length, in inches. The area of the rectangle is 130 square inches. What is the width, in inches, of the rectangle?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "13",
+      "D": "18"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "A machine makes 8-inch, 9-inch, and 3-inch parts. During a certain day, the number of 8-inch parts that the machine makes is 5 times the number n of 9-inch parts, and the number of 3-inch parts is 4. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "choices": {
+      "A": "8(5n) + 9n + 3(4) = 100",
+      "B": "8n + 9n + 3n = 100",
+      "C": "5n + 4 = 100",
+      "D": "6n + 4 = 100"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "An exponential model for the number of squirrels in a certain area estimates that there were 200 squirrels in the area in the year 2003, and that at the end of each 4-year period for the next 20 years, the number of squirrels in the area was 120% more than the number at the end of the previous 4-year period. Which of the following equations represents this model, where N is the estimated number of squirrels in this area t years after 2003, and 0 ≤ t ≤ 20?",
+    "choices": {
+      "A": "N = 200(2.20)^(4t)",
+      "B": "N = 200(1.20)^(4t)",
+      "C": "N = 200(1.20)^(t/4)",
+      "D": "N = 200(2.20)^(t/4)"
+    },
+    "imageUrl": null
+  }
+}

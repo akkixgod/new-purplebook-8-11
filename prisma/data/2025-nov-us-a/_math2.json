@@ -1,0 +1,220 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "A car dealership has only sedans, SUVs, and minivans for sale. On Monday, 30% of the vehicles for sale were sedans and 50% were SUVs. If there were 18 sedans for sale at the dealership on Monday, how many minivans were for sale?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "The graph of the function f, where y = f(x), gives the total cost y, in dollars, for a certain video game system and x games. What is the best interpretation of the slope of the graph in this context?",
+    "choices": {
+      "A": "Each game costs $150.",
+      "B": "The video game system costs $24.",
+      "C": "The video game system costs $150.",
+      "D": "Each game costs $24."
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math2-q02-cost-graph.svg"
+  },
+  "3": {
+    "stimulus": null,
+    "text": "The graph of the equation y = 4^x + k is shown, where k is a constant. What is the value of k?",
+    "choices": {
+      "A": "−6",
+      "B": "−7",
+      "C": "6",
+      "D": "7"
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math2-q03-exponential.svg"
+  },
+  "4": {
+    "stimulus": null,
+    "text": "Line t in the xy-plane has a slope of 1/5 and passes through the point (15, −9). Which equation defines line t?",
+    "choices": {
+      "A": "y = −12x + 1/5",
+      "B": "y = x/5 − 9",
+      "C": "y = 15x − 9",
+      "D": "y = x/5 − 12"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "A machine makes 9-inch, 4-inch, and 7-inch parts. During a certain day, the number of 9-inch parts that the machine makes is 3 times the number n of 4-inch parts, and the number of 7-inch parts is 12. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "choices": {
+      "A": "9n + 4n + 7n = 100",
+      "B": "4n + 12 = 100",
+      "C": "9(3n) + 4n + 7(12) = 100",
+      "D": "3n + 12 = 100"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "In triangle RST, the measure of angle R is 49°, the measure of angle S is x°, and the measure of angle T is (7x − 5)°. Point L lies on RS, point K lies on ST, and LK is parallel to RT. What is the measure, in degrees, of angle SKL?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "Which point (x, y) is a solution to the given system of inequalities in the xy-plane?\ny ≥ x + 9\ny ≤ −8x − 6",
+    "choices": {
+      "A": "(−3, 10)",
+      "B": "(−3, 5)",
+      "C": "(−1, 5)",
+      "D": "(−1, 10)"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A circle in the xy-plane has its center at (3, 5) and has a radius of length 7. Which equation represents this circle?",
+    "choices": {
+      "A": "(x + 3)² + (y + 5)² = 49",
+      "B": "(x − 3)² + (y − 5)² = 49",
+      "C": "(x − 3)² + (y − 5)² = 7",
+      "D": "(x + 3)² + (y + 5)² = 7"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "The table gives the areas and perimeters of two similar rectangles, where n is a constant. What is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math2-q09-rectangles.svg"
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The function h is defined by h(x) = (10x²)/(x² − 9k²) − (5x)/(x + 3k), where k is a positive constant. What is the value of h(21k/8)?",
+    "choices": {
+      "A": "−5/3",
+      "B": "−35/12",
+      "C": "−14",
+      "D": "−35"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The functions f and g are defined by the given equations, where x ≥ 0. a and b are integer constants, a < b, and a > 1. If y = f(x) and y = g(x) are graphed in the xy-plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where x ≥ 0?\nI. f(x) = a(0.48)^(−bx)\nII. g(x) = a(1.52)^(x + 2) + b",
+    "choices": {
+      "A": "I and II",
+      "B": "II only",
+      "C": "Neither I nor II",
+      "D": "I only"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "How many solutions does the equation 3(x + 12) + 9x = 12(x + 3) have?",
+    "choices": {
+      "A": "Infinitely many",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Zero"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "(1/3)x² − 7x + k = 4\nIn the given equation, k is a constant. A solution to the equation is 21/2 − (3√69)/2. What is the value of k?",
+    "choices": {
+      "A": "−11",
+      "B": "11",
+      "C": "−15",
+      "D": "4"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "In a set of four consecutive odd integers, where the integers are ordered from least to greatest, the first integer is represented by x. The product of 28 and the third odd integer in the set is at most the value of 50 less than the sum of the first and fourth odd integers in the set. What is the greatest possible value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "The quadratic equation (6x − 16)² = a, where a is a constant, has exactly one real solution. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The solution to the given system of equations is (x, y). What is the value of y?\nx + y = 105\nx + 2y = 185",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "An area of 55.00 square nautical miles is equivalent to k square kilometers. To the nearest tenth, what is the value of k?\n(1 nautical mile = 1.852 kilometers)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "In 2012, Chloe earned 17% more than in 2011, and in 2013 Chloe earned 3% more than in 2012. If Chloe earned y times as much in 2011 as in 2013, which of the following is closest to the value of y?",
+    "choices": {
+      "A": "1.2051",
+      "B": "0.1765",
+      "C": "0.8298",
+      "D": "0.5100"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "In the figure, AD and BC intersect at point D. The measure of angle ABD is w°, the measure of angle CAD is z°, and AD = 186. If cos w° = 9/41, what is the value of tan z°?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-nov-us-a/figures/math2-q19-triangle.svg"
+  },
+  "20": {
+    "stimulus": null,
+    "text": "Which of the following expressions is(are) a factor of 3x² + 10x − 48?\nI. x − 6\nII. 3x − 8",
+    "choices": {
+      "A": "Neither I nor II",
+      "B": "I only",
+      "C": "I and II",
+      "D": "II only"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "Zuri has a goal to run at least 12 miles per week while training for a race. This week, she has run 8 miles. If x represents the additional number of miles Zuri needs to run this week to meet her goal, which inequality represents this situation?",
+    "choices": {
+      "A": "8 + x > 12",
+      "B": "8 + x < 12",
+      "C": "8 − x < 12",
+      "D": "8 − x ≥ 12"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "In the xy-plane, the graph of y = 6x intersects the graph of y = x² − 55 at two points. What is the sum of the x-coordinates of the two points of intersection?",
+    "choices": {
+      "A": "−5",
+      "B": "−55",
+      "C": "11",
+      "D": "6"
+    },
+    "imageUrl": null
+  }
+}

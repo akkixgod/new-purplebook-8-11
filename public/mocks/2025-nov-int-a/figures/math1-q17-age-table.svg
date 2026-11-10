@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="462" height="236" viewBox="0 0 462 236">
+<rect width="100%" height="100%" fill="#fff"/>
+<rect x="16" y="16" width="280" height="44" fill="#f3f4f6" stroke="#111"/>
+<text x="156.0" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Age group</text>
+<rect x="296" y="16" width="150" height="44" fill="#f3f4f6" stroke="#111"/>
+<text x="371.0" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="700">Proportion</text>
+<rect x="16" y="60" width="280" height="40" fill="#fff" stroke="#111"/>
+<text x="28" y="86" font-family="Georgia, serif" font-size="15">Less than 18 years old</text>
+<rect x="296" y="60" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="371.0" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="15">26%</text>
+<rect x="16" y="100" width="280" height="40" fill="#fff" stroke="#111"/>
+<text x="28" y="126" font-family="Georgia, serif" font-size="15">18–40 years old</text>
+<rect x="296" y="100" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="371.0" y="126" text-anchor="middle" font-family="Georgia, serif" font-size="15">21%</text>
+<rect x="16" y="140" width="280" height="40" fill="#fff" stroke="#111"/>
+<text x="28" y="166" font-family="Georgia, serif" font-size="15">41–65 years old</text>
+<rect x="296" y="140" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="371.0" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="15">29%</text>
+<rect x="16" y="180" width="280" height="40" fill="#fff" stroke="#111"/>
+<text x="28" y="206" font-family="Georgia, serif" font-size="15">Greater than 65 years old</text>
+<rect x="296" y="180" width="150" height="40" fill="#fff" stroke="#111"/>
+<text x="371.0" y="206" text-anchor="middle" font-family="Georgia, serif" font-size="15">24%</text>
+</svg>

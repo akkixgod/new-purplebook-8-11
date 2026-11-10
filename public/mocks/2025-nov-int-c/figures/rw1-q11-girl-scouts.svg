@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="280" viewBox="0 0 780 280">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="390" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Members of the Girl Scouts of America, by Age Category, 1992–1995 (in thousands)</text>
+  <rect x="20" y="42" width="300" height="40" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="32" y="67" font-family="Georgia, serif" font-size="14" font-weight="700">Category</text>
+  <rect x="320" y="42" width="110" height="40" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="375" y="67" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">1992</text>
+  <rect x="430" y="42" width="110" height="40" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="485" y="67" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">1993</text>
+  <rect x="540" y="42" width="110" height="40" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="595" y="67" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">1994</text>
+  <rect x="650" y="42" width="110" height="40" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="705" y="67" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">1995</text>
+  <rect x="20" y="82" width="300" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="32" y="107" font-family="Georgia, serif" font-size="14" font-weight="700">Ambassadors (older than 17)</text>
+  <rect x="320" y="82" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="375" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="14">863</text>
+  <rect x="430" y="82" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="14">826</text>
+  <rect x="540" y="82" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="595" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="14">802</text>
+  <rect x="650" y="82" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="705" y="107" text-anchor="middle" font-family="Georgia, serif" font-size="14">784</text>
+  <rect x="20" y="122" width="300" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="32" y="147" font-family="Georgia, serif" font-size="14" font-weight="700">Seniors (14–17 years)</text>
+  <rect x="320" y="122" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="375" y="147" text-anchor="middle" font-family="Georgia, serif" font-size="14">50</text>
+  <rect x="430" y="122" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="147" text-anchor="middle" font-family="Georgia, serif" font-size="14">43</text>
+  <rect x="540" y="122" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="595" y="147" text-anchor="middle" font-family="Georgia, serif" font-size="14">45</text>
+  <rect x="650" y="122" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="705" y="147" text-anchor="middle" font-family="Georgia, serif" font-size="14">52</text>
+  <rect x="20" y="162" width="300" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="32" y="187" font-family="Georgia, serif" font-size="14" font-weight="700">Daisies (5–6 years)</text>
+  <rect x="320" y="162" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="375" y="187" text-anchor="middle" font-family="Georgia, serif" font-size="14">207</text>
+  <rect x="430" y="162" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="187" text-anchor="middle" font-family="Georgia, serif" font-size="14">191</text>
+  <rect x="540" y="162" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="595" y="187" text-anchor="middle" font-family="Georgia, serif" font-size="14">190</text>
+  <rect x="650" y="162" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="705" y="187" text-anchor="middle" font-family="Georgia, serif" font-size="14">195</text>
+  <rect x="20" y="202" width="300" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="32" y="227" font-family="Georgia, serif" font-size="14" font-weight="700">Brownies (6–8 years)</text>
+  <rect x="320" y="202" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="375" y="227" text-anchor="middle" font-family="Georgia, serif" font-size="14">1,319</text>
+  <rect x="430" y="202" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="227" text-anchor="middle" font-family="Georgia, serif" font-size="14">1,225</text>
+  <rect x="540" y="202" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="595" y="227" text-anchor="middle" font-family="Georgia, serif" font-size="14">1,181</text>
+  <rect x="650" y="202" width="110" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="705" y="227" text-anchor="middle" font-family="Georgia, serif" font-size="14">1,142</text>
+</svg>

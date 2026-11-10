@@ -1,0 +1,226 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "In the figure shown, line k intersects lines r and s. If w = 141, which additional piece of information is sufficient to prove that lines r and s are parallel?",
+    "choices": {
+      "A": "x = 39",
+      "B": "y = 141",
+      "C": "w + y = 180",
+      "D": "y + z = 180"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q01-parallel-lines.svg"
+  },
+  "2": {
+    "stimulus": null,
+    "text": "A line passes through the points (4, 7) and (18, 28) in the xy-plane. What is the slope of the line?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "The length of a rectangle's diagonal is √106, and the length of one of the rectangle's sides is 9. What is the perimeter of the rectangle?",
+    "choices": {
+      "A": "106",
+      "B": "45",
+      "C": "28",
+      "D": "14"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "(5x + 6)(8x − 5) = 0\n\nWhich of the following is a solution to the given equation?",
+    "choices": {
+      "A": "−8/5",
+      "B": "−6/5",
+      "C": "−5/6",
+      "D": "−5/8"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "The graph of 9x + y = 16 in the xy-plane is a line. What is the slope of the line?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "x² + y² = 3,185\ny − 8x = 0\n\nA solution to the given system of equations is (x, y), where x < 0. What is the value of y?",
+    "choices": {
+      "A": "−392",
+      "B": "−56",
+      "C": "−8",
+      "D": "−7"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = (x + 11)/5, and f(a) = −15, where a is a constant. What is the value of a?",
+    "choices": {
+      "A": "−86",
+      "B": "−64",
+      "C": "−64/5",
+      "D": "−4/5"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "The equation y = −4.9(x − 8.9)² + 12,400 gives the estimated height above ground, y, in meters, of a plane, where x is the number of seconds since it started a parabolic maneuver. If this equation is graphed in the xy-plane, which of the following is the best interpretation of the vertex of the graph?",
+    "choices": {
+      "A": "The plane reached an estimated maximum height of 12,400 meters 4.9 seconds after it started the parabolic maneuver.",
+      "B": "The plane reached an estimated maximum height of 12,400 meters 8.9 seconds after it started the parabolic maneuver.",
+      "C": "The plane reached an estimated maximum height of 4.9 meters 12,400 seconds after it started the parabolic maneuver.",
+      "D": "The plane reached an estimated maximum height of 8.9 meters 12,400 seconds after it started the parabolic maneuver."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "a(4 − x) = 28 − 7x\n\nIn the given equation, a is a constant. The equation has exactly one solution. Which of the following CANNOT be the value of a?",
+    "choices": {
+      "A": "1",
+      "B": "4",
+      "C": "7",
+      "D": "28"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = (x + 13)(t − x), where t is a constant. In the xy-plane, the graph of y = g(x) passes through the point (24, 0). What is the value of g(0)?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "In triangle QRS shown, QR < RS. Which expression represents the length of QS?",
+    "choices": {
+      "A": "23 cos Q",
+      "B": "23 sin Q",
+      "C": "23/cos Q",
+      "D": "23/sin Q"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q11-triangle.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "The graph of the equation y = 5^x + k is shown, where k is a constant. What is the value of k?",
+    "choices": {
+      "A": "−8",
+      "B": "−7",
+      "C": "7",
+      "D": "8"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q12-exponential.svg"
+  },
+  "13": {
+    "stimulus": null,
+    "text": "A beekeeper's initial observation of the population of a certain bee colony was 1,800 bees. The beekeeper set a goal to increase the population to 3,300 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,800 and increases by 120 bees per week in the first two weeks after the initial observation, and then increases by 180 bees per week until the beekeeper's goal is reached. According to this model, at the end of week w after the initial observation, where w > 2, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+    "choices": {
+      "A": "p(w) = 3,300 − 180w",
+      "B": "p(w) = 3,180 + 180w",
+      "C": "p(w) = 1,620 − 180w",
+      "D": "p(w) = −120 + 180w"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 55(0.19)^x. For any positive integer n, the value of f(n) is p% less than the value of f(n − 1). What is the value of p?",
+    "choices": {
+      "A": "19",
+      "B": "45",
+      "C": "55",
+      "D": "81"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "r(x) = 13(x − 2)\ns(x) = x³ + nx² + 2nx + 8\n\nFor the given functions r and s, n is a constant. If r(x) · s(x) = 13(x⁴ − 16), what is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 10 and 11, which inequality represents the possible lengths, x, of the third side of the triangle?",
+    "choices": {
+      "A": "x < 21",
+      "B": "x > 21",
+      "C": "1 < x < 21",
+      "D": "x < 1 or x > 21"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "An area of 58.00 square nautical miles is equivalent to k square kilometers. To the nearest tenth, what is the value of k? (1 nautical mile = 1.852 kilometers)",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "A line in the xy-plane passes through the points (9, 1), (0, 8), and (c, 0). What is the value of c?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "x/7 + y/9 = 41/63\n\nAn engineer connects resistors in series, where the resistors in the series have a total resistance of 41/63 ohms. In this series, there are x resistors of type A, which each have a resistance of a ohms, and y resistors of type B, which each have a resistance of b ohms. The given equation represents this situation. According to this equation, what is the positive difference between the value of a and the value of b?",
+    "choices": {
+      "A": "41",
+      "B": "2",
+      "C": "41/63",
+      "D": "2/63"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "The table gives the areas and perimeters of two similar rectangles, where n is a constant.",
+    "text": "What is the value of n?",
+    "choices": {
+      "A": "2,200",
+      "B": "1,760",
+      "C": "880",
+      "D": "440"
+    },
+    "imageUrl": "/mocks/2025-nov-int-b/figures/math2-q20-similar-rectangles.svg"
+  },
+  "21": {
+    "stimulus": null,
+    "text": "In 2005, Aster earned 12% more than in 2004, and in 2006 Aster earned 6% more than in 2005. If Aster earned y times as much in 2004 as in 2006, which of the following is closest to the value of y?",
+    "choices": {
+      "A": "0.5000",
+      "B": "0.7200",
+      "C": "0.8423",
+      "D": "1.1872"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "Which expression is a factor of y²(x − 9) − 36(x − 9)³?",
+    "choices": {
+      "A": "y(x − 9)",
+      "B": "(x − 9)(x − 6)",
+      "C": "y + x − 9",
+      "D": "y + 6x − 54"
+    },
+    "imageUrl": null
+  }
+}

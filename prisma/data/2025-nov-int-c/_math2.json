@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The equation d = 20w + 100 gives the total amount of money d, in dollars, that Janna plans to save w weeks after she starts to save. What is the total amount of money, in dollars, she plans to save in 10 weeks?",
+    "choices": {
+      "A": "250",
+      "B": "300",
+      "C": "350",
+      "D": "400"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "x + 2y = 28\n2y = 15\n\nThe solution to the given system of equations is (x, y). What is the value of x?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "b² + 5c = 6d\n\nThe given equation relates the real numbers b, c, and d, where d > (5/6)c. Which equation correctly expresses b in terms of c and d?",
+    "choices": {
+      "A": "b = (6d − 5c)/2",
+      "B": "b = (6d + 5c)/2",
+      "C": "b = ±√(6d − 5c)",
+      "D": "b = ±√(6d + 5c)"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "The area of triangle ABC is 210 square centimeters. What is the height, h, in centimeters, of this triangle?",
+    "choices": {
+      "A": "10",
+      "B": "21",
+      "C": "42",
+      "D": "84"
+    },
+    "imageUrl": "/mocks/2025-nov-int-c/figures/math2-q04-triangle.svg"
+  },
+  "5": {
+    "stimulus": null,
+    "text": "g(x) = 2(14x − 15)\n\nWhat is the y-coordinate of the y-intercept of the graph of y = g(x) − 5 in the xy-plane?",
+    "choices": {
+      "A": "−35",
+      "B": "−30",
+      "C": "−20",
+      "D": "−15"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "The table shows the distribution of people in a certain city by age group.",
+    "text": "If a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?",
+    "choices": {
+      "A": "0.26",
+      "B": "0.36",
+      "C": "0.46",
+      "D": "0.93"
+    },
+    "imageUrl": "/mocks/2025-nov-int-c/figures/math2-q06-age-table.svg"
+  },
+  "7": {
+    "stimulus": null,
+    "text": "h(t) = −16t² + b\n\nThe function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 23.04 feet above the ground when it is dropped at t = 0. How many seconds after being dropped does the function estimate the object will hit the ground?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "The length of a rectangle's diagonal is √106, and the length of one of the rectangle's sides is 9. What is the perimeter of the rectangle?",
+    "choices": {
+      "A": "106",
+      "B": "45",
+      "C": "28",
+      "D": "14"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "Circle A: (x − 7)² + (y − p)² = 21\nCircle B: (x + 7)² + (y − p)² = 21\n\nIn the given equations, p is a positive constant. Which statement correctly compares the graphs of circles A and B in the xy-plane?",
+    "choices": {
+      "A": "Circle B is the reflection of circle A across the x-axis.",
+      "B": "Circle B is the reflection of circle A across the y-axis.",
+      "C": "Circle B is the translation of circle A 14 units up.",
+      "D": "Circle B is the translation of circle A 14 units to the right."
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "a(9 − x) = 36 − 4x\n\nIn the given equation, a is a constant. The equation has exactly one solution. Which of the following CANNOT be the value of a?",
+    "choices": {
+      "A": "1",
+      "B": "4",
+      "C": "9",
+      "D": "36"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "a, 26, 29, b, 33, 49, c\n\nFor the given data set, the data values are listed in ascending order, where a, b, and c are constants. For this data set, the mean is 36, the median is 29, and the range is 72. What is the value of c?",
+    "choices": {
+      "A": "53",
+      "B": "72",
+      "C": "79",
+      "D": "98"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "y = 3(a/6)^{x+c} − b\n\nHow many times does the graph of the given equation in the xy-plane cross the x-axis, where a, b, and c are positive constants such that a > 6 and b > c?",
+    "choices": {
+      "A": "Zero",
+      "B": "One",
+      "C": "Two",
+      "D": "Three"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "A linear function g is defined by g(x) = ax + b, where a and b are constants. If g(−2) = −7 and g(1) = 5, what is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "2x² − 8x − 21 = 0\n\nOne solution to the given equation can be written as x = h − (1/2)√k, where h and k are integer constants. What is the value of h + k?",
+    "choices": {
+      "A": "−24",
+      "B": "10",
+      "C": "29",
+      "D": "60"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "r(x) = 9(x − 3)\ns(x) = x³ + nx² + 3nx + 27\n\nFor the given functions r and s, n is a constant. If r(x) · s(x) = 9(x⁴ − 81), what is the value of n?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "At different times on a certain day, a manager at a theme park recorded the number of visitors. An exponential model gives the estimated number of visitors, V, at the theme park t hours after the theme park opened, where t ≤ 3. Based on the model, 85 visitors were estimated to be at the theme park when it opened, and every 30 minutes the estimated number of visitors increased by 140% of the estimated number of visitors 30 minutes earlier. Which of the following equations best represents this model?",
+    "choices": {
+      "A": "V = 85(1.40)^{t/30}",
+      "B": "V = 85(1.40)^{2t}",
+      "C": "V = 85(2.40)^{t/30}",
+      "D": "V = 85(2.40)^{2t}"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The function v is defined by the equation v(x) = (x² + bx + c)/((x + 5)(x − 19)), where b and c are constants. In the xy-plane, the graph of y = v(x) passes through the points (0, 66/95) and (11, 0). If v(q) = 0, which of the following could be the value of q?",
+    "choices": {
+      "A": "−6",
+      "B": "−5",
+      "C": "5",
+      "D": "6"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "Line s is defined by x − 4y = 24. Line t is perpendicular to line s in the xy-plane and passes through the points (k, 0) and (60, −k). What is the value of k?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "x/7 + y/5 = 41/35\n\nAn engineer connects resistors in series, where the resistors in the series have a total resistance of 41/35 ohms. In this series, there are x resistors of type A, which each have a resistance of a ohms, and y resistors of type B, which each have a resistance of b ohms. The given equation represents this situation. According to this equation, what is the positive difference between the value of a and the value of b?",
+    "choices": {
+      "A": "41",
+      "B": "2",
+      "C": "41/35",
+      "D": "2/35"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "The functions f and g are defined by the given equations, where x ≥ 0, a and b are integer constants, a < b, and a > 1. If y = f(x) and y = g(x) are graphed in the xy-plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where x ≥ 0?\n\nI. f(x) = a(0.63)^{−bx}\nII. g(x) = a(1.37)^{x+2} + b",
+    "choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "In triangle XYZ, the measure of angle X is x°, the measure of angle Y is y°, and the measure of angle Z is 31°. If x > y > 31, which of the following additional pieces of information is NOT sufficient to determine the values of x and y?",
+    "choices": {
+      "A": "The value of 31 − x − 3y",
+      "B": "The value of 31 + 3x + y",
+      "C": "The value of 31 − 3x + 3y",
+      "D": "The value of 31 − 3x − 3y"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "In 2013, Chloe earned 11% more than in 2012, and in 2014 Chloe earned 6% more than in 2013. If Chloe earned y times as much in 2012 as in 2014, which of the following is closest to the value of y?",
+    "choices": {
+      "A": "0.5455",
+      "B": "0.6600",
+      "C": "0.8499",
+      "D": "1.1766"
+    },
+    "imageUrl": null
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "1": {
+    "stimulus": "A study by Augusta D. Gaspar and Joana Carneiro Pinto found that a bank’s corporate social responsibility (CSR) efforts, including environmental and social campaigns, improve its corporate image. When CSR was mentioned in bank marketing strategies, favorability scores assigned by study participants tended to ______ the scores assigned by participants when CSR wasn’t mentioned.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "identify",
+      "B": "disturb",
+      "C": "replace",
+      "D": "exceed"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": "Researchers have long debated the origins of silver used in European coins from the 600s through the early 800s CE. Geochemical analysis by Kershaw et al. of 49 coins dating to 660–820 CE provides concrete evidence that reconciles two competing theories: early coins were made from Byzantine silver, and later coins used Frankish silver, findings that provide firm details in a previously ______ area of study.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "esoteric",
+      "B": "authoritative",
+      "C": "solitary",
+      "D": "speculative"
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": "The following text is adapted from Alice Dunbar Nelson’s 1899 short story “The Fisherman of Pass Christian.” Pass Christian is a city in the US state of Mississippi.\n\nThe swift breezes on the beach at Pass Christian meet and conflict as though each strove for the <u>mastery</u> of the air. The land-breeze blows down through the pines, resinous, fragrant, cold, bringing breath-like memories of dim, dark woods shaded by myriad pine-needles. The breeze from the Gulf is warm and soft and languorous, blowing up from the south with its suggestion of tropical warmth.",
+    "text": "As used in the text, what does the word “mastery” most nearly mean?",
+    "choices": {
+      "A": "Familiarity",
+      "B": "Domination",
+      "C": "Comprehension",
+      "D": "Skillfulness"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": "Science fiction has long served as a ______ real-world technological advancements. Indeed, from Jules Verne’s 1865 novel From the Earth to the Moon inspiring developments in aerospace engineering to the television show Star Trek sparking the design of the ancestor of today’s smartphones, these narratives have spurred many actual innovations.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "diversion from",
+      "B": "catalyst of",
+      "C": "constraint to",
+      "D": "sponsor of"
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": "Any effort to raise the toll that drivers must pay to use the Lewis and Clark Bridge, which spans the Ohio River to connect Indiana and Kentucky, should explain why a higher toll is necessary; no amount of justification, however, is likely to persuade some drivers who believe the current toll is ______.",
+    "text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "exorbitant",
+      "B": "contentious",
+      "C": "equivocal",
+      "D": "warranted"
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": "Moving beyond a simple “present or absent” designation, researchers created a new classification system that allows for a nuanced understanding of bioluminescence in marine organisms that was unavailable under binary classification systems. <u>The new six-point scale considers varying levels of supporting evidence used to identify bioluminescent species.</u> For example, the firefly squid scores 1 because of inconsistent reports, the emperor squid scores 4 because of its anatomical similarity to known luminous relatives, and the shaggy anglerfish scores 6 because of substantiated direct observations.",
+    "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "choices": {
+      "A": "It emphasizes the thoroughness of the research conducted.",
+      "B": "It explains how the new classification system was derived from the previous binary system.",
+      "C": "It justifies the need for a new classification system for marine species.",
+      "D": "It explains the basis for the new system’s scoring criteria."
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": "Postcranial skeletal pneumaticity (PSP) refers to the presence of extensions of an animal’s lungs and air sacs inside its bones. These extensions are known as pneumatic diverticula. <u>Vascularity and other identifying characteristics of pneumatic diverticula tend not to fossilize</u>, so paleontologists have relied on studies of living bird species to document these qualities, augmenting their findings from fossil analysis to glean additional insights into the respiratory systems of extinct genera such as Tyrannosaurus, Euhelopus, and other Cretaceous theropods and sauropods that may have also exhibited PSP.",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It presents information about the fossilization of pneumatic diverticula that has led paleontologists to question the applicability of studies of certain living species.",
+      "B": "It accounts for disagreements among paleontologists about how the respiratory systems of certain extinct genera functioned.",
+      "C": "It highlights an issue with fossils that previously led paleontologists to misidentify certain characteristics of pneumatic diverticula.",
+      "D": "It indicates why paleontologists have used another approach in addition to fossil analysis to learn about certain aspects of pneumatic diverticula."
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "Adult glass eels can be found off the coast of Maine, but the eels begin their lives in the Sargasso Sea, a biodiverse area in the North Atlantic Ocean where they are born and later return to breed. Though biologists believe they have identified the general area in the Sargasso Sea that is crucial to the endangered eels’ survival, little is yet known about how the animals spawn there. Scientists believe that solving the mystery will lead to better conservation of glass eels and their habitat, <u>helping in turn to sustain several other species that rely on them as a food source.</u>",
+    "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "choices": {
+      "A": "It suggests that scientists are more concerned about other species than about glass eels’ habitat.",
+      "B": "It indicates that the benefit of understanding glass eels’ spawning behavior extends beyond the eels.",
+      "C": "It discusses a role that glass eels and other species serve in supporting the ecosystem of the Sargasso Sea.",
+      "D": "It presents a finding from a study that identifies the circumstances required to ensure the survival of glass eels."
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": "Seesaw Girl was Linda Sue Park’s debut novel. It was published in 1999. A debut novel is the first book that an author has published. Debut novels are especially interesting to literary critics (people whose job it is to evaluate books) and readers because these books offer a look at new voices in the literary world.",
+    "text": "According to the text, what is someone who professionally evaluates books called?",
+    "choices": {
+      "A": "A book publisher",
+      "B": "A literary critic",
+      "C": "A bookseller",
+      "D": "An author"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": "While doing research for a paper about metal exports, a student finds a table indicating how much copper was mined in each of four countries in 1995 and 2020. The student notes that in 1995, Mexico mined ______",
+    "text": "Which choice most effectively uses data from the table to complete the statement?",
+    "choices": {
+      "A": "0.38 million metric tons of copper.",
+      "B": "0.33 million metric tons of copper.",
+      "C": "1.85 million metric tons of copper.",
+      "D": "0.44 million metric tons of copper."
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/rw1-q10-table.svg"
+  },
+  "11": {
+    "stimulus": "Peter Pan is a 1911 novel by J.M. Barrie. In the fantasy novel, Peter is a young boy who can fly. He brings Wendy, John, and Michael to Neverland, the mythical island where he lives. The narrator suggests that activity on the island stops when Peter is away and starts again when he is about to return: ______",
+    "text": "Which quotation from Peter Pan best supports the claim?",
+    "choices": {
+      "A": "“The rock was very small now.”",
+      "B": "“Wendy and John and Michael stood on tip-toe in the air to get their first sight of the island.”",
+      "C": "“Peter was alone on the lagoon.”",
+      "D": "“Feeling that Peter was on his way back, the Neverland had again woke into life.”"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": "The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts the character Camilla as experiencing a change in how she perceives her immediate surroundings: ______",
+    "text": "Which quotation from a translation of The Underdogs most effectively illustrates the claim?",
+    "choices": {
+      "A": "“Camilla stared up at the blue sky so [Luis] should not read the expression in her eyes.”",
+      "B": "“Camilla, standing on the beach of washed, round stones, caught a reflection of herself in the waters.”",
+      "C": "“All nature was as she had found it before, evening upon evening; but in the stones and the dry weeds, amid the fragrance of the air and the light whir of falling leaves, Camilla sensed a new strangeness, a vast desolation in everything about her.”",
+      "D": "“[Camilla] closed her eyes fast to hold back the tears that welled up in them. Then, with the back of her hand, she wiped her wet cheeks, and just as she had done three days ago, fled with all the swiftness of a young deer.”"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": "The Rarámuri language of northern Mexico has 20 vowel and consonant sounds. In contrast, the Taa language of southern Africa has over 100. Why would languages differ in this way? One researcher has claimed that when modern humans arose in Africa, they spoke a single language, but as humans gradually spread throughout Africa and then around the globe, that language developed into new languages. Those developed into still more languages as small bands of humans spread even farther, with each new language retaining fewer sounds from humanity’s original language.",
+    "text": "Which finding, if true, would most directly weaken the researcher’s claim?",
+    "choices": {
+      "A": "A wider range of sounds is found across the languages of Africa as a whole than across the languages of South America as a whole.",
+      "B": "Languages that emerged in Europe and Western Asia tend to have more sounds than languages that emerged in Africa do.",
+      "C": "Languages that emerged in Central America tend to have fewer sounds than languages that emerged in Western Europe do, and Central America is farther away from Africa than Western Europe is.",
+      "D": "The number of sounds is fairly consistent across the various languages that emerged in the last parts of Africa to be settled by humans."
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": "Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like acoustic folk and funk and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Jose Gonzalez’s “Heartbeats” as their favorite recording and the musician preferred to listen to it at a volume of 82.2 decibels, the nonmusician would be expected to ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "find listening to “Heartbeats” at 82.2 decibels less enjoyable than listening to it at a lower volume.",
+      "B": "prefer listening to other music at 82.2 decibels over listening to “Heartbeats” at that volume.",
+      "C": "enjoy listening to the nature sounds at 82.2 decibels more than listening to “Heartbeats” at 82.2 decibels.",
+      "D": "not find it enjoyable to listen to any recordings at a volume as low as 82.2 decibels."
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": "Outi Tervo and team studied the effect of human-caused noise on narwhals (Monodon monoceros), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo’s team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______",
+    "text": "Which choice most logically completes the text?",
+    "choices": {
+      "A": "narwhals forage at shallower depths in the presence of ship sounds alone than in the presence of ship sounds coupled with sonic pulses.",
+      "B": "sonic pulses can be heard at significantly greater ocean depths than ship sounds can.",
+      "C": "the narwhals weren’t as sensitive to human-caused sounds as the researchers had predicted.",
+      "D": "ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals’ auditory environment."
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": "Many works of the Greek mathematician Euclid (3rd century BCE) are ______ his Elements, a treatise of mathematical knowledge, is an extant work: it can still be read.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "lost and conversely,",
+      "B": "lost, conversely,",
+      "C": "lost. Conversely,",
+      "D": "lost, and conversely"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "A 2024 study cataloged all the trees in Amsterdam to evaluate the biodiversity of the city’s urban forest. The researchers, finding that administrative unit GK13 had a 0.62 ratio of native to non-native trees, ______ efforts to improve the biodiversity of the trees in that unit and other areas with a similarly moderate ratio.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "recommended",
+      "B": "recommending",
+      "C": "to recommend",
+      "D": "having recommended"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": "Growing as large as three meters in diameter, the leaves of the giant Amazonian waterlily feature a complex network of radiating veins that provide structural ______ in thickness from the center to the edges, these veins allow the leaves to maintain their large size and buoyancy with minimal material, optimizing light capture and photosynthesis.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "support. Decreasing",
+      "B": "support decreasing",
+      "C": "support, while decreasing",
+      "D": "support, decreasing"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": "______ a US state when it ratified the US Constitution on December 12, 1787, was thereby empowered, via its representatives to the US Congress, to vote on whether to admit Louisiana as a state on April 30, 1812.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Pennsylvania would officially become",
+      "B": "Pennsylvania had officially become",
+      "C": "Pennsylvania officially became",
+      "D": "Pennsylvania, having officially become"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "Though largely eclipsed by her success as a novelist, Jessie Redmon Fauset’s contributions as literary editor of The Crisis, a New York City–based periodical whose influence was arguably at its peak during her Harlem Renaissance–era tenure, ______ in recent scholarship that explores Fauset’s instrumental role in shaping the magazine’s aesthetic and debuting the work of Langston Hughes and other emerging Black writers.",
+    "text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "has been revisited",
+      "B": "have been revisited",
+      "C": "revisited",
+      "D": "having been revisited"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": "Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "However,",
+      "C": "Regardless,",
+      "D": "Next,"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": "Giant dust plumes from the Sahara Desert that blow across the Atlantic Ocean can have complex and opposing effects on tropical cyclones. On one hand, the dust can enhance the formation of ice clouds in the cyclone’s core, increasing precipitation. ______ the dust can lower sea surface temperatures around the cyclone’s core, weakening the storm.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "On the other hand,",
+      "B": "Previously,",
+      "C": "For example,",
+      "D": "In other words,"
+    },
+    "imageUrl": null
+  },
+  "23": {
+    "stimulus": "Elvis Presley’s iconic jumpsuit Red Pinwheel featured rhinestones arranged in pinwheel patterns. Historians note that adornments such as these added between twenty-five and fifty pounds to each of Elvis’s stage outfits. ______ the fabric used to make the outfits was light and flexible, enabling freedom of motion.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "On the other hand,",
+      "B": "That is,",
+      "C": "For instance,",
+      "D": "There,"
+    },
+    "imageUrl": null
+  },
+  "24": {
+    "stimulus": "In a 1998 study by Smith et al., the researchers used microhistological fecal analysis to determine the ratio of three plant subtypes (graminoids, forbs, and browse) within the diets of North American ungulates. The researchers did not perform this analysis on all such ungulates, ______ they focused exclusively on pronghorns and wild horses in New Mexico.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "regardless;",
+      "B": "in other words;",
+      "C": "for instance;",
+      "D": "however;"
+    },
+    "imageUrl": null
+  },
+  "25": {
+    "stimulus": "Though its onboard laboratory allowed it to analyze rock samples on-site, the 2011 Mars Curiosity rover was unable to preserve samples for future analysis. ______ when creating the 2020 Mars Perseverance rover, robotics technologist Yumi Iwashita and other members of NASA’s Jet Propulsion Laboratory sought to implement a mechanism that could do exactly that.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Specifically,",
+      "B": "Earlier,",
+      "C": "Hence,",
+      "D": "Similarly,"
+    },
+    "imageUrl": null
+  },
+  "26": {
+    "stimulus": "As Iestyn Barr and his team of researchers discovered when establishing the glacial timeline of Antarctica, the Transantarctic Mountains—a 3,500-km mountain range spanning the continent—are home to glaciers of at least 60 million years in age. ______ the researchers concluded, Antarctica had glaciers long before the formation of its continent-wide ice sheet 34 million years ago.",
+    "text": "Which choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Thus,",
+      "B": "By contrast,",
+      "C": "Even so,",
+      "D": "Nevertheless,"
+    },
+    "imageUrl": null
+  },
+  "27": {
+    "stimulus": "• Thomas Edison is regarded as one of the most important inventors in US history.\n• Having received little formal schooling, Edison relied on specialist employees at his various laboratories and offices to complete the technical work for many of his inventions.\n• William Joseph Hammer was a laboratory assistant who worked at the Menlo Park laboratory.\n• He is best known for curating the most comprehensive collection of historic light bulbs anywhere in the world.\n• William Symes Andrews was an electrical engineer who worked at the Edison Electric Light Company.\n• He is best known for establishing more than thirty power plants across New York and Pennsylvania.",
+    "text": "Which choice most effectively uses information from the given sentences to emphasize Edison’s reliance on Hammer?",
+    "choices": {
+      "A": "William Joseph Hammer, a laboratory assistant, worked at the Menlo Park laboratory.",
+      "B": "William Joseph Hammer, a laboratory assistant, was known for his valuable contribution to the field of technology.",
+      "C": "Most of Thomas Edison’s employees had successful careers independent of working for him; for example, William Joseph Hammer, who worked at the Menlo Park laboratory, was an accomplished laboratory assistant.",
+      "D": "Having received little formal education, Thomas Edison depended on specialized employees, including laboratory assistant William Joseph Hammer, for many of his inventions."
+    },
+    "imageUrl": null
+  }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="546" height="124" viewBox="0 0 546 124">
+<rect width="100%" height="100%" fill="#fff"/>
+<rect x="8" y="8" width="150" height="36" fill="#f3f4f6" stroke="#111"/>
+<text x="83.0" y="31" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700"></text>
+<rect x="158" y="8" width="200" height="36" fill="#f3f4f6" stroke="#111"/>
+<text x="258.0" y="31" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700">Area (square inches)</text>
+<rect x="358" y="8" width="180" height="36" fill="#f3f4f6" stroke="#111"/>
+<text x="448.0" y="31" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700">Perimeter (inches)</text>
+<rect x="8" y="44" width="150" height="36" fill="#fff" stroke="#111"/>
+<text x="83.0" y="67" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15">Rectangle A</text>
+<rect x="158" y="44" width="200" height="36" fill="#fff" stroke="#111"/>
+<text x="258.0" y="67" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15">630</text>
+<rect x="358" y="44" width="180" height="36" fill="#fff" stroke="#111"/>
+<text x="448.0" y="67" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15">210</text>
+<rect x="8" y="80" width="150" height="36" fill="#fff" stroke="#111"/>
+<text x="83.0" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15">Rectangle B</text>
+<rect x="158" y="80" width="200" height="36" fill="#fff" stroke="#111"/>
+<text x="258.0" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15">2,520</text>
+<rect x="358" y="80" width="180" height="36" fill="#fff" stroke="#111"/>
+<text x="448.0" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic">n</text>
+</svg>

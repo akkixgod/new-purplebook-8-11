@@ -1,0 +1,229 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "Zuri has a goal to run at least 16 miles per week while training for a race. This week, she has run 4 miles. If x represents the additional number of miles Zuri needs to run this week to meet her goal, which inequality represents this situation?",
+    "choices": {
+      "A": "4 − x ≤ 16",
+      "B": "4 + x ≤ 16",
+      "C": "4 − x ≥ 16",
+      "D": "4 + x ≥ 16"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "In the figure shown, line k intersects lines r and s. If w = 147, which additional piece of information is sufficient to prove that lines r and s are parallel?",
+    "choices": {
+      "A": "x = 33",
+      "B": "y = 147",
+      "C": "w + y = 180",
+      "D": "y + z = 180"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math2-q02-parallel-lines.svg"
+  },
+  "3": {
+    "stimulus": null,
+    "text": "At a fundraiser, a family pays a fixed entrance fee. They then purchase food tickets, which each have the same cost. The table shows the relationship between the number of food tickets, x, that are purchased and the total amount paid y, in dollars, for both the entrance fee and the food tickets. Which equation represents the relationship between x and y?",
+    "choices": {
+      "A": "y = (3/2)x + 29",
+      "B": "y = (3/2)x − 56",
+      "C": "y = (2/3)x + 112/3",
+      "D": "y = (2/3)x + 58/3"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math2-q03-food-tickets.svg"
+  },
+  "4": {
+    "stimulus": "A group of 10 gardeners recorded data on the germination rates of their tomato crop for one growing season. The scatterplot shows the relationship between the number of tomato seeds planted, x, and the number of tomato seeds that germinated, y, for each of the gardeners. A line of best fit is also shown.",
+    "text": "Which of the following is the best interpretation of the slope of the line of best fit in this context?",
+    "choices": {
+      "A": "The number of tomato seeds planted is predicted to increase by 60 seeds every 100 days.",
+      "B": "The number of tomato seeds planted is predicted to increase by 300 seeds every 100 days.",
+      "C": "The number of tomato seeds that germinate is predicted to increase by 60 seeds for every additional 100 tomato seeds that are planted.",
+      "D": "The number of tomato seeds that germinate is predicted to increase by 300 seeds for every additional 100 tomato seeds that are planted."
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math2-q04-germination-scatter.svg"
+  },
+  "5": {
+    "stimulus": null,
+    "text": "The graph of 2x + y = 11 in the xy-plane is a line. What is the slope of the line?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "6": {
+    "stimulus": null,
+    "text": "f(x) = 2x + 3\ng(x) = 7x − 2\nh(x) = 5x + 6\n\nThe functions f, g, and h are defined as shown. If f(x) · g(x) − h(x) = ax² + bx + c, where a, b, and c are constants, what is the value of b?",
+    "choices": {
+      "A": "−5",
+      "B": "12",
+      "C": "20",
+      "D": "22"
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = (x + 11)/5, and f(a) = −18, where a is a constant. What is the value of a?",
+    "choices": {
+      "A": "−101",
+      "B": "−79",
+      "C": "−79/5",
+      "D": "−7/5"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": "The table shows values of x and their corresponding values of y for three points on line j in the xy-plane.",
+    "text": "Line k also lies in the xy-plane and is defined by the equation y = 4x. At what point (x, y) do lines j and k intersect?",
+    "choices": {
+      "A": "(5, 20)",
+      "B": "(5, −44)",
+      "C": "(6, 24)",
+      "D": "(6, 26)"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math2-q08-line-table.svg"
+  },
+  "9": {
+    "stimulus": null,
+    "text": "h(t) = −16t² + b\n\nThe function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 19.36 feet above the ground when it is dropped at t = 0. How many seconds after being dropped does the function estimate the object will hit the ground?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "|4x − 3| = −9\n\nHow many solutions does the given equation have?",
+    "choices": {
+      "A": "Zero",
+      "B": "One",
+      "C": "Two",
+      "D": "Infinitely many"
+    },
+    "imageUrl": null
+  },
+  "11": {
+    "stimulus": null,
+    "text": "The function h is defined by h(x) = a^x + b, where a and b are positive constants. The graph of y = h(x) in the xy-plane passes through the points (0, 10) and (2, 13). What is the value of ab?",
+    "choices": {
+      "A": "13",
+      "B": "18",
+      "C": "20",
+      "D": "26"
+    },
+    "imageUrl": null
+  },
+  "12": {
+    "stimulus": null,
+    "text": "A circle has center P, and points A and B lie on the circle. The measure of arc AB is 45° and the length of arc AB is 4π units. What is the length, in units, of the radius of the circle?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "The function f is defined by f(x) = 56(0.19)^x. For any positive integer n, the value of f(n) is p% less than the value of f(n − 1). What is the value of p?",
+    "choices": {
+      "A": "19",
+      "B": "44",
+      "C": "56",
+      "D": "81"
+    },
+    "imageUrl": null
+  },
+  "14": {
+    "stimulus": null,
+    "text": "x² + (√(k − 3))x + 42 = 0\n\nIn the given equation, k is a constant. The equation has exactly one real solution. What is the value of k?",
+    "choices": {
+      "A": "171",
+      "B": "168",
+      "C": "165",
+      "D": "45"
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "x² + y² = 36\ny = mx + b/4\n\nIn the given system of equations, m and b are negative constants. In the xy-plane, the graphs of the equations in the given system intersect at the point (−5, y), where y < 0. Which expression represents the value of b?",
+    "choices": {
+      "A": "−(5m)/4 + (√11)/4",
+      "B": "(5m)/4 − (√11)/4",
+      "C": "−20m + 4√11",
+      "D": "20m − 4√11"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "A biologist mixed a solution that is 0.3% sodium chloride by mass with a solution that is 0.15% sodium chloride by mass to obtain a new solution, which has a mass of 80 grams and contains 0.21 grams of sodium chloride. How many grams of 0.3% sodium chloride solution did the biologist use?",
+    "choices": {
+      "A": "0.14",
+      "B": "20",
+      "C": "60",
+      "D": "79.86"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": "For data set A, the table summarizes the distribution of the number of pieces of mail received by a business each day during a period of 11 days.",
+    "text": "The data value 13 is removed from data set A to create data set B, which consists of the remaining 10 data values. Which statement best compares the median of data set A and the median of data set B?",
+    "choices": {
+      "A": "The median of data set B is less than the median of data set A.",
+      "B": "The median of data set B is greater than the median of data set A.",
+      "C": "The median of data set B is equal to the median of data set A.",
+      "D": "There is not enough information to compare the medians of the two data sets."
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math2-q17-mail-table.svg"
+  },
+  "18": {
+    "stimulus": null,
+    "text": "x/5 + y/9 = 47/45\n\nAn engineer connects resistors in series, where the resistors in the series have a total resistance of 47/45 ohms. In this series, there are x resistors of type A, which each have a resistance of a ohms, and y resistors of type B, which each have a resistance of b ohms. The given equation represents this situation. According to this equation, what is the positive difference between the value of a and the value of b?",
+    "choices": {
+      "A": "47",
+      "B": "4",
+      "C": "47/45",
+      "D": "4/45"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "9x² + 8 = nx\n\nIn the given equation, n is a constant. The equation has exactly one solution. What is the value of n²/8?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": "The table gives the areas and perimeters of two similar rectangles, where n is a constant.",
+    "text": "What is the value of n?",
+    "choices": {
+      "A": "2,100",
+      "B": "1,680",
+      "C": "840",
+      "D": "420"
+    },
+    "imageUrl": "/mocks/2025-nov-int-a/figures/math2-q20-similar-rectangles.svg"
+  },
+  "21": {
+    "stimulus": null,
+    "text": "The mass of object A is 444% of the mass of object B, and the mass of object A is 0.740% of the mass of object C. If the mass of object C is p% of the mass of object B, what is the value of p?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "Which expression is a factor of y²(x − 3) − 25(x − 3)³?",
+    "choices": {
+      "A": "y(x − 3)",
+      "B": "(x − 5)(x − 3)",
+      "C": "y + x − 3",
+      "D": "y + 5x − 15"
+    },
+    "imageUrl": null
+  }
+}

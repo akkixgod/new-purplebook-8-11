@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="124" viewBox="0 0 520 124">
+<rect width="100%" height="100%" fill="#fff"/>
+<rect x="8" y="8" width="150" height="36" fill="#f3f4f6" stroke="#111"/>
+<text x="83" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700">X</text>
+<rect x="158" y="8" width="170" height="36" fill="#f3f4f6" stroke="#111"/>
+<text x="243" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700">Area</text>
+<rect x="328" y="8" width="180" height="36" fill="#f3f4f6" stroke="#111"/>
+<text x="418" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700">Perimeter</text>
+<rect x="8" y="44" width="150" height="36" fill="#fff" stroke="#111"/>
+<text x="83" y="68" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16">Rectangle A</text>
+<rect x="158" y="44" width="170" height="36" fill="#fff" stroke="#111"/>
+<text x="243" y="68" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16">540</text>
+<rect x="328" y="44" width="180" height="36" fill="#fff" stroke="#111"/>
+<text x="418" y="68" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16">180</text>
+<rect x="8" y="80" width="150" height="36" fill="#fff" stroke="#111"/>
+<text x="83" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16">Rectangle B</text>
+<rect x="158" y="80" width="170" height="36" fill="#fff" stroke="#111"/>
+<text x="243" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16">2160</text>
+<rect x="328" y="80" width="180" height="36" fill="#fff" stroke="#111"/>
+<text x="418" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic">n</text>
+</svg>

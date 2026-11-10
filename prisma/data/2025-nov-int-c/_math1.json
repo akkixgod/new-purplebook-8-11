@@ -1,0 +1,226 @@
+{
+  "1": {
+    "stimulus": null,
+    "text": "The function g is defined by g(x) = 4x + 2. What is the value of g(x) when x = 2?",
+    "choices": {
+      "A": "0",
+      "B": "2",
+      "C": "4",
+      "D": "10"
+    },
+    "imageUrl": null
+  },
+  "2": {
+    "stimulus": null,
+    "text": "An event planner is planning an ice-skating event. It costs the event planner a onetime fee of $35 to rent the skating rink and $15.25 per attendee. The event planner has a budget of $225. What is the greatest number of attendees possible without exceeding the budget?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "3": {
+    "stimulus": null,
+    "text": "Which expression is equivalent to 42x³ + 7x?",
+    "choices": {
+      "A": "7x(6 + 7x)",
+      "B": "7x(6x² + 1)",
+      "C": "7x²(6 + 7x)",
+      "D": "7x²(6x + 1)"
+    },
+    "imageUrl": null
+  },
+  "4": {
+    "stimulus": null,
+    "text": "For a certain rectangle, the ratio of the width to the length is 1 to 2. If the width of the rectangle is 67 centimeters, what is the length, in centimeters, of the rectangle?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "5": {
+    "stimulus": null,
+    "text": "The scatterplot shows the relationship between the square footage of 12 clothing stores and their annual sales, in millions of dollars. According to the trend shown by the data, which of the following is the best prediction for the annual sales, in millions of dollars, of a clothing store that is 4 thousand square feet?",
+    "choices": {
+      "A": "4.1",
+      "B": "5.4",
+      "C": "7.5",
+      "D": "10.2"
+    },
+    "imageUrl": "/mocks/2025-nov-int-c/figures/math1-q05-scatterplot.svg"
+  },
+  "6": {
+    "stimulus": null,
+    "text": "y = 2,600(a)^x\n\nThe given equation, where a is a positive constant, gives the predicted number of bacteria, y, in a growth medium x hours after the number of bacteria was initially measured. According to the equation, what was the predicted number of bacteria initially measured in the growth medium?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "7": {
+    "stimulus": null,
+    "text": "If 6x − 8 = 4, what is the value of 6x + 8?",
+    "choices": {
+      "A": "−4",
+      "B": "2",
+      "C": "10",
+      "D": "20"
+    },
+    "imageUrl": null
+  },
+  "8": {
+    "stimulus": null,
+    "text": "A number f is 120% greater than a positive number g. A number h is 90% less than the number f. The number h is how many times the number g?",
+    "choices": {
+      "A": "0.12",
+      "B": "0.22",
+      "C": "1.08",
+      "D": "1.98"
+    },
+    "imageUrl": null
+  },
+  "9": {
+    "stimulus": null,
+    "text": "A certain university's research farm is 1,000 acres, of which 71 acres contain rice. What percentage of the acres of this research farm contain rice?",
+    "choices": {
+      "A": "0.71%",
+      "B": "7.1%",
+      "C": "71%",
+      "D": "710%"
+    },
+    "imageUrl": null
+  },
+  "10": {
+    "stimulus": null,
+    "text": "In the right triangle shown, a, b, and c are positive constants. For an acute angle D, sin D = b/c. What is the measure of angle D, in degrees?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": "/mocks/2025-nov-int-c/figures/math1-q10-triangle.svg"
+  },
+  "11": {
+    "stimulus": null,
+    "text": "In the figure shown, lines ℓ and k are parallel and line t intersects both lines. If x > 134, which of the following must be true?",
+    "choices": {
+      "A": "y < 46",
+      "B": "y > 46",
+      "C": "x + y < 180",
+      "D": "x + y > 180"
+    },
+    "imageUrl": "/mocks/2025-nov-int-c/figures/math1-q11-parallel-lines.svg"
+  },
+  "12": {
+    "stimulus": null,
+    "text": "Line t in the xy-plane has a slope of 1/8 and passes through the point (32, −7). Which equation defines line t?",
+    "choices": {
+      "A": "y = −11x + 1/8",
+      "B": "y = x/8 − 11",
+      "C": "y = x/8 − 7",
+      "D": "y = 32x − 7"
+    },
+    "imageUrl": null
+  },
+  "13": {
+    "stimulus": null,
+    "text": "The graph of the function f, where y = f(x), gives the total cost y, in dollars, for a certain video game system and x games. What is the best interpretation of the slope of the graph in this context?",
+    "choices": {
+      "A": "Each game costs $16.",
+      "B": "The video game system costs $16.",
+      "C": "Each game costs $50.",
+      "D": "The video game system costs $50."
+    },
+    "imageUrl": "/mocks/2025-nov-int-c/figures/math1-q13-cost-graph.svg"
+  },
+  "14": {
+    "stimulus": null,
+    "text": "What is the radius of the circle in the xy-plane defined by (x + 2)² + (y + 6)² = 361?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  },
+  "15": {
+    "stimulus": null,
+    "text": "x² + y² = 1,088\ny − 4x = 0\n\nA solution to the given system of equations is (x, y), where x < 0. What is the value of y?",
+    "choices": {
+      "A": "−256",
+      "B": "−32",
+      "C": "−8",
+      "D": "−4"
+    },
+    "imageUrl": null
+  },
+  "16": {
+    "stimulus": null,
+    "text": "f(x) = 10(x² + 47)\n\nWhat is the minimum value of the given function?",
+    "choices": {
+      "A": "0.1",
+      "B": "4.7",
+      "C": "10",
+      "D": "470"
+    },
+    "imageUrl": null
+  },
+  "17": {
+    "stimulus": null,
+    "text": "The function j is defined by j(x) = (10x + 5)/(3p), and the function k is defined by k(x) = j(x)·p/(x + 1), where p is a positive constant. What is the value of k(9)?",
+    "choices": {
+      "A": "19/6",
+      "B": "10/3",
+      "C": "95/13",
+      "D": "85/3"
+    },
+    "imageUrl": null
+  },
+  "18": {
+    "stimulus": null,
+    "text": "In the xy-plane, which of the following does NOT contain any points that are part of the solution set to 7x − 6y > 42?",
+    "choices": {
+      "A": "The x-axis",
+      "B": "The region where x > 0 and y > 0",
+      "C": "The region where x < 0 and y < 0",
+      "D": "The region where x < 0 and y > 0"
+    },
+    "imageUrl": null
+  },
+  "19": {
+    "stimulus": null,
+    "text": "3x + 2y = 10\n18x + 12y = 60\n\nHow many solutions does the given system of equations have?",
+    "choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "imageUrl": null
+  },
+  "20": {
+    "stimulus": null,
+    "text": "(|4x − 48| + 4)/8 = 6\n\nWhat is the sum of the solutions to the given equation?",
+    "choices": {
+      "A": "1",
+      "B": "23",
+      "C": "24",
+      "D": "48"
+    },
+    "imageUrl": null
+  },
+  "21": {
+    "stimulus": null,
+    "text": "A beekeeper's initial observation of the population of a certain bee colony was 1,600 bees. The beekeeper set a goal to increase the population to 2,975 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,600 and increases by 110 bees per week in the first two weeks after the initial observation, and then increases by 165 bees per week until the beekeeper's goal is reached. According to this model, at the end of week w after the initial observation, where w > 2, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+    "choices": {
+      "A": "p(w) = −110 + 165w",
+      "B": "p(w) = 1,485 − 165w",
+      "C": "p(w) = 2,865 + 165w",
+      "D": "p(w) = 2,975 − 165w"
+    },
+    "imageUrl": null
+  },
+  "22": {
+    "stimulus": null,
+    "text": "The quadratic equation (2x − 64)² = a, where a is a constant, has exactly one real solution. What is the value of a?",
+    "choices": {
+      "gridIn": true
+    },
+    "imageUrl": null
+  }
+}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="318" viewBox="0 0 720 318">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="360" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Effect of Various Soil Treatments on Mean Pineapple Fruit Weight and Size</text>
+  <rect x="20" y="46" width="250" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="145" y="77" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Soil treatment</text>
+  <rect x="270" y="46" width="140" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="340" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Weight</text>
+  <text x="340" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">(grams)</text>
+  <rect x="410" y="46" width="150" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="485" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Length</text>
+  <text x="485" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">(centimeters)</text>
+  <rect x="560" y="46" width="140" height="52" fill="#f3f4f6" stroke="#111" stroke-width="1"/>
+  <text x="630" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Diameter</text>
+  <text x="630" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700">(centimeters)</text>
+  <rect x="20" y="98" width="250" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="145" y="123" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Control</text>
+  <rect x="270" y="98" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="340" y="123" text-anchor="middle" font-family="Georgia, serif" font-size="14">825.9</text>
+  <rect x="410" y="98" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="123" text-anchor="middle" font-family="Georgia, serif" font-size="14">6.14</text>
+  <rect x="560" y="98" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="630" y="123" text-anchor="middle" font-family="Georgia, serif" font-size="14">13.63</text>
+  <rect x="20" y="138" width="250" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="145" y="163" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Biochar</text>
+  <rect x="270" y="138" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="340" y="163" text-anchor="middle" font-family="Georgia, serif" font-size="14">915.7</text>
+  <rect x="410" y="138" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="163" text-anchor="middle" font-family="Georgia, serif" font-size="14">6.56</text>
+  <rect x="560" y="138" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="630" y="163" text-anchor="middle" font-family="Georgia, serif" font-size="14">13.63</text>
+  <rect x="20" y="178" width="250" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="145" y="203" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Compost</text>
+  <rect x="270" y="178" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="340" y="203" text-anchor="middle" font-family="Georgia, serif" font-size="14">864.8</text>
+  <rect x="410" y="178" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="203" text-anchor="middle" font-family="Georgia, serif" font-size="14">6.15</text>
+  <rect x="560" y="178" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="630" y="203" text-anchor="middle" font-family="Georgia, serif" font-size="14">13.22</text>
+  <rect x="20" y="218" width="250" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="145" y="243" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Biochar and compost</text>
+  <rect x="270" y="218" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="340" y="243" text-anchor="middle" font-family="Georgia, serif" font-size="14">979.3</text>
+  <rect x="410" y="218" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="243" text-anchor="middle" font-family="Georgia, serif" font-size="14">6.76</text>
+  <rect x="560" y="218" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="630" y="243" text-anchor="middle" font-family="Georgia, serif" font-size="14">13.68</text>
+  <rect x="20" y="258" width="250" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="145" y="283" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700">Biochar and NPK fertilizer</text>
+  <rect x="270" y="258" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="340" y="283" text-anchor="middle" font-family="Georgia, serif" font-size="14">1032.1</text>
+  <rect x="410" y="258" width="150" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="485" y="283" text-anchor="middle" font-family="Georgia, serif" font-size="14">6.78</text>
+  <rect x="560" y="258" width="140" height="40" fill="#fff" stroke="#111" stroke-width="1"/>
+  <text x="630" y="283" text-anchor="middle" font-family="Georgia, serif" font-size="14">13.96</text>
+</svg>

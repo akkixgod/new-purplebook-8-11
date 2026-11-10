@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="470" viewBox="0 0 480 470">
+<rect width="100%" height="100%" fill="#fff"/>
+<defs>
+<marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+<path d="M0,0 L7,3 L0,6 Z" fill="#111"/>
+</marker>
+</defs>
+<line x1="100.0" y1="36" x2="100.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="360.0" x2="424" y2="360.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="136.0" y1="36" x2="136.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="324.0" x2="424" y2="324.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="172.0" y1="36" x2="172.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="288.0" x2="424" y2="288.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="208.0" y1="36" x2="208.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="252.0" x2="424" y2="252.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="244.0" y1="36" x2="244.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="216.0" x2="424" y2="216.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="280.0" y1="36" x2="280.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="180.0" x2="424" y2="180.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="316.0" y1="36" x2="316.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="144.0" x2="424" y2="144.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="352.0" y1="36" x2="352.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="108.0" x2="424" y2="108.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="388.0" y1="36" x2="388.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="72.0" x2="424" y2="72.0" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="424.0" y1="36" x2="424.0" y2="396" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="64" y1="36.0" x2="424" y2="36.0" stroke="#d0d0d0" stroke-width="1"/>
+<text x="136.0" y="414" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13">100</text>
+<text x="54" y="328.0" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="13">100</text>
+<text x="208.0" y="414" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13">200</text>
+<text x="54" y="256.0" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="13">200</text>
+<text x="280.0" y="414" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13">300</text>
+<text x="54" y="184.0" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="13">300</text>
+<text x="352.0" y="414" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13">400</text>
+<text x="54" y="112.0" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="13">400</text>
+<text x="424.0" y="414" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13">500</text>
+<text x="54" y="40.0" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="13">500</text>
+<line x1="64" y1="396" x2="446" y2="396" stroke="#111" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="64" y1="396" x2="64" y2="20" stroke="#111" stroke-width="1.6" marker-end="url(#arrow)"/>
+<text x="52" y="412" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="14">O</text>
+<text x="452" y="401" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic">x</text>
+<text x="48" y="18" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic">y</text>
+<line x1="64.0" y1="396.0" x2="424.0" y2="180.0" stroke="#111" stroke-width="2"/>
+<circle cx="100.0" cy="374.4" r="4.5" fill="#111"/>
+<circle cx="139.6" cy="331.2" r="4.5" fill="#111"/>
+<circle cx="175.6" cy="339.8" r="4.5" fill="#111"/>
+<circle cx="208.0" cy="309.6" r="4.5" fill="#111"/>
+<circle cx="244.0" cy="266.4" r="4.5" fill="#111"/>
+<circle cx="283.6" cy="291.6" r="4.5" fill="#111"/>
+<circle cx="323.2" cy="240.5" r="4.5" fill="#111"/>
+<circle cx="352.0" cy="253.4" r="4.5" fill="#111"/>
+<circle cx="391.6" cy="167.0" r="4.5" fill="#111"/>
+<circle cx="416.8" cy="184.3" r="4.5" fill="#111"/>
+</svg>

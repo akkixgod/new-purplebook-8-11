@@ -1,0 +1,132 @@
+{
+  "slug": "2025-nov-int-b",
+  "title": "2025 November Digital",
+  "year": 2025,
+  "month": 11,
+  "version": "International Form B",
+  "modules": {
+    "ENGLISH": {
+      "1": {
+        "timeLimit": 1920,
+        "answers": [
+          "C",
+          "A",
+          "C",
+          "B",
+          "B",
+          "C",
+          "C",
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "B",
+          "B",
+          "C",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "B",
+          "B",
+          "A",
+          "C",
+          "C"
+        ]
+      },
+      "2": {
+        "timeLimit": 1920,
+        "answers": [
+          "C",
+          "C",
+          "A",
+          "A",
+          "C",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "B",
+          "C",
+          "A",
+          "A",
+          "B",
+          "A",
+          "A",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "D",
+          "B",
+          "B"
+        ]
+      }
+    },
+    "MATH": {
+      "1": {
+        "timeLimit": 2100,
+        "answers": [
+          "19",
+          "D",
+          "D",
+          "A",
+          "A",
+          "C",
+          "20",
+          "A",
+          "9/50",
+          "A",
+          "C",
+          "13/4",
+          "B",
+          "C",
+          "B",
+          "100",
+          "D",
+          "C",
+          "D",
+          "B",
+          "D",
+          "D"
+        ]
+      },
+      "2": {
+        "timeLimit": 2100,
+        "answers": [
+          "B",
+          "3/2",
+          "C",
+          "B",
+          "-9",
+          "B",
+          "A",
+          "B",
+          "C",
+          "312",
+          "D",
+          "A",
+          "C",
+          "D",
+          "2",
+          "C",
+          "198.9",
+          "72/7",
+          "D",
+          "D",
+          "C",
+          "D"
+        ]
+      }
+    }
+  },
+  "notes": "EliteXSAT PDF includes partial easy Module 2 routes; this seed uses Module 1 + hard Module 2 only. Source PDF has no answer-key pages — keys solved from items."
+}

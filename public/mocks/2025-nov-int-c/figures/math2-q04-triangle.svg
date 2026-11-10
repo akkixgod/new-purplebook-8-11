@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <polygon points="48,198 432,198 214,78" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="214" y1="78" x2="214" y2="198" stroke="#111" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <path d="M214 182 H198 V198" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="32" y="218" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">A</text>
+  <text x="214" y="66" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">B</text>
+  <text x="440" y="218" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">C</text>
+  <text x="196" y="142" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">h</text>
+  <text x="240" y="222" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16">10 cm</text>
+  <text x="240" y="258" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic">Note: Figure not drawn to scale.</text>
+</svg>

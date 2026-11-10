@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700" fill="#111">Highest Major Summits in India</text>
+  <rect x="24" y="52" width="230" height="58" fill="#f3f4f6" stroke="#111"/>
+  <text x="139" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" fill="#111">Summit</text>
+  <rect x="254" y="52" width="170" height="58" fill="#f3f4f6" stroke="#111"/>
+  <text x="339" y="74" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" fill="#111">Elevation</text>
+  <text x="339" y="94" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#111">(meters)</text>
+  <rect x="424" y="52" width="250" height="58" fill="#f3f4f6" stroke="#111"/>
+  <text x="549" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" fill="#111">Mountain range</text>
+  <rect x="674" y="52" width="202" height="58" fill="#f3f4f6" stroke="#111"/>
+  <text x="775" y="74" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" fill="#111">Prominence</text>
+  <text x="775" y="94" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#111">(meters)</text>
+  <rect x="24" y="110" width="230" height="44" fill="#fff" stroke="#111"/>
+  <text x="40" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Kangto</text>
+  <rect x="254" y="110" width="170" height="44" fill="#fff" stroke="#111"/>
+  <text x="339" y="138" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">7,060</text>
+  <rect x="424" y="110" width="250" height="44" fill="#fff" stroke="#111"/>
+  <text x="440" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Assam Himalaya</text>
+  <rect x="674" y="110" width="202" height="44" fill="#fff" stroke="#111"/>
+  <text x="775" y="138" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">2,195</text>
+  <rect x="24" y="154" width="230" height="44" fill="#fff" stroke="#111"/>
+  <text x="40" y="182" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Saser Kangri III</text>
+  <rect x="254" y="154" width="170" height="44" fill="#fff" stroke="#111"/>
+  <text x="339" y="182" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">7,495</text>
+  <rect x="424" y="154" width="250" height="44" fill="#fff" stroke="#111"/>
+  <text x="440" y="182" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Saser Karakoram</text>
+  <rect x="674" y="154" width="202" height="44" fill="#fff" stroke="#111"/>
+  <text x="775" y="182" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">850</text>
+  <rect x="24" y="198" width="230" height="44" fill="#fff" stroke="#111"/>
+  <text x="40" y="226" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Langpo</text>
+  <rect x="254" y="198" width="170" height="44" fill="#fff" stroke="#111"/>
+  <text x="339" y="226" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">6,965</text>
+  <rect x="424" y="198" width="250" height="44" fill="#fff" stroke="#111"/>
+  <text x="440" y="226" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Sikkim Himalaya</text>
+  <rect x="674" y="198" width="202" height="44" fill="#fff" stroke="#111"/>
+  <text x="775" y="226" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">560</text>
+  <rect x="24" y="242" width="230" height="44" fill="#fff" stroke="#111"/>
+  <text x="40" y="270" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Sri Kailash</text>
+  <rect x="254" y="242" width="170" height="44" fill="#fff" stroke="#111"/>
+  <text x="339" y="270" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">6,932</text>
+  <rect x="424" y="242" width="250" height="44" fill="#fff" stroke="#111"/>
+  <text x="440" y="270" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Garhwal Himalaya</text>
+  <rect x="674" y="242" width="202" height="44" fill="#fff" stroke="#111"/>
+  <text x="775" y="270" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">1,092</text>
+  <rect x="24" y="286" width="230" height="44" fill="#fff" stroke="#111"/>
+  <text x="40" y="314" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Mount Lakshmi</text>
+  <rect x="254" y="286" width="170" height="44" fill="#fff" stroke="#111"/>
+  <text x="339" y="314" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">6,983</text>
+  <rect x="424" y="286" width="250" height="44" fill="#fff" stroke="#111"/>
+  <text x="440" y="314" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">Rimo Karakoram</text>
+  <rect x="674" y="286" width="202" height="44" fill="#fff" stroke="#111"/>
+  <text x="775" y="314" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#111">800</text>
+</svg>
